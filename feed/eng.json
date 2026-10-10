@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-10T19:07:59+00:00",
+"updated": "2026-10-10T22:49:34+00:00",
 "jobs": [
 {
 "title": "Software engineer",
@@ -47,6 +47,14 @@
 "location": "Mississauga, ON, CA",
 "posted": "2026-10-10",
 "link": "https://ca.indeed.com/viewjob?jk=281987f502b4cb6d",
+"source": "Indeed"
+},
+{
+"title": "Data Engineer",
+"company": "",
+"location": "Oakville, ON, CA (remote)",
+"posted": "2026-10-10",
+"link": "https://ca.indeed.com/viewjob?jk=df845e5d121387f3",
 "source": "Indeed"
 },
 {
