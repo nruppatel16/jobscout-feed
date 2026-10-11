@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-11T08:20:05+00:00",
+"updated": "2026-10-11T15:00:34+00:00",
 "jobs": [
 {
 "title": "Senior Category Manager",
@@ -464,6 +464,22 @@
 "posted": "2026-10-10",
 "link": "https://ca.indeed.com/viewjob?jk=7a7c618650dbe644",
 "source": "Indeed"
+},
+{
+"title": "Hardware engineer",
+"company": "Great Lakes Group",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-10-10",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50471904",
+"source": "Job Bank"
+},
+{
+"title": "Cost engineer",
+"company": "PCL Construction",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-10-10",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50473741",
+"source": "Job Bank"
 },
 {
 "title": "Spécialiste des ventes sur le terrain",
@@ -1618,6 +1634,14 @@
 "source": "Bombardier careers"
 },
 {
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Ganges, BC, CA",
+"posted": "2026-10-10T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ganges-Post-Office-Assistant-Term-BC/604357617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "PROJECT MANAGER ECS",
 "company": "City of Toronto",
 "location": "Toronto, ON, CA",
@@ -2488,6 +2512,14 @@
 "posted": "2026-10-09",
 "link": "https://ca.indeed.com/viewjob?jk=6515d6e497093425",
 "source": "Indeed"
+},
+{
+"title": "Metrology technician",
+"company": "DBG Canada",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-09",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50473843",
+"source": "Job Bank"
 }
 ]
 }

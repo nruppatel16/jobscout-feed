@@ -1,20 +1,68 @@
 {
-"updated": "2026-10-11T08:20:05+00:00",
+"updated": "2026-10-11T15:00:34+00:00",
 "jobs": [
 {
-"title": "Practice administrator",
-"company": "",
-"location": "Niagara Falls, ON, CA",
+"title": "Dental Receptionist",
+"company": "Preston dental office",
+"location": "Cambridge, ON, CA",
 "posted": "2026-10-11",
-"link": "https://ca.indeed.com/viewjob?jk=d4cbb3e17fe20516",
+"link": "https://ca.indeed.com/viewjob?jk=73b44a5803bbaaeb",
 "source": "Indeed"
 },
 {
-"title": "Receptionist/Administrator",
-"company": "",
-"location": "Oakville, ON, CA",
+"title": "Receptionist",
+"company": "Revita Therapy",
+"location": "Etobicoke, ON, CA",
 "posted": "2026-10-11",
-"link": "https://ca.indeed.com/viewjob?jk=2fc4fb52715f193a",
+"link": "https://ca.indeed.com/viewjob?jk=14fe986a2cf82117",
+"source": "Indeed"
+},
+{
+"title": "Optometric Assistant/Receptionist",
+"company": "Optometry Practice",
+"location": "Stoney Creek, ON, CA",
+"posted": "2026-10-11",
+"link": "https://ca.indeed.com/viewjob?jk=0d7c1cc0d72bbfbb",
+"source": "Indeed"
+},
+{
+"title": "RN (registered nurse)",
+"company": "Elmvale Medical Centre",
+"location": "Nepean, Ontario, Canada",
+"posted": "2026-10-11",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50472975",
+"source": "Job Bank"
+},
+{
+"title": "Visiting nurse",
+"company": "VON Canada",
+"location": "Chatham-Kent, Ontario, Canada",
+"posted": "2026-10-11",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50473236",
+"source": "Job Bank"
+},
+{
+"title": "Palliative care nurse",
+"company": "VON Canada",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-11",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50473233",
+"source": "Job Bank"
+},
+{
+"title": "Visiting nurse",
+"company": "VON Canada",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-10-11",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50473281",
+"source": "Job Bank"
+},
+{
+"title": "Personal Support Worker (PSW) – Home Care",
+"company": "Senior Circle Support",
+"location": "Oshawa, ON, CA",
+"posted": "2026-10-11",
+"link": "https://ca.indeed.com/viewjob?jk=e32879b0247bb03d",
 "source": "Indeed"
 },
 {
@@ -26,11 +74,19 @@
 "source": "Indeed"
 },
 {
-"title": "Personal Support Worker (PSW) – Home Care",
-"company": "Senior Circle Support",
-"location": "Oshawa, ON, CA",
+"title": "Receptionist/Administrator",
+"company": "",
+"location": "Oakville, ON, CA",
 "posted": "2026-10-11",
-"link": "https://ca.indeed.com/viewjob?jk=e32879b0247bb03d",
+"link": "https://ca.indeed.com/viewjob?jk=2fc4fb52715f193a",
+"source": "Indeed"
+},
+{
+"title": "Practice administrator",
+"company": "",
+"location": "Niagara Falls, ON, CA",
+"posted": "2026-10-11",
+"link": "https://ca.indeed.com/viewjob?jk=d4cbb3e17fe20516",
 "source": "Indeed"
 },
 {
@@ -688,6 +744,14 @@
 "posted": "2026-10-10",
 "link": "https://ca.indeed.com/viewjob?jk=4787e8f0098245c1",
 "source": "Indeed"
+},
+{
+"title": "Registered practical nurse (R.P.N.)",
+"company": "Tartan Medical Centre",
+"location": "Nepean, Ontario, Canada",
+"posted": "2026-10-10",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50472269",
+"source": "Job Bank"
 },
 {
 "title": "Spécialiste des ventes sur le terrain",
@@ -1832,6 +1896,14 @@
 "posted": "2026-10-10T02:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Quality-Assurance-Qu%C3%A9b-H4S-1Y9/1366377833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Saint-Prime, QC, CA",
+"posted": "2026-10-10T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Prime-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/593688217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
 },
 {
 "title": "Physiotherapist Assistant",
