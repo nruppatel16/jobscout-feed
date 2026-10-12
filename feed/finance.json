@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-12T10:17:34+00:00",
+"updated": "2026-10-12T19:56:47+00:00",
 "jobs": [
 {
 "title": "Administrative Assistant",
@@ -31,6 +31,62 @@
 "location": "Burlington, ON, CA",
 "posted": "2026-10-12",
 "link": "https://ca.indeed.com/viewjob?jk=dbb731a5dd402883",
+"source": "Indeed"
+},
+{
+"title": "Accountant",
+"company": "Casa Donato",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-12",
+"link": "https://ca.indeed.com/viewjob?jk=42a2aa12441a4cbe",
+"source": "Indeed"
+},
+{
+"title": "office administrator",
+"company": "",
+"location": "Scarborough, ON, CA",
+"posted": "2026-10-12",
+"link": "https://ca.indeed.com/viewjob?jk=c65d01f598bd812a",
+"source": "Indeed"
+},
+{
+"title": "Office Manager",
+"company": "",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-12",
+"link": "https://ca.indeed.com/viewjob?jk=89cdd79ca339eb06",
+"source": "Indeed"
+},
+{
+"title": "Human Resources Generalist",
+"company": "Fife House Foundation",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-12",
+"link": "https://ca.indeed.com/viewjob?jk=a1490944a626c5e7",
+"source": "Indeed"
+},
+{
+"title": "Part Time front Desk Agent/ Night Audit",
+"company": "",
+"location": "Bradford West Gwillimbury, ON, CA",
+"posted": "2026-10-12",
+"link": "https://ca.indeed.com/viewjob?jk=346b0eebde999bd4",
+"source": "Indeed"
+},
+{
+"title": "Jewelry Store – Operations Manager (Retail Multi-Location)",
+"company": "Haida Sandwich",
+"location": "Scarborough, ON, CA",
+"posted": "2026-10-12",
+"link": "https://ca.indeed.com/viewjob?jk=c1154637f5c0b0ba",
+"source": "Indeed"
+},
+{
+"title": "Strategic Initiatives Coordinator (Innovation)",
+"company": "TOWN OF AJAX",
+"location": "Ajax, ON, CA (remote)",
+"posted": "2026-10-12",
+"link": "https://ca.indeed.com/viewjob?jk=05204e8ff50eff4f",
 "source": "Indeed"
 },
 {
@@ -376,6 +432,118 @@
 "posted": "2026-10-12T02:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/St-Laurent-Professionnel_le-principal_e%2C-Ing%C3%A9nierie-Charg%C3%A9_e-de-projet%2C-Bombardier-Experimental-Qu%C3%A9b-H4R-1K2/1416419333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
+},
+{
+"title": "Adjoint dans un bureau de poste",
+"company": "Canada Post",
+"location": "Rankin Inlet, NU, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Rankin-Inlet-Adjoint-dans-un-bureau-de-poste-NU/602657117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Chertsey, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Chertsey-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/599633017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Saint-Janvier, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Janvier-Post-Office-Assistant-Term-QC/591860217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term 1 1",
+"company": "Canada Post",
+"location": "Sainte-Béatrix, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Sainte-B%C3%A9atrix-Post-Office-Assistant-Term-1-1-QC/595300917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Mont-Tremblant, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Mont-Tremblant-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/590964817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Chisasibi, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Chisasibi-Post-Office-Assistant-Term-QC/596864017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité",
+"company": "Canada Post",
+"location": "Saint-Ambroise, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Ambroise-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-QC/591855617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Saint-Augustin-de-Desmaures, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Augustin-de-Desmaures-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/602650217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Saint-Ambroise, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Ambroise-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/591855517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée - Bellefeuille",
+"company": "Canada Post",
+"location": "Bellefeuille, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Bellefeuille-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-Bellefeuille-QC/597459817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Labelle, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Labelle-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/599635917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Saint-Côme, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-C%C3%B4me-Post-Office-Assistant-Term-QC/594184717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Saint-André-d'Argenteuil, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Andr%C3%A9-d'Argenteuil-Post-Office-Assistant-Term-QC/599328417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term 1",
+"company": "Canada Post",
+"location": "Chertsey, QC, CA",
+"posted": "2026-10-12T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Chertsey-Post-Office-Assistant-Term-1-QC/599633117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
 },
 {
 "title": "Channels Architect",
@@ -768,134 +936,6 @@
 "posted": "2026-10-11T02:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Mississauga-Assistant-Professor-Law-and-SocietySociology-of-Law-ON/605230417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
-},
-{
-"title": "2027 Commercial & Specialized Industries Program - Full-time Analyst (Toronto, ON)",
-"company": "JPMorganChase",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=f3fb09d45b18e8ad",
-"source": "Indeed"
-},
-{
-"title": "Senior Analyst -4",
-"company": "Realign",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=9409b85502ee7740",
-"source": "Indeed"
-},
-{
-"title": "Manager, Payroll (18 Month Contract)",
-"company": "Saje Natural Wellness",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=a5aeb9aa4e0fde62",
-"source": "Indeed"
-},
-{
-"title": "Accounting Manager",
-"company": "JOBBER",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=351e77eb98c5db67",
-"source": "Indeed"
-},
-{
-"title": "Financial Planner",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=566bf9f6dbad9b17",
-"source": "Indeed"
-},
-{
-"title": "Director, Fraud Agentic AI",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=1e6d56ef2b67cf6e",
-"source": "Indeed"
-},
-{
-"title": "Office Assistant",
-"company": "Habers Compounding Pharmacy",
-"location": "Hamilton, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=c8adeb64612792f2",
-"source": "Indeed"
-},
-{
-"title": "Accounting and Bookkeeping Trainer-Part Time",
-"company": "Canoon",
-"location": "Scarborough, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=a221189535378d1b",
-"source": "Indeed"
-},
-{
-"title": "HR (Plant) - Human Resources Generalist",
-"company": "Voyant Beauty",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=3fdd57d14d057099",
-"source": "Indeed"
-},
-{
-"title": "Tax Preparer",
-"company": "Kimti Tax & Accounting Inc.",
-"location": "Etobicoke, ON, CA (remote)",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=6524fcb58a7f7aa9",
-"source": "Indeed"
-},
-{
-"title": "Bookkeeper – QuickBooks, HST & Payroll",
-"company": "Wealthy Wave Accounting inc.",
-"location": "Brampton, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=886ecbe7b29d8749",
-"source": "Indeed"
-},
-{
-"title": "General Manager - Multi-Unit",
-"company": "Tim Hortons",
-"location": "Burlington, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=4bff88f8a8e4e382",
-"source": "Indeed"
-},
-{
-"title": "Head of Canada Insider Investigations",
-"company": "TD",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=505503469a9749c6",
-"source": "Indeed"
-},
-{
-"title": "Office Administrator",
-"company": "Unichairs Inc.",
-"location": "Vaughan, ON, CA",
-"posted": "2026-10-10",
-"link": "https://ca.indeed.com/viewjob?jk=12df7db1778fa96b",
-"source": "Indeed"
-},
-{
-"title": "Bookkeeper",
-"company": "ULTRAMAR ON THE RUN",
-"location": "Prescott, Ontario, Canada",
-"posted": "2026-10-10",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50468751",
-"source": "Job Bank"
-},
-{
-"title": "Finance clerk",
-"company": "Good Shepherd Centres",
-"location": "Hamilton, Ontario, Canada",
-"posted": "2026-10-10",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50467819",
-"source": "Job Bank"
 }
 ]
 }
