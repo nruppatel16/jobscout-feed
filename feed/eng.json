@@ -1,6 +1,262 @@
 {
-"updated": "2026-10-13T01:53:59+00:00",
+"updated": "2026-10-13T09:00:05+00:00",
 "jobs": [
+{
+"title": "Staff Electrical Engineer - Transmission & Distribution (Toronto)",
+"company": "Burns & McDonnell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=4800c4c0c0e80e65",
+"source": "Indeed"
+},
+{
+"title": "PROJECT MANAGER TW",
+"company": "City of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=58a2d246889e24db",
+"source": "Indeed"
+},
+{
+"title": "STATIONARY ENGINEER OPERATOR",
+"company": "City of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=a3212c78fad97833",
+"source": "Indeed"
+},
+{
+"title": "Store Manager - Montreal - Future Opportunities",
+"company": "Rogers",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Montreal-Store-Manager-Montreal-Future-Opportunities-QC/1384663600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Gestionnaire de magasin - Montréal - Futures Opportunités",
+"company": "Rogers",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Montreal-Gestionnaire-de-magasin-Montr%C3%A9al-Futures-Opportunit%C3%A9s-QC/1384663500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "2027 Programme des diplômés - Expérience client",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-2027-Programme-des-dipl%C3%B4m%C3%A9s-Exp%C3%A9rience-client-QC/1429631700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Graduate Program - Media",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-2027-Graduate-Program-Media-ON/1429781900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Conseiller aux ventes saisonnier, Random Square Mall",
+"company": "Bell",
+"location": "Clarenville, NL, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Clarenville-Conseiller-aux-ventes-saisonnier%2C-Random-Square-Mall-NL/1429779900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Graduate Program - Corporate Strategy, Value Creation & Business Transformation Analyst",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-2027-Graduate-Program-Corporate-Strategy%2C-Value-Creation-&-Business-Transformation-Analyst-QC/1429783900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, saisonnier, Centre Eaton",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C%C2%A0saisonnier%2C-Centre-Eaton-QC/1429747200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Consultant, Carrefour de l'Estrie",
+"company": "Bell",
+"location": "Sherbrooke, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Sherbrooke-Seasonal-Consultant%2C-Carrefour-de-l'Estrie-QC/1429919300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Sales Consultant, Espace Place Fleur De Lys",
+"company": "Bell",
+"location": "Quebec City, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Quebec-City-Seasonal-Sales-Consultant%2C-Espace-Place-Fleur-De-Lys-QC/1429921300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Centre Reg. Manicouagan",
+"company": "Bell",
+"location": "Baie-Comeau, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Baie-Comeau-Seasonal-Retail-Sales-Associate%2C-Centre-Reg_-Manicouagan-QC/1429554600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Graduate Program - Enterprise Solutions - Business Technology",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-2027-Graduate-Program-Enterprise-Solutions-Business-Technology-QC/1429629500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Programme des diplômés, Solutions d'entreprise - Technologies d'affaires",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-2027-Programme-des-dipl%C3%B4m%C3%A9s%2C-Solutions-d'entreprise-Technologies-d'affaires-QC/1429629600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Programme des diplômés, Solutions d'entreprise - technologies avancées",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-2027-Programme-des-dipl%C3%B4m%C3%A9s%2C-Solutions-d'entreprise-technologies-avanc%C3%A9es-QC/1429629100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Graduate Program - Customer Experience",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-2027-Graduate-Program-Customer-Experience-QC/1429631800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Programme de stage - Ressources humaines",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-2027%E2%80%AF-Programme-de-stage-Ressources-humaines-QC/1429786800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, saisonnier, Place Du Havre",
+"company": "Bell",
+"location": "Chandler, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Chandler-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C%C2%A0saisonnier%2C-Place-Du-Havre-QC/1429758800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Graduate Program - Bell Media",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-2027-Graduate-Program-Bell-Media-QC/1429780700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Programme des diplômés - Média",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-2027-Programme%E2%80%AFdes-dipl%C3%B4m%C3%A9s-M%C3%A9dia-ON/1429782000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, saisonnier, Mail Champlain",
+"company": "Bell",
+"location": "Brossard, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Brossard-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C%C2%A0saisonnier%2C-Mail-Champlain-QC/1429663100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Programme des diplômés Analyste, Stratégie d'entreprise, Création de valeur et Transformation d",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-2027-Programme-des-dipl%C3%B4m%C3%A9s-Analyste%2C-Strat%C3%A9gie-d'entreprise%2C-Cr%C3%A9ation-de-valeur-et-Transformation-d-QC/1429784000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, saisonnier, Place Ste Foy",
+"company": "Bell",
+"location": "Ville de Québec, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Ville-de-Qu%C3%A9bec-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Place-Ste-Foy-QC/1429921700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Waneta Plaza",
+"company": "Bell",
+"location": "Trail, BC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Trail-Seasonal-Retail-Sales-Associate%2C-Waneta-Plaza-BC/1429869800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Graduate Program, Enterprise Solutions - Advanced Technology",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-2027-Graduate-Program%2C-Enterprise-Solutions-Advanced-Technology-QC/1429629000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Graduate Program - Networks",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-2027-Graduate-Program-Networks-QC/1429634800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Internship Program - Human Resources",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-2027-Internship-Program-Human-Resources-QC/1429786700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Mécanicien camion léger",
+"company": "Purolator",
+"location": "Quebec, Québec, CA, G2C 2C4",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Quebec-M%C3%A9canicien-camion-l%C3%A9ger-Qu%C3%A9b-G2C-2C4/1392920600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Staff Accountant",
+"company": "Purolator",
+"location": "Woodbury, NY, US, 11797",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://careers.purolator.com/PurolatorInternational/job/Woodbury-Staff-Accountant-NY-11797/1391852200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Chef d'unité",
+"company": "Purolator",
+"location": "Gatineau, Québec, CA, J8R 3N9",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Gatineau-Chef-d'unit%C3%A9-Qu%C3%A9b-J8R-3N9/1429558700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Relief 173",
+"company": "Purolator",
+"location": "Truro, Nova Scotia, CA, B6L 1N8",
+"posted": "2026-10-13T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Truro-Relief-173-Nova-B6L-1N8/1429616500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
 {
 "title": "Medical Imaging Technologist (Mammography certification)",
 "company": "TELUS",
@@ -210,6 +466,166 @@
 "source": "University of Toronto careers"
 },
 {
+"title": "(CONTRACT) Supply Chain Agent - Montreal",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-%28CONTRACT%29-Supply-Chain-Agent-Montreal-Qu%C3%A9b-H4S-1Y9/1283544201/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Ouvrier·e, Tôlerie",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Ouvrier%C2%B7e%2C-T%C3%B4lerie-Qu%C3%A9b-H4R-1K2/1016019901/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Supply Chain Agent (Indirect Goods and Services)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Supply-Chain-Agent-%28Indirect-Goods-and-Services%29-Qu%C3%A9b-H4S-1Y9/1406672933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Structures Technician - Weekend Shift",
+"company": "Bombardier",
+"location": "Windsor Locks, CT, US, 06096-1086",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Windsor-Locks-Structures-Technician-Weekend-Shift-CT-06096-1086/1209147701/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Agent·e, Chaîne d'approvisionnement (biens et services indirects)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Agent%C2%B7e%2C-Cha%C3%AEne-d'approvisionnement-%28biens-et-services-indirects%29-Qu%C3%A9b-H4S-1Y9/1406672833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "(CONTRAT) Agent·e de la chaîne d'approvisionnement - Montréal",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-%28CONTRAT%29-Agent%C2%B7e-de-la-cha%C3%AEne-d'approvisionnement-Montr%C3%A9al-Qu%C3%A9b-H4S-1Y9/1283544101/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Worker, Sheet Metal",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Worker%2C-Sheet-Metal-Qu%C3%A9b-H4R-1K2/1016019801/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Opérateur·e, Traitement de Surface",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Op%C3%A9rateur%C2%B7e%2C-Traitement-de-Surface-Qu%C3%A9b-H4R-1K2/1016043501/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Leader, Operations",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Leader%2C-Operations-Qu%C3%A9b-H4R-1K2/1436759733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Avionic/Mechanical Technical Representative - Customer Response Center",
+"company": "Bombardier",
+"location": "Singapore, SG, 797546",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Singapore-AvionicMechanical-Technical-Representative-Customer-Response-Center-797546/1436470733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Chef.fe, Livraison des solutions PLM et CAO",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Chef_fe%2C-Livraison-des-solutions-PLM-et-CAO-Qu%C3%A9b-H4S-2A9/1436847633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Operator, Surface Treatment",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Operator%2C-Surface-Treatment-Qu%C3%A9b-H4R-1K2/1016043401/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Director, International Government and Industry Affairs",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Director%2C-International-Government-and-Industry-Affairs-Qu%C3%A9b-H4S-1Y9/1436859133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Manager, PLM and CAD Solutions Delivery",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Manager%2C-PLM-and-CAD-Solutions-Delivery-Qu%C3%A9b-H4S-2A9/1436847533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Electrical Engineer Intern (Year-round or Summer)",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Electrical-Engineer-Intern-%28Year-round-or-Summer%29-KS-67209/1436882833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional Engineering - Project Management, Sustaining Platforms",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Professional-Engineering-Project-Management%2C-Sustaining-Platforms-ON-L5S-1W1/1436773333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Summer 2027: Avionics Engineering Intern",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Summer-2027-Avionics-Engineering-Intern-KS-67209/1436866333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Year-round Avionics Engineering Intern",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Year-round-Avionics-Engineering-Intern-KS-67209/1436864933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Directeur·trice, Affaires gouvernementales et industrielles internationales",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Directeur%C2%B7trice%2C-Affaires-gouvernementales-et-industrielles-internationales-Qu%C3%A9b-H4S-1Y9/1436859233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Lecturer/Assistant Professor - Cardiothoracic Imaging - Sunnybrook Health Sciences Centre",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-LecturerAssistant-Professor-Cardiothoracic-Imaging-Sunnybrook-Health-Sciences-Centre-ON/596985917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
 "title": "Provincial Lead Engineer, Radio Civil Infrastructure",
 "company": "Ministry of the Solicitor General",
 "location": "Toronto, ON, CA (remote)",
@@ -304,6 +720,14 @@
 "posted": "2026-10-12",
 "link": "https://ca.indeed.com/viewjob?jk=c7c8fdef13e7aa79",
 "source": "Indeed"
+},
+{
+"title": "Electrical technician",
+"company": "Galaxy HR",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-10-12",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50482375",
+"source": "Job Bank"
 },
 {
 "title": "Warehouse Data Entry & Freight Processing Associate",
@@ -704,30 +1128,6 @@
 "posted": "2026-10-11",
 "link": "https://ca.indeed.com/viewjob?jk=3165bfcd28345c9a",
 "source": "Indeed"
-},
-{
-"title": "Senior Category Manager",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-11T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Senior-Category-Manager-ON/1419645000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Gestionnaire de comptes, BBM",
-"company": "Bell",
-"location": "Montréal, QC, CA",
-"posted": "2026-10-11T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-Gestionnaire-de-comptes%2C-BBM-QC/1409513700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Client Executive, BBM",
-"company": "Bell",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-11T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Montreal-Client-Executive%2C-BBM-QC/1409513600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
 }
 ]
 }
