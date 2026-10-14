@@ -1,6 +1,382 @@
 {
-"updated": "2026-10-14T00:54:07+00:00",
+"updated": "2026-10-14T05:51:52+00:00",
 "jobs": [
+{
+"title": "Senior Project Manager",
+"company": "Ministry Of Transportation Ontario",
+"location": "St. Catharines, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=e16094a01c3ac374",
+"source": "Indeed"
+},
+{
+"title": "AI Infrastructure Engineer",
+"company": "Capgemini Engineering",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=486c36608caee91e",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer, Securities Finance",
+"company": "Alpaca",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=f81c8a474ff69425",
+"source": "Indeed"
+},
+{
+"title": "Kubernetes (K8S) / HPC Engineer",
+"company": "Capgemini Engineering",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=c8c9f10bbcba0028",
+"source": "Indeed"
+},
+{
+"title": "Frontend Engineer - Marketing & Digital Experience",
+"company": "NEX Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=cfc1bec07f836874",
+"source": "Indeed"
+},
+{
+"title": "Full Time Sales Representative | Tsawwassen Mills",
+"company": "TELUS",
+"location": "Tsawwassen, BC, CA, V4M 4G9",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Tsawwassen-Full-Time-Sales-Representative-Tsawwassen-Mills-BC-V4M-4G9/606115717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Subdivision Admin Assistant",
+"company": "Hydro One",
+"location": "Barrie, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.hydroone.com/job/Barrie-Subdivision-Admin-Assistant-ON/1291318447/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Hydro One careers"
+},
+{
+"title": "Accounting Financial Revenue Analyst",
+"company": "Hydro One",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.hydroone.com/job/Toronto-Accounting-Financial-Revenue-Analyst-ON/1291430747/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Hydro One careers"
+},
+{
+"title": "Executive Administrative Assistant",
+"company": "OPG",
+"location": "Oshawa, ON, CA, L1H 8W8",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.opg.com/job/Oshawa-Executive-Administrative-Assistant-ON-L1H-8W8/606126117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "OPG careers"
+},
+{
+"title": "Senior Plant Engineer/Officer - Electrical Engineering",
+"company": "OPG",
+"location": "Niagara, ON, CA, L0S 1L0",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.opg.com/job/Niagara-Senior-Plant-EngineerOfficer-Electrical-Engineering-ON-L0S-1L0/606129217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "OPG careers"
+},
+{
+"title": "HR Business Partner (Contract up to 14 months)",
+"company": "Toronto Hydro",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.torontohydro.com/job/Toronto-HR-Business-Partner-%28Contract-up-to-14-months%29-ON/606140617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Toronto Hydro careers"
+},
+{
+"title": "Associate Financial Analyst (Capital Planning & Reporting)",
+"company": "Toronto Hydro",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.torontohydro.com/job/Toronto-Associate-Financial-Analyst-%28Capital-Planning-&-Reporting%29-ON/606114617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Toronto Hydro careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Swift Current, SK, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Swift-Current-Letter-Carrier-Delivery-Agent-SK/605235817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Zeballos, BC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Zeballos-Post-Office-Assistant-Term-BC/605287817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison",
+"company": "Canada Post",
+"location": "Swift Current, SK, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Swift-Current-Facteur-Agent-de-livraison-SK/605235917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison",
+"company": "Canada Post",
+"location": "Ingersoll, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ingersoll-Facteur-Agent-de-livraison-ON/605297617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Zeballos, BC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Zeballos-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-BC/605287717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Rose Valley, SK, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Rose-Valley-Post-Office-Assistant-Term-SK/605282817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Lundar, MB, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Lundar-Post-Office-Assistant-Term-MB/605600017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison",
+"company": "Canada Post",
+"location": "Dartmouth, NS, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Dartmouth-Facteur-Agent-de-livraison-NS/604396917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief ST JEAN SUR RICHELIEU 1 1",
+"company": "Canada Post",
+"location": "Saint-Jean-sur-Richelieu, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Jean-sur-Richelieu-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-ST-JEAN-SUR-RICHELIEU-1-1-QC/603893017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Kemptville, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Kemptville-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-ON/601546817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Kemptville, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Kemptville-Post-Office-Assistant-Term-ON/601546917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison",
+"company": "Canada Post",
+"location": "Chambly, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Chambly-Facteur-Agent-de-livraison-QC/600966017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Boucherville, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Boucherville-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/600971917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief Huntingdon",
+"company": "Canada Post",
+"location": "Huntingdon, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Huntingdon-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-Huntingdon-QC/595202317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Haileybury, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Haileybury-Post-Office-Assistant-Term-ON/596534517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Haileybury, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Haileybury-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-ON/596534617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité Huntingdon",
+"company": "Canada Post",
+"location": "Huntingdon, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Huntingdon-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-Huntingdon-QC/595201617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité 1",
+"company": "Canada Post",
+"location": "Saint-Chrysostome, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Chrysostome-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-1-QC/594183617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Astorville, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Astorville-Post-Office-Assistant-Term-ON/599867717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité ST JEAN SUR RICHELIEU 1",
+"company": "Canada Post",
+"location": "Saint-Jean-sur-Richelieu, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Jean-sur-Richelieu-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-ST-JEAN-SUR-RICHELIEU-1-QC/603893117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Sainte-Rose-du-Nord, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Sainte-Rose-du-Nord-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/605259117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Laterrière, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Laterri%C3%A8re-Post-Office-Assistant-Term-QC/606116217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Sainte-Rose-du-Nord, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Sainte-Rose-du-Nord-Post-Office-Assistant-Term-QC/605259017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Chambly, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Chambly-Letter-Carrier-Delivery-Agent-QC/600965917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Saint-Chrysostome, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Chrysostome-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/594183517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Saint-Georges, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Georges-Letter-Carrier-Delivery-Agent-QC/606109317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Val-d'Or, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Val-d'Or-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/605709417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité",
+"company": "Canada Post",
+"location": "Val-d'Or, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Val-d'Or-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-QC/605709317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison",
+"company": "Canada Post",
+"location": "Saint-Georges, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Georges-Facteur-Agent-de-livraison-QC/606109417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Laterrière, QC, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Laterri%C3%A8re-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/606116117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Technician, Avionics and Electronics",
+"company": "Bombardier",
+"location": "Dallas, TX, US, 75235",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dallas-Technician%2C-Avionics-and-Electronics-TX-75235/1085072501/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professionnel·le Principal·e, Ingénierie de projet - Recherche et Technologies",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professionnel%C2%B7le-Principal%C2%B7e%2C-Ing%C3%A9nierie-de-projet-Recherche-et-Technologies-Qu%C3%A9b-H4S-1Y9/1396754233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional, Senior, Engineering - Project Engineering - Research & Technology",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Senior%2C-Engineering-Project-Engineering-Research-&-Technology-Qu%C3%A9b-H4S-1Y9/1396754333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Assistant Professor - Global Anglophone Literature",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Global-Anglophone-Literature-ON/605276917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Executive Office Lead (CEO Office)",
+"company": "Toronto Hydro",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14T00:00:00+00:00",
+"link": "https://jobs.torontohydro.com/job/Toronto-Executive-Office-Lead-%28CEO-Office%29-ON/606988217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Toronto Hydro careers"
+},
 {
 "title": "Staff Electrical Engineer - Transmission & Distribution (Toronto)",
 "company": "Burns & McDonnell",
@@ -679,6 +1055,62 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-10-13",
 "link": "https://ca.indeed.com/viewjob?jk=b171207919443dd2",
+"source": "Indeed"
+},
+{
+"title": "[C] Software Engineer",
+"company": "Maple Leaf Sports & Entertainment",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=628d48094f5daa29",
+"source": "Indeed"
+},
+{
+"title": "Refining Engineer",
+"company": "Umicore",
+"location": "Markham, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=54040888244b73e7",
+"source": "Indeed"
+},
+{
+"title": "Senior Product Engineer",
+"company": "Valence",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=0ca4ebe00c104baf",
+"source": "Indeed"
+},
+{
+"title": "Sr Quality Engineer I",
+"company": "CDW",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=95c0b37c455c1372",
+"source": "Indeed"
+},
+{
+"title": "[C] Senior Software Engineer - Developer Platform",
+"company": "Maple Leaf Sports & Entertainment",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=ecfbeb79ea4e4cd0",
+"source": "Indeed"
+},
+{
+"title": "Technical Sales Engineer",
+"company": "Engineered Intelligence Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=5d281fc8b9e398ab",
+"source": "Indeed"
+},
+{
+"title": "Manager, Mechanical Engineering - GTA",
+"company": "Ausenco",
+"location": "Burlington, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=bac0fc539934b4ca",
 "source": "Indeed"
 },
 {
@@ -1810,6 +2242,118 @@
 "source": "Bombardier careers"
 },
 {
+"title": "Sr Mgr Strategic Sales",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Sr-Mgr-Strategic-Sales-ON/1439566400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Manager, Stations",
+"company": "Toronto Hydro",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.torontohydro.com/job/Toronto-Manager%2C-Stations-ON/606979317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Toronto Hydro careers"
+},
+{
+"title": "Customer Connections Associate",
+"company": "Toronto Hydro",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.torontohydro.com/job/Toronto-Customer-Connections-Associate-ON/606972917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Toronto Hydro careers"
+},
+{
+"title": "Professionnel.le, Ingénierie - Conception, Analyse et Optimisation Multidisciplinaire (MDAO / MDO)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professionnel_le%2C-Ing%C3%A9nierie-Conception%2C-Analyse-et-Optimisation-Multidisciplinaire-%28MDAO-MDO%29-Qu%C3%A9b-H4S-1Y9/1447299433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional, Engineering - Multidisciplinary Design, Analysis & Optimization (MDAO / MDO)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Engineering%E2%80%AF-%E2%80%AFMultidisciplinary-Design%2C-Analysis-&-Optimization-%28MDAO-MDO%29-Qu%C3%A9b-H4S-1Y9/1447299333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyst, Portfolio & Inventory Management, Planning & Methods",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Portfolio-&-Inventory-Management%2C-Planning-&-Methods-Qu%C3%A9b-H4S-1Y9/1447300433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technical Expert, Stress Engineering, Bombardier Defense",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Technical-Expert%2C-Stress-Engineering%2C-Bombardier-Defense-Qu%C3%A9b-H4S-2A9/1447310533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Leader, Qualité - Système de gestion de la qualité",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Leader%2C-Qualit%C3%A9-Syst%C3%A8me-de-gestion-de-la-qualit%C3%A9-Qu%C3%A9b-H4S-1Y9/1447301233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Leader, Quality - Quality Management System",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Leader%2C-Quality-Quality-Management-System-Qu%C3%A9b-H4S-1Y9/1447301133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Sessional Lecturer - PLA1552H1S - Leadership & Management For Planners (0.50 FCE)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-PLA1552H1S-Leadership-&-Management-For-Planners-%280_50-FCE%29-ON/606979617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - PLA1751H: Finance for Planners (0.50 FCE)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-PLA1751H-Finance-for-Planners-%280_50-FCE%29-ON/606979817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - PLA1103H1S: Legal Basis of Planning (0.25 FCE)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-PLA1103H1S-Legal-Basis-of-Planning-%280_25-FCE%29-ON/606978717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - URB336H1S - Creative Cities (0.50 FCE)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-URB336H1S-Creative-Cities-%280_50-FCE%29-ON/606980617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - URB433H1S - Special Topics in Urban Studies Housing and Homelessness II​ (0.50)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-URB433H1S-Special-Topics-in-Urban-Studies-Housing-and-Homelessness-II%E2%80%8B-%280_50%29-ON/606979217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
 "title": "Provincial Lead Engineer, Radio Civil Infrastructure",
 "company": "Ministry of the Solicitor General",
 "location": "Toronto, ON, CA (remote)",
@@ -1928,422 +2472,6 @@
 "posted": "2026-10-12T07:00:00+00:00",
 "link": "https://careers.purolator.com/PurolatorInternational/job/Middletown-Warehouse-Data-Entry-&-Freight-Processing-Associate-PA-17057/1410060900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
-},
-{
-"title": "Agent(e), Centre d'Appels Compétitif",
-"company": "TELUS",
-"location": "Rimouski, QC, CA, G5L 5J1",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://careers.telus.com/job/Rimouski-Agent%28e%29%2C-Centre-d'Appels-Comp%C3%A9titif-QC-G5L-5J1/602650517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "TELUS careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Rawdon, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Rawdon-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/599961817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Saint-André-d'Argenteuil, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Andr%C3%A9-d'Argenteuil-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/599328317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term",
-"company": "Canada Post",
-"location": "Shipshaw, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Shipshaw-Post-Office-Assistant-Term-QC/603581817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée 1",
-"company": "Canada Post",
-"location": "Faro, YT, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Faro-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-1-YT/602662917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Hixon, BC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Hixon-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-BC/602658717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Letter Carrier - Delivery Agent",
-"company": "Canada Post",
-"location": "Chibougamau, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Chibougamau-Letter-Carrier-Delivery-Agent-QC/602651217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term",
-"company": "Canada Post",
-"location": "Port Clements, BC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Port-Clements-Post-Office-Assistant-Term-BC/602664317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée 1",
-"company": "Canada Post",
-"location": "Haida Gwaii, BC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Haida-Gwaii-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-1-BC/602662217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Facteur rural et suburbain de relève en disponibilité",
-"company": "Canada Post",
-"location": "Saint-Félicien, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-F%C3%A9licien-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-QC/603608917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Facteur - Agent de livraison",
-"company": "Canada Post",
-"location": "Chibougamau, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Chibougamau-Facteur-Agent-de-livraison-QC/602651117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Rural and Suburban Mail Carrier, On-call Relief",
-"company": "Canada Post",
-"location": "Saint-Félicien, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-F%C3%A9licien-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/603609617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Saint-Hippolyte, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Hippolyte-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/601105617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term 1",
-"company": "Canada Post",
-"location": "Labelle, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Labelle-Post-Office-Assistant-Term-1-QC/599636017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Saint-Lin-Laurentides, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Lin-Laurentides-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/604391717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term 1",
-"company": "Canada Post",
-"location": "Saint-Lin-Laurentides, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Lin-Laurentides-Post-Office-Assistant-Term-1-QC/604391617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée - Sainte-Anne-des-Plaines",
-"company": "Canada Post",
-"location": "Sainte-Anne-des-Plaines, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Sainte-Anne-des-Plaines-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-Sainte-Anne-des-Plaines-QC/603099117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Shipshaw, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Shipshaw-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/603581917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term",
-"company": "Canada Post",
-"location": "Faro, YT, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Faro-Post-Office-Assistant-Term-YT/602663017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - KUUJJUAQ",
-"company": "Canada Post",
-"location": "Kuujjuaq, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Kuujjuaq-Post-Office-Assistant-KUUJJUAQ-QC/603597817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste",
-"company": "Canada Post",
-"location": "Kuujjuaq, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Kuujjuaq-Adjoint-dans-un-bureau-de-poste-QC/603597717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term - Sainte-Anne-des-Plaines",
-"company": "Canada Post",
-"location": "Sainte-Anne-des-Plaines, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Sainte-Anne-des-Plaines-Post-Office-Assistant-Term-Sainte-Anne-des-Plaines-QC/603099217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term",
-"company": "Canada Post",
-"location": "Mont-Blanc, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Mont-Blanc-Post-Office-Assistant-Term-QC/593845617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Grandes-Piles, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Grandes-Piles-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/578583817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint acmpa à durée déterminée",
-"company": "Canada Post",
-"location": "Sainte-Béatrix, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Sainte-B%C3%A9atrix-Adjoint-acmpa-%C3%A0-dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/595300817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Morin-Heights, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Morin-Heights-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/595783617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Engine Technician - Customer Response Team",
-"company": "Bombardier",
-"location": "Wichita, KS, US, 67209",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Wichita-Engine-Technician-Customer-Response-Team-KS-67209/1386167733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Gestionnaire de projet stratégique",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 2A3",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Gestionnaire-de-projet-strat%C3%A9gique-Qu%C3%A9b-H4S-2A3/1367437433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Professional Senior, Engineering - Project Lead, Bombardier Experimental",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4R 1K2",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Professional-Senior%2C-Engineering-Project-Lead%2C-Bombardier-Experimental-Qu%C3%A9b-H4R-1K2/1416419233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Technician, Structures",
-"company": "Bombardier",
-"location": "Opa Locka, FL, US, 33054",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Opa-Locka-Technician%2C-Structures-FL-33054/1406232933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Strategic Projet Manager",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 2A3",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Strategic-Projet-Manager-Qu%C3%A9b-H4S-2A3/1367437333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Continuous Improvement Specialist",
-"company": "Bombardier",
-"location": "Red Oak, TX, US, 75154",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Red-Oak-Continuous-Improvement-Specialist-TX-75154/1260162401/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Professionnel.le principal.e, Ingénierie - Chargé.e de projet, Bombardier Experimental",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4R 1K2",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Professionnel_le-principal_e%2C-Ing%C3%A9nierie-Charg%C3%A9_e-de-projet%2C-Bombardier-Experimental-Qu%C3%A9b-H4R-1K2/1416419333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Post Office Assistant",
-"company": "Canada Post",
-"location": "Rankin Inlet, NU, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Rankin-Inlet-Post-Office-Assistant-NU/602657217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste",
-"company": "Canada Post",
-"location": "Rankin Inlet, NU, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Rankin-Inlet-Adjoint-dans-un-bureau-de-poste-NU/602657117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Chertsey, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Chertsey-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/599633017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term",
-"company": "Canada Post",
-"location": "Saint-Janvier, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Janvier-Post-Office-Assistant-Term-QC/591860217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term 1 1",
-"company": "Canada Post",
-"location": "Sainte-Béatrix, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Sainte-B%C3%A9atrix-Post-Office-Assistant-Term-1-1-QC/595300917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Mont-Tremblant, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Mont-Tremblant-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/590964817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term",
-"company": "Canada Post",
-"location": "Chisasibi, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Chisasibi-Post-Office-Assistant-Term-QC/596864017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Facteur rural et suburbain de relève en disponibilité",
-"company": "Canada Post",
-"location": "Saint-Ambroise, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Ambroise-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-QC/591855617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Rural and Suburban Mail Carrier, On-call Relief",
-"company": "Canada Post",
-"location": "Saint-Augustin-de-Desmaures, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Augustin-de-Desmaures-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/602650217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Rural and Suburban Mail Carrier, On-call Relief",
-"company": "Canada Post",
-"location": "Saint-Ambroise, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Ambroise-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/591855517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée - Bellefeuille",
-"company": "Canada Post",
-"location": "Bellefeuille, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Bellefeuille-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-Bellefeuille-QC/597459817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Labelle, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Labelle-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/599635917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term",
-"company": "Canada Post",
-"location": "Saint-Côme, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-C%C3%B4me-Post-Office-Assistant-Term-QC/594184717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term",
-"company": "Canada Post",
-"location": "Mont-Tremblant, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Mont-Tremblant-Post-Office-Assistant-Term-QC/590964717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Chisasibi, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Chisasibi-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/596864117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Saint-Janvier, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-Janvier-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/591860317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term 1",
-"company": "Canada Post",
-"location": "Rawdon, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Rawdon-Post-Office-Assistant-Term-1-QC/599961917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Adjoint dans un bureau de poste - Durée déterminée",
-"company": "Canada Post",
-"location": "Saint-Côme, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Saint-C%C3%B4me-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/594184617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Post Office Assistant - Term 1",
-"company": "Canada Post",
-"location": "Chertsey, QC, CA",
-"posted": "2026-10-12T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Chertsey-Post-Office-Assistant-Term-1-QC/599633117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
 }
 ]
 }
