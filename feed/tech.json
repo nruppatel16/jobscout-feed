@@ -1,44 +1,164 @@
 {
-"updated": "2026-10-15T07:00:30+00:00",
+"updated": "2026-10-15T12:46:24+00:00",
 "jobs": [
 {
-"title": "Enterprise Security Architect -6",
-"company": "Realign",
+"title": "Software Tester Intern",
+"company": "Interac Corp",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-15",
-"link": "https://ca.indeed.com/viewjob?jk=3f7b1a70c28181c7",
+"link": "https://ca.indeed.com/viewjob?jk=4e09b90224705c2a",
 "source": "Indeed"
 },
 {
-"title": "IAM Analyst -6",
-"company": "Realign",
-"location": "Toronto, ON, CA",
+"title": "Business Analyst, IT PMO",
+"company": "Scarborough Health Network",
+"location": "Scarborough, ON, CA",
 "posted": "2026-10-15",
-"link": "https://ca.indeed.com/viewjob?jk=eff04bd0ef479258",
+"link": "https://ca.indeed.com/viewjob?jk=66f12d729dd48c46",
 "source": "Indeed"
 },
 {
-"title": "Senior Analyst – SailPoint-6",
-"company": "Realign",
+"title": "Information Security Intern",
+"company": "Interac Corp",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-15",
-"link": "https://ca.indeed.com/viewjob?jk=408809e689170538",
+"link": "https://ca.indeed.com/viewjob?jk=ff5c935eae03e922",
 "source": "Indeed"
 },
 {
-"title": "Power BI & Testing QA-6",
-"company": "Realign",
+"title": "Fraud Strategy Intern",
+"company": "Interac Corp",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-15",
-"link": "https://ca.indeed.com/viewjob?jk=8b2938b34d8c39e7",
+"link": "https://ca.indeed.com/viewjob?jk=183fd90ef3fc628d",
+"source": "Indeed"
+},
+{
+"title": "Senior Associate, Investment Risk",
+"company": "Investment Management Corporation of Ontario",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=4d6b8cb50bf8d3c4",
+"source": "Indeed"
+},
+{
+"title": "Senior Observability Analyst",
+"company": "Ontario Power Generation",
+"location": "Oshawa, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=5d11fbe5c86fd32d",
+"source": "Indeed"
+},
+{
+"title": "Finance Operations Intern",
+"company": "Interac Corp",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=ffeadb99f8c3430b",
+"source": "Indeed"
+},
+{
+"title": "EHR Solution Analyst – Seniors Living",
+"company": "SE Health",
+"location": "Markham, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=5b8f64e57a603a25",
+"source": "Indeed"
+},
+{
+"title": "Senior Business Systems Analyst (Hybrid)",
+"company": "Cognizant",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=32bc1858b6b7dbc6",
+"source": "Indeed"
+},
+{
+"title": "Senior BI Platform Operations Engineer",
+"company": "Luxoft",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=e0ea4275f9b3eff7",
+"source": "Indeed"
+},
+{
+"title": "Business Operations Analyst",
+"company": "Fidelity Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=8e9574b5ab21d669",
 "source": "Indeed"
 },
 {
 "title": "Software developer",
-"company": "Lancesoft",
-"location": "Markham, Ontario, Canada",
+"company": "Upstaff",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-10-15",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50501896",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50503615",
+"source": "Job Bank"
+},
+{
+"title": "Software developer",
+"company": "SQUALUS GROUP",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-10-15",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50503603",
+"source": "Job Bank"
+},
+{
+"title": "PROGRAM DEVELOPMENT OFFICER (Indigenous)",
+"company": "City of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=b347c8c25fbc82c2",
+"source": "Indeed"
+},
+{
+"title": "Senior Java Backend Developer (Hybrid)",
+"company": "Cognizant",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=7e002194bb0b15a6",
+"source": "Indeed"
+},
+{
+"title": "Senior Java Full Stack Developer (Hybrid)",
+"company": "Cognizant",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=785ce163f1fe4567",
+"source": "Indeed"
+},
+{
+"title": "Technical Analyst Intern",
+"company": "Interac Corp",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=989f6d2a9ed075f6",
+"source": "Indeed"
+},
+{
+"title": "Lead/Staff Software Engineer",
+"company": "Xero",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=14dff2d8fb113c8c",
+"source": "Indeed"
+},
+{
+"title": "Java Developer -6",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=50804fd4defc9b53",
+"source": "Indeed"
+},
+{
+"title": "Software developer",
+"company": "NearSource",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-15",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50502098",
 "source": "Job Bank"
 },
 {
@@ -51,19 +171,363 @@
 },
 {
 "title": "Software developer",
-"company": "NearSource",
-"location": "Toronto, Ontario, Canada",
+"company": "Lancesoft",
+"location": "Markham, Ontario, Canada",
 "posted": "2026-10-15",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50502098",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50501896",
 "source": "Job Bank"
 },
 {
-"title": "Java Developer -6",
+"title": "Power BI & Testing QA-6",
 "company": "Realign",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-15",
-"link": "https://ca.indeed.com/viewjob?jk=50804fd4defc9b53",
+"link": "https://ca.indeed.com/viewjob?jk=8b2938b34d8c39e7",
 "source": "Indeed"
+},
+{
+"title": "Senior Analyst – SailPoint-6",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=408809e689170538",
+"source": "Indeed"
+},
+{
+"title": "IAM Analyst -6",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=eff04bd0ef479258",
+"source": "Indeed"
+},
+{
+"title": "Enterprise Security Architect -6",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=3f7b1a70c28181c7",
+"source": "Indeed"
+},
+{
+"title": "Program Lead Corporate Safety",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Program-Lead-Corporate-Safety-ON/1430664500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Account Executive, Field Sales",
+"company": "Rogers",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Vancouver-Account-Executive%2C-Field-Sales-BC/1430663300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Gestionnaire de Magasin",
+"company": "Rogers",
+"location": "Mont-Royal, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Mont-Royal-Gestionnaire-de-Magasin-QC/1430592400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Store Manager",
+"company": "Rogers",
+"location": "Mont-Royal, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Mont-Royal-Store-Manager-QC/1430592500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "SMB Enablement Go to Market",
+"company": "Rogers",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Ottawa-SMB-Enablement-Go-to-Market-ON/1420585000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Sr. Financial Analyst",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Sr_-Financial-Analyst-ON/1410537600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Sales Associate",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Sales-Associate-ON/1430584700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Gestionnaire Adjoint.e - Région de Montréal - Futures opportunités",
+"company": "Rogers",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Montreal-Gestionnaire-Adjoint_e-R%C3%A9gion-de-Montr%C3%A9al-Futures-opportunit%C3%A9s-QC/1384678800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Assistant Store Manager - Montreal - Future Opportunities",
+"company": "Rogers",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Montreal-Assistant-Store-Manager-Montreal-Future-Opportunities-QC/1384678900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Director, Engineering and Procurement, AI Fabric",
+"company": "Bell",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Calgary-Director%2C-Engineering-and-Procurement%2C-AI-Fabric-AB/1430632600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Directeur(trice), Ingénierie et Approvisionnement",
+"company": "Bell",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Calgary-Directeur%28trice%29%2C-Ing%C3%A9nierie-et-Approvisionnement-AB/1430632700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant aux ventes saisonnier, Dryden",
+"company": "Bell",
+"location": "Dryden, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Dryden-Repr%C3%A9sentant-aux-ventes-saisonnier%2C-Dryden-ON/1430797900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Sales Associate, Dryden",
+"company": "Bell",
+"location": "Dryden, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Dryden-Seasonal-Sales-Associate%2C-Dryden-ON/1430798000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Graduate Program - Consumer and Small Business (Channels)",
+"company": "Bell",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Mississauga-2027-Graduate-Program-Consumer-and-Small-Business-%28Channels%29-ON/1430729300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "2027 Programme des diplômés, Marché consommateurs et petites entreprises (Canaux)",
+"company": "Bell",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Mississauga-2027-Programme-des-dipl%C3%B4m%C3%A9s%2C-March%C3%A9-consommateurs-et-petites-entreprises-%28Canaux%29-ON/1430729400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Edmonton City Centre",
+"company": "Bell",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Edmonton-Seasonal-Retail-Sales-Associate%2C-Edmonton-City-Centre-AB/1430833700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Operations Expert, Galeries de la Chaudière",
+"company": "Bell",
+"location": "Sainte-Marie, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Sainte-Marie-Seasonal-Operations-Expert%2C-Galeries-de-la-Chaudi%C3%A8re-QC/1430474600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Edmonton City Centre",
+"company": "Bell",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Edmonton-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Edmonton-City-Centre-AB/1430833800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Expert aux opérations saisonnier, Centre Reg. Manicouagan",
+"company": "Bell",
+"location": "Baie-Comeau, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Baie-Comeau-Expert-aux-op%C3%A9rations-saisonnier%2C-Centre-Reg_-Manicouagan-QC/1430476900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Operations Expert, Centre Reg. Manicouagan",
+"company": "Bell",
+"location": "Baie-Comeau, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Baie-Comeau-Seasonal-Operations-Expert%2C-Centre-Reg_-Manicouagan-QC/1430477000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Director, MEP & Electrical Infrastructure, Bell AI Fabric",
+"company": "Bell",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Calgary-Director%2C-MEP-&-Electrical-Infrastructure%2C-Bell-AI-Fabric-AB/1430626800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Directeur(trice), MEP et infrastructures électriques",
+"company": "Bell",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Calgary-Directeur%28trice%29%2C-MEP-et-infrastructures-%C3%A9lectriques-AB/1430626900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Expert aux opérations saisonnier, Galeries de la Chaudière",
+"company": "Bell",
+"location": "Sainte-Marie, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Sainte-Marie-Expert-aux-op%C3%A9rations-saisonnier%2C-Galeries-de-la-Chaudi%C3%A8re-QC/1430474500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Sevenoaks Mall",
+"company": "Bell",
+"location": "Abbotsford, BC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Abbotsford-Seasonal-Retail-Sales-Associate%2C-Sevenoaks-Mall-BC/1429849200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au detail, saisonnier, Sevenoaks Mall",
+"company": "Bell",
+"location": "Abbotsford, BC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Abbotsford-Repr%C3%A9sentant-vente-au-detail%2C-saisonnier%2C-Sevenoaks-Mall-BC/1429849100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Sales Consultant, Oshawa Centre, Non-mgmt",
+"company": "Bell",
+"location": "Oshawa, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Oshawa-Seasonal-Sales-Consultant%2C-Oshawa-Centre%2C-Non-mgmt-ON/1429164500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Program Director, Bell AI Fabric",
+"company": "Bell",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Calgary-Program-Director%2C-Bell-AI-Fabric-AB/1408982700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Directeur(trice) de programme, Réseau d'IA tissé de Bell",
+"company": "Bell",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Calgary-Directeur%28trice%29-de-programme%2C-R%C3%A9seau-d'IA-tiss%C3%A9-de-Bell-AB/1408982800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Digital Operations Manager (18 months contract)",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Digital-Operations-Manager-%2818-months-contract%29-ON/1428665500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Machine Learning Engineer, Marketing",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Machine-Learning-Engineer%2C-Marketing-ON/1407407000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Operations Expert, Les Galeries Montagnaises",
+"company": "Bell",
+"location": "Sept-Îles, QC, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Sept-%C3%8Eles-Seasonal-Operations-Expert%2C-Les-Galeries-Montagnaises-QC/1430475800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Director, MEP & Modular Delivery",
+"company": "Bell",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Calgary-Director%2C-MEP-&-Modular-Delivery-AB/1408979900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Ingénieur en apprentissage automatique, Marketing",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Ing%C3%A9nieur-en-apprentissage-automatique%2C-Marketing-ON/1407407100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Gestionnaire, opérations numériques (Contrat 18 mois)",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Gestionnaire%2C-op%C3%A9rations-num%C3%A9riques-%28Contrat-18-mois%29-ON/1428665600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Directeur(trice), MEP et livraison modulaire",
+"company": "Bell",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Calgary-Directeur%28trice%29%2C-MEP-et-livraison-modulaire-AB/1408980000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Ingénieur(e) de flotte",
+"company": "Purolator",
+"location": "Richmond, Colombie-Britannique, CA, V7B 1M5",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Richmond-Ing%C3%A9nieur%28e%29-de-flotte-Colo-V7B-1M5/1430654100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Fleet Engineer",
+"company": "Purolator",
+"location": "Richmond, British Columbia, CA, V7B 1M5",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Richmond-Fleet-Engineer-Brit-V7B-1M5/1430654200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Courier/Sorter Relief 170",
+"company": "Purolator",
+"location": "Sydney, Nova Scotia, CA, B1P 6Z3",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Sydney-CourierSorter-Relief-170-Nova-B1P-6Z3/1420598700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Trieur AM",
+"company": "Purolator",
+"location": "Saint-Laurent, Québec, CA, H4S 2E7",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Saint-Laurent-Trieur-AM-Qu%C3%A9b-H4S-2E7/1430728200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Manutentionnaire de soir",
+"company": "Purolator",
+"location": "Saint-Laurent, Québec, CA, H4S 2E7",
+"posted": "2026-10-15T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Saint-Laurent-Manutentionnaire-de-soir-Qu%C3%A9b-H4S-2E7/1411968200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
 },
 {
 "title": "Représentant(e) aux ventes | Fairview Pointe-Claire | Temps plein",
@@ -594,6 +1058,94 @@
 "source": "University of Toronto careers"
 },
 {
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Logan Lake, BC, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Logan-Lake-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-BC/606160017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Logan Lake, BC, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Logan-Lake-Post-Office-Assistant-Term-BC/606160117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Whitehorse, YT, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Whitehorse-Letter-Carrier-Delivery-Agent-YT/605265217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Nakina, ON, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Nakina-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-ON/599380917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Powassan, ON, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Powassan-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-ON/596011717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Fillmore, SK, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Fillmore-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-SK/606167717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Fillmore, SK, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Fillmore-Post-Office-Assistant-Term-SK/606167617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Commis des postes",
+"company": "Canada Post",
+"location": "Smithers, BC, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Smithers-Commis-des-postes-BC/606173217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Postal Clerk",
+"company": "Canada Post",
+"location": "Smithers, BC, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Smithers-Postal-Clerk-BC/606173317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Saint-Isidore-de-Laprairie, QC, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Isidore-de-Laprairie-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/586802817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Leamington, ON, CA",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Leamington-Letter-Carrier-Delivery-Agent-ON/605304717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "Représentant de vente au detail saisonnier, Scarborough Town Centre",
 "company": "Bell",
 "location": "Scarborough, ON, CA",
@@ -744,6 +1296,14 @@
 "posted": "2026-10-15T00:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/Singapore-Customer-Project-Manager-797546/1447875533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
+},
+{
+"title": "Part Time | Sales Representative | McAllister Place",
+"company": "TELUS",
+"location": "Saint John, NB, CA, E2J 3W9",
+"posted": "2026-10-15T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Saint-John-Part-Time-Sales-Representative-McAllister-Place-NB-E2J-3W9/607035117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
 },
 {
 "title": "ERP Security & GRC Specialist",
@@ -2119,6 +2679,134 @@
 "location": "Markham, ON, CA",
 "posted": "2026-10-14",
 "link": "https://ca.indeed.com/viewjob?jk=c457e8646176f993",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=e1a5403fcddde5f3",
+"source": "Indeed"
+},
+{
+"title": "Full Stack Java Developer",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=d2ab9ab16ac1302e",
+"source": "Indeed"
+},
+{
+"title": "Senior Full-Stack Java Engineer -",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=0262f8e901c7f037",
+"source": "Indeed"
+},
+{
+"title": "Issuer Services Technology Senior Developer - Vice President",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=a9aac8b5a41ae86a",
+"source": "Indeed"
+},
+{
+"title": "Supplier Risk and Resiliency Analyst II",
+"company": "Zebra Technologies",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=212c014b235a7bfd",
+"source": "Indeed"
+},
+{
+"title": "2027 Winter Co-op Data Engineering Software Developer",
+"company": "General Motors",
+"location": "Oshawa, Ontario, Canada",
+"posted": "2026-10-14",
+"link": "https://www.linkedin.com/jobs/view/4461227122",
+"source": "LinkedIn"
+},
+{
+"title": "PepsiCo Canada: Commercial IT Winter 2027 Co-op",
+"company": "PepsiCo",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-14",
+"link": "https://www.linkedin.com/jobs/view/4459234198",
+"source": "LinkedIn"
+},
+{
+"title": "Services Offer Management Leader",
+"company": "Schneider Electric",
+"location": "Milton, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=4a8181afc301ef07",
+"source": "Indeed"
+},
+{
+"title": "Accounting & Finance Intern",
+"company": "Teladoc Health",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=79566fdfd7290bf0",
+"source": "Indeed"
+},
+{
+"title": "Valuations Financial Instruments, Senior Manager",
+"company": "PwC Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=71c9599e5bf905ed",
+"source": "Indeed"
+},
+{
+"title": "OCS Bonding Design Engineer",
+"company": "ALSTOM",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=7d4a5fbb3afd1162",
+"source": "Indeed"
+},
+{
+"title": "Sr Ai Engineer",
+"company": "Atlantis IT Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=846cc1a00a376d74",
+"source": "Indeed"
+},
+{
+"title": "Coordinator, Planning",
+"company": "Dentsu",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=5054bf109e8773a3",
+"source": "Indeed"
+},
+{
+"title": "Manager - Technology Risk Services",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=8d3a317d685284ec",
+"source": "Indeed"
+},
+{
+"title": "Account Executive, Breach",
+"company": "TransUnion",
+"location": "Burlington, ON, CA (remote)",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=ae3290b240e0eeb4",
+"source": "Indeed"
+},
+{
+"title": "Senior Consultant - Technology Assurance (IT Audit)",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=c9b78a1fba9ac130",
 "source": "Indeed"
 },
 {
@@ -5071,6 +5759,22 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-10-13",
 "link": "https://ca.indeed.com/viewjob?jk=4d83d2de90e75725",
+"source": "Indeed"
+},
+{
+"title": "Senior Data Analyst",
+"company": "Rogers Communications",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=bc042b15a76517cc",
+"source": "Indeed"
+},
+{
+"title": "Senior Data Engineer, Retirement Operations",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-13",
+"link": "https://ca.indeed.com/viewjob?jk=5a1b8c6a9c3579fc",
 "source": "Indeed"
 }
 ]
