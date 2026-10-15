@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-15T20:58:45+00:00",
+"updated": "2026-10-15T23:38:34+00:00",
 "jobs": [
 {
 "title": "Building envelope engineer",
@@ -359,6 +359,166 @@
 "location": "Burlington, ON, CA",
 "posted": "2026-10-15",
 "link": "https://ca.indeed.com/viewjob?jk=e18b26a645820fbd",
+"source": "Indeed"
+},
+{
+"title": "Distinguished Engineer",
+"company": "Capital One",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=e787c81c2f4b3213",
+"source": "Indeed"
+},
+{
+"title": "Senior Data Engineer",
+"company": "Autodesk",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=759b80009aa48c80",
+"source": "Indeed"
+},
+{
+"title": "Technical Sales Engineer",
+"company": "FANUC Corporation",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=30ab1f692bbd678a",
+"source": "Indeed"
+},
+{
+"title": "Forward Deployed Engineer (Toronto)",
+"company": "LumApps",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=b199a7cf417fa9fd",
+"source": "Indeed"
+},
+{
+"title": "DSP & Systems Architecture Intern",
+"company": "Marvell Technology",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=0f2c3177aae5b61c",
+"source": "Indeed"
+},
+{
+"title": "Intermediate Structural Engineer",
+"company": "Jacobs",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=5df30c4d56ecbe3f",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=4db5af033966f8cf",
+"source": "Indeed"
+},
+{
+"title": "DevOps Engineer",
+"company": "Capgemini",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=58352ce74359bfaf",
+"source": "Indeed"
+},
+{
+"title": "Engineering Project Manager II",
+"company": "Generac Power Systems",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=b22bdb3b5d756588",
+"source": "Indeed"
+},
+{
+"title": "Chef de Section - Intégration des Contraintes",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=64e91e00e61c2fe1",
+"source": "Indeed"
+},
+{
+"title": "Data Platform Engineer",
+"company": "Shift4",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=0b9b98b43debab60",
+"source": "Indeed"
+},
+{
+"title": "DSP System Engineer",
+"company": "Qualcomm",
+"location": "Markham, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=7b2e97b65b2362b1",
+"source": "Indeed"
+},
+{
+"title": "Mechanical Designer, Technology",
+"company": "Hatch",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=4dbeb52cb6e5d8a7",
+"source": "Indeed"
+},
+{
+"title": "Senior Software Engineer, Observability",
+"company": "Okta",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=99e59529181698cd",
+"source": "Indeed"
+},
+{
+"title": "Engineering Student, Safety and Mission Assurance - Winter 2027 (12-16 months)",
+"company": "MDA",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=8cf0974803ecf75d",
+"source": "Indeed"
+},
+{
+"title": "Senior Project Manager",
+"company": "Cushman & Wakefield",
+"location": "Markham, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=e74189820dcdab6d",
+"source": "Indeed"
+},
+{
+"title": "Data scientist",
+"company": "Project X",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-15",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50509777",
+"source": "Job Bank"
+},
+{
+"title": "Technician - Mechatronics",
+"company": "York University",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=8fddccdaa8c7e02d",
+"source": "Indeed"
+},
+{
+"title": "Mechanical Designer",
+"company": "Lakeside Controls",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=3ba1b9844e9ee187",
+"source": "Indeed"
+},
+{
+"title": "Senior Structural Engineer, Water/Wastewater",
+"company": "Jacobs",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=48631e0c731ce2cf",
 "source": "Indeed"
 },
 {
@@ -1274,6 +1434,14 @@
 "source": "Bombardier careers"
 },
 {
+"title": "Agent.e, méthodes principal.e",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-15T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Agent_e%2C-m%C3%A9thodes-principal_e-Qu%C3%A9b-H4S-1Y9/1437745433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
 "title": "Représentant de vente au detail saisonnier, Scarborough Town Centre",
 "company": "Bell",
 "location": "Scarborough, ON, CA",
@@ -1736,6 +1904,46 @@
 "posted": "2026-10-15T00:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-MSC1124H-GPD-Career-Course-Skills-for-ScientificMedical-Liaison-ON/607071717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Driver Helper - Richmond",
+"company": "Purolator",
+"location": "Richmond, British Columbia, CA, V7B 1M5",
+"posted": "2026-10-15T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Richmond-Driver-Helper-Richmond-Brit-V7B-1M5/1440694600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Stagiaire,Ingénierie, Matériaux & Procédés (Hiver 2027)",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-15T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Stagiaire%2CIng%C3%A9nierie%2C-Mat%C3%A9riaux-&-Proc%C3%A9d%C3%A9s-%28Hiver-2027%29-Qu%C3%A9b-H4R-1K2/1448274233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Intern, Materials & Processes Engineering (Winter 2027)",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-15T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-Materials-&-Processes-Engineering-%28Winter-2027%29-Qu%C3%A9b-H4R-1K2/1448274133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Intern, Quality Assurance",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-15T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Intern%2C-Quality-Assurance-MEX-76270/1448272133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Business Aircraft Operations Planner",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-15T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Business-Aircraft-Operations-Planner-Qu%C3%A9b-H4S-1Y9/1448272633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
 },
 {
 "title": "Senior Backend Engineer",
@@ -2671,6 +2879,14 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-10-14",
 "link": "https://ca.indeed.com/viewjob?jk=9566acfcc1b414a3",
+"source": "Indeed"
+},
+{
+"title": "Sr. Specialist - Project Engineer",
+"company": "L3Harris",
+"location": "Waterdown, ON, CA",
+"posted": "2026-10-14",
+"link": "https://ca.indeed.com/viewjob?jk=442a1bdffbcf0a22",
 "source": "Indeed"
 },
 {
@@ -3943,6 +4159,22 @@
 "location": "Red Oak, TX, US, 75154",
 "posted": "2026-10-14T00:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/Red-Oak-Assembler-TX-75154/1447822333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional, Manufacturing Engineering",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 2A3",
+"posted": "2026-10-14T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Manufacturing-Engineering-Qu%C3%A9b-H4S-2A3/1447731333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyst Sr, Quality Assurance",
+"company": "Bombardier",
+"location": "Paris, FR, 75009",
+"posted": "2026-10-14T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Paris-Analyst-Sr%2C-Quality-Assurance-75009/1447711733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
 }
 ]
