@@ -1,28 +1,92 @@
 {
-"updated": "2026-10-16T08:25:15+00:00",
+"updated": "2026-10-16T13:25:59+00:00",
 "jobs": [
 {
-"title": "Mechanical Design Engineer",
-"company": "Rex Power Magnetics",
-"location": "Concord, ON, CA (remote)",
+"title": "Manufacturing Excellence Co-Op Student, Winter 2027***Etudiant Coop excellence manufacturière, Hiver 2027",
+"company": "IPEX Management Inc.",
+"location": "Oakville, ON, CA",
 "posted": "2026-10-16",
-"link": "https://ca.indeed.com/viewjob?jk=78d27c245266fbcf",
+"link": "https://ca.indeed.com/viewjob?jk=2184403144c3824d",
 "source": "Indeed"
 },
 {
-"title": "Senior Engineer, Projects (PMG)",
-"company": "Ministry Of Transportation Ontario",
+"title": "Network Engineer",
+"company": "",
+"location": "Toronto Gore, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=21bbb3c8e279c445",
+"source": "Indeed"
+},
+{
+"title": "PROJECT MANAGER TRANSPORTATION SERVICES",
+"company": "City of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=c81f7577af276b3d",
+"source": "Indeed"
+},
+{
+"title": "AI/ML Engineer",
+"company": "General Magic",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=e88ba06e89c817da",
+"source": "Indeed"
+},
+{
+"title": "AI Engineer (Co-op)",
+"company": "General Magic",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=0c8609e1634f649d",
+"source": "Indeed"
+},
+{
+"title": "Infrastructure Engineer",
+"company": "General Magic",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=ef97c21e19a9d1bc",
+"source": "Indeed"
+},
+{
+"title": "EDA/CAD Software Engineer, Staff",
+"company": "Qualcomm",
+"location": "Markham, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=f4aa2765a5167c58",
+"source": "Indeed"
+},
+{
+"title": "Engineer (Food Production)",
+"company": "Stephano Group Ltd",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=8ca38d03d942ac8f",
+"source": "Indeed"
+},
+{
+"title": "Forward Deployed Engineer",
+"company": "General Magic",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=2976d348ea37bb4d",
+"source": "Indeed"
+},
+{
+"title": "Assistant Designer, Signals",
+"company": "TTC (Toronto Transit Commission)",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-16",
-"link": "https://ca.indeed.com/viewjob?jk=059baf4c22ac8331",
+"link": "https://ca.indeed.com/viewjob?jk=9e236580e7174e30",
 "source": "Indeed"
 },
 {
-"title": "Senior Engineer, Air Compliance",
-"company": "Ministry of the Environment, Conservation and Parks",
-"location": "North York, ON, CA",
+"title": "Quality Control Technician",
+"company": "Viola",
+"location": "Markham, ON, CA",
 "posted": "2026-10-16",
-"link": "https://ca.indeed.com/viewjob?jk=6e2a9391fd8e2ad9",
+"link": "https://ca.indeed.com/viewjob?jk=45689e56d704aa32",
 "source": "Indeed"
 },
 {
@@ -34,11 +98,27 @@
 "source": "Indeed"
 },
 {
-"title": "Quality Control Technician",
-"company": "Viola",
-"location": "Markham, ON, CA",
+"title": "Senior Engineer, Air Compliance",
+"company": "Ministry of the Environment, Conservation and Parks",
+"location": "North York, ON, CA",
 "posted": "2026-10-16",
-"link": "https://ca.indeed.com/viewjob?jk=45689e56d704aa32",
+"link": "https://ca.indeed.com/viewjob?jk=6e2a9391fd8e2ad9",
+"source": "Indeed"
+},
+{
+"title": "Senior Engineer, Projects (PMG)",
+"company": "Ministry Of Transportation Ontario",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=059baf4c22ac8331",
+"source": "Indeed"
+},
+{
+"title": "Mechanical Design Engineer",
+"company": "Rex Power Magnetics",
+"location": "Concord, ON, CA (remote)",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=78d27c245266fbcf",
 "source": "Indeed"
 },
 {
@@ -538,12 +618,148 @@
 "source": "Canada Post careers"
 },
 {
+"title": "Postal Clerk",
+"company": "Canada Post",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Toronto-Postal-Clerk-ON/604935017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Commis des postes 1",
+"company": "Canada Post",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Toronto-Commis-des-postes-1-ON/604935117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Mercier, QC, CA",
+"posted": "2026-10-16T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Mercier-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/602197917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Bonaventure, QC, CA",
+"posted": "2026-10-16T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Bonaventure-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/595081617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Mossbank, SK, CA",
+"posted": "2026-10-16T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Mossbank-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-SK/605344917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Renfrew, ON, CA",
+"posted": "2026-10-16T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Renfrew-Letter-Carrier-Delivery-Agent-ON/606191017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison - Drummondville 1",
+"company": "Canada Post",
+"location": "Drummondville, QC, CA",
+"posted": "2026-10-16T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Drummondville-Facteur-Agent-de-livraison-Drummondville-1-QC/598474817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Pointe-au-Pic, QC, CA",
+"posted": "2026-10-16T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Pointe-au-Pic-Post-Office-Assistant-Term-QC/603519017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "Sessional Lecturer - WGS273H1S - Gender and Environmental (In)Justice",
 "company": "University of Toronto",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-16T00:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-WGS273H1S-Gender-and-Environmental-%28In%29Justice-ON/607078617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Représentant vente au détail saisonnier, Quartier Dix30",
+"company": "Bell",
+"location": "Brossard, QC, CA",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Brossard-Repr%C3%A9sentant-vente-au-d%C3%A9tail-saisonnier%2C-Quartier-Dix30-QC/1440790500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Quartier Dix30",
+"company": "Bell",
+"location": "Brossard, QC, CA",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Brossard-Seasonal-Retail-Sales-Associate%2C-Quartier-Dix30-QC/1440790400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Cloud Solutions Architect",
+"company": "OPG",
+"location": "Oshawa, ON, CA, L1H 8W8",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.opg.com/job/Oshawa-Cloud-Solutions-Architect-ON-L1H-8W8/607080917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "OPG careers"
+},
+{
+"title": "Agent.e, Méthodes, Équipes Naturelles (Green)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Agent_e%2C-M%C3%A9thodes%2C-%C3%89quipes-Naturelles-%28Green%29-Qu%C3%A9b-H4S-1Y9/1448514233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Methods Agent, Natural Team (Green)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Methods-Agent%2C-Natural-Team-%28Green%29-Qu%C3%A9b-H4S-1Y9/1448514133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Stagiaire, Planification et analyse financière (Hiver 2027)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Stagiaire%2C-Planification-et-analyse-financi%C3%A8re-%28Hiver-2027%29-Qu%C3%A9b-H4S-1Y9/1448562833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Intern, Financial Planning & Analysis (Winter 2027)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Financial-Planning-&-Analysis-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1448562633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Chief Administrative Officer",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Chief-Administrative-Officer-ON/607082317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Water & Wastwater Infrastructure Planning Co-op Student (10 - Halton Regional Centre - , 10 - Halton Regional Centre - 1151 Bronte Road, Oakville (Public Works), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/10-Halton-Regional-Centre-Water-&-Wastwater-Infrastructure-Planning-Co-op-Student-10/607083117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
 },
 {
 "title": "Building envelope engineer",
@@ -1255,6 +1471,38 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-10-15",
 "link": "https://ca.indeed.com/viewjob?jk=5caaf0bb4eca9d9c",
+"source": "Indeed"
+},
+{
+"title": "Engineer I",
+"company": "Framatome North America",
+"location": "Pickering, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=da8386288b8d9aae",
+"source": "Indeed"
+},
+{
+"title": "Principal Project Engineer (Onsite)",
+"company": "Collins Aerospace",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=0fa7a01a20ea982f",
+"source": "Indeed"
+},
+{
+"title": "Java Application Support Engineer (L2/L3)",
+"company": "Cognizant",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=995f5e9d61afe433",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer and Full-Stack Developer",
+"company": "",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-15",
+"link": "https://ca.indeed.com/viewjob?jk=d1b9c9876fcdfa84",
 "source": "Indeed"
 },
 {
