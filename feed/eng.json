@@ -1,12 +1,20 @@
 {
-"updated": "2026-10-17T10:13:00+00:00",
+"updated": "2026-10-17T13:51:42+00:00",
 "jobs": [
 {
-"title": "Senior Site Reliability Engineer",
-"company": "RBC",
+"title": "Mechanical Design (Structural Design & Analysis) Engineer",
+"company": "Curtiss-Wright",
+"location": "Newmarket, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=efd451737e56d199",
+"source": "Indeed"
+},
+{
+"title": "Sr. IFRS17 Data Engineer",
+"company": "Realign",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=4fd601908ea09479",
+"link": "https://ca.indeed.com/viewjob?jk=e00b33c2d2ddaf68",
 "source": "Indeed"
 },
 {
@@ -18,11 +26,11 @@
 "source": "Indeed"
 },
 {
-"title": "Sr. IFRS17 Data Engineer",
-"company": "Realign",
+"title": "Senior Site Reliability Engineer",
+"company": "RBC",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=e00b33c2d2ddaf68",
+"link": "https://ca.indeed.com/viewjob?jk=4fd601908ea09479",
 "source": "Indeed"
 },
 {
@@ -304,6 +312,38 @@
 "posted": "2026-10-17T07:00:00+00:00",
 "link": "https://careers.purolator.com/job/Lachine-Manutentionnaire-Queb-H8R-1A1/1431504700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
+},
+{
+"title": "Conseiller aux ventes saisonnier, Stanton Medical Centre",
+"company": "Bell",
+"location": "Yellowknife, NT, CA",
+"posted": "2026-10-17T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Yellowknife-Conseiller-aux-ventes-saisonnier%2C-Stanton-Medical-Centre-NT/1431740300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Gest. princ. de produits, stratégie prix",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Gest_-princ_-de-produits%2C-strat%C3%A9gie-prix-ON/1431636600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Operations Expert, Bridgewater",
+"company": "Bell",
+"location": "Bridgewater, NS, CA",
+"posted": "2026-10-17T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Bridgewater-Operations-Expert%2C-Bridgewater-NS/1431602900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Stanton Medical Centre",
+"company": "Bell",
+"location": "Yellowknife, NT, CA",
+"posted": "2026-10-17T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Yellowknife-Seasonal-Retail-Sales-Associate%2C-Stanton-Medical-Centre-NT/1431740400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Store Manager Koodo | Cottonwood Mall",
@@ -690,11 +730,51 @@
 "source": "Canada Post careers"
 },
 {
+"title": "Postmaster - Premises provided by Postmaster (Group Office) RVSGA10 (89115875)",
+"company": "Canada Post",
+"location": "Fishing Lake, AB, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Fishing-Lake-Postmaster-Premises-provided-by-Postmaster-%28Group-Office%29-RVSGA10-%2889115875%29-AB/605415417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison et commis des postes",
+"company": "Canada Post",
+"location": "Antigonish, NS, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Antigonish-Facteur-Agent-de-livraison-et-commis-des-postes-NS/606253717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Wedgeport, NS, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Wedgeport-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-NS/595444517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Sault Ste Marie, ON, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Sault-Ste-Marie-Letter-Carrier-Delivery-Agent-ON/604566317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "Retail Representative",
 "company": "Purolator",
 "location": "Edmonton, AB, CA, T5S 2N4",
 "posted": "2026-10-17T00:00:00+00:00",
 "link": "https://careers.purolator.com/job/Edmonton-Retail-Representative-AB-T5S-2N4/1441089800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Sorter PM 576",
+"company": "Purolator",
+"location": "Etobicoke, ON, CA, M9W 7C3",
+"posted": "2026-10-17T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Etobicoke-Sorter-PM-576-ON-M9W-7C3/1441103900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
 },
 {
@@ -1727,6 +1807,78 @@
 "location": "Guelph, ON, CA (remote)",
 "posted": "2026-10-16",
 "link": "https://ca.indeed.com/viewjob?jk=fab12de71cbfe314",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer II, User Targeting",
+"company": "Braze",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=c5d53bab89fc9634",
+"source": "Indeed"
+},
+{
+"title": "Emulation Performance/Debug Engineer",
+"company": "Qualcomm",
+"location": "Markham, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=d738a8760d1de18c",
+"source": "Indeed"
+},
+{
+"title": "Engineer - Project, Junior",
+"company": "Linamar",
+"location": "Guelph, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=4df36c13a1ce6772",
+"source": "Indeed"
+},
+{
+"title": "Staff Software Engineer - Full-Stack, Solution Architecture",
+"company": "Blazesoft",
+"location": "Concord, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=13981d3bfc3ae678",
+"source": "Indeed"
+},
+{
+"title": "SoC Debug Engineer, Senior Staff",
+"company": "Qualcomm",
+"location": "Markham, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=4b95d6e7c0ca44d6",
+"source": "Indeed"
+},
+{
+"title": "Continuous Improvement Analyst",
+"company": "Ippolito Group",
+"location": "Burlington, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=c05f3f512151ada5",
+"source": "Indeed"
+},
+{
+"title": "Senior Product Designer",
+"company": "GS1 Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=fdd4a0b515494473",
+"source": "Indeed"
+},
+{
+"title": "Senior Advanced Manufacturing Engineer",
+"company": "MatcorMatsu",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=c3e44f5891512bff",
+"source": "Indeed"
+},
+{
+"title": "FPGA Digital Design Engineer",
+"company": "Kepler Communications",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=ced4e053fe2cd9c9",
 "source": "Indeed"
 },
 {
@@ -3128,6 +3280,14 @@
 "posted": "2026-10-16T00:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Mississauga-Landscape-Technician-I-ON/607094917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Mechanic Diesel 520",
+"company": "Purolator",
+"location": "Dieppe, New Brunswick, CA, E1A 7P5",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Dieppe-Mechanic-Diesel-520-New-E1A-7P5/1440818700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
 },
 {
 "title": "Building envelope engineer",

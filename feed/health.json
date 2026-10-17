@@ -1,84 +1,44 @@
 {
-"updated": "2026-10-17T10:13:00+00:00",
+"updated": "2026-10-17T13:51:42+00:00",
 "jobs": [
 {
-"title": "Personal support worker - home support",
-"company": "VON Canada",
-"location": "New Tecumseth, Ontario, Canada",
+"title": "Urgent Hiring Physiotherapist in Markham",
+"company": "XZ RMT PHYSIO clinic",
+"location": "Markham, ON, CA",
 "posted": "2026-10-17",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521343",
-"source": "Job Bank"
-},
-{
-"title": "Personal support worker - home support",
-"company": "VON Canada",
-"location": "Orangeville, Ontario, Canada",
-"posted": "2026-10-17",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521335",
-"source": "Job Bank"
-},
-{
-"title": "Registered practical nurse (R.P.N.)",
-"company": "VON Canada",
-"location": "Brantford, Ontario, Canada",
-"posted": "2026-10-17",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521256",
-"source": "Job Bank"
-},
-{
-"title": "Visiting nurse",
-"company": "CarePartners",
-"location": "Brampton, Ontario, Canada",
-"posted": "2026-10-17",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521315",
-"source": "Job Bank"
-},
-{
-"title": "Certified Dental Assistant",
-"company": "",
-"location": "Stouffville, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=171d5851d318b610",
+"link": "https://ca.indeed.com/viewjob?jk=60d26772e92a4105",
 "source": "Indeed"
 },
 {
-"title": "Administrative Assistant / Health Care Assistant",
-"company": "Blowers Family Medicine",
+"title": "Medical Receptionist",
+"company": "ONE Fertility",
+"location": "Burlington, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=41efa011ca51365f",
+"source": "Indeed"
+},
+{
+"title": "Medical Receptionist",
+"company": "Insight Diagnostic Imaging Corp.",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=f21fdb9fcfda2401",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy Assistant",
+"company": "Specialty Pharmacy",
 "location": "Ajax, ON, CA",
 "posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=38daf88c61ec648e",
+"link": "https://ca.indeed.com/viewjob?jk=cb10a961b3b28a91",
 "source": "Indeed"
 },
 {
-"title": "Developmental Service Worker",
-"company": "Genesis Community Rehabilitation, Inc.",
-"location": "Brampton, ON, CA",
+"title": "Physiotherapist Assistant PTA/ Kinesiologist",
+"company": "Precision Physiotherapy",
+"location": "Hamilton, ON, CA",
 "posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=f660da44ce0556a2",
-"source": "Indeed"
-},
-{
-"title": "Developmental Service Worker",
-"company": "Genesis Community Rehabilitation, Inc.",
-"location": "Richmond Hill, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=a8e2d377631a121f",
-"source": "Indeed"
-},
-{
-"title": "Part-Time Developmental Support Worker- Adult Services",
-"company": "Bethesda Community Services",
-"location": "Vineland, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=a704f91fadc48417",
-"source": "Indeed"
-},
-{
-"title": "Physiotherapist Assistant (PTA) / Front Desk Receptionist",
-"company": "",
-"location": "North York, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=183a105d48022247",
+"link": "https://ca.indeed.com/viewjob?jk=5c8d9650cefd0a8f",
 "source": "Indeed"
 },
 {
@@ -90,12 +50,84 @@
 "source": "Indeed"
 },
 {
-"title": "Physiotherapist Assistant PTA/ Kinesiologist",
-"company": "Precision Physiotherapy",
-"location": "Hamilton, ON, CA",
+"title": "Physiotherapist Assistant (PTA) / Front Desk Receptionist",
+"company": "",
+"location": "North York, ON, CA",
 "posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=5c8d9650cefd0a8f",
+"link": "https://ca.indeed.com/viewjob?jk=183a105d48022247",
 "source": "Indeed"
+},
+{
+"title": "Part-Time Developmental Support Worker- Adult Services",
+"company": "Bethesda Community Services",
+"location": "Vineland, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=a704f91fadc48417",
+"source": "Indeed"
+},
+{
+"title": "Developmental Service Worker",
+"company": "Genesis Community Rehabilitation, Inc.",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=a8e2d377631a121f",
+"source": "Indeed"
+},
+{
+"title": "Developmental Service Worker",
+"company": "Genesis Community Rehabilitation, Inc.",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=f660da44ce0556a2",
+"source": "Indeed"
+},
+{
+"title": "Administrative Assistant / Health Care Assistant",
+"company": "Blowers Family Medicine",
+"location": "Ajax, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=38daf88c61ec648e",
+"source": "Indeed"
+},
+{
+"title": "Certified Dental Assistant",
+"company": "",
+"location": "Stouffville, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=171d5851d318b610",
+"source": "Indeed"
+},
+{
+"title": "Visiting nurse",
+"company": "CarePartners",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521315",
+"source": "Job Bank"
+},
+{
+"title": "Registered practical nurse (R.P.N.)",
+"company": "VON Canada",
+"location": "Brantford, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521256",
+"source": "Job Bank"
+},
+{
+"title": "Personal support worker - home support",
+"company": "VON Canada",
+"location": "Orangeville, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521335",
+"source": "Job Bank"
+},
+{
+"title": "Personal support worker - home support",
+"company": "VON Canada",
+"location": "New Tecumseth, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521343",
+"source": "Job Bank"
 },
 {
 "title": "Sales Associate - Oshawa Centre",
@@ -400,6 +432,14 @@
 "posted": "2026-10-17T07:00:00+00:00",
 "link": "https://careers.purolator.com/job/Lachine-Manutentionnaire-Queb-H8R-1A1/1431504700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
+},
+{
+"title": "Gest. princ. de produits, stratégie prix",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Gest_-princ_-de-produits%2C-strat%C3%A9gie-prix-ON/1431636600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Store Manager Koodo | Cottonwood Mall",
@@ -770,11 +810,67 @@
 "source": "University of Toronto careers"
 },
 {
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Rigaud, QC, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Rigaud-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/606253517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Franklin Centre, QC, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Franklin-Centre-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/606254817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison et commis des postes",
+"company": "Canada Post",
+"location": "Antigonish, NS, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Antigonish-Facteur-Agent-de-livraison-et-commis-des-postes-NS/606253717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Wedgeport, NS, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Wedgeport-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-NS/595444517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Ayer's Cliff, QC, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ayer's-Cliff-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/593083817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Sault Ste Marie, ON, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Sault-Ste-Marie-Letter-Carrier-Delivery-Agent-ON/604566317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "Retail Representative",
 "company": "Purolator",
 "location": "Edmonton, AB, CA, T5S 2N4",
 "posted": "2026-10-17T00:00:00+00:00",
 "link": "https://careers.purolator.com/job/Edmonton-Retail-Representative-AB-T5S-2N4/1441089800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Sorter PM 576",
+"company": "Purolator",
+"location": "Etobicoke, ON, CA, M9W 7C3",
+"posted": "2026-10-17T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Etobicoke-Sorter-PM-576-ON-M9W-7C3/1441103900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
 },
 {
@@ -2194,6 +2290,14 @@
 "source": "Indeed"
 },
 {
+"title": "Medical Assistant/Medical Office Administrator",
+"company": "LMC Healthcare",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=852246bf382769f7",
+"source": "Indeed"
+},
+{
 "title": "Solution Architect - IoT",
 "company": "Rogers",
 "location": "Toronto, ON, CA",
@@ -3592,6 +3696,14 @@
 "posted": "2026-10-16T00:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Mississauga-Landscape-Technician-I-ON/607094917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Mechanic Diesel 520",
+"company": "Purolator",
+"location": "Dieppe, New Brunswick, CA, E1A 7P5",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Dieppe-Mechanic-Diesel-520-New-E1A-7P5/1440818700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
 },
 {
 "title": "Physiotherapist",

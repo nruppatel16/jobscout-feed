@@ -1,108 +1,20 @@
 {
-"updated": "2026-10-17T10:13:00+00:00",
+"updated": "2026-10-17T13:51:42+00:00",
 "jobs": [
 {
-"title": "AZ/DZ Driver",
-"company": "Bobcat of Tri Cities Ltd",
-"location": "Fergus, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=38696ad9d3177fd9",
-"source": "Indeed"
-},
-{
-"title": "Physiotherapist Assistant (PTA) / Front Desk Receptionist",
-"company": "",
-"location": "North York, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=183a105d48022247",
-"source": "Indeed"
-},
-{
-"title": "Barista / Customer Service – Part-Time & Full-Time",
-"company": "Tripletta",
-"location": "Concord, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=a01e35f8bafa0864",
-"source": "Indeed"
-},
-{
-"title": "Food Counter Attendant",
-"company": "Quesada Burritos and Tacos",
-"location": "Mississauga, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=aa183dd8422a1870",
-"source": "Indeed"
-},
-{
-"title": "Executive Assistant",
-"company": "THE LEO BAECK DAY SCHOOL",
+"title": "Medical Receptionist",
+"company": "Insight Diagnostic Imaging Corp.",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=359dfb70b7c88b91",
+"link": "https://ca.indeed.com/viewjob?jk=f21fdb9fcfda2401",
 "source": "Indeed"
 },
 {
-"title": "Compensation research analyst",
-"company": "Bell Canada",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-17",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521438",
-"source": "Job Bank"
-},
-{
-"title": "Administrative Assistant / Health Care Assistant",
-"company": "Blowers Family Medicine",
-"location": "Ajax, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=38daf88c61ec648e",
-"source": "Indeed"
-},
-{
-"title": "Sales Representative",
-"company": "AGARDY GLASS & ALUMINIUM INC.",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=f46dfd24ee57808b",
-"source": "Indeed"
-},
-{
-"title": "Sales Associate/Customer Service Representative",
-"company": "Bliss Vapes",
+"title": "Full-time Receptionist/Sales Coordinator",
+"company": "Options Consulting Solutions",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=1c5fa579da83970d",
-"source": "Indeed"
-},
-{
-"title": "B2B Inside Sales Representative – Funeral & Cemetery Industry",
-"company": "thermo digital inc",
-"location": "Maple, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=5e672ebf4e99d292",
-"source": "Indeed"
-},
-{
-"title": "Executive Assistant to CEO",
-"company": "Media Nexus",
-"location": "Vaughan, ON, CA (remote)",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=418b6e4c7cbc8fc7",
-"source": "Indeed"
-},
-{
-"title": "Cashier, Hourly Part Time Flexible Shifts",
-"company": "Shoppers Drug Mart",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=58a2f933c9958782",
-"source": "Indeed"
-},
-{
-"title": "Assistant Front Store Manager, Hourly Full Time Flexible Shifts",
-"company": "Shoppers Drug Mart",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=75fceeae36994122",
+"link": "https://ca.indeed.com/viewjob?jk=c1f4bcd92821fca8",
 "source": "Indeed"
 },
 {
@@ -114,11 +26,107 @@
 "source": "Indeed"
 },
 {
-"title": "Full-time Receptionist/Sales Coordinator",
-"company": "Options Consulting Solutions",
+"title": "Assistant Front Store Manager, Hourly Full Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-17",
-"link": "https://ca.indeed.com/viewjob?jk=c1f4bcd92821fca8",
+"link": "https://ca.indeed.com/viewjob?jk=75fceeae36994122",
+"source": "Indeed"
+},
+{
+"title": "Cashier, Hourly Part Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=58a2f933c9958782",
+"source": "Indeed"
+},
+{
+"title": "Executive Assistant to CEO",
+"company": "Media Nexus",
+"location": "Vaughan, ON, CA (remote)",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=418b6e4c7cbc8fc7",
+"source": "Indeed"
+},
+{
+"title": "B2B Inside Sales Representative – Funeral & Cemetery Industry",
+"company": "thermo digital inc",
+"location": "Maple, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=5e672ebf4e99d292",
+"source": "Indeed"
+},
+{
+"title": "Sales Associate/Customer Service Representative",
+"company": "Bliss Vapes",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=1c5fa579da83970d",
+"source": "Indeed"
+},
+{
+"title": "Sales Representative",
+"company": "AGARDY GLASS & ALUMINIUM INC.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=f46dfd24ee57808b",
+"source": "Indeed"
+},
+{
+"title": "Administrative Assistant / Health Care Assistant",
+"company": "Blowers Family Medicine",
+"location": "Ajax, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=38daf88c61ec648e",
+"source": "Indeed"
+},
+{
+"title": "Compensation research analyst",
+"company": "Bell Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50521438",
+"source": "Job Bank"
+},
+{
+"title": "Executive Assistant",
+"company": "THE LEO BAECK DAY SCHOOL",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=359dfb70b7c88b91",
+"source": "Indeed"
+},
+{
+"title": "Food Counter Attendant",
+"company": "Quesada Burritos and Tacos",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=aa183dd8422a1870",
+"source": "Indeed"
+},
+{
+"title": "Barista / Customer Service – Part-Time & Full-Time",
+"company": "Tripletta",
+"location": "Concord, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=a01e35f8bafa0864",
+"source": "Indeed"
+},
+{
+"title": "Physiotherapist Assistant (PTA) / Front Desk Receptionist",
+"company": "",
+"location": "North York, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=183a105d48022247",
+"source": "Indeed"
+},
+{
+"title": "AZ/DZ Driver",
+"company": "Bobcat of Tri Cities Ltd",
+"location": "Fergus, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=38696ad9d3177fd9",
 "source": "Indeed"
 },
 {
@@ -424,6 +432,14 @@
 "posted": "2026-10-17T07:00:00+00:00",
 "link": "https://careers.purolator.com/job/Lachine-Manutentionnaire-Queb-H8R-1A1/1431504700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
+},
+{
+"title": "Conseiller aux ventes saisonnier, Stanton Medical Centre",
+"company": "Bell",
+"location": "Yellowknife, NT, CA",
+"posted": "2026-10-17T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Yellowknife-Conseiller-aux-ventes-saisonnier%2C-Stanton-Medical-Centre-NT/1431740300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Store Manager Koodo | Cottonwood Mall",
@@ -874,11 +890,35 @@
 "source": "Canada Post careers"
 },
 {
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Rigaud, QC, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Rigaud-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/606253517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Franklin Centre, QC, CA",
+"posted": "2026-10-17T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Franklin-Centre-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/606254817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "Retail Representative",
 "company": "Purolator",
 "location": "Edmonton, AB, CA, T5S 2N4",
 "posted": "2026-10-17T00:00:00+00:00",
 "link": "https://careers.purolator.com/job/Edmonton-Retail-Representative-AB-T5S-2N4/1441089800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Sorter PM 576",
+"company": "Purolator",
+"location": "Etobicoke, ON, CA, M9W 7C3",
+"posted": "2026-10-17T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Etobicoke-Sorter-PM-576-ON-M9W-7C3/1441103900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
 },
 {
@@ -3114,6 +3154,22 @@
 "source": "Indeed"
 },
 {
+"title": "Paid Social Specialist",
+"company": "Robert Half",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-16",
+"link": "https://www.linkedin.com/jobs/view/4479351792",
+"source": "LinkedIn"
+},
+{
+"title": "Administrator, Client Service Delivery",
+"company": "Independent Electricity System Operator",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=9f97f1da1a52a43a",
+"source": "Indeed"
+},
+{
 "title": "Solution Architect - IoT",
 "company": "Rogers",
 "location": "Toronto, ON, CA",
@@ -4632,6 +4688,14 @@
 "posted": "2026-10-16T00:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Mississauga-Landscape-Technician-I-ON/607094917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Mechanic Diesel 520",
+"company": "Purolator",
+"location": "Dieppe, New Brunswick, CA, E1A 7P5",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Dieppe-Mechanic-Diesel-520-New-E1A-7P5/1440818700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
 },
 {
 "title": "Retail Merchandise Processing Coordinator- warehouse- - Pen Centre St Catharines",
