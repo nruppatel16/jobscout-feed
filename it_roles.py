@@ -83,7 +83,7 @@ NON_IT = [
     "human resources", "hr generalist", "marketing", "social media", "receptionist",
     "administrative assistant", "executive assistant", "office assistant", "legal", "lawyer",
     "paralegal", "law clerk", "social worker", "counsellor", "youth worker", "pastor",
-    "maintenance", "housekeeping", "food", "beauty", "cosmetic", "hair", "nail", "spa",
+    "maintenance", "administrative support", "mailroom", "equipment operator", "trade support", "housekeeping", "food", "beauty", "cosmetic", "hair", "nail", "spa",
     "fitness", "lifeguard", "concierge", "branch", "banking advisor", "client advisor",
     "sales advisor", "beauty advisor",
 ]
