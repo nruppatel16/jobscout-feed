@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-17T16:51:37+00:00",
+"updated": "2026-10-17T19:02:42+00:00",
 "jobs": [
 {
 "title": "Mechanical Design (Structural Design & Analysis) Engineer",
@@ -1922,6 +1922,30 @@
 "source": "Indeed"
 },
 {
+"title": "Senior IT Systems Engineer",
+"company": "Upsun",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=c500049f198b778e",
+"source": "Indeed"
+},
+{
+"title": "Staff Full-Stack Engineer – C#, React, Distributed Systems",
+"company": "Finlink Group",
+"location": "Newmarket, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=f7aa4200faa82575",
+"source": "Indeed"
+},
+{
+"title": "Laboratory Attendant 1",
+"company": "Public Health Ontario",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=c0f7a195d28e4b15",
+"source": "Indeed"
+},
+{
 "title": "Solution Architect - IoT",
 "company": "Rogers",
 "location": "Toronto, ON, CA",
@@ -3328,6 +3352,14 @@
 "posted": "2026-10-16T00:00:00+00:00",
 "link": "https://careers.purolator.com/job/Dieppe-Mechanic-Diesel-520-New-E1A-7P5/1440818700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
+},
+{
+"title": "Senior Manager, Information Security",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Senior-Manager%2C-Information-Security-ON/607109817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
 }
 ]
 }

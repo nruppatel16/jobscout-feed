@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-17T16:51:37+00:00",
+"updated": "2026-10-17T19:02:42+00:00",
 "jobs": [
 {
 "title": "Sr. Accounting / IFRS17 Analyst",
@@ -79,6 +79,30 @@
 "location": "Markham, ON, CA",
 "posted": "2026-10-17",
 "link": "https://ca.indeed.com/viewjob?jk=1b5dd269529318cf",
+"source": "Indeed"
+},
+{
+"title": "Manager, Data Strategy",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=af125273cf6bd814",
+"source": "Indeed"
+},
+{
+"title": "Manager, ML Engineer",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=c21ce21b54898ce9",
+"source": "Indeed"
+},
+{
+"title": "Senior Site Reliability Engineer",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=4fd601908ea09479",
 "source": "Indeed"
 },
 {
@@ -2666,6 +2690,86 @@
 "source": "Indeed"
 },
 {
+"title": "Senior Project Controller",
+"company": "Pattern Energy Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=082ea061332e6ed2",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager, Salesforce Delivery",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=bd109371b46dafb8",
+"source": "Indeed"
+},
+{
+"title": "Enterprise Change Manager",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=e8509f981190b67b",
+"source": "Indeed"
+},
+{
+"title": "Sr. Consultant, Solution Design",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=ac6eddb2535b2c50",
+"source": "Indeed"
+},
+{
+"title": "Senior Specialist, Corporate Actions Response Tendering",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=06f6e2f8eec417a5",
+"source": "Indeed"
+},
+{
+"title": "Technology Product Management Senior Manager",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=1095b009477b7110",
+"source": "Indeed"
+},
+{
+"title": "FX Application Infrastructure Engineer, VIce President",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=aba057c7dd594ef8",
+"source": "Indeed"
+},
+{
+"title": "Senior Full Stack Java Developer",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=2a037fab9c526b07",
+"source": "Indeed"
+},
+{
+"title": "Lead Software Engineer – Margin Technology - VP",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=95d52f9c3ebb9afb",
+"source": "Indeed"
+},
+{
+"title": "Business Office Coordinator",
+"company": "Amica Senior Lifestyles",
+"location": "Dundas, ON, CA",
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=b070b1a1132bd56d",
+"source": "Indeed"
+},
+{
 "title": "Solution Architect - IoT",
 "company": "Rogers",
 "location": "Toronto, ON, CA",
@@ -3975,6 +4079,14 @@
 "location": "Mississauga, ON, CA",
 "posted": "2026-10-16T00:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Mississauga-Landscape-Technician-I-ON/607094917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Senior Manager, Information Security",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-16T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Senior-Manager%2C-Information-Security-ON/607109817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
 }
 ]
