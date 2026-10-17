@@ -1,69 +1,16 @@
 {
- "updated": "2026-10-17T21:36:20+00:00",
+ "updated": "2026-10-17T22:06:14+00:00",
  "fields": {
   "tech": {
    "found_this_run": {
-    "Indeed": 104,
-    "LinkedIn": 3,
-    "Job Bank": 45,
-    "Employer career sites": 1327
+    "Indeed": 814,
+    "LinkedIn": 2,
+    "Job Bank": 268,
+    "Employer career sites": 14304,
+    "kept as IT": 3618
    },
-   "in_feed": 506
-  },
-  "finance": {
-   "found_this_run": {
-    "Indeed": 138,
-    "LinkedIn": 0,
-    "Job Bank": 25,
-    "Employer career sites": 919
-   },
-   "in_feed": 513
-  },
-  "health": {
-   "found_this_run": {
-    "Indeed": 78,
-    "LinkedIn": 0,
-    "Job Bank": 25,
-    "Employer career sites": 1197
-   },
-   "in_feed": 501
-  },
-  "business": {
-   "found_this_run": {
-    "Indeed": 147,
-    "LinkedIn": 1,
-    "Job Bank": 34,
-    "Employer career sites": 1590
-   },
-   "in_feed": 668
-  },
-  "eng": {
-   "found_this_run": {
-    "Indeed": 91,
-    "LinkedIn": 0,
-    "Job Bank": 25,
-    "Employer career sites": 1349
-   },
-   "in_feed": 433
-  },
-  "edu": {
-   "found_this_run": {
-    "Indeed": 47,
-    "LinkedIn": 0,
-    "Job Bank": 0,
-    "Employer career sites": 1193
-   },
-   "in_feed": 413
-  },
-  "any": {
-   "found_this_run": {
-    "Indeed": 200,
-    "LinkedIn": 0,
-    "Job Bank": 27,
-    "Employer career sites": 1015
-   },
-   "in_feed": 967
+   "in_feed": 257
   }
  },
- "seconds": 908
+ "seconds": 545
 }
