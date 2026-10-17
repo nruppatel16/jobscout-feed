@@ -43,14 +43,21 @@ const STATUSES = ['New', 'Applied', 'Not interested', 'Closed'];
 
 const COMPANY_HEADERS = ['Company', 'Careers link (any job link from their careers site)', 'Detected as', 'Last check', 'Added by'];
 
-// Pick a field in Settings → its keywords and a starter pack of employers fill in
-// automatically. Every employer here was checked against its live job feed (Sept 2026).
+// Every IT role, entry to mid level — including the many jobs that do IT work
+// without "IT" in the title (implementation, onboarding, customer success, field
+// service, POS, CRM/ERP…). Same lists as the job agent's src/it_roles.py:
+// a title is IT if it names none of HARD_EXCLUDE, and either a STRONG_IT word,
+// or an IT_KEYWORDS word and none of NON_IT.
+const STRONG_IT = [".net", "active directory", "ai", "analytics", "android", "angular", "api", "application", "application support", "applications", "artificial intelligence", "aws", "azure", "back end", "back-end", "backend", "bi", "blockchain", "business intelligence", "c#", "cloud", "coder", "computer", "computer vision", "crm", "cyber", "cybersecurity", "data", "data center", "data centre", "database", "dba", "deskside", "desktop support", "developer", "devops", "devsecops", "dynamics 365", "embedded", "end user", "erp", "etl", "euc", "firmware", "front end", "front-end", "frontend", "full stack", "full-stack", "fullstack", "game developer", "gameplay", "gcp", "golang", "google workspace", "help desk", "helpdesk", "i.t.", "implementation", "informatics", "information security", "information systems", "information technology", "infosec", "infrastructure", "integration", "intune", "ios", "iot", "it", "it support", "java", "javascript", "kubernetes", "linux", "llm", "m365", "machine learning", "microsoft 365", "ml", "mlops", "mobile app", "mobile developer", "network", "networking", "nlp", "noc", "node.js", "office 365", "oracle", "penetration", "pentest", "power apps", "power bi", "power platform", "pre-sales", "presales", "programmer", "python", "qa", "quality assurance", "react", "rpa", "saas", "sales engineer", "salesforce", "sap", "sdet", "service desk", "servicenow", "sharepoint", "site reliability", "soc analyst", "software", "software tester", "solutions engineer", "sql", "sre", "sysadmin", "systems administrator", "systems analyst", "tableau", "tech support", "technical account", "technical support", "technology", "telecom", "telecommunications", "terraform", "test automation", "typescript", "uipath", "unity developer", "unix", "web developer", "workday"];
+const IT_KEYWORDS = [".net", "active directory", "administrator", "agile", "ai", "analytics", "android", "angular", "api", "application", "application support", "applications", "architect", "artificial intelligence", "atlassian", "audio visual", "automation", "av technician", "aws", "azure", "back end", "back-end", "backend", "bi", "blockchain", "business analyst", "business intelligence", "business systems", "c#", "cabling", "client success", "client support", "cloud", "coder", "computer", "computer vision", "configuration", "crm", "customer success", "customer support", "cyber", "cybersecurity", "data", "data center", "data centre", "database", "dba", "deskside", "desktop support", "developer", "developer relations", "devops", "devrel", "devsecops", "digital", "digital transformation", "documentation", "dynamics 365", "e-commerce", "ecommerce", "embedded", "end user", "endpoint", "engineer", "erp", "etl", "euc", "field service", "firmware", "forensics", "front end", "front-end", "frontend", "full stack", "full-stack", "fullstack", "functional consultant", "game developer", "gameplay", "gcp", "gis", "golang", "google workspace", "grc", "hardware", "help desk", "helpdesk", "i.t.", "iam", "identity", "implementation", "incident response", "informatics", "information security", "information systems", "information technology", "infosec", "infrastructure", "integration", "intune", "ios", "iot", "it", "it coordinator", "it support", "java", "javascript", "jira", "kubernetes", "linux", "llm", "m365", "machine learning", "mdm", "microsoft 365", "ml", "mlops", "mobile", "mobile app", "mobile developer", "network", "networking", "nlp", "noc", "node.js", "office 365", "onboarding", "onsite support", "operations analyst", "oracle", "penetration", "pentest", "platform", "pos", "power apps", "power bi", "power platform", "pre-sales", "presales", "privacy", "product analyst", "product manager", "product owner", "product specialist", "product support", "professional services", "programmer", "python", "qa", "quality assurance", "react", "reporting", "robotics", "rpa", "saas", "sales engineer", "salesforce", "sap", "scientist", "scrum", "sdet", "security", "service desk", "servicenow", "sharepoint", "shopify", "site reliability", "soc analyst", "software", "software tester", "solution", "solutions", "solutions engineer", "sql", "sre", "support", "sysadmin", "system", "systems", "systems administrator", "systems analyst", "tableau", "tech", "tech support", "technical", "technical account", "technical support", "technical trainer", "technical writer", "technician", "technologist", "technology", "telecom", "telecommunications", "terraform", "test", "test automation", "tester", "testing", "threat", "tier 1", "tier 2", "tier 3", "typescript", "ui", "uipath", "unity developer", "unix", "user experience", "user interface", "ux", "voip", "vulnerability", "web", "web developer", "webmaster", "wireless", "wordpress", "workday"];
+const NON_IT = ["accountant", "accounting", "administrative assistant", "aerodynamic", "aerospace", "aircraft", "automotive", "avionics", "banking advisor", "barista", "bartender", "beauty", "beauty advisor", "biologist", "biology", "bookkeeper", "branch", "broadcast", "building", "caregiver", "carpenter", "chef", "chemical", "chemist", "chemistry", "chiropractor", "civil", "claims", "client advisor", "communications", "concierge", "construction", "cook", "cosmetic", "counsellor", "courier", "crane", "delivery", "dental", "dentist", "doctor", "driver", "drug", "early childhood", "ece", "educator", "electrical", "electrical engineer", "electrician", "engineering technician", "environmental", "executive assistant", "financial advisor", "financial planner", "fire", "fire alarm", "fitness", "flight", "fly-by-wire", "food", "food server", "geotechnical", "hair", "heavy equipment", "housekeeping", "hr generalist", "human resources", "hvac", "hygiene", "hygienist", "industrial engineer", "instructional", "insurance advisor", "investment advisor", "journalist", "kitchen", "lab", "lab technician", "laboratory", "landscape", "landscaper", "law clerk", "lawyer", "leasing", "legal", "lifeguard", "machinist", "maintenance", "manufacturing engineer", "marketing", "mechanic", "mechanical", "medical laboratory", "merchandiser", "millwright", "mining", "mortgage", "music", "nail", "ndt", "nurse", "nursing", "office assistant", "operating engineer", "optician", "painter", "paralegal", "paramedic", "pastor", "payroll", "petroleum", "pharmacist", "pharmacy", "phlebotomist", "physician", "physiotherapist", "plumber", "power engineer", "process engineer", "program", "real estate", "realtor", "receptionist", "recruiter", "restaurant server", "retail", "rn", "roofer", "rpn", "sales advisor", "sales associate", "social media", "social worker", "spa", "stability", "stationary engineer", "store", "storytelling", "structural", "talent acquisition", "tax", "teacher", "teller", "theatre", "therapist", "truck", "tutor", "underwriter", "veterinary", "warehouse", "welder", "youth worker"];
+const HARD_EXCLUDE = ["cashier", "cleaner", "custodian", "data entry", "dishwasher", "forklift", "general labour", "housekeeper", "janitor", "laborer", "labourer", "loss prevention", "material handler", "nanny", "packer", "personal support", "personal support worker", "picker", "professor", "psw", "security guard", "security officer - patrol", "support worker"];
+
+const IT_FIELD = 'IT (every role)';
 const FIELDS = {
-  'Tech & Data': {
-    keywords: 'software, developer, engineer, data, analyst, IT, cloud, security, QA, web, devops, machine learning, AI',
-    search: 'software developer | data analyst | IT support',
-    // Canadian-heavy employers that hire co-op/new-grad tech talent (big US-only boards
-    // like Stripe or Databricks were slow and produced no local jobs).
+  [IT_FIELD]: {
+    keywords: '',
+    search: 'software developer | data analyst | IT support | help desk | technical support | business analyst | cloud engineer | cybersecurity analyst | QA analyst | implementation specialist | network administrator | systems administrator',
     companies: [
       ['Cohere', 'https://jobs.ashbyhq.com/cohere'], ['Faire', 'https://boards.greenhouse.io/faire'],
       ['D2L', 'https://boards.greenhouse.io/d2l'], ['Wattpad', 'https://jobs.lever.co/wattpad'],
@@ -60,76 +67,12 @@ const FIELDS = {
       ['Sun Life', 'https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs'], ['EQ Bank', 'https://jobs.lever.co/eqbank'],
     ],
   },
-  'Finance & Accounting': {
-    keywords: 'accountant, accounting, finance, financial, audit, analyst, tax, bank, banking, investment, credit, payroll, bookkeeper, actuarial, advisor',
-    search: 'accountant | financial analyst | bank',
-    companies: [
-      ['TD Bank', 'https://td.wd3.myworkdayjobs.com/TD_Bank_Careers'], ['BMO', 'https://bmo.wd3.myworkdayjobs.com/External'],
-      ['CIBC (students)', 'https://cibc.wd3.myworkdayjobs.com/campus'], ['RBC', 'https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1'],
-      ['Sun Life', 'https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs'], ['Manulife', 'https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs'],
-      ['Intact', 'https://intactfc.wd3.myworkdayjobs.com/intactfc'], ['OMERS', 'https://omers.wd3.myworkdayjobs.com/OMERS_External'],
-      ["Ontario Teachers'", 'https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers'], ['BDO Canada', 'https://bdo.wd3.myworkdayjobs.com/BDO'],
-      ['Desjardins', 'https://desjardins.wd10.myworkdayjobs.com/Desjardins'], ['Fairstone', 'https://fairstone.wd3.myworkdayjobs.com/FairstoneCareers'],
-      ['Ontario Securities Commission', 'https://osc.wd3.myworkdayjobs.com/OSCCareers'], ['Wealthsimple', 'https://jobs.ashbyhq.com/wealthsimple'],
-      ['EQ Bank', 'https://jobs.lever.co/eqbank'],
-    ],
-  },
-  'Healthcare & Nursing': {
-    keywords: 'nurse, RN, RPN, nursing, clinical, health, care, PSW, personal support, pharmacy, pharmacist, medical, therapist, lab, dietitian, patient',
-    search: 'registered nurse | personal support worker | pharmacy assistant',
-    companies: [
-      ['Scarborough Health Network', 'https://shn.wd10.myworkdayjobs.com/SHN_External_Career_Site'],
-      ['Ontario Health', 'https://oh.wd3.myworkdayjobs.com/OH'], ['VHA Home HealthCare', 'https://vhaca.wd10.myworkdayjobs.com/VHA'],
-      ['Oak Valley Health', 'https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth'],
-      ['Public Health Ontario', 'https://publichealthontario.wd10.myworkdayjobs.com/PHOCareerSite'],
-      ['ParaMed', 'https://extendicare.wd10.myworkdayjobs.com/Paramed2023'], ['Baxter', 'https://baxter.wd1.myworkdayjobs.com/baxter'],
-      ['Sun Life', 'https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs'],
-    ],
-  },
-  'Business & Marketing': {
-    keywords: 'marketing, communications, social media, content, brand, sales, business, coordinator, HR, human resources, recruiter, customer, retail, store, events, public relations, merchandising, administrative, admin, office, operations, analyst, procurement, supply chain, buyer',
-    search: 'marketing coordinator | communications | sales representative',
-    companies: [
-      ['Canada Goose', 'https://canadagoose.wd3.myworkdayjobs.com/CanadaGooseCareers'], ['Cineplex', 'https://cineplex.wd3.myworkdayjobs.com/Cineplex'],
-      ['Aritzia', 'https://aritzia.wd3.myworkdayjobs.com/External'], ['MLSE', 'https://mlse.wd3.myworkdayjobs.com/MLSE'],
-      ['Canadian Tire', 'https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site'],
-      ['Lindt Canada', 'https://lindtspruengli.wd103.myworkdayjobs.com/LindtSpruengliGroupCareers'], ['CDW Canada', 'https://cdw.wd5.myworkdayjobs.com/Careers'],
-      ['Hootsuite', 'https://boards.greenhouse.io/hootsuite'], ['Sun Life', 'https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs'],
-      ['Manulife', 'https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs'], ['BMO', 'https://bmo.wd3.myworkdayjobs.com/External'],
-    ],
-  },
-  'Engineering & Science': {
-    keywords: 'engineer, engineering, technician, technologist, lab, research, scientist, mechanical, electrical, civil, chemical, environmental, quality, manufacturing, design, construction, inspector, maintenance, safety, CAD, drafting, electrician, millwright, toolmaker, machinist, process, production',
-    search: 'engineer | engineering technician | lab technician',
-    companies: [
-      ['Magna', 'https://magna.wd3.myworkdayjobs.com/magna'], ['CAE', 'https://cae.wd3.myworkdayjobs.com/career'],
-      ['AtkinsRéalis', 'https://slihrms.wd3.myworkdayjobs.com/Careers'], ['Nissan Canada', 'https://alliance.wd3.myworkdayjobs.com/NissanPrivateExternal'],
-      ['Bruce Power', 'https://brucepower.wd3.myworkdayjobs.com/BrucePower'], ['Autodesk', 'https://autodesk.wd1.myworkdayjobs.com/Ext'],
-      ['Baxter', 'https://baxter.wd1.myworkdayjobs.com/baxter'], ['Canadian Tire', 'https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site'],
-    ],
-  },
-  'Education, Government & Non-profit': {
-    keywords: 'teacher, education, tutor, instructor, program, policy, coordinator, community, government, public, research, social worker, counsellor, advisor, outreach, student',
-    search: 'teacher | program coordinator | social worker',
-    companies: [
-      ['University of Waterloo', 'https://uwaterloo.wd3.myworkdayjobs.com/uw_careers'],
-      ['University of Ottawa', 'https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site'],
-      ['Brock University', 'https://brocku.wd3.myworkdayjobs.com/brocku_careers'], ['Salvation Army Canada', 'https://salvationarmyca.wd3.myworkdayjobs.com/tsacb'],
-      ['Public Health Ontario', 'https://publichealthontario.wd10.myworkdayjobs.com/PHOCareerSite'], ['Ontario Health', 'https://oh.wd3.myworkdayjobs.com/OH'],
-      ['Ontario Securities Commission', 'https://osc.wd3.myworkdayjobs.com/OSCCareers'], ['VHA Home HealthCare', 'https://vhaca.wd10.myworkdayjobs.com/VHA'],
-    ],
-  },
-  'Any field': {
-    keywords: '',
-    search: 'co-op | intern | entry level',
-    companies: [],
-  },
 };
 
 // More employers, verified live (Sept 30 2026): mostly-Canadian boards that post
 // often. Picking a field adds the ones tagged with it (Any field adds them all).
 // tags: tech, finance, health, business, eng, edu
-const DIRECTORY_VERSION = 4;
+const DIRECTORY_VERSION = 5;
 const DIRECTORY = [
   ['CIBC', 'https://cibc.wd3.myworkdayjobs.com/search', 'finance tech business'],
   ['RBC (students)', 'https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1', 'finance tech business'],
@@ -214,10 +157,7 @@ const DIRECTORY = [
   ['QA Consultants', 'https://jobs.smartrecruiters.com/QAConsultants', 'tech'],
   ['Ubisoft', 'https://jobs.smartrecruiters.com/Ubisoft2', 'tech'],
 ];
-const FIELD_TAGS = {
-  'Tech & Data': 'tech', 'Finance & Accounting': 'finance', 'Healthcare & Nursing': 'health',
-  'Business & Marketing': 'business', 'Engineering & Science': 'eng', 'Education, Government & Non-profit': 'edu',
-};
+const FIELD_TAGS = { [IT_FIELD]: 'tech' };
 
 // The field's starter pack plus every directory employer tagged with the field.
 function fieldEmployers(field) {
@@ -227,61 +167,8 @@ function fieldEmployers(field) {
   return pack.concat(more);
 }
 
-// Optional narrower focus inside a field: [keywords, searches].
-const SUBFIELDS = {
-  'Tech & Data': {
-    'Software development': ['software, developer, engineer, programmer, web, mobile, full stack, backend, frontend, QA', 'software developer | web developer | software engineer'],
-    'Data & analytics': ['data, analyst, analytics, business intelligence, BI, reporting, SQL, insights', 'data analyst | business intelligence | data scientist'],
-    'IT support & networking': ['IT, support, help desk, technician, network, systems, administrator, desktop', 'IT support | help desk | network technician'],
-    'Cybersecurity': ['security, cyber, cybersecurity, SOC, risk, identity, threat', 'cybersecurity analyst | security analyst | SOC analyst'],
-    'AI & machine learning': ['machine learning, ML, AI, artificial intelligence, data scientist, research', 'machine learning | AI developer | data scientist'],
-    'Product & UX design': ['product, UX, UI, designer, design, user research', 'UX designer | product analyst | UI designer'],
-  },
-  'Finance & Accounting': {
-    'Accounting & audit': ['accountant, accounting, audit, auditor, bookkeeper, payable, receivable, reconciliation, CPA', 'accountant | audit | accounting clerk'],
-    'Banking': ['bank, banking, teller, branch, advisor, credit, lending, mortgage, client', 'bank teller | banking advisor | credit analyst'],
-    'Investments & capital markets': ['investment, capital markets, portfolio, equity, trading, wealth, asset management, research', 'investment analyst | capital markets | wealth management'],
-    'Insurance & actuarial': ['insurance, actuarial, actuary, underwriter, underwriting, claims, risk', 'actuarial | underwriter | insurance claims'],
-    'Financial analysis & planning': ['financial analyst, FP&A, finance, planning, budget, forecasting, analyst', 'financial analyst | FP&A | finance'],
-    'Tax': ['tax, taxation', 'tax | tax accountant'],
-  },
-  'Healthcare & Nursing': {
-    'Nursing': ['nurse, RN, RPN, nursing, NGG', 'registered nurse | registered practical nurse | nursing'],
-    'Personal support & home care': ['PSW, personal support, home care, caregiver, support worker, health care aide', 'personal support worker | home care | caregiver'],
-    'Pharmacy': ['pharmacy, pharmacist, pharmacy assistant, pharmacy technician', 'pharmacy assistant | pharmacy technician | pharmacist'],
-    'Lab & diagnostics': ['lab, laboratory, technologist, technician, diagnostic, imaging, phlebotomist, specimen', 'medical laboratory | lab technician | phlebotomist'],
-    'Mental health & social work': ['mental health, counsellor, social worker, case worker, addictions, crisis, therapist', 'mental health worker | social worker | counsellor'],
-    'Health admin & research': ['health, clinical, research, coordinator, administrative, unit clerk, medical office, scheduler', 'clinical research | medical office assistant | health administration'],
-  },
-  'Business & Marketing': {
-    'Marketing & digital': ['marketing, digital, social media, content, brand, SEO, campaign, e-commerce', 'marketing coordinator | digital marketing | social media'],
-    'Communications & PR': ['communications, public relations, PR, media, writer, editor, content', 'communications coordinator | public relations | content writer'],
-    'Sales & customer success': ['sales, account, business development, customer success, client, representative', 'sales representative | account executive | customer success'],
-    'HR & recruiting': ['HR, human resources, recruiter, recruiting, talent, people, payroll', 'human resources | recruiter | HR coordinator'],
-    'Operations & retail': ['operations, retail, store, merchandising, supply chain, logistics, inventory, procurement', 'operations coordinator | supply chain | retail'],
-    'Events & hospitality': ['events, event, hospitality, guest, coordinator, tourism, venue', 'event coordinator | hospitality | guest services'],
-  },
-  'Engineering & Science': {
-    'Mechanical & manufacturing': ['mechanical, manufacturing, production, process, maintenance, automation', 'mechanical engineer | manufacturing engineer | production'],
-    'Electrical & energy': ['electrical, electronics, energy, power, utility, controls, nuclear', 'electrical engineer | energy | electronics technician'],
-    'Civil & construction': ['civil, construction, structural, transportation, site, project coordinator', 'civil engineer | construction | project coordinator'],
-    'Chemical & environmental': ['chemical, chemistry, environmental, sustainability, water, process', 'chemical engineer | environmental | chemist'],
-    'Lab research & science': ['research, lab, laboratory, scientist, biology, chemistry, physics, assistant', 'research assistant | lab technician | scientist'],
-    'Quality & process': ['quality, QA, QC, process, continuous improvement, inspector, compliance', 'quality assurance | quality control | process engineer'],
-  },
-  'Education, Government & Non-profit': {
-    'Teaching & tutoring': ['teacher, teaching, tutor, instructor, educator, ECE, early childhood, education assistant', 'teacher | tutor | early childhood educator'],
-    'Policy & government': ['policy, government, public, analyst, program, regulatory, municipal', 'policy analyst | government | program officer'],
-    'Non-profit & community': ['community, program, outreach, volunteer, non-profit, fundraising, development, coordinator', 'community program | outreach coordinator | fundraising'],
-    'Research': ['research, researcher, research assistant, data, study', 'research assistant | research coordinator'],
-    'Social work & counselling': ['social worker, counsellor, youth worker, case manager, support worker', 'social worker | youth worker | counsellor'],
-    'Administration': ['administrative, administrator, office, coordinator, assistant, clerk, receptionist', 'administrative assistant | office coordinator | receptionist'],
-  },
-};
-const ALL_SUBFIELDS = 'All of my field';
-
 // Your level + one above it are kept. Titles with no level words are always kept.
-const LEVELS = ['Co-op / Internship', 'New grad / Entry level', 'Junior / Intermediate (1–3 yrs)', 'Senior (3+ yrs)'];
+const LEVELS = ['Co-op / Internship', 'New grad / Entry level', 'Junior / Intermediate (1–3 yrs)'];
 const LINKEDIN_EXPERIENCE = ['1,2', '2,3', '3,4', '4,5']; // LinkedIn f_E: 1 intern, 2 entry, 3 associate, 4 mid-senior, 5 director
 
 // Co-op and entry jobs are mostly in person, so remote jobs are opt-in.
@@ -295,13 +182,11 @@ const SETTINGS_ROWS = [
   ['Setting', 'Value', 'What to put here / where to get it'],
   ['Last refresh', '', 'Filled in automatically after every refresh.'],
   ['— 1. START HERE —', '', ''],
-  ['Your field', '{{PICK FROM THE LIST}}', 'Pick from the dropdown. This fills in the keywords below and adds a starter list of employers to the Companies tab.'],
-  ['Your subfield', ALL_SUBFIELDS, 'Optional. After picking your field, narrow it down (e.g. Finance → Accounting & audit). Changes the keywords and searches.'],
-  ['Your level', 'Co-op / Internship', 'Jobs at your level and one level above are kept. Senior, manager, director and executive jobs above that are dropped. Titles with no level in them (e.g. "Accountant") are kept.'],
+  ['Your level', 'New grad / Entry level', 'Jobs at your level and one level above are kept: New grad / Entry level also gets Junior / Intermediate (mid) jobs. Senior, lead, manager, director and executive jobs are always dropped. Titles with no level in them (e.g. "Help Desk Analyst") are kept.'],
   ['Work style', WORK_STYLES[0], 'In person or hybrid = no remote jobs. The middle option allows remote jobs only if they are open to Canada. The last one allows remote jobs from anywhere.'],
   ['Your province', 'ON', 'Two letters: ON, BC, AB, QC … Used for the Job Bank search. Blank = all of Canada.'],
   ['Locations', 'Toronto, Ontario', "Places you'd work, comma-separated (e.g. Toronto, Mississauga, Ontario). A job is kept only if its location mentions one (ON counts as Ontario). Add Canada to accept jobs anywhere in Canada. Remote jobs are controlled by Work style."],
-  ['Job keywords', '', 'Filled in from your field. A job title must contain one of these. Edit freely (comma-separated).'],
+  ['Job keywords', '', 'Optional extra title words to accept on top of the built-in list of every IT role (comma-separated).'],
   ['Exclude keywords', '',
     'Optional extra words to skip (comma-separated). Your level already removes jobs that are too senior.'],
   ['— 2. FRESHNESS & VARIETY —', '', ''],
@@ -321,7 +206,7 @@ const SETTINGS_ROWS = [
   ['— 4. OPTIONAL ADD-ONS (FREE SIGN-UP) —', '', ''],
   ['Apify token', '{{Get your key → https://console.apify.com/settings/integrations}}',
     'Optional. Click the link, sign up (free), copy "Personal API token" and paste it here. Adds LinkedIn search results. Sign up: https://console.apify.com/sign-up'],
-  ['Apify LinkedIn keywords', '', 'Filled in from your field. What to search LinkedIn for. Separate searches with |.'],
+  ['Apify LinkedIn keywords', '', 'Filled in with IT searches. What to search LinkedIn for. Separate searches with |.'],
   ['Apify LinkedIn location', 'Toronto, Ontario, Canada', 'Where to search LinkedIn.'],
   ['Apify check every (minutes)', '60', 'Each check uses credit. 60 keeps you inside the free credit.'],
   ['Apify max results per search', '25', 'Lower = cheaper.'],
@@ -332,10 +217,11 @@ const SETTINGS_ROWS = [
     'Optional. Sign up free at https://developer.adzuna.com/signup, then the link shows your "Application ID". Paste it here. Job search across every field.'],
   ['Adzuna app key', '{{Same page → copy "Application Key"}}', 'Optional. On the same Adzuna page, copy "Application Key" and paste it here.'],
   ['Adzuna country', 'ca', 'Two-letter code: ca, us, gb, au, in, de, fr …'],
-  ['Adzuna search', '', 'Filled in from your field. Separate searches with |.'],
+  ['Adzuna search', '', 'Filled in with IT searches. Separate searches with |.'],
   ['Adzuna location', 'Toronto', 'One city or region. Blank = whole country.'],
   ['— 5. NOTIFICATIONS & ADVANCED —', '', ''],
   ['Email me new jobs', 'yes', 'yes / no — an email after each refresh that finds new jobs.'],
+  ['Send job emails to', '', 'Optional. Email address(es) for the new-job emails, comma-separated. Blank = the Google account that owns this sheet. The sheet itself is not shared with them.'],
   ['Webhook secret', '{{Advanced — type any long random phrase}}', 'Advanced: any long random phrase. Lets outside scrapers (like the JobSpy GitHub Action) send jobs in.'],
 ];
 
@@ -376,7 +262,7 @@ const MAX_RUN_MS = 4.5 * 60 * 1000; // Apps Script stops a run at 6 minutes
 function onOpen() {
   SpreadsheetApp.getUi().createMenu('Job Scout')
     .addItem('Set up tabs', 'setupSheet')
-    .addItem('Fill in my field (keywords + employers)', 'applyFieldFromSettings')
+    .addItem('Add IT employers + searches', 'applyFieldFromSettings')
     .addSeparator()
     .addItem('Refresh jobs now', 'refreshJobs')
     .addSeparator()
@@ -390,59 +276,25 @@ function onOpen() {
   try { setupSheet(true); } catch (e) { console.warn(`Auto setup skipped: ${e.message}`); }
 }
 
-// Picking a field in Settings fills in keywords and employers right away.
-function onEdit(e) {
-  try {
-    const r = e && e.range;
-    if (!r || r.getSheet().getName() !== TABS.settings || r.getColumn() !== 2) return;
-    const key = String(r.getSheet().getRange(r.getRow(), 1).getValue()).trim();
-    if (key === 'Your field') {
-      const sub = settingsRow(r.getSheet(), 'Your subfield');
-      if (sub) r.getSheet().getRange(sub, 2).setValue(ALL_SUBFIELDS);
-      applySettingsDropdowns(r.getSheet());
-      applyField(String(r.getValue()).trim());
-    } else if (key === 'Your subfield') {
-      applyField(String(readRawSettings()['Your field'] || '').trim(), String(r.getValue()).trim());
-    }
-  } catch (err) {
-    console.warn(`onEdit: ${err.message}`);
-  }
-}
-
+// Fills in the IT searches (where still blank) and adds the IT employers to Companies.
 function applyFieldFromSettings() {
-  const raw = readRawSettings();
-  const field = String(raw['Your field'] || '');
-  if (!FIELDS[field]) {
-    SpreadsheetApp.getActive().toast('Pick your field in Settings → "Your field" first.', 'Job Scout', 8);
-    return;
-  }
-  applySettingsDropdowns(SpreadsheetApp.getActive().getSheetByName(TABS.settings));
-  applyField(field, String(raw['Your subfield'] || ''));
+  applyField(IT_FIELD);
 }
 
-// Replaces empty/placeholder (or previously auto-filled) keyword cells with the
-// field's defaults, and adds the field's starter employers to Companies.
-function applyField(field, subfield) {
-  const fieldPack = FIELDS[field];
-  if (!fieldPack) return;
-  const sub = SUBFIELDS[field] && SUBFIELDS[field][subfield];
-  const pack = sub ? { keywords: sub[0], search: sub[1] } : fieldPack;
+function applyField(field) {
+  const pack = FIELDS[IT_FIELD];
   const raw = readRawSettings();
-  const autoValues = new Set(['']);
-  Object.values(FIELDS).forEach(f => { autoValues.add(f.keywords); autoValues.add(f.search); });
-  Object.values(SUBFIELDS).forEach(subs => Object.values(subs).forEach(([k, q]) => { autoValues.add(k); autoValues.add(q); }));
   const fill = (name, value) => {
     const cur = String(raw[name] || '').trim();
-    if (cur.startsWith('{{') || autoValues.has(cur)) writeSetting(name, value);
+    if (!cur || cur.startsWith('{{')) writeSetting(name, value);
   };
-  fill('Job keywords', pack.keywords);
   fill('Job Bank search', pack.search);
   fill('Apify LinkedIn keywords', pack.search);
   fill('Adzuna search', pack.search);
-  const added = addCompanies(fieldEmployers(field).map(([name, link]) => [name, link, `${field} starter pack`]));
+  const added = addCompanies(fieldEmployers(IT_FIELD).map(([name, link]) => [name, link, 'IT starter pack']));
   PropertiesService.getDocumentProperties().setProperty('directoryVersion', String(DIRECTORY_VERSION));
   SpreadsheetApp.getActive().toast(
-    `Filled in keywords for ${sub ? subfield : field}${added ? ` and added ${added} employers to Companies` : ''}. Now use Job Scout → Refresh jobs now.`, 'Job Scout', 10);
+    `IT searches filled in${added ? ` and ${added} employers added to Companies` : ''}. Now use Job Scout → Refresh jobs now.`, 'Job Scout', 10);
 }
 
 // Appends [name, link, addedBy] rows whose link (or board) isn't in Companies yet. Returns how many were added.
@@ -570,15 +422,12 @@ function dropdown(list) {
 }
 
 function applySettingsDropdowns(sheet) {
-  const field = String(sheet.getRange(settingsRow(sheet, 'Your field'), 2).getValue()).trim();
   const set = (key, list, highlight) => {
     const row = settingsRow(sheet, key);
     if (!row) return;
     const cell = sheet.getRange(row, 2).setDataValidation(dropdown(list));
     if (highlight) cell.setBackground('#FFF4CE').setFontWeight('bold');
   };
-  set('Your field', Object.keys(FIELDS), true);
-  set('Your subfield', [ALL_SUBFIELDS].concat(Object.keys(SUBFIELDS[field] || {})), true);
   set('Your level', LEVELS, true);
   set('Work style', WORK_STYLES, true);
   set('Your province', Object.keys(PROVINCES));
@@ -587,6 +436,8 @@ function applySettingsDropdowns(sheet) {
 // Keeps an existing Settings tab up to date with this version of the script:
 // refreshes help text, replaces untouched placeholders, adds missing settings at the end.
 function syncSettings(sheet) {
+  // Settings this version no longer has (the field pickers): remove their rows.
+  ['Your subfield', 'Your field'].forEach(key => { const row = settingsRow(sheet, key); if (row) sheet.deleteRow(row); });
   SETTINGS_ROWS.slice(1).forEach(([key, value, help], i) => {
     if (key.startsWith('—')) return;
     const row = settingsRow(sheet, key);
@@ -632,9 +483,8 @@ function readRawSettings() {
 function readSettings() {
   const raw = {};
   Object.entries(readRawSettings()).forEach(([k, v]) => { raw[k] = v.startsWith('{{') ? '' : v; });
-  const field = FIELDS[raw['Your field']] ? raw['Your field'] : '';
-  const sub = SUBFIELDS[field] && SUBFIELDS[field][raw['Your subfield']];
-  const pack = sub ? { keywords: sub[0], search: sub[1] } : (FIELDS[field] || { keywords: '', search: '' });
+  const field = IT_FIELD;
+  const pack = FIELDS[IT_FIELD];
   const levelIdx = LEVELS.indexOf(raw['Your level']);
   const styleIdx = Math.max(WORK_STYLES.indexOf(raw['Work style']), 0);
   const searches = (s, dflt) => (/^no$/i.test(s || '') ? '' : (s || dflt || '')).split('|').map(x => x.trim()).filter(Boolean);
@@ -646,7 +496,7 @@ function readSettings() {
     province: (raw['Your province'] || '').toUpperCase().slice(0, 2),
     level: levelIdx, // -1 = not set: no level filtering (only Exclude keywords)
     workStyle: styleIdx, // 0 in person/hybrid · 1 + remote in Canada · 2 anything
-    keywords: list(raw['Job keywords'] || pack.keywords),
+    keywords: list(raw['Job keywords']), // extra words on top of the built-in IT lists
     exclude: list(raw['Exclude keywords']),
     locations: list(raw['Locations']).filter(l => !/^(remote|anywhere|hybrid|wfh|work from home)$/.test(l)),
     maxAgeHours: Math.max(num(raw['Max job age (hours)'], 24), 1),
@@ -857,7 +707,7 @@ function passesFilters(job, cfg) {
   if (!levelFits(job.title, cfg.level)) return false;
   if (!workStyleFits(job, cfg)) return false;
   if (job.preFiltered) return true; // searched at the source with the student's own terms
-  if (cfg.keywords.length && !matchesAny(job.title, cfg.keywords)) return false;
+  if (!isItRole(job.title) && !(cfg.keywords.length && matchesAny(job.title, cfg.keywords))) return false;
   // Remote jobs were already judged by Work style above.
   if (job.location && cfg.locations.length && !isRemoteJob(job)) {
     const place = placeText(job.location);
@@ -903,7 +753,8 @@ function foreignCompanies(jobs, cfg) {
 
 // 0 student/co-op · 1 entry · 2 intermediate · 3 senior/manager · 4 executive · null = no level words.
 function titleLevel(title) {
-  const t = String(title || '');
+  // Customer-facing IT roles called "manager" aren't people managers (same rule as the job agent).
+  const t = String(title || '').replace(/\b(customer success|client success|technical account|account) manager\b/ig, '$1 specialist');
   const has = re => re.test(t);
   if (has(/\b(chief|ceo|cfo|cto|coo|cio|cmo|president|vp|svp|evp|founder|co-founder|owner|partner|director|head of|general manager|managing director)\b/i)) return 4;
   const num = (t.match(/\b(?:engineer|developer|analyst|scientist|specialist|consultant|designer|administrator|technician|technologist|accountant|associate|programmer|representative|advisor|officer|auditor)\s*[-–,]?\s*(?:level\s*)?([1-9])\b/i) || [])[1];
@@ -972,6 +823,13 @@ const CITY_PROVINCE = {
 function locationUnclear(loc) {
   const l = String(loc).trim();
   return /^\d+ locations?$/i.test(l) || /^(hybrid|on-?site|remote|multiple locations?|various)$/i.test(l) || !/[,(·/]| - /.test(l);
+}
+
+// Every IT role — see the lists at the top.
+function isItRole(title) {
+  if (matchesAny(title, HARD_EXCLUDE)) return false;
+  if (matchesAny(title, STRONG_IT)) return true;
+  return matchesAny(title, IT_KEYWORDS) && !matchesAny(title, NON_IT);
 }
 
 function matchesAny(text, words) {
@@ -1267,11 +1125,7 @@ function localDay(v) {
 // boards that block Google's servers and publishes one file per field.
 
 const CLASS_FEED = 'https://raw.githubusercontent.com/black-s1k/jobscout-feed/main/feed/';
-const FEED_FILES = {
-  'Tech & Data': 'tech', 'Finance & Accounting': 'finance', 'Healthcare & Nursing': 'health',
-  'Business & Marketing': 'business', 'Engineering & Science': 'eng',
-  'Education, Government & Non-profit': 'edu', 'Any field': 'any',
-};
+const FEED_FILES = { [IT_FIELD]: 'tech' };
 
 function fetchClassFeed(cfg, errors) {
   const res = fetchAllSafe([{ url: `${CLASS_FEED}${FEED_FILES[cfg.field]}.json`, muteHttpExceptions: true }])[0];
@@ -1722,13 +1576,14 @@ function emailSummary(jobs) {
   const lines = jobs.slice(0, 40).map(j =>
     `• ${j.title}${j.company ? ' — ' + j.company : ''}${j.location ? ' (' + j.location + ')' : ''}\n  posted ${Utilities.formatDate(j.posted, tz, 'MMM d HH:mm')} · ${j.link}`);
   if (jobs.length > 40) lines.push(`…and ${jobs.length - 40} more in the sheet.`);
-  // The sheet's name and field in the subject, so several sheets' emails can be told apart.
-  const field = String(readRawSettings()['Your field'] || '');
+  // The sheet's name in the subject, so several sheets' emails can be told apart.
   const name = SpreadsheetApp.getActive().getName();
-  const tag = [name === 'Job Scout' ? '' : name, FIELDS[field] ? field : ''].filter(Boolean).join(' · ');
+  const tag = [name === 'Job Scout' ? '' : name, 'IT'].filter(Boolean).join(' · ');
+  const to = String(readRawSettings()['Send job emails to'] || '').replace(/\s+/g, '');
   MailApp.sendEmail(
-    Session.getEffectiveUser().getEmail(),
-    `Job Scout: ${jobs.length} new job(s) · ${tag}`,
+    to && !to.startsWith('{{') ? to : Session.getEffectiveUser().getEmail(),
+    // Time in the subject so Gmail keeps each email separate instead of threading them.
+    `Job Scout: ${jobs.length} new job(s) · ${tag} · ${Utilities.formatDate(new Date(), tz, 'MMM d, h:mm a')}`,
     `${lines.join('\n')}\n\nOpen your sheet: ${SpreadsheetApp.getActive().getUrl()}`);
 }
 

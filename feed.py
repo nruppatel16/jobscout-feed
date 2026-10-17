@@ -1,8 +1,8 @@
-"""Job Scout class feed.
+"""Job Scout feed — every IT role.
 
-Runs on GitHub Actions. For each field it collects jobs from sources that block
-Google's servers and writes feed/<field>.json. Every student's Job Scout sheet
-reads the file for its field and applies its own filters.
+Runs on GitHub Actions. Collects IT jobs (every IT field, entry to mid level,
+including roles named outside "IT" — see it_roles.py) from sources that block
+Google's servers and writes feed/tech.json, which the Job Scout sheet reads.
 
 Sources:
   • Indeed Canada and LinkedIn, through JobSpy
@@ -29,6 +29,8 @@ from urllib.parse import quote_plus
 
 import requests
 
+from it_roles import SEARCH_TERMS, is_it_role
+
 LOCATION = "Toronto, ON"
 PROVINCE = "ON"
 SEARCH_HOURS = 24
@@ -39,23 +41,16 @@ UA = {"User-Agent": "Mozilla/5.0 (JobScout class feed; +https://github.com/black
 HTML = dict(UA, Accept="text/html")  # Job Bank returns 500 if Accept mentions JSON
 ET = timezone(timedelta(hours=-4))
 
-# Same fields as the sheet's "Your field" dropdown. Searches are broad on purpose:
-# each sheet filters by its own keywords, level and location afterwards.
-FIELDS = {
-    "tech": ["software developer", "data analyst", "IT support", "software engineer intern", "business intelligence", "cybersecurity", "QA tester"],
-    "finance": ["accountant", "financial analyst", "bank", "accounting co-op", "bookkeeper", "payroll", "audit"],
-    "health": ["registered nurse", "personal support worker", "pharmacy assistant", "medical office assistant", "lab technician", "dental assistant", "physiotherapy"],
-    "business": ["marketing coordinator", "sales representative", "human resources", "administrative assistant", "customer service", "social media", "operations coordinator"],
-    "eng": ["engineer", "engineering technician", "lab technician", "engineering co-op", "mechanical engineer", "civil engineer", "quality technician"],
-    "edu": ["teacher", "program coordinator", "social worker", "research assistant", "early childhood educator", "tutor", "community support worker"],
-    "any": ["co-op student", "summer student", "intern", "entry level", "student", "junior", "assistant"],
-}
+# Every IT field (it_roles.py is the same file as the job agent's src/it_roles.py).
+FEED_NAME = "tech"
+TERM_WORKERS = 5  # searches run side by side; more starts tripping Indeed's rate limit
+
 # Glassdoor, Google Jobs and ZipRecruiter fail inside JobSpy for Canada (checked Oct 1 2026).
 JOBSPY_SITES = ["indeed", "linkedin"]
 SITE_LABEL = {"indeed": "Indeed", "linkedin": "LinkedIn"}
 
 # Employer career sites (SAP SuccessFactors) that publish an RSS feed, newest first.
-# Each feed returns the 20 newest matches, so every field's keywords are searched too.
+# Each feed returns the 20 newest matches, so every search term is tried too.
 CAREER_RSS = {
     "jobs.rogers.com": "Rogers", "jobs.bce.ca": "Bell", "careers.telus.com": "TELUS",
     "jobs.hydroone.com": "Hydro One", "jobs.opg.com": "OPG", "jobs.torontohydro.com": "Toronto Hydro",
@@ -81,9 +76,9 @@ def clean(s):
 # ── Sources ────────────────────────────────────────────────────────────────
 
 # LinkedIn rate-limits quickly: its searches run one at a time, a few seconds apart,
-# and only for each field's first few search terms.
+# and only for the first few search terms.
 LINKEDIN_LOCK = threading.Lock()
-LINKEDIN_TERMS = 4
+LINKEDIN_TERMS = 8
 
 
 def jobspy_search(site, term):
@@ -220,31 +215,37 @@ def dup_key(j):
 
 # ── Run ────────────────────────────────────────────────────────────────────
 
-def run_field(field, terms):
-    found, stats = [], {}
+def run_all(terms):
+    found, stats, lock = [], {}, threading.Lock()
 
     def add(label, fn):
         try:
             jobs = fn()
         except Exception as e:  # one blocked source shouldn't stop the rest
-            log(f"  {field} · {label}: {type(e).__name__}: {str(e)[:120]}")
+            log(f"  {label}: {type(e).__name__}: {str(e)[:120]}")
             jobs = []
-        stats[label] = stats.get(label, 0) + len(jobs)
-        found.extend(jobs)
+        with lock:
+            stats[label] = stats.get(label, 0) + len(jobs)
+            found.extend(jobs)
 
-    for i, term in enumerate(terms):
+    def one(i, term):
         for site in JOBSPY_SITES:
             if site == "linkedin" and i >= LINKEDIN_TERMS:
                 continue
             add(SITE_LABEL[site], lambda: jobspy_search(site, term))
             time.sleep(1)
         add("Job Bank", lambda: jobbank_search(term))
+
+    with ThreadPoolExecutor(max_workers=TERM_WORKERS) as pool:
+        list(pool.map(lambda a: one(*a), enumerate(terms)))
     with ThreadPoolExecutor(max_workers=6) as pool:
         queries = [(h, t) for h in CAREER_RSS for t in [""] + terms]
-        for (host, _), res in zip(queries, pool.map(lambda q: safe(career_rss, *q), queries)):
+        for res in pool.map(lambda q: safe(career_rss, *q), queries):
             stats["Employer career sites"] = stats.get("Employer career sites", 0) + len(res)
             found.extend(res)
-    return field, found, stats
+    it = [j for j in found if is_it_role(j.get("title", ""))]
+    stats["kept as IT"] = len(it)
+    return it, stats
 
 
 def safe(fn, *args):
@@ -262,7 +263,7 @@ def merge(field, fresh):
     by_link, by_key = {}, {}
     for j in old + fresh:  # newer runs win
         t = posted_time(j.get("posted", ""))
-        if not (j.get("link") and j.get("title") and t and t >= cutoff):
+        if not (j.get("link") and j.get("title") and t and t >= cutoff and is_it_role(j["title"])):
             continue
         k = dup_key(j)
         if k in by_key and by_key[k] != j["link"]:
@@ -273,21 +274,19 @@ def merge(field, fresh):
 
 
 def main():
-    only = sys.argv[1:] or list(FIELDS)
     OUT.mkdir(exist_ok=True)
     started = now()
-    status = {"updated": started.isoformat(timespec="seconds"), "fields": {}}
-    with ThreadPoolExecutor(max_workers=3) as pool:
-        results = list(pool.map(lambda f: run_field(f, FIELDS[f]), only))
-    old_status = json.loads((OUT / "status.json").read_text()) if (OUT / "status.json").exists() else {}
-    status["fields"] = old_status.get("fields", {})
-    for field, fresh, stats in results:
-        jobs = merge(field, fresh)
-        (OUT / f"{field}.json").write_text(json.dumps({"updated": status["updated"], "jobs": jobs}, ensure_ascii=False, indent=0))
-        status["fields"][field] = {"found_this_run": stats, "in_feed": len(jobs)}
-        log(f"{field}: {sum(stats.values())} found this run {stats} · {len(jobs)} in feed")
-    status["seconds"] = round((now() - started).total_seconds())
+    fresh, stats = run_all(sys.argv[1:] or SEARCH_TERMS)  # terms on the command line: a quick test run
+    jobs = merge(FEED_NAME, fresh)
+    (OUT / f"{FEED_NAME}.json").write_text(json.dumps({"updated": started.isoformat(timespec="seconds"), "jobs": jobs}, ensure_ascii=False, indent=0))
+    # The per-field files (finance, health…) are gone: this feed is IT only now.
+    for old in OUT.glob("*.json"):
+        if old.stem not in (FEED_NAME, "status"):
+            old.unlink()
+    status = {"updated": started.isoformat(timespec="seconds"), "fields": {FEED_NAME: {"found_this_run": stats, "in_feed": len(jobs)}},
+              "seconds": round((now() - started).total_seconds())}
     (OUT / "status.json").write_text(json.dumps(status, indent=1))
+    log(f"{sum(v for k, v in stats.items() if k != 'kept as IT')} found this run {stats} · {len(jobs)} in feed")
 
 
 if __name__ == "__main__":
