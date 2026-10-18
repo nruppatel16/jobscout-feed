@@ -1,20 +1,20 @@
 {
-"updated": "2026-10-18T08:15:07+00:00",
+"updated": "2026-10-18T12:43:21+00:00",
 "jobs": [
-{
-"title": "Software Design Co-op, Nuclear",
-"company": "Eclipse Automation",
-"location": "Cambridge, ON, CA",
-"posted": "2026-10-18",
-"link": "https://ca.indeed.com/viewjob?jk=5ceb92d146c63ab6",
-"source": "Indeed"
-},
 {
 "title": "Controls Software Design Co-op",
 "company": "Eclipse Automation",
 "location": "Cambridge, ON, CA",
 "posted": "2026-10-18",
 "link": "https://ca.indeed.com/viewjob?jk=235af6874ee853ed",
+"source": "Indeed"
+},
+{
+"title": "Software Design Co-op, Nuclear",
+"company": "Eclipse Automation",
+"location": "Cambridge, ON, CA",
+"posted": "2026-10-18",
+"link": "https://ca.indeed.com/viewjob?jk=5ceb92d146c63ab6",
 "source": "Indeed"
 },
 {
@@ -304,6 +304,22 @@
 "posted": "2026-10-17",
 "link": "https://ca.indeed.com/viewjob?jk=05dc01604e3816cc",
 "source": "Indeed"
+},
+{
+"title": "Lead Platform Developer (AEM)",
+"company": "RBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.linkedin.com/jobs/view/4472054861",
+"source": "LinkedIn"
+},
+{
+"title": "Application Security Consultant - SCA (Global Security)",
+"company": "RBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.linkedin.com/jobs/view/4461268001",
+"source": "LinkedIn"
 },
 {
 "title": "Digital Merchandising&Analytics",
@@ -2144,6 +2160,14 @@
 "posted": "2026-10-16",
 "link": "https://ca.indeed.com/viewjob?jk=8b1dd666e024817b",
 "source": "Indeed"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "ADECCO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-16",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50511707",
+"source": "Job Bank"
 }
 ]
 }
