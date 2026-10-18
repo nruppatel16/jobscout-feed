@@ -1,6 +1,30 @@
 {
-"updated": "2026-10-18T03:13:40+00:00",
+"updated": "2026-10-18T08:15:07+00:00",
 "jobs": [
+{
+"title": "Software Design Co-op, Nuclear",
+"company": "Eclipse Automation",
+"location": "Cambridge, ON, CA",
+"posted": "2026-10-18",
+"link": "https://ca.indeed.com/viewjob?jk=5ceb92d146c63ab6",
+"source": "Indeed"
+},
+{
+"title": "Controls Software Design Co-op",
+"company": "Eclipse Automation",
+"location": "Cambridge, ON, CA",
+"posted": "2026-10-18",
+"link": "https://ca.indeed.com/viewjob?jk=235af6874ee853ed",
+"source": "Indeed"
+},
+{
+"title": "Sr. Developer",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-18T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Sr_-Developer-ON/1411892900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
 {
 "title": "SAP Specialist - SCM/APO/SPP",
 "company": "Bombardier",
@@ -271,6 +295,14 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-10-17",
 "link": "https://ca.indeed.com/viewjob?jk=3168d168fcaa9dbe",
+"source": "Indeed"
+},
+{
+"title": "UX Researcher — Voice and Video Contributor",
+"company": "HeyMilo",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-17",
+"link": "https://ca.indeed.com/viewjob?jk=05dc01604e3816cc",
 "source": "Indeed"
 },
 {
@@ -2106,20 +2138,12 @@
 "source": "Job Bank"
 },
 {
-"title": "Solution Architect - IoT",
-"company": "Rogers",
+"title": "Data Scientist - Applied AI/Gen AI",
+"company": "Sanofi",
 "location": "Toronto, ON, CA",
-"posted": "2026-10-16T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Solution-Architect-IoT-ON/1421113700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Conversational AI Developer",
-"company": "Bell",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-16T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Toronto-Conversational-AI-Developer-ON/1427498400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
+"posted": "2026-10-16",
+"link": "https://ca.indeed.com/viewjob?jk=8b1dd666e024817b",
+"source": "Indeed"
 }
 ]
 }
