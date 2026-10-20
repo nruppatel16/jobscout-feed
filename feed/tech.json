@@ -1,60 +1,52 @@
 {
-"updated": "2026-10-20T05:41:12+00:00",
+"updated": "2026-10-20T10:58:39+00:00",
 "jobs": [
 {
-"title": "Documentation Specialist",
-"company": "Amaris Consulting",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-20",
-"link": "https://ca.indeed.com/viewjob?jk=539e0fdaf7ff2fb8",
-"source": "Indeed"
-},
-{
-"title": "Senior Business Systems Analyst-6",
-"company": "Realign",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-20",
-"link": "https://ca.indeed.com/viewjob?jk=3572b22704c557fb",
-"source": "Indeed"
-},
-{
-"title": "Salesforce Revenue Cloud Architect-6",
-"company": "Realign",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-20",
-"link": "https://ca.indeed.com/viewjob?jk=800c905b2a137119",
-"source": "Indeed"
-},
-{
-"title": "Salesforce Communications Cloud Architect-6",
-"company": "Realign",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-20",
-"link": "https://ca.indeed.com/viewjob?jk=77de7852d2beb5e9",
-"source": "Indeed"
-},
-{
-"title": "Oracle ERP PM / PCO-6",
-"company": "Realign",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-20",
-"link": "https://ca.indeed.com/viewjob?jk=621d4e896f4d89ea",
-"source": "Indeed"
-},
-{
-"title": "Senior Business Architect, Everyday Financial Services",
-"company": "ATB Financial",
+"title": "Senior Engineer, Design and Standards",
+"company": "TTC (Toronto Transit Commission)",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-20",
-"link": "https://ca.indeed.com/viewjob?jk=2125bab7a15e99b6",
+"link": "https://ca.indeed.com/viewjob?jk=743a58747ae74781",
 "source": "Indeed"
 },
 {
-"title": "Senior Manager, Investment Performance Analytics",
-"company": "Scotiabank",
+"title": "Consultant, Technology Implementation & Client Delivery",
+"company": "KPMG",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-20",
-"link": "https://ca.indeed.com/viewjob?jk=0ca94b979f577211",
+"link": "https://ca.indeed.com/viewjob?jk=4f7bf3aeaa03f3e8",
+"source": "Indeed"
+},
+{
+"title": "FY27 Intern - Machine Learning AISW Internship - Canada (4 Months)",
+"company": "Qualcomm",
+"location": "Markham, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=7746a810948da68c",
+"source": "Indeed"
+},
+{
+"title": "Software engineer",
+"company": "LotusFlare Canada Inc",
+"location": "North York, Ontario, Canada",
+"posted": "2026-10-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50540992",
+"source": "Job Bank"
+},
+{
+"title": "Software developer",
+"company": "Maarut",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50540800",
+"source": "Job Bank"
+},
+{
+"title": "Systems Developer - Guidewire",
+"company": "Co-operators",
+"location": "Guelph, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=47ce68ab5d125155",
 "source": "Indeed"
 },
 {
@@ -66,11 +58,59 @@
 "source": "Indeed"
 },
 {
-"title": "Systems Developer - Guidewire",
-"company": "Co-operators",
-"location": "Guelph, ON, CA",
+"title": "Senior Manager, Investment Performance Analytics",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
 "posted": "2026-10-20",
-"link": "https://ca.indeed.com/viewjob?jk=47ce68ab5d125155",
+"link": "https://ca.indeed.com/viewjob?jk=0ca94b979f577211",
+"source": "Indeed"
+},
+{
+"title": "Senior Business Architect, Everyday Financial Services",
+"company": "ATB Financial",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=2125bab7a15e99b6",
+"source": "Indeed"
+},
+{
+"title": "Oracle ERP PM / PCO-6",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=621d4e896f4d89ea",
+"source": "Indeed"
+},
+{
+"title": "Salesforce Communications Cloud Architect-6",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=77de7852d2beb5e9",
+"source": "Indeed"
+},
+{
+"title": "Salesforce Revenue Cloud Architect-6",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=800c905b2a137119",
+"source": "Indeed"
+},
+{
+"title": "Senior Business Systems Analyst-6",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=3572b22704c557fb",
+"source": "Indeed"
+},
+{
+"title": "Documentation Specialist",
+"company": "Amaris Consulting",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=539e0fdaf7ff2fb8",
 "source": "Indeed"
 },
 {
@@ -2162,6 +2202,110 @@
 "source": "Indeed"
 },
 {
+"title": "Specialist - Business Analyst",
+"company": "L3Harris",
+"location": "Waterdown, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=7075fa4440472b71",
+"source": "Indeed"
+},
+{
+"title": "Director, Financial Reporting and Analysis , Global FP&A",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=ac6deb23b54dccf9",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager, Security Advisory Services",
+"company": "Aviva",
+"location": "Markham, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=75131b952c534964",
+"source": "Indeed"
+},
+{
+"title": "Principal Automation Engineer (12 Month Contract)",
+"company": "TMX GROUP",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=012c4833a59e6484",
+"source": "Indeed"
+},
+{
+"title": "Salesforce & Agentforce Functional Architect",
+"company": "Bridgenext",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=0707ad598cb822a4",
+"source": "Indeed"
+},
+{
+"title": "Senior Systems Engineer",
+"company": "OSL Retail Services Inc",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=63d6fd6701a7a5ae",
+"source": "Indeed"
+},
+{
+"title": "Manager, Product Management (Business Identity)",
+"company": "Mastercard",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=46185bbae94daadb",
+"source": "Indeed"
+},
+{
+"title": "Senior Business Architect",
+"company": "Ontario Power Generation",
+"location": "Oshawa, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=32452c1a32414f84",
+"source": "Indeed"
+},
+{
+"title": "Manager, Product Development (Business Identity)",
+"company": "Mastercard",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=bbb017b6046ab4b5",
+"source": "Indeed"
+},
+{
+"title": "Project Coordinator Co-op (Winter 2027), Capital Markets Technology",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=bfdaa79e6dc5f279",
+"source": "Indeed"
+},
+{
+"title": "Temporary Sales Support Associate",
+"company": "Coach",
+"location": "Halton Hills, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=0405fb26a52cca10",
+"source": "Indeed"
+},
+{
+"title": "Microsoft Copilot and AI Specialist",
+"company": "EllisDon Corporation",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=b9fd42070bc3c2b3",
+"source": "Indeed"
+},
+{
+"title": "Technical Account Manager , Enterprise",
+"company": "Amazon Web Services",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=d4ef66b20b4a0ec4",
+"source": "Indeed"
+},
+{
 "title": "Methods Engineer-Wichita, KS",
 "company": "Bombardier",
 "location": "Wichita, KS, US, 67209",
@@ -2480,14 +2624,6 @@
 "posted": "2026-10-18",
 "link": "https://ca.indeed.com/viewjob?jk=37f61d4d68468be3",
 "source": "Indeed"
-},
-{
-"title": "Sr. Developer",
-"company": "Rogers",
-"location": "Brampton, ON, CA",
-"posted": "2026-10-18T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Brampton-Sr_-Developer-ON/1411892900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
 }
 ]
 }
