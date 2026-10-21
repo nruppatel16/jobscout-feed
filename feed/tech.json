@@ -1,44 +1,68 @@
 {
-"updated": "2026-10-21T06:20:14+00:00",
+"updated": "2026-10-21T12:11:04+00:00",
 "jobs": [
 {
-"title": "IT Project Manager",
-"company": "InnosysTech Inc",
-"location": "Greater Toronto Area, ON, CA (remote)",
-"posted": "2026-10-21",
-"link": "https://ca.indeed.com/viewjob?jk=9caa8864a994e445",
-"source": "Indeed"
-},
-{
-"title": "Graphic Designer, Illustrator & Customer Support",
-"company": "CardAura",
-"location": "Scarborough, ON, CA",
-"posted": "2026-10-21",
-"link": "https://ca.indeed.com/viewjob?jk=b26c93b7023bb927",
-"source": "Indeed"
-},
-{
-"title": "Office & Travel Administrator",
-"company": "Flair Airlines Ltd.",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-21",
-"link": "https://ca.indeed.com/viewjob?jk=972a4eda56a8cddc",
-"source": "Indeed"
-},
-{
-"title": "Server administrator",
-"company": "Astra North Infoteck Inc.",
+"title": "Customer support representative - wholesale",
+"company": "Puppy Sphere",
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-21",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50547083",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50548080",
 "source": "Job Bank"
 },
 {
-"title": "Data Engineer, Temporary",
-"company": "Aviso",
-"location": "Toronto, ON, CA (remote)",
+"title": "Manager, WFM AI Capabilities, Insights & Integration",
+"company": "TD",
+"location": "Toronto, ON, CA",
 "posted": "2026-10-21",
-"link": "https://ca.indeed.com/viewjob?jk=b194b94474fd1376",
+"link": "https://ca.indeed.com/viewjob?jk=e355909764141216",
+"source": "Indeed"
+},
+{
+"title": "Senior Software Support Analyst",
+"company": "EllisDon Corporation",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=6a14dc7ac17dbc89",
+"source": "Indeed"
+},
+{
+"title": "Intermediate Water Resources Engineer",
+"company": "EMC GROUP LIMITED",
+"location": "Vaughan, ON, CA",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=8775a5e44e7dc1a0",
+"source": "Indeed"
+},
+{
+"title": "Data Science Analyst (Data Integration)",
+"company": "University Health Network",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=e4cb7ca743b3cbc3",
+"source": "Indeed"
+},
+{
+"title": "Winter 2027: Software Developer Co-op (8 months)",
+"company": "Intuit",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=c5557346fab1e20a",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer, Growth Platforms",
+"company": "Lyft",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=255f9ab70ee59cca",
+"source": "Indeed"
+},
+{
+"title": "Sr. IFRS17 Data Engineer-2",
+"company": "Realign",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=d9660c23d4fcae2b",
 "source": "Indeed"
 },
 {
@@ -50,12 +74,60 @@
 "source": "Indeed"
 },
 {
-"title": "Sr. IFRS17 Data Engineer-2",
-"company": "Realign",
+"title": "Data Engineer, Temporary",
+"company": "Aviso",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=b194b94474fd1376",
+"source": "Indeed"
+},
+{
+"title": "Server administrator",
+"company": "Astra North Infoteck Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-21",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50547083",
+"source": "Job Bank"
+},
+{
+"title": "Office & Travel Administrator",
+"company": "Flair Airlines Ltd.",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-21",
-"link": "https://ca.indeed.com/viewjob?jk=d9660c23d4fcae2b",
+"link": "https://ca.indeed.com/viewjob?jk=972a4eda56a8cddc",
 "source": "Indeed"
+},
+{
+"title": "Graphic Designer, Illustrator & Customer Support",
+"company": "CardAura",
+"location": "Scarborough, ON, CA",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=b26c93b7023bb927",
+"source": "Indeed"
+},
+{
+"title": "IT Project Manager",
+"company": "InnosysTech Inc",
+"location": "Greater Toronto Area, ON, CA (remote)",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=9caa8864a994e445",
+"source": "Indeed"
+},
+{
+"title": "Application Specialist (AWS)",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-21T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Application-Specialist-%28AWS%29-ON/1432589700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Spécialiste des applications",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-21T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Sp%C3%A9cialiste-des-applications-ON/1432589800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Engineer",
@@ -1596,7 +1668,7 @@
 {
 "title": "Senior Municipal Engineer, Utilities",
 "company": "GFT",
-"location": "Mississauga, ON, CA (remote)",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-20",
 "link": "https://ca.indeed.com/viewjob?jk=a7eefc5efbb6c82a",
 "source": "Indeed"
@@ -2288,6 +2360,126 @@
 "posted": "2026-10-20",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50547085",
 "source": "Job Bank"
+},
+{
+"title": "Software Engineering Manager",
+"company": "TRADER Corporation",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=f8572d28cd1af2ca",
+"source": "Indeed"
+},
+{
+"title": "Cloud Infrastructure Architect",
+"company": "Adastra Corporation",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=fb9b2e3084bf5d66",
+"source": "Indeed"
+},
+{
+"title": "SAS/Python Developer",
+"company": "Adastra Corporation",
+"location": "Markham, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=17c1a6575e620b1c",
+"source": "Indeed"
+},
+{
+"title": "Site Reliability Engineer",
+"company": "Porter Airlines Inc.",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=5f7d9b0e82f24d67",
+"source": "Indeed"
+},
+{
+"title": "Embedded Systems and DSP Engineer",
+"company": "Lotek Wireless",
+"location": "Newmarket, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=06ac8a16becc6001",
+"source": "Indeed"
+},
+{
+"title": "Cloud engineer",
+"company": "Maarut",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50548072",
+"source": "Job Bank"
+},
+{
+"title": "Informatics security consultant",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50548082",
+"source": "Job Bank"
+},
+{
+"title": "Network Engineer",
+"company": "OSL Retail Services Inc",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=056dce5698c25edc",
+"source": "Indeed"
+},
+{
+"title": "Electronics/Biomedical Technician",
+"company": "Durham College",
+"location": "Oshawa, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=3730d0df1d9e74be",
+"source": "Indeed"
+},
+{
+"title": "Resident Technician",
+"company": "Liebherr Group",
+"location": "Burlington, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=785c71f1b41344c5",
+"source": "Indeed"
+},
+{
+"title": "Quality Technician - 8 month contract",
+"company": "Griffith Foods",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=906f249c4c333bcc",
+"source": "Indeed"
+},
+{
+"title": "Research Scientist - Product Development",
+"company": "Gay Lea Foods",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=df50acefcf2a4522",
+"source": "Indeed"
+},
+{
+"title": "Furniture Service Technician ( Mandarin Required )",
+"company": "Vynew Service Inc.",
+"location": "Oshawa, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=0d943bf644796a0f",
+"source": "Indeed"
+},
+{
+"title": "Warranty Service Technician",
+"company": "Phelps Homes",
+"location": "Grimsby, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=777e063c62c16e99",
+"source": "Indeed"
+},
+{
+"title": "Laser Technician",
+"company": "",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=8d05baffd6f470e9",
+"source": "Indeed"
 },
 {
 "title": "Senior Business Architect",
