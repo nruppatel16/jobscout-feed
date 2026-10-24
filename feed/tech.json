@@ -1,140 +1,36 @@
 {
-"updated": "2026-10-24T11:51:38+00:00",
+"updated": "2026-10-24T15:27:02+00:00",
 "jobs": [
 {
-"title": "Information technology (IT) analyst",
-"company": "Omega Tool Corp",
-"location": "Tecumseh, Ontario, Canada",
+"title": "Technical sales supervisor",
+"company": "Giant Tiger",
+"location": "Alexandria, Ontario, Canada",
 "posted": "2026-10-24",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571643",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50572144",
 "source": "Job Bank"
 },
 {
-"title": "Transaction Processing Administrator",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=5065f7eea5e2120a",
-"source": "Indeed"
-},
-{
-"title": "PeopleSoft Senior Systems Analyst #2",
+"title": "PeopleSoft Senior Systems Analyst",
 "company": "SOFTLINE TECHNOLOGY",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=b54c401295b3fb12",
+"link": "https://ca.indeed.com/viewjob?jk=d339fb3d100c3a29",
 "source": "Indeed"
 },
 {
-"title": "Operations Analyst, Production Support",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=924bee17002f7260",
-"source": "Indeed"
-},
-{
-"title": "Cybersecurity specialist",
-"company": "Silaris Solutions Inc",
-"location": "Milton, Ontario, Canada",
-"posted": "2026-10-24",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571474",
-"source": "Job Bank"
-},
-{
-"title": "Office administrator",
-"company": "MedSleep Inc.",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-24",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571572",
-"source": "Job Bank"
-},
-{
-"title": "Cyber Security Specialist",
-"company": "",
-"location": "Milton, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=9e48737d66acec8f",
-"source": "Indeed"
-},
-{
-"title": "Senior Systems Testing/QA Specialist",
-"company": "SOFTLINE TECHNOLOGY",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=6bc59825a5d8266f",
-"source": "Indeed"
-},
-{
-"title": "Lead Data Scientist",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=b0b9f2cbf9dfb96e",
-"source": "Indeed"
-},
-{
-"title": "CDT – 1 Software Developer ETL (Snr) – 250 + 80 Days",
-"company": "SOFTLINE TECHNOLOGY",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=46a439dfd909f1d0",
-"source": "Indeed"
-},
-{
-"title": "Senior Software Developer – Front End",
-"company": "SOFTLINE TECHNOLOGY",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=6d01e32682b44d9e",
-"source": "Indeed"
-},
-{
-"title": "UX Designer",
-"company": "SOFTLINE TECHNOLOGY",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=873e3690591a5881",
-"source": "Indeed"
-},
-{
-"title": "Senior Software Developer – Full Stack",
-"company": "SOFTLINE TECHNOLOGY",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=f171fda7ffe6656b",
-"source": "Indeed"
-},
-{
-"title": "Griller and Pos operator",
-"company": "Mr. Greek",
-"location": "Vaughan, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=9c1bc8992986187f",
-"source": "Indeed"
-},
-{
-"title": "UX Designer",
-"company": "CarltonOne Engagement",
-"location": "Markham, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=0b39dfd4223b464e",
-"source": "Indeed"
-},
-{
-"title": "Senior Software Engineer, Finance System",
-"company": "Element Fleet Management",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=82531ab4ebcd1fe9",
-"source": "Indeed"
-},
-{
-"title": "Security Engineer",
-"company": "Varicent",
+"title": "Senior Business Analyst, Change Management",
+"company": "Peoples Group",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=c3b5974e55de91f1",
+"link": "https://ca.indeed.com/viewjob?jk=d4dd33081c5edb88",
+"source": "Indeed"
+},
+{
+"title": "Robotics Technician",
+"company": "",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=525bfe16c7ae8936",
 "source": "Indeed"
 },
 {
@@ -146,12 +42,140 @@
 "source": "Indeed"
 },
 {
-"title": "Robotics Technician",
-"company": "",
-"location": "Markham, ON, CA (remote)",
+"title": "Security Engineer",
+"company": "Varicent",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=525bfe16c7ae8936",
+"link": "https://ca.indeed.com/viewjob?jk=c3b5974e55de91f1",
 "source": "Indeed"
+},
+{
+"title": "Senior Software Engineer, Finance System",
+"company": "Element Fleet Management",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=82531ab4ebcd1fe9",
+"source": "Indeed"
+},
+{
+"title": "UX Designer",
+"company": "CarltonOne Engagement",
+"location": "Markham, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=0b39dfd4223b464e",
+"source": "Indeed"
+},
+{
+"title": "Griller and Pos operator",
+"company": "Mr. Greek",
+"location": "Vaughan, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=9c1bc8992986187f",
+"source": "Indeed"
+},
+{
+"title": "Senior Software Developer – Full Stack",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=f171fda7ffe6656b",
+"source": "Indeed"
+},
+{
+"title": "UX Designer",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=873e3690591a5881",
+"source": "Indeed"
+},
+{
+"title": "Senior Software Developer – Front End",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=6d01e32682b44d9e",
+"source": "Indeed"
+},
+{
+"title": "CDT – 1 Software Developer ETL (Snr) – 250 + 80 Days",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=46a439dfd909f1d0",
+"source": "Indeed"
+},
+{
+"title": "Lead Data Scientist",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=b0b9f2cbf9dfb96e",
+"source": "Indeed"
+},
+{
+"title": "Senior Systems Testing/QA Specialist",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=6bc59825a5d8266f",
+"source": "Indeed"
+},
+{
+"title": "Cyber Security Specialist",
+"company": "",
+"location": "Milton, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=9e48737d66acec8f",
+"source": "Indeed"
+},
+{
+"title": "Office administrator",
+"company": "MedSleep Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571572",
+"source": "Job Bank"
+},
+{
+"title": "Cybersecurity specialist",
+"company": "Silaris Solutions Inc",
+"location": "Milton, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571474",
+"source": "Job Bank"
+},
+{
+"title": "Operations Analyst, Production Support",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=924bee17002f7260",
+"source": "Indeed"
+},
+{
+"title": "PeopleSoft Senior Systems Analyst #2",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=b54c401295b3fb12",
+"source": "Indeed"
+},
+{
+"title": "Transaction Processing Administrator",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=5065f7eea5e2120a",
+"source": "Indeed"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Omega Tool Corp",
+"location": "Tecumseh, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571643",
+"source": "Job Bank"
 },
 {
 "title": "Sr Analyst, Wireline eCommerce",
@@ -2056,6 +2080,30 @@
 "posted": "2026-10-23",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571578",
 "source": "Job Bank"
+},
+{
+"title": "Practice Coordinator, Audit Operations and Audit Technology & Transformation",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=c0e8fbccc5679398",
+"source": "Indeed"
+},
+{
+"title": "ERP Manager",
+"company": "",
+"location": "Ajax, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=c4ecf9c898cf395a",
+"source": "Indeed"
+},
+{
+"title": "Technologist I - PPT",
+"company": "Thermo Fisher Scientific",
+"location": "Whitby, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=b9300e55fc0f3310",
+"source": "Indeed"
 },
 {
 "title": "Mgr. Enterprise Risk Mgmt (AI & Cyber)",
