@@ -1,6 +1,30 @@
 {
-"updated": "2026-10-25T08:38:38+00:00",
+"updated": "2026-10-25T13:34:35+00:00",
 "jobs": [
+{
+"title": "Medical Office Administrator",
+"company": "",
+"location": "Guelph, ON, CA",
+"posted": "2026-10-25",
+"link": "https://ca.indeed.com/viewjob?jk=46b886cb895fdcb9",
+"source": "Indeed"
+},
+{
+"title": "(CAN) Front End Checkout Team Associate",
+"company": "Walmart",
+"location": "Scarborough, ON, CA",
+"posted": "2026-10-25",
+"link": "https://ca.indeed.com/viewjob?jk=82360d27a4675d1a",
+"source": "Indeed"
+},
+{
+"title": "Software developer",
+"company": "The French Sourcer",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50576301",
+"source": "Job Bank"
+},
 {
 "title": "Professional Engineering - Electrical Systems Integration - Pool Posting",
 "company": "Bombardier",
@@ -384,6 +408,38 @@
 "posted": "2026-10-24",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50575195",
 "source": "Job Bank"
+},
+{
+"title": "Full Stack Developer",
+"company": "MDA Space",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473399401",
+"source": "LinkedIn"
+},
+{
+"title": "Senior Software Engineer, Growth",
+"company": "Tubi",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4430154364",
+"source": "LinkedIn"
+},
+{
+"title": "Java Full Stack Development Lead",
+"company": "CGI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4410227737",
+"source": "LinkedIn"
+},
+{
+"title": "Rustproofing & Undercoating Technician (Experienced)",
+"company": "Durham Autohaus",
+"location": "Pickering, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=4de0c591d4856029",
+"source": "Indeed"
 },
 {
 "title": "Sr Analyst, Wireline eCommerce",
