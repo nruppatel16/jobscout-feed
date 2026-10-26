@@ -1,6 +1,86 @@
 {
-"updated": "2026-10-26T00:33:40+00:00",
+"updated": "2026-10-26T05:47:25+00:00",
 "jobs": [
+{
+"title": "Computer Technician",
+"company": "",
+"location": "Milton, ON, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=f0f139173e761a0b",
+"source": "Indeed"
+},
+{
+"title": "Senior Technical Support Engineer",
+"company": "Synergy IT",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=1b90abe5f08ae362",
+"source": "Indeed"
+},
+{
+"title": "Senior Analyst, Client Reporting Development Team",
+"company": "Connor, Clark & Lunn Financial Group",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=17678e9caff24c0e",
+"source": "Indeed"
+},
+{
+"title": "Data Scientist, Model Performance Monitoring and Reporting",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=5a7e4bdf7fa8ac1d",
+"source": "Indeed"
+},
+{
+"title": "Sales Automation Engineer Intern",
+"company": "Arima",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=2220562647959caf",
+"source": "Indeed"
+},
+{
+"title": "Consultant, Salesforce Development",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=b67c817911b2a490",
+"source": "Indeed"
+},
+{
+"title": "Directeur(rice) de comptes (M), Spécialisé(e) Ventes Solutions pour Employeurs",
+"company": "TELUS",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-26T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Directeur%28rice%29-de-comptes-%28M%29%2C-Sp%C3%A9cialis%C3%A9%28e%29-Ventes-Solutions-pour-Employeurs-QC/603107517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Account Manager (M), Specialty Sales - Employer Solutions",
+"company": "TELUS",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-26T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Account-Manager-%28M%29%2C-Specialty-Sales-Employer-Solutions-QC/603107417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Engineer Methods Information Systems",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209-2924",
+"posted": "2026-10-26T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Engineer-Methods-Information-Systems-KS-67209-2924/1390593733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technician, Specialist",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-10-26T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Technician%2C-Specialist-KS-67209/1421357033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
 {
 "title": "Medical Office Administrator",
 "company": "",
@@ -504,86 +584,6 @@
 "posted": "2026-10-24T07:00:00+00:00",
 "link": "https://jobs.rogers.com/job/Brampton-Senior-Network-Designer-ON/1434029300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Rogers careers"
-},
-{
-"title": "Advisor Technical",
-"company": "Bombardier",
-"location": "Wichita, KS, US, 67209-2924",
-"posted": "2026-10-24T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/Wichita-Advisor-Technical-KS-67209-2924/1441572833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Senior Account Manager (Enterprise Business Solutions)",
-"company": "TELUS",
-"location": "Toronto, ON, CA, M5J 2V5",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://careers.telus.com/job/Toronto-Senior-Account-Manager-%28Enterprise-Business-Solutions%29-ON-M5J-2V5/605601117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "TELUS careers"
-},
-{
-"title": "IT Project Coordinator",
-"company": "OPG",
-"location": "Oshawa, ON, CA, L1H 8W8",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://jobs.opg.com/job/Oshawa-IT-Project-Coordinator-ON-L1H-8W8/606484317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "OPG careers"
-},
-{
-"title": "Two (2) Engineer",
-"company": "Toronto Hydro",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://jobs.torontohydro.com/job/Toronto-Two-%282%29-Engineer-ON/601393717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Toronto Hydro careers"
-},
-{
-"title": "Engineer",
-"company": "Toronto Hydro",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://jobs.torontohydro.com/job/Toronto-Engineer-ON/606479917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Toronto Hydro careers"
-},
-{
-"title": "Sales Support Administrator (Intern)",
-"company": "Bombardier",
-"location": "Westerham, GB, TN16 3BN",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Westerham-Sales-Support-Administrator-%28Intern%29-TN16-3BN/1441359033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Licensed Technician B1/B2 - Paris",
-"company": "Bombardier",
-"location": "Paris, FR, 75009",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Paris-Licensed-Technician-B1B2-Paris-75009/1399475433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Professional Senior, Engineering - Cabin Electrical Systems Integration",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Professional-Senior%2C-Engineering-Cabin-Electrical-Systems-Integration-Qu%C3%A9b-H4S-1Y9/1410044033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Senior Advisor Strategic Workforce Planning & Data Analytics",
-"company": "Bombardier",
-"location": "Colon, MEX, MX, 76270",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Colon-Senior-Advisor-Strategic-Workforce-Planning-&-Data-Analytics-MEX-76270/1399552433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Technical Coordinator - Multi-site Projects, Research & Technology (R&T)",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4R 1K2",
-"posted": "2026-10-24T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Technical-Coordinator-Multi-site-Projects%2C-Research-&-Technology-%28R&T%29-Qu%C3%A9b-H4R-1K2/1410054233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
 }
 ]
 }
