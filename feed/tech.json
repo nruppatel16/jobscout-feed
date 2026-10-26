@@ -1,36 +1,44 @@
 {
-"updated": "2026-10-26T05:47:25+00:00",
+"updated": "2026-10-26T12:19:59+00:00",
 "jobs": [
 {
-"title": "Computer Technician",
+"title": "Sr. Client Support Specialist",
+"company": "TRADER Corporation",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=f15cdc1db6ede492",
+"source": "Indeed"
+},
+{
+"title": "Telecommunications Technician",
 "company": "",
-"location": "Milton, ON, CA",
+"location": "Burlington, ON, CA",
 "posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=f0f139173e761a0b",
+"link": "https://ca.indeed.com/viewjob?jk=8fdd560613b8f3f0",
 "source": "Indeed"
 },
 {
-"title": "Senior Technical Support Engineer",
-"company": "Synergy IT",
-"location": "Mississauga, ON, CA (remote)",
-"posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=1b90abe5f08ae362",
-"source": "Indeed"
-},
-{
-"title": "Senior Analyst, Client Reporting Development Team",
-"company": "Connor, Clark & Lunn Financial Group",
+"title": "Dir Cyber Security Engineering",
+"company": "Optimum",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=17678e9caff24c0e",
+"link": "https://ca.indeed.com/viewjob?jk=086b48feddc0f95f",
 "source": "Indeed"
 },
 {
-"title": "Data Scientist, Model Performance Monitoring and Reporting",
+"title": "Winter 2027: Software Developer Co-op, Front End (8 months)",
+"company": "Intuit",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=b9eea7cd6bc4ea74",
+"source": "Indeed"
+},
+{
+"title": "Consultant, Salesforce Development",
 "company": "CIBC",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=5a7e4bdf7fa8ac1d",
+"link": "https://ca.indeed.com/viewjob?jk=b67c817911b2a490",
 "source": "Indeed"
 },
 {
@@ -42,12 +50,44 @@
 "source": "Indeed"
 },
 {
-"title": "Consultant, Salesforce Development",
+"title": "Data Scientist, Model Performance Monitoring and Reporting",
 "company": "CIBC",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=b67c817911b2a490",
+"link": "https://ca.indeed.com/viewjob?jk=5a7e4bdf7fa8ac1d",
 "source": "Indeed"
+},
+{
+"title": "Senior Analyst, Client Reporting Development Team",
+"company": "Connor, Clark & Lunn Financial Group",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=17678e9caff24c0e",
+"source": "Indeed"
+},
+{
+"title": "Senior Technical Support Engineer",
+"company": "Synergy IT",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=1b90abe5f08ae362",
+"source": "Indeed"
+},
+{
+"title": "Computer Technician",
+"company": "",
+"location": "Milton, ON, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=f0f139173e761a0b",
+"source": "Indeed"
+},
+{
+"title": "Network Material Buyer",
+"company": "Rogers",
+"location": "North York, ON, CA",
+"posted": "2026-10-26T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/North-York-Network-Material-Buyer-ON/1434189200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
 },
 {
 "title": "Directeur(rice) de comptes (M), Spécialisé(e) Ventes Solutions pour Employeurs",
@@ -152,6 +192,14 @@
 "posted": "2026-10-25",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50580793",
 "source": "Job Bank"
+},
+{
+"title": "Senior Full Stack Developer",
+"company": "CGI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-25",
+"link": "https://www.linkedin.com/jobs/view/4453031659",
+"source": "LinkedIn"
 },
 {
 "title": "Professional Engineering - Electrical Systems Integration - Pool Posting",
@@ -568,22 +616,6 @@
 "posted": "2026-10-24",
 "link": "https://ca.indeed.com/viewjob?jk=4de0c591d4856029",
 "source": "Indeed"
-},
-{
-"title": "Sr Analyst, Wireline eCommerce",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-24T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Sr-Analyst%2C-Wireline-eCommerce-ON/1413792300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Senior Network Designer",
-"company": "Rogers",
-"location": "Brampton, ON, CA",
-"posted": "2026-10-24T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Brampton-Senior-Network-Designer-ON/1434029300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
 }
 ]
 }
