@@ -1,28 +1,108 @@
 {
-"updated": "2026-10-28T04:13:08+00:00",
+"updated": "2026-10-28T10:44:08+00:00",
 "jobs": [
 {
-"title": "Customer support representative - wholesale",
-"company": "Ontario Northland",
-"location": "Onward Willow, Ontario, Canada",
+"title": "Information technology (IT) analyst",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-10-28",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50597370",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50598316",
 "source": "Job Bank"
 },
 {
-"title": "Junior Field Service Technician",
-"company": "Megawatt Power Solutions Inc.",
-"location": "Greater Toronto Area, ON, CA",
+"title": "Electronics engineering technologist",
+"company": "Archronix",
+"location": "Markham, ON, CA (remote)",
 "posted": "2026-10-28",
-"link": "https://ca.indeed.com/viewjob?jk=06d7e64b01f5bca9",
+"link": "https://ca.indeed.com/viewjob?jk=b6b70577a6a14003",
 "source": "Indeed"
 },
 {
-"title": "Principal Engineer - Android",
-"company": "Cosmo",
+"title": "(CAN) Customer Service Desk Associate** PT Customer service**",
+"company": "Walmart",
+"location": "Vaughan, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=ab773089d422532a",
+"source": "Indeed"
+},
+{
+"title": "IT Support Analyst",
+"company": "Tacc Construction",
+"location": "Concord, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=5f34c133191cccd8",
+"source": "Indeed"
+},
+{
+"title": "MarTech / AdTech Technical Lead",
+"company": "Capgemini",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=b6b280f97926ba60",
+"source": "Indeed"
+},
+{
+"title": "Data & Analytics Manager",
+"company": "OLG",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=194a5c13b884eefc",
+"source": "Indeed"
+},
+{
+"title": "Cloud engineer",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50598319",
+"source": "Job Bank"
+},
+{
+"title": "Software developer",
+"company": "COSMO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50598334",
+"source": "Job Bank"
+},
+{
+"title": "Software developer",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50598331",
+"source": "Job Bank"
+},
+{
+"title": "Web developer",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50598329",
+"source": "Job Bank"
+},
+{
+"title": "Software Developer 1",
+"company": "Intuit",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=51287920024668f8",
+"source": "Indeed"
+},
+{
+"title": "Software Developer 1 - API Management Platform",
+"company": "Intuit",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=1f8f778f63170c66",
+"source": "Indeed"
+},
+{
+"title": "2027 Software Engineering Intern, Canada",
+"company": "Uber",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-28",
-"link": "https://ca.indeed.com/viewjob?jk=e3ca4f4bd17a093c",
+"link": "https://ca.indeed.com/viewjob?jk=5f9510e554597b06",
 "source": "Indeed"
 },
 {
@@ -34,12 +114,36 @@
 "source": "Indeed"
 },
 {
-"title": "2027 Software Engineering Intern, Canada",
-"company": "Uber",
+"title": "Principal Engineer - Android",
+"company": "Cosmo",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-28",
-"link": "https://ca.indeed.com/viewjob?jk=5f9510e554597b06",
+"link": "https://ca.indeed.com/viewjob?jk=e3ca4f4bd17a093c",
 "source": "Indeed"
+},
+{
+"title": "Junior Field Service Technician",
+"company": "Megawatt Power Solutions Inc.",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=06d7e64b01f5bca9",
+"source": "Indeed"
+},
+{
+"title": "Customer support representative - wholesale",
+"company": "Ontario Northland",
+"location": "Onward Willow, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50597370",
+"source": "Job Bank"
+},
+{
+"title": "Security Operations Coordinator, Bell Canada",
+"company": "Bell",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-10-28T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Winnipeg-Security-Operations-Coordinator%2C-Bell-Canada-MB/1404492400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Professional, Engineering, Cabin Electrical Systems Integration",
@@ -1871,6 +1975,110 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-10-27",
 "link": "https://ca.indeed.com/viewjob?jk=c9a3a0dd6a3ebf01",
+"source": "Indeed"
+},
+{
+"title": "Compiler Engineer - Triton and DSLs",
+"company": "Intel Corporation",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=c5fcbc91dd6c40f6",
+"source": "Indeed"
+},
+{
+"title": "Senior Compiler Engineer - Triton and DSLs",
+"company": "Intel Corporation",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=e9242bed83e032a2",
+"source": "Indeed"
+},
+{
+"title": "Sr. Software Developer",
+"company": "OpenText",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=0e91bebe172b633b",
+"source": "Indeed"
+},
+{
+"title": "Test Engineering, Software Designer",
+"company": "L3Harris",
+"location": "Waterdown, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=2e29ce6446e56895",
+"source": "Indeed"
+},
+{
+"title": "Data Product Analyst (Data Science)",
+"company": "Adastra Corporation",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=f30e2a845a0d43c8",
+"source": "Indeed"
+},
+{
+"title": "Senior Director, AI Architecture",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=3632197cffeb32f5",
+"source": "Indeed"
+},
+{
+"title": "Consultant(e) en intégration (Bilingue) - Integration Consultant (Bilingual)",
+"company": "ADP",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=4f3fcf014f7f1b70",
+"source": "Indeed"
+},
+{
+"title": "Premier Merchant Support Representative",
+"company": "KORT Payments",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=23891a7a1399d3a8",
+"source": "Indeed"
+},
+{
+"title": "Manager, Product Management - Media Solutions",
+"company": "Mastercard",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=32e15593cae820e7",
+"source": "Indeed"
+},
+{
+"title": "eCommerce Site Specialist",
+"company": "Carter's",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=ed52eda03a9276da",
+"source": "Indeed"
+},
+{
+"title": "Investment Support Officer",
+"company": "Scotiabank",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=203bc57b104c864a",
+"source": "Indeed"
+},
+{
+"title": "Scrum Master",
+"company": "Aviva",
+"location": "Markham, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=f011bf5a61323000",
+"source": "Indeed"
+},
+{
+"title": "Hydrogeological Technician",
+"company": "Envision Consultants Ltd.",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=67b4014e86bca68d",
 "source": "Indeed"
 },
 {
@@ -3978,12 +4186,12 @@
 "source": "Indeed"
 },
 {
-"title": "Network Material Buyer",
-"company": "Rogers",
-"location": "North York, ON, CA",
-"posted": "2026-10-26T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/North-York-Network-Material-Buyer-ON/1434189200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
+"title": "Sr. Systems Analyst",
+"company": "OpenText",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=b0a81c832a6db406",
+"source": "Indeed"
 }
 ]
 }
