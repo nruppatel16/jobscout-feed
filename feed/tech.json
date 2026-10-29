@@ -1,12 +1,84 @@
 {
-"updated": "2026-10-29T01:34:36+00:00",
+"updated": "2026-10-29T08:04:24+00:00",
 "jobs": [
 {
-"title": "Sales Ambassador, Payment Solutions (Part-Time, Flexible Hours)",
-"company": "Settleup Payments Solutions Ltd.",
-"location": "Barrie, ON, CA",
+"title": "Information technology (IT) analyst",
+"company": "JVS Toronto",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=faa807adea933519",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606786",
+"source": "Job Bank"
+},
+{
+"title": "Property administrator",
+"company": "ADECCO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606750",
+"source": "Job Bank"
+},
+{
+"title": "Information Security Analyst",
+"company": "Alimentiv",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=b1c431097083edb8",
+"source": "Indeed"
+},
+{
+"title": "Product engineer",
+"company": "Leading Edge",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606806",
+"source": "Job Bank"
+},
+{
+"title": "Data scientist",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606613",
+"source": "Job Bank"
+},
+{
+"title": "Web developer",
+"company": "Astra North Infoteck Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606602",
+"source": "Job Bank"
+},
+{
+"title": "Staff Software Engineer, Payroll Calculation",
+"company": "Rippling",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=c4cf7c34a487f69d",
+"source": "Indeed"
+},
+{
+"title": "Staff Software Engineer - Ledger",
+"company": "Rippling",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=3b3a9f93f4c42ef0",
+"source": "Indeed"
+},
+{
+"title": "Software engineer - SQL / C#",
+"company": "Amaris Consulting",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=0603c3e559339463",
+"source": "Indeed"
+},
+{
+"title": "Website Designer & Developer",
+"company": "Bizeeza Inc.",
+"location": "Scarborough, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=ac428212143a1b91",
 "source": "Indeed"
 },
 {
@@ -18,12 +90,60 @@
 "source": "Indeed"
 },
 {
-"title": "Website Designer & Developer",
-"company": "Bizeeza Inc.",
-"location": "Scarborough, ON, CA (remote)",
+"title": "Sales Ambassador, Payment Solutions (Part-Time, Flexible Hours)",
+"company": "Settleup Payments Solutions Ltd.",
+"location": "Barrie, ON, CA",
 "posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=ac428212143a1b91",
+"link": "https://ca.indeed.com/viewjob?jk=faa807adea933519",
 "source": "Indeed"
+},
+{
+"title": "Commis des Postes - Préposé au comptoir de vente au détail",
+"company": "Canada Post",
+"location": "Penetanguishene, ON, CA",
+"posted": "2026-10-29T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Penetanguishene-Commis-des-Postes-Pr%C3%A9pos%C3%A9-au-comptoir-de-vente-au-d%C3%A9tail-ON/605703617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Commis des Postes - Préposé au comptoir de vente au détail",
+"company": "Canada Post",
+"location": "Prince George, BC, CA",
+"posted": "2026-10-29T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Prince-George-Commis-des-Postes-Pr%C3%A9pos%C3%A9-au-comptoir-de-vente-au-d%C3%A9tail-BC/604554317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Intern,Configuration and Data management (Winter 2027)",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-29T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Intern%2CConfiguration-and-Data-management-%28Winter-2027%29-ON-L5S-1W1/1443041133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Student, Methods Configuration",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-29T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Student%2C-Methods-Configuration-MEX-76270/1442986333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "CONTRACTOR - Technical Expert, Engineering - Structures Design Integrator",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-29T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-CONTRACTOR-Technical-Expert%2C-Engineering-Structures-Design-Integrator-Qu%C3%A9b-H4S-2A9/1442881433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Senior Business Analyst (56B - Halton Regional Centre -, 56B - Halton Regional Centre - 1151 Bronte Road, Oakville (Technology Services level 3), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-29T02:00:00+00:00",
+"link": "https://careers.halton.ca/job/56B-Halton-Regional-Centre-Senior-Business-Analyst-56B/603249617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
 },
 {
 "title": "Information technology (IT) analyst",
@@ -1631,6 +1751,166 @@
 "location": "Newmarket, ON, CA (remote)",
 "posted": "2026-10-28",
 "link": "https://ca.indeed.com/viewjob?jk=67c943885d725994",
+"source": "Indeed"
+},
+{
+"title": "Software Engineering LMTS",
+"company": "Salesforce",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=ba41cf0c9dd7f35a",
+"source": "Indeed"
+},
+{
+"title": "Senior Agentic AI developer",
+"company": "CGI",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=5eb0f8b2b5af0c7b",
+"source": "Indeed"
+},
+{
+"title": "CLDRSRC10376 - DevOPS/Cloud Engineer - Toronto - Remote - (Onsite on need)",
+"company": "Cloud Resourcing",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=e5eb321a3dec7013",
+"source": "Indeed"
+},
+{
+"title": "Software developer",
+"company": "Astra North Infoteck Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606660",
+"source": "Job Bank"
+},
+{
+"title": "Distinguished Engineer / Ingénieur(e) émérite – Voyages d’affaires et dépenses",
+"company": "Capital One",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=66239a5e2f3df940",
+"source": "Indeed"
+},
+{
+"title": "Data Engineer",
+"company": "CareRx",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=903d41ef90113a4e",
+"source": "Indeed"
+},
+{
+"title": "Business data analyst",
+"company": "Astra North Infoteck Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606677",
+"source": "Job Bank"
+},
+{
+"title": "Manager, Regional Product Management (Security Solutions)",
+"company": "Mastercard",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=70e702865e1909ed",
+"source": "Indeed"
+},
+{
+"title": "Manager, Investment Financial Planning & Analysis and Data Analytics",
+"company": "HOOPP",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=21977d5464f3907b",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager Cyber Generalist",
+"company": "PwC Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=e3dea3d013f2074e",
+"source": "Indeed"
+},
+{
+"title": "Cloud Architecture and DevOps Lead – Telco Private Cloud",
+"company": "CGI",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=51a036cc1cfbf60b",
+"source": "Indeed"
+},
+{
+"title": "Quality Control Technician",
+"company": "Aviva",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=3ecad37395ac911f",
+"source": "Indeed"
+},
+{
+"title": "Product Support Sales Representative (PSSR) - Crushing",
+"company": "Toromont Cat",
+"location": "Concord, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=a8e77534f535b12e",
+"source": "Indeed"
+},
+{
+"title": "Automation Technician",
+"company": "Solina Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=acfed0ff0edd0316",
+"source": "Indeed"
+},
+{
+"title": "Scrum Master I",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=515b378c2ca84eab",
+"source": "Indeed"
+},
+{
+"title": "PASS 333 - Attendance Support Officer",
+"company": "Hamilton-Wentworth Catholic District School Board",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=4f39ff040e72f567",
+"source": "Indeed"
+},
+{
+"title": "CLDRSRC10375- Product Manager - Digital health /Enterprise integration - Toronto - Remote (Onsite on need)",
+"company": "Cloud Resourcing",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=c1915c854e77ea9f",
+"source": "Indeed"
+},
+{
+"title": "Technical Specialist, Wastewater Treatment",
+"company": "AECOM",
+"location": "Markham, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=510c7a3fd2379103",
+"source": "Indeed"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606896",
+"source": "Job Bank"
+},
+{
+"title": "Senior Manager, Customer Success Operations",
+"company": "Ryan, LLC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=9874659e5d08aeb7",
 "source": "Indeed"
 },
 {
@@ -3762,36 +4042,12 @@
 "source": "Indeed"
 },
 {
-"title": "Senior Power Systems Architect",
-"company": "Bell",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-27T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Toronto-Senior-Power-Systems-Architect-ON/1433584200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Senior Manager, Data Services & Platforms",
-"company": "Purolator",
-"location": "Mississauga, ON, CA, L5N 0E1",
-"posted": "2026-10-27T07:00:00+00:00",
-"link": "https://careers.purolator.com/job/Mississauga-Senior-Manager%2C-Data-Services-&-Platforms-ON-L5N-0E1/1434545100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Purolator careers"
-},
-{
-"title": "Modern Workplace Manager- Microsoft M365",
-"company": "OPG",
-"location": "Oshawa, ON, CA, L1H 8W8",
-"posted": "2026-10-27T02:00:00+00:00",
-"link": "https://jobs.opg.com/job/Oshawa-Modern-Workplace-Manager-Microsoft-M365-ON-L1H-8W8/606507517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "OPG careers"
-},
-{
-"title": "Methods Engineer-Tucson, AZ",
-"company": "Bombardier",
-"location": "Tucson, AZ, US, 85706-9279",
-"posted": "2026-10-27T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Tucson-Methods-Engineer-Tucson%2C-AZ-AZ-85706-9279/1283086001/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
+"title": "Technical Sales Engineer",
+"company": "Axiom Group Inc.",
+"location": "Aurora, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=6a11a1804969baab",
+"source": "Indeed"
 }
 ]
 }
