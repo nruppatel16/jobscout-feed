@@ -1,44 +1,116 @@
 {
-"updated": "2026-10-30T06:13:08+00:00",
+"updated": "2026-10-30T13:19:54+00:00",
 "jobs": [
 {
-"title": "Digital Media, AI & Lead Generation Specialist",
-"company": "Goreway dental centre",
-"location": "Brampton, ON, CA",
+"title": "Sr. UI/UX Designer",
+"company": "TRU IT",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=60ef86ba4d52dbdb",
+"link": "https://ca.indeed.com/viewjob?jk=9856b55e9decf473",
 "source": "Indeed"
 },
 {
-"title": "Senior IT Auditor",
-"company": "Office of the Auditor General of Ontario",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=f862d6bc5e952749",
-"source": "Indeed"
-},
-{
-"title": "IT Audit Supervisor",
-"company": "Office of the Auditor General of Ontario",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=c7b19aa6a9050a59",
-"source": "Indeed"
-},
-{
-"title": "On-Call IT Support Tech",
-"company": "Unio Tech Solutions",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=b7a7272df37c2ba7",
-"source": "Indeed"
-},
-{
-"title": "Server administrator",
-"company": "Parent Organization",
+"title": "Architect",
+"company": "Astra North Infoteck Inc.",
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-30",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614278",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614876",
+"source": "Job Bank"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "AZ Accounting",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614892",
+"source": "Job Bank"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Maarut",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614902",
+"source": "Job Bank"
+},
+{
+"title": "SPECIALIST CYBER DIPLOMACY & GOVERNANCE (BUSINESS STRATEGY & PLANNING)",
+"company": "City of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=0b7ab5785d73c77e",
+"source": "Indeed"
+},
+{
+"title": "Office Administrator",
+"company": "Magic Clean",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=c010c80fdb5217c5",
+"source": "Indeed"
+},
+{
+"title": "Cloud administrator",
+"company": "Orillia Sports Medicine",
+"location": "Orillia, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50615068",
+"source": "Job Bank"
+},
+{
+"title": "Electronic commerce (e-commerce) Web site developer",
+"company": "ScaleJet",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614868",
+"source": "Job Bank"
+},
+{
+"title": "Web developer",
+"company": "Presto",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614863",
+"source": "Job Bank"
+},
+{
+"title": "Software Engineering SMTS",
+"company": "Salesforce",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=6a0156f327357a3f",
+"source": "Indeed"
+},
+{
+"title": "Principal, Statistical Programmer",
+"company": "Alira Health",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=1c9a344b66d73579",
+"source": "Indeed"
+},
+{
+"title": "Automation/Manual QA Engineer",
+"company": "RecruitGarden",
+"location": "Richmond Hill, ON, CA (remote)",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=4a1f155993c848b9",
+"source": "Indeed"
+},
+{
+"title": "Senior Web Developer",
+"company": "Connexall",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=d43782669c3fcf5e",
+"source": "Indeed"
+},
+{
+"title": "Cloud engineer",
+"company": "Parent Organization",
+"location": "Onward Willow, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614022",
 "source": "Job Bank"
 },
 {
@@ -50,12 +122,84 @@
 "source": "Indeed"
 },
 {
-"title": "Cloud engineer",
+"title": "Server administrator",
 "company": "Parent Organization",
-"location": "Onward Willow, Ontario, Canada",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-10-30",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614022",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614278",
 "source": "Job Bank"
+},
+{
+"title": "On-Call IT Support Tech",
+"company": "Unio Tech Solutions",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=b7a7272df37c2ba7",
+"source": "Indeed"
+},
+{
+"title": "IT Audit Supervisor",
+"company": "Office of the Auditor General of Ontario",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=c7b19aa6a9050a59",
+"source": "Indeed"
+},
+{
+"title": "Senior IT Auditor",
+"company": "Office of the Auditor General of Ontario",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=f862d6bc5e952749",
+"source": "Indeed"
+},
+{
+"title": "Digital Media, AI & Lead Generation Specialist",
+"company": "Goreway dental centre",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=60ef86ba4d52dbdb",
+"source": "Indeed"
+},
+{
+"title": "Product Manager",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-30T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Product-Manager-ON/1415976500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "POS- Business Sales Consultant",
+"company": "Rogers",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-30T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Calgary-POS-Business-Sales-Consultant-AB/1435708500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Senior Technology Auditor",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-30T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Senior-Technology-Auditor-ON/1435884300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Senior Network Monitoring Engineer",
+"company": "Rogers",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-30T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Montreal-Senior-Network-Monitoring-Engineer-QC/1435845300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Senior Forward Deployed AI Engineer",
+"company": "Bell",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-30T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Mississauga-Senior-Forward-Deployed-AI-Engineer-ON/1405484600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Intern, in Technical Publications, Production Planning/Analyst (Winter, 2027)",
@@ -232,6 +376,14 @@
 "posted": "2026-10-30T02:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/Colon-Technologist%2C-Quality-Assurance-MEX-76270/1422569633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
+},
+{
+"title": "Senior Analyst, Ecommerce & Digital",
+"company": "Rogers",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-30T00:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Mississauga-Senior-Analyst%2C-Ecommerce-&-Digital-ON/1446276800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
 },
 {
 "title": "IT Account Manager",
@@ -2071,6 +2223,70 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-10-29",
 "link": "https://ca.indeed.com/viewjob?jk=381393f09084300b",
+"source": "Indeed"
+},
+{
+"title": "Salesforce Developer",
+"company": "Panasonic Automotive",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=8402879db304267b",
+"source": "Indeed"
+},
+{
+"title": "Salesforce Developer",
+"company": "Panasonic",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=5c4fd46a8d367e85",
+"source": "Indeed"
+},
+{
+"title": "Associate Technical Solutions Specialist",
+"company": "Euna Solutions",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4468238813",
+"source": "LinkedIn"
+},
+{
+"title": "Low-Level Software Engineer, LLK",
+"company": "Tenstorrent",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4475445879",
+"source": "LinkedIn"
+},
+{
+"title": "Summer Intern 2027 - Asset Management Operations Technology)",
+"company": "Mackenzie Investments",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=b48e916e7511e249",
+"source": "Indeed"
+},
+{
+"title": "Software Development Engineer, Demand Tech",
+"company": "Amazon",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4458542349",
+"source": "LinkedIn"
+},
+{
+"title": "Technical Support Analyst - L3",
+"company": "Panasonic",
+"location": "Niagara-on-the-Lake, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=b47d03b23bf22936",
+"source": "Indeed"
+},
+{
+"title": "Technical Support Analyst - L3",
+"company": "Panasonic Automotive",
+"location": "Niagara-on-the-Lake, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=7f75c0234219dc96",
 "source": "Indeed"
 },
 {
@@ -4144,14 +4360,6 @@
 "posted": "2026-10-28",
 "link": "https://ca.indeed.com/viewjob?jk=49f383236d0e7232",
 "source": "Indeed"
-},
-{
-"title": "Security Operations Coordinator, Bell Canada",
-"company": "Bell",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-10-28T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Winnipeg-Security-Operations-Coordinator%2C-Bell-Canada-MB/1404492400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
 }
 ]
 }
