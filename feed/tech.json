@@ -1,20 +1,36 @@
 {
-"updated": "2026-10-31T08:40:50+00:00",
+"updated": "2026-10-31T15:04:31+00:00",
 "jobs": [
 {
-"title": "Customer Success Manager",
-"company": "",
-"location": "Mississauga, ON, CA (remote)",
+"title": "Website and Digital Experience Specialist",
+"company": "Islamic Relief Canada",
+"location": "Burlington, ON, CA",
 "posted": "2026-10-31",
-"link": "https://ca.indeed.com/viewjob?jk=b32d2b0c4f4c6379",
+"link": "https://ca.indeed.com/viewjob?jk=bb93ae922e09f18f",
 "source": "Indeed"
 },
 {
-"title": "Consultant TLM Support / Consultant (e), soutien de gestion de temps (TLM)",
-"company": "ADP",
-"location": "Etobicoke, ON, CA",
+"title": "Business systems analyst",
+"company": "Vale Base Metals",
+"location": "Greater Sudbury, Ontario, Canada",
 "posted": "2026-10-31",
-"link": "https://ca.indeed.com/viewjob?jk=7009ab3e8fb7d7f3",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50621575",
+"source": "Job Bank"
+},
+{
+"title": "Head of Security Centre",
+"company": "Geotab",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-31",
+"link": "https://ca.indeed.com/viewjob?jk=12f218268c60dbe8",
+"source": "Indeed"
+},
+{
+"title": "Senior SAP Programmer Analyst TRBK",
+"company": "ATB Financial",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-31",
+"link": "https://ca.indeed.com/viewjob?jk=2a0adf6f63689119",
 "source": "Indeed"
 },
 {
@@ -26,11 +42,19 @@
 "source": "Job Bank"
 },
 {
-"title": "Senior SAP Programmer Analyst TRBK",
-"company": "ATB Financial",
-"location": "Toronto, ON, CA (remote)",
+"title": "Consultant TLM Support / Consultant (e), soutien de gestion de temps (TLM)",
+"company": "ADP",
+"location": "Etobicoke, ON, CA",
 "posted": "2026-10-31",
-"link": "https://ca.indeed.com/viewjob?jk=2a0adf6f63689119",
+"link": "https://ca.indeed.com/viewjob?jk=7009ab3e8fb7d7f3",
+"source": "Indeed"
+},
+{
+"title": "Customer Success Manager",
+"company": "",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-31",
+"link": "https://ca.indeed.com/viewjob?jk=b32d2b0c4f4c6379",
 "source": "Indeed"
 },
 {
@@ -2167,6 +2191,30 @@
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-30",
 "link": "https://ca.indeed.com/viewjob?jk=cc1e436258914377",
+"source": "Indeed"
+},
+{
+"title": "QA Coordinator",
+"company": "Canada Goose",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=2be695ebe293855f",
+"source": "Indeed"
+},
+{
+"title": "AVP Business Operations - BWI Technology",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=cceca31f7dc20fdf",
+"source": "Indeed"
+},
+{
+"title": "Power Systems Engineer II",
+"company": "Electric Power Engineers",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=26469d09172a36d4",
 "source": "Indeed"
 },
 {
