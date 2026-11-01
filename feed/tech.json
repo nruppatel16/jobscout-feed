@@ -1,36 +1,116 @@
 {
-"updated": "2026-11-01T08:45:51+00:00",
+"updated": "2026-11-01T15:47:56+00:00",
 "jobs": [
 {
-"title": "Senior Manager, Cloud & Infrastructure, Deloitte Global Technology",
-"company": "Deloitte",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=30ac97e76ab1a105",
-"source": "Indeed"
-},
-{
-"title": "Desktop Support Engineer",
-"company": "Total IT Global",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=724993fe8992ceda",
-"source": "Indeed"
-},
-{
-"title": "Administrator",
-"company": "",
+"title": "IT Enterprise Architect/Strategist",
+"company": "SOFTLINE TECHNOLOGY",
 "location": "Toronto, ON, CA",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=92a64dbcdcb43d6f",
+"link": "https://ca.indeed.com/viewjob?jk=9d6bb21460d6633b",
 "source": "Indeed"
 },
 {
-"title": "IT Technician",
+"title": "Lead Equipment technician",
+"company": "Solenis",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=8e570e865002ed7f",
+"source": "Indeed"
+},
+{
+"title": "Senior Product Manager",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=706881336f0c781b",
+"source": "Indeed"
+},
+{
+"title": "Hardware Engineering Intern",
+"company": "",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=372a622822cf8f08",
+"source": "Indeed"
+},
+{
+"title": "Sr. Business Analyst – Training and Change Management",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=712e85838f6145f8",
+"source": "Indeed"
+},
+{
+"title": "BXP-One Sr. Business Analyst-Training and Change Management",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=b74510420c5d4422",
+"source": "Indeed"
+},
+{
+"title": "Data Analytical Specialist/Scientist",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=f8e8b1fddf96b484",
+"source": "Indeed"
+},
+{
+"title": "Senior Business Analyst",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=6591d6decea05613",
+"source": "Indeed"
+},
+{
+"title": "Systems Testing/QA Specialist",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=8aaebd50991ecac8",
+"source": "Indeed"
+},
+{
+"title": "Software Developer – API",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=197c00d456d9b600",
+"source": "Indeed"
+},
+{
+"title": "Software Developer",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=a706f98aae9a89df",
+"source": "Indeed"
+},
+{
+"title": "Software Developer – Back End",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=92a9d745d9c3ba35",
+"source": "Indeed"
+},
+{
+"title": "Web developer",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-01",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50628196",
+"source": "Job Bank"
+},
+{
+"title": "Business Analyst",
 "company": "Neuraceptive AI Inc.",
 "location": "Etobicoke, ON, CA (remote)",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
 "source": "Indeed"
 },
 {
@@ -42,20 +122,36 @@
 "source": "Indeed"
 },
 {
-"title": "Business Analyst",
+"title": "IT Technician",
 "company": "Neuraceptive AI Inc.",
 "location": "Etobicoke, ON, CA (remote)",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
 "source": "Indeed"
 },
 {
-"title": "Web developer",
-"company": "Mercor",
-"location": "Toronto, Ontario, Canada",
+"title": "Administrator",
+"company": "",
+"location": "Toronto, ON, CA",
 "posted": "2026-11-01",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50628196",
-"source": "Job Bank"
+"link": "https://ca.indeed.com/viewjob?jk=92a64dbcdcb43d6f",
+"source": "Indeed"
+},
+{
+"title": "Desktop Support Engineer",
+"company": "Total IT Global",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=724993fe8992ceda",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager, Cloud & Infrastructure, Deloitte Global Technology",
+"company": "Deloitte",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=30ac97e76ab1a105",
+"source": "Indeed"
 },
 {
 "title": "Senior Application Security Analyst",
@@ -327,6 +423,14 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-31",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50628289",
+"source": "Job Bank"
+},
+{
+"title": "Web developer",
+"company": "YO AI Labs",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50629582",
 "source": "Job Bank"
 },
 {

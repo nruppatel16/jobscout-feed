@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-01T08:45:51+00:00",
+ "updated": "2026-11-01T15:47:56+00:00",
  "fields": {
   "tech": {
    "found_this_run": {
-    "Indeed": 218,
+    "Indeed": 269,
     "LinkedIn": 0,
-    "Job Bank": 1034,
+    "Job Bank": 1037,
     "Employer career sites": 13125,
-    "kept as IT": 3841
+    "kept as IT": 3912
    },
-   "in_feed": 324
+   "in_feed": 337
   }
  },
- "seconds": 251
+ "seconds": 255
 }
