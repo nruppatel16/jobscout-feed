@@ -1,6 +1,62 @@
 {
-"updated": "2026-11-01T23:46:24+00:00",
+"updated": "2026-11-02T04:40:04+00:00",
 "jobs": [
+{
+"title": "School Office Administrator",
+"company": "Rotherglen School",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=043699d6690fd26e",
+"source": "Indeed"
+},
+{
+"title": "Professional Senior, Engineering Technical Integration",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-02T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional-Senior%2C-Engineering-Technical-Integration-Qu%C3%A9b-H4S-1Y9/1383408333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Interior Remove & Install Technician - Weekend Shift",
+"company": "Bombardier",
+"location": "Windsor Locks, CT, US, 06096-1086",
+"posted": "2026-11-02T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Windsor-Locks-Interior-Remove-&-Install-Technician-Weekend-Shift-CT-06096-1086/1124244601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Structures Technician - Day Shift",
+"company": "Bombardier",
+"location": "Windsor Locks, CT, US, 06096-1086",
+"posted": "2026-11-02T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Windsor-Locks-Structures-Technician-Day-Shift-CT-06096-1086/1144329301/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Interior Remove & Install Technician - Evening Shift",
+"company": "Bombardier",
+"location": "Windsor Locks, CT, US, 06096-1086",
+"posted": "2026-11-02T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Windsor-Locks-Interior-Remove-&-Install-Technician-Evening-Shift-CT-06096-1086/1276035601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Avionics/Electrical Engineer, Defense Systems Integration",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-11-02T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-AvionicsElectrical-Engineer%2C-Defense-Systems-Integration-KS-67209/1424513533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technologist, Quality Assurance",
+"company": "Bombardier",
+"location": "El Marques, MEX, MX, 76246",
+"posted": "2026-11-02T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/El-Marques-Technologist%2C-Quality-Assurance-MEX-76246/1424469533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
 {
 "title": "IT Enterprise Architect/Strategist",
 "company": "SOFTLINE TECHNOLOGY",
@@ -256,6 +312,22 @@
 "posted": "2026-11-01",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50631252",
 "source": "Job Bank"
+},
+{
+"title": "Server administrator",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-01",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50632720",
+"source": "Job Bank"
+},
+{
+"title": "Quality Assurance Technician",
+"company": "State Window Corporation",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=89b27dff6ff75d7a",
+"source": "Indeed"
 },
 {
 "title": "Senior Application Security Analyst",
@@ -568,150 +640,6 @@
 "posted": "2026-10-31T07:00:00+00:00",
 "link": "https://jobs.bce.ca/bell/job/Kamloops-Senior-Manager%2C-AI-Data-Centre-Operations%2C-BC-BC/1416413400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bell careers"
-},
-{
-"title": "Intern, Facilities Planning and Infrastructure Project Management (Winter 2027)",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4R 1K2",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-Facilities-Planning-and-Infrastructure-Project-Management-%28Winter-2027%29-Qu%C3%A9b-H4R-1K2/1444055333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Stagiaire, Solutions d'information d'affaires en ingénierie (Hiver 2027)",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Stagiaire%2C-Solutions-d'information-d'affaires-en-ing%C3%A9nierie-%28Hiver-2027%29-Qu%C3%A9b-H4S-1Y9/1444082433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Stagiaire, gestion de projet - support à la production (Hiver 2027)",
-"company": "Bombardier",
-"location": "Pointe-Claire, Québec, CA, H9R 5Z3",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/Pointe-Claire-Stagiaire%2C-gestion-de-projet-support-%C3%A0-la-production-%28Hiver-2027%29-Qu%C3%A9b-H9R-5Z3/1443982933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Intern, Project Management - Production Support (Winter 2027)",
-"company": "Bombardier",
-"location": "Pointe-Claire, Québec, CA, H9R 5Z3",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/Pointe-Claire-Intern%2C-Project-Management-Production-Support-%28Winter-2027%29-Qu%C3%A9b-H9R-5Z3/1443983033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Intern, Industrial Engineering (Operations support) (Winter 2027)",
-"company": "Bombardier",
-"location": "Pointe-Claire, Québec, CA, H9R 5Z3",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/Pointe-Claire-Intern%2C-Industrial-Engineering-%28Operations-support%29-%28Winter-2027%29-Qu%C3%A9b-H9R-5Z3/1444074533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Stagiaire, Génie Industriel (Support aux opérations) (Hiver 2027)",
-"company": "Bombardier",
-"location": "Pointe-Claire, Québec, CA, H9R 5Z3",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/Pointe-Claire-Stagiaire%2C-G%C3%A9nie-Industriel-%28Support-aux-op%C3%A9rations%29-%28Hiver-2027%29-Qu%C3%A9b-H9R-5Z3/1444074633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Intern, Engineering Business Information Solutions (Winter 2027)",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Engineering-Business-Information-Solutions-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1444082333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Advisor Technical",
-"company": "Bombardier",
-"location": "Wichita, KS, US, 67209-2924",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/Wichita-Advisor-Technical-KS-67209-2924/1444072933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Intern, Research and Technology, Aircraft Systems Architectures (Winter 2027)",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4S 2A9",
-"posted": "2026-10-31T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-Research-and-Technology%2C-Aircraft-Systems-Architectures-%28Winter-2027%29-Qu%C3%A9b-H4S-2A9/1444050233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Medical Imaging Technologist - TH",
-"company": "TELUS",
-"location": "Vancouver, BC, CA, V5Z 1H4",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://careers.telus.com/job/Vancouver-Medical-Imaging-Technologist-TH-BC-V5Z-1H4/600668117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "TELUS careers"
-},
-{
-"title": "Engineer",
-"company": "Toronto Hydro",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://jobs.torontohydro.com/job/Toronto-Engineer-ON/574239717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Toronto Hydro careers"
-},
-{
-"title": "Professional Senior, Engineering - Electrical Systems Integration",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Professional-Senior%2C-Engineering-Electrical-Systems-Integration-Qu%C3%A9b-H4S-1Y9/1412535233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Professional, Engineering - Flightdeck Integration, Human Factors and Ergonomics",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Engineering-Flightdeck-Integration%2C-Human-Factors-and-Ergonomics-Qu%C3%A9b-H4S-1Y9/1402090633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Bids and Proposals Design Engineer",
-"company": "Bombardier",
-"location": "Wichita, KS, US, 67209",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Wichita-Bids-and-Proposals-Design-Engineer-KS-67209/1423131933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Section Chief, Engineering - Digital Projects and Engineering Tools",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Section-Chief%2C-Engineering-Digital-Projects-and-Engineering-Tools-Qu%C3%A9b-H4S-1Y9/1423027633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "B2 Licensed Engineer",
-"company": "Bombardier",
-"location": "Westerham, GB, TN16 3BN",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Westerham-B2-Licensed-Engineer-TN16-3BN/1047777801/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Senior Advisor, Brand & Digital Experience",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Senior-Advisor%2C-Brand-&-Digital-Experience-Qu%C3%A9b-H4S-1Y9/1433168433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Investigator, Safety Management System (SMS)",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-10-31T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Investigator%2C-Safety-Management-System-%28SMS%29-Qu%C3%A9b-H4S-1Y9/1423114033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
 }
 ]
 }
