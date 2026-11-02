@@ -1,6 +1,94 @@
 {
-"updated": "2026-11-02T04:40:04+00:00",
+"updated": "2026-11-02T13:08:13+00:00",
 "jobs": [
+{
+"title": "Expert Software Engineer – ServiceNow",
+"company": "TEEMA",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=9640e31e79817b43",
+"source": "Indeed"
+},
+{
+"title": "Customer support representative - wholesale",
+"company": "HRS Talent Solutions",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634194",
+"source": "Job Bank"
+},
+{
+"title": "Customer support representative - wholesale",
+"company": "HRS Talent Solutions",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634270",
+"source": "Job Bank"
+},
+{
+"title": "Business Sales Representative, Payment Solutions (Part-Time, Flexible Hours)",
+"company": "Settleup Payments Solutions Ltd.",
+"location": "Barrie, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=cc1d39a59f5f2102",
+"source": "Indeed"
+},
+{
+"title": "QA Associate",
+"company": "SCG",
+"location": "East York, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=865f4d65813c1748",
+"source": "Indeed"
+},
+{
+"title": "Agentic Experience (AX) Engineer",
+"company": "ACTO Technologies",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=41ac5b90fc490db6",
+"source": "Indeed"
+},
+{
+"title": "Office administrator",
+"company": "Georgian Bay Parts",
+"location": "Penetanguishene, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50633752",
+"source": "Job Bank"
+},
+{
+"title": "Office administrator",
+"company": "PhysioNow",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634628",
+"source": "Job Bank"
+},
+{
+"title": "Senior Python/AWS Engineer",
+"company": "EPAM Systems",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=154bb5e314488806",
+"source": "Indeed"
+},
+{
+"title": "DevOps Engineer",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=963875b2cabf400c",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer – Full-Stack (React, TypeScript, Java)",
+"company": "S&P Global",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=72dd35195b760990",
+"source": "Indeed"
+},
 {
 "title": "School Office Administrator",
 "company": "Rotherglen School",
@@ -56,6 +144,14 @@
 "posted": "2026-11-02T02:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/El-Marques-Technologist%2C-Quality-Assurance-MEX-76246/1424469533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
+},
+{
+"title": "Junior Quality Engineer",
+"company": "OPG",
+"location": "Oshawa, ON, CA, L1H 8W8",
+"posted": "2026-11-02T00:00:00+00:00",
+"link": "https://jobs.opg.com/job/Oshawa-Junior-Quality-Engineer-ON-L1H-8W8/607589517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "OPG careers"
 },
 {
 "title": "IT Enterprise Architect/Strategist",
@@ -327,6 +423,30 @@
 "location": "Vaughan, ON, CA",
 "posted": "2026-11-01",
 "link": "https://ca.indeed.com/viewjob?jk=89b27dff6ff75d7a",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer II, Platform",
+"company": "Ripple",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4459424386",
+"source": "LinkedIn"
+},
+{
+"title": "Associate, Equity Derivatives Trade Desk Support",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=5f2437ef8c68e99a",
+"source": "Indeed"
+},
+{
+"title": "Technical Operator",
+"company": "Chudleigh's Bakery",
+"location": "Milton, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=e8cf2a4cf2aaaf3b",
 "source": "Indeed"
 },
 {
@@ -634,12 +754,316 @@
 "source": "Job Bank"
 },
 {
-"title": "Senior Manager, AI Data Centre Operations, BC",
-"company": "Bell",
-"location": "Kamloops, BC, CA",
-"posted": "2026-10-31T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kamloops-Senior-Manager%2C-AI-Data-Centre-Operations%2C-BC-BC/1416413400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Gloucester, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634311",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "North Bay, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634313",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Maple, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634338",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Cambridge, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634387",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634396",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Redan, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634354",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634497",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634356",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Sudbury, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634357",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634473",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Orillia, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634283",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Locust Hill, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634491",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634467",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634359",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634472",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Cornwall, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634288",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Sault Ste. Marie, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634411",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Oshawa, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634477",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Kingston, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634259",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "St. Catharines, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634366",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Peterborough, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634375",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Ajax, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634295",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Chatham, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634386",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Barrie, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634302",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Niagara Falls, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634464",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634345",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634380",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Thunder Bay, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634306",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Milton, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634225",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634233",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Lindsay, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634397",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "St. Thomas, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634362",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Welland, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634235",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634249",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Woodstock, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634237",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634239",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Belleville, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634403",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634406",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Brantford, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50634264",
+"source": "Job Bank"
 }
 ]
 }
