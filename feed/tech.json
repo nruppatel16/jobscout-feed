@@ -1,52 +1,132 @@
 {
-"updated": "2026-11-03T03:36:44+00:00",
+"updated": "2026-11-03T11:39:01+00:00",
 "jobs": [
 {
-"title": "Dessert maker/Front end",
-"company": "",
-"location": "Guelph, ON, CA",
+"title": "Customer support representative - wholesale",
+"company": "CDW",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=caed790ae19c0f8f",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50647353",
+"source": "Job Bank"
+},
+{
+"title": "Oracle ERP Finance Data Conversion Specialist",
+"company": "Talent Grid",
+"location": "Brampton, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=cb5c02c74ff0e412",
 "source": "Indeed"
 },
 {
-"title": "Salesforce Technical Architect",
+"title": "Project Manager / Scrum Master – Oracle ERP Cloud / EPM",
+"company": "Talent Grid",
+"location": "Brampton, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=cf27ee968fc3934d",
+"source": "Indeed"
+},
+{
+"title": "Field Technician - Graffiti Removal",
+"company": "Graffiti Buffer",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=47eea5965e497ee3",
+"source": "Indeed"
+},
+{
+"title": "Corporate Actions - Security Master Analyst",
+"company": "",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=770aa00b5a44a004",
+"source": "Indeed"
+},
+{
+"title": "Maintenance – Mechanical, Elect., Instrument (Industrial instrument technicians mechanics) NOC 22312",
+"company": "Eco Guardian Inc.",
+"location": "Aurora, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=c21b42bd03d7457c",
+"source": "Indeed"
+},
+{
+"title": "Channel Solutions Engineer",
+"company": "Verkada",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=d7cc8737cf7e3af7",
+"source": "Indeed"
+},
+{
+"title": "IS Quality Assurance Analyst",
+"company": "Fidelity Canada",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=cbe5bcc9cadef716",
+"source": "Indeed"
+},
+{
+"title": "Data engineer",
+"company": "Astra North Infoteck Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50648761",
+"source": "Job Bank"
+},
+{
+"title": "Software QA & Project Coordinator (Part-Time)",
+"company": "COSReady Incorporated",
+"location": "Greater Toronto Area, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=a2c7e223adf5e91d",
+"source": "Indeed"
+},
+{
+"title": "Senior Staff Software Developer",
+"company": "Intuit",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=6a831e5bceda0dee",
+"source": "Indeed"
+},
+{
+"title": "Senior Platform Developer",
+"company": "Cetaris",
+"location": "Greater Toronto Area, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=13797c86381fa261",
+"source": "Indeed"
+},
+{
+"title": "Engineer",
+"company": "Qualcomm",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=1feb138ebffbcdff",
+"source": "Indeed"
+},
+{
+"title": "Staff Software Engineer, Fullstack (Card Experiences)",
+"company": "Affirm",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=3f7aac4b9ec74540",
+"source": "Indeed"
+},
+{
+"title": "Senior Full-Stack Software Engineer (Python / Django / React / Next.js)",
+"company": "COSReady Incorporated",
+"location": "Greater Toronto Area, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=d0d26d6d72e4aa4f",
+"source": "Indeed"
+},
+{
+"title": "Salesforce Technical Architect with Revenue Cloud (RCA)",
 "company": "LTM Limited",
 "location": "Toronto, ON, CA",
 "posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=feeec62901c60066",
-"source": "Indeed"
-},
-{
-"title": "Office Administrator",
-"company": "",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=b7f2fd0bed4a6829",
-"source": "Indeed"
-},
-{
-"title": "Platform Engineering Lead",
-"company": "DNAstack",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=2a435727161dfa2b",
-"source": "Indeed"
-},
-{
-"title": "Security Operations Engineer",
-"company": "Alpaca",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=3e8e9bc0b3313609",
-"source": "Indeed"
-},
-{
-"title": "IT Security Engineer",
-"company": "Alpaca",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=d724ff5a399daa5d",
+"link": "https://ca.indeed.com/viewjob?jk=315bd149fc4d5bc7",
 "source": "Indeed"
 },
 {
@@ -58,12 +138,60 @@
 "source": "Indeed"
 },
 {
-"title": "Salesforce Technical Architect with Revenue Cloud (RCA)",
+"title": "IT Security Engineer",
+"company": "Alpaca",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=d724ff5a399daa5d",
+"source": "Indeed"
+},
+{
+"title": "Security Operations Engineer",
+"company": "Alpaca",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=3e8e9bc0b3313609",
+"source": "Indeed"
+},
+{
+"title": "Platform Engineering Lead",
+"company": "DNAstack",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=2a435727161dfa2b",
+"source": "Indeed"
+},
+{
+"title": "Office Administrator",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=b7f2fd0bed4a6829",
+"source": "Indeed"
+},
+{
+"title": "Salesforce Technical Architect",
 "company": "LTM Limited",
 "location": "Toronto, ON, CA",
 "posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=315bd149fc4d5bc7",
+"link": "https://ca.indeed.com/viewjob?jk=feeec62901c60066",
 "source": "Indeed"
+},
+{
+"title": "Dessert maker/Front end",
+"company": "",
+"location": "Guelph, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=caed790ae19c0f8f",
+"source": "Indeed"
+},
+{
+"title": "Sr. Solution Architect",
+"company": "Rogers",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-03T08:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Calgary-Sr_-Solution-Architect-AB/1436765700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
 },
 {
 "title": "Security Programs Senior Consultant",
@@ -1594,6 +1722,206 @@
 "source": "Indeed"
 },
 {
+"title": "Senior iOS Software Engineer",
+"company": "eBay",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=6e7bf11a691d28f2",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer, Asset Management Digital Solutions (AMDS)",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=b0f961a58aa0984e",
+"source": "Indeed"
+},
+{
+"title": "Senior Software Engineer, Asset Management Digital Solutions (AMDS)",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=101f4689a89382f5",
+"source": "Indeed"
+},
+{
+"title": "Software Developer, Platform & AI Solutions",
+"company": "Laurentian Bank Financial Group",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=4931316028c3ee36",
+"source": "Indeed"
+},
+{
+"title": "Staff Engineer - Data Engineering",
+"company": "Capital One",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=994f052b4249a7a1",
+"source": "Indeed"
+},
+{
+"title": "Senior Data Integration Developer, Fabric",
+"company": "KPMG",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=8c14f502e25164f9",
+"source": "Indeed"
+},
+{
+"title": "Senior Software Engineer",
+"company": "Wellington Management",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=ba6d6c37a5a1d56d",
+"source": "Indeed"
+},
+{
+"title": "Développeur logiciel, Solutions de plateforme et d'IA",
+"company": "Laurentian Bank Financial Group",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=dfea4505ebe24110",
+"source": "Indeed"
+},
+{
+"title": "Software developer",
+"company": "Evertz Microsystems Limited",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50647330",
+"source": "Job Bank"
+},
+{
+"title": "Cloud engineer",
+"company": "Parent Organization",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50647308",
+"source": "Job Bank"
+},
+{
+"title": "CLDRSRC10401 - Systems Testing/QA - Siebel - Toronto",
+"company": "Cloud Resourcing",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=312ef4b758504c04",
+"source": "Indeed"
+},
+{
+"title": "Business Analyst - PRO Experience (1 Year Contract)",
+"company": "Home Depot Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=4e8868d9ed95eba8",
+"source": "Indeed"
+},
+{
+"title": "Data Analytics & Automation Specialist, Asset Management Digital Solutions (AMDS)",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=5d340536c1996aea",
+"source": "Indeed"
+},
+{
+"title": "Contract administrator",
+"company": "Apex Systems",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50647331",
+"source": "Job Bank"
+},
+{
+"title": "Gestionnaire des solutions destinées aux constructeurs de machines",
+"company": "Siemens",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=29178d70f01dc20d",
+"source": "Indeed"
+},
+{
+"title": "Sr.Installation Design Engineer",
+"company": "ALSTOM",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=377bbdab7743b67e",
+"source": "Indeed"
+},
+{
+"title": "Corporate Actions - Security Master Analyst",
+"company": "SGGG Fund Services Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=fb82d15d81eb9914",
+"source": "Indeed"
+},
+{
+"title": "Director, Citizen Development & Employee Technology Experience Pod Owner",
+"company": "Mackenzie Investments",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=a0717a78a948ef39",
+"source": "Indeed"
+},
+{
+"title": "Manager, Model & AI Governance",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=26ef83ba78bf8183",
+"source": "Indeed"
+},
+{
+"title": "Technical Architect",
+"company": "Cognizant",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=d2a3470479d13a8f",
+"source": "Indeed"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Rodan Energy Solutions Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50647153",
+"source": "Job Bank"
+},
+{
+"title": "Signaling and Civil Integration Specialist",
+"company": "ALSTOM",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=d405f2cb9f12649f",
+"source": "Indeed"
+},
+{
+"title": "Machine Builder Solution Manager",
+"company": "Siemens",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=6a2036e580b22530",
+"source": "Indeed"
+},
+{
+"title": "Bus Operations Support Lead I",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=3175066b6ed8bf08",
+"source": "Indeed"
+},
+{
+"title": "Customer Success Specialist",
+"company": "Port 443 Inc.",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=3098d66be8d0c19e",
+"source": "Indeed"
+},
+{
 "title": "Professional Senior, Engineering Technical Integration",
 "company": "Bombardier",
 "location": "Dorval, Québec, CA, H4S 1Y9",
@@ -2002,12 +2330,12 @@
 "source": "Indeed"
 },
 {
-"title": "Senior Application Security Analyst",
-"company": "Purolator",
-"location": "Mississauga, ON, CA, L5N 0E1",
-"posted": "2026-11-01T08:00:00+00:00",
-"link": "https://careers.purolator.com/job/Mississauga-Senior-Application-Security-Analyst-ON-L5N-0E1/1373824800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Purolator careers"
+"title": "Infrastructure architect - information technology (IT)",
+"company": "McCain Foods",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-01",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50647713",
+"source": "Job Bank"
 }
 ]
 }
