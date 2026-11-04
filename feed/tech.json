@@ -1,20 +1,196 @@
 {
-"updated": "2026-11-04T06:52:09+00:00",
+"updated": "2026-11-04T15:08:07+00:00",
 "jobs": [
 {
-"title": "Field Service Technician",
-"company": "",
-"location": "Greater Toronto Area, ON, CA",
+"title": "Senior Clinical Application Analyst",
+"company": "Schroeder Ambulatory Centre",
+"location": "Richmond Hill, ON, CA",
 "posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=02017fd4686307b7",
+"link": "https://ca.indeed.com/viewjob?jk=e22b7132fd170fc5",
 "source": "Indeed"
 },
 {
-"title": "Technical Solutions Specialist",
-"company": "BusPlanner",
+"title": "Information technology (IT) analyst",
+"company": "Astra North Infoteck Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659812",
+"source": "Job Bank"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Astra North Infoteck Inc.",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659678",
+"source": "Job Bank"
+},
+{
+"title": "Senior Contract Administrator",
+"company": "Olade Consulting Inc",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=4b623af6807dac68",
+"source": "Indeed"
+},
+{
+"title": "Sr. Specialist Enterprise Solution Architect (m|w|x)",
+"company": "Magna International",
+"location": "Aurora, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=0ccc647dd07ccb45",
+"source": "Indeed"
+},
+{
+"title": "Quality Assurance Manager – Food Safety & Regulatory Compliance",
+"company": "MNG INTERNATIONAL INC.",
+"location": "Oshawa, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=85fb9a8d90f14cfa",
+"source": "Indeed"
+},
+{
+"title": "Motorcycle Service Technician",
+"company": "St Onge Recreation",
+"location": "Barrie, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=0d5f5bc617afaffa",
+"source": "Indeed"
+},
+{
+"title": "Product Support Coordinator",
+"company": "",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=73f2db6c71d2f63a",
+"source": "Indeed"
+},
+{
+"title": "Small Engines Technician",
+"company": "Battlefield Equipment Rentals",
+"location": "Concord, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=91281979f9c8689c",
+"source": "Indeed"
+},
+{
+"title": "Lead Project Manager – Grid Automation",
+"company": "GE Vernova",
+"location": "Markham, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=db7e4de4f380877a",
+"source": "Indeed"
+},
+{
+"title": "Operations Administrator I-1",
+"company": "FedEx",
+"location": "Woodbridge, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=24c6581ce43bcd0a",
+"source": "Indeed"
+},
+{
+"title": "Design Engineer",
+"company": "Wilson Display Ltd",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=bd53996098bdb51e",
+"source": "Indeed"
+},
+{
+"title": "Senior Network & Systems Specialist",
+"company": "Coextro",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=3af628b11e725ae1",
+"source": "Indeed"
+},
+{
+"title": "Solution Designer",
+"company": "Axella Compusoft Inc.",
+"location": "Brampton, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=1821d1cda11f8eaa",
+"source": "Indeed"
+},
+{
+"title": "Senior Roadway Design Engineer",
+"company": "Consor",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=c27c3efea6ab05be",
+"link": "https://ca.indeed.com/viewjob?jk=c1710e819fe66904",
+"source": "Indeed"
+},
+{
+"title": "Analyst / Senior Analyst , Technology & Venture Development",
+"company": "Toronto Innovation Accelerated Partners",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=10619e7e15032210",
+"source": "Indeed"
+},
+{
+"title": "WFS Integration Consultant / Consultant en intégration WFS",
+"company": "ADP",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=119066519650573d",
+"source": "Indeed"
+},
+{
+"title": "QA Tester",
+"company": "Axella Compusoft Inc.",
+"location": "Brampton, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=383854a191113df7",
+"source": "Indeed"
+},
+{
+"title": "Software developer",
+"company": "Astra North Infoteck Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659773",
+"source": "Job Bank"
+},
+{
+"title": "Junior ERP Developer",
+"company": "Smith and Long Limited",
+"location": "Markham, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=49657383b9f64670",
+"source": "Indeed"
+},
+{
+"title": "Machine Learning Engineer, AI Software (C++)",
+"company": "Qualcomm",
+"location": "Markham, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=552e006ef8131690",
+"source": "Indeed"
+},
+{
+"title": "GIS Developer",
+"company": "Axella Compusoft Inc.",
+"location": "Brampton, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=1b07a48e31d96bae",
+"source": "Indeed"
+},
+{
+"title": "Senior Full Stack Developer",
+"company": "InfoTrack Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=d8545e6086b9da45",
+"source": "Indeed"
+},
+{
+"title": "Staff Site Reliability Engineer, Canada Protected B",
+"company": "ServiceNow",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=fa7074e391487d8e",
 "source": "Indeed"
 },
 {
@@ -26,12 +202,36 @@
 "source": "Indeed"
 },
 {
-"title": "Staff Site Reliability Engineer, Canada Protected B",
-"company": "ServiceNow",
+"title": "Technical Solutions Specialist",
+"company": "BusPlanner",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=fa7074e391487d8e",
+"link": "https://ca.indeed.com/viewjob?jk=c27c3efea6ab05be",
 "source": "Indeed"
+},
+{
+"title": "Field Service Technician",
+"company": "",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=02017fd4686307b7",
+"source": "Indeed"
+},
+{
+"title": "Senior Consultant, Marketing Analytics, ICG",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-11-04T08:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-Senior-Consultant%2C-Marketing-Analytics%2C-ICG-QC/1437475600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Dev. Machine Learning Engineering II",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-04T08:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Dev_-Machine-Learning-Engineering-II-ON/1437571800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Technologist, Quality Assurance EWIS (Electrical Wiring Interconnection System)",
@@ -88,6 +288,14 @@
 "posted": "2026-11-04T02:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Toronto-Microsoft-365-Solutions-Architect-ON/605668917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Service Desk Technician (56B - Halton Regional Centre -, 56B - Halton Regional Centre - 1151 Bronte Road, Oakville (Technology Services level 3), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-04T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/56B-Halton-Regional-Centre-Service-Desk-Technician-56B/607716017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
 },
 {
 "title": "Customer support representative - wholesale",
@@ -2114,6 +2322,182 @@
 "source": "Indeed"
 },
 {
+"title": "Front End Developer Analyst (remote)",
+"company": "Koers Bedrijfspsychologie",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=035e38e7efd58540",
+"source": "Indeed"
+},
+{
+"title": "Sr. Specialist - Embedded Software Developer",
+"company": "L3Harris",
+"location": "Waterdown, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=9e8beb1b9af22634",
+"source": "Indeed"
+},
+{
+"title": "Senior Backend Engineer (TypeScript/Python/C#) - Remote",
+"company": "Kake",
+"location": "Toronto, Ontario, Canada (remote)",
+"posted": "2026-11-03",
+"link": "https://www.linkedin.com/jobs/view/4484685468",
+"source": "LinkedIn"
+},
+{
+"title": "Site Administrator",
+"company": "FirstService Residential",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=9c6f80c8bec18dc8",
+"source": "Indeed"
+},
+{
+"title": "Lead, Workday Compensation",
+"company": "University Health Network",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=eac8cc557aeac610",
+"source": "Indeed"
+},
+{
+"title": "Audio Visual Support Intern",
+"company": "TMX GROUP",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=aaa5606aebc7a506",
+"source": "Indeed"
+},
+{
+"title": "Security Technician - Service",
+"company": "Convergint",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=f42101358f477952",
+"source": "Indeed"
+},
+{
+"title": "Scheduling and Operations Analyst -Temporary Full Time (6 Month Contract)",
+"company": "Sienna Senior Living",
+"location": "Markham, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=69245b81c93b9c14",
+"source": "Indeed"
+},
+{
+"title": "AVP IT Delivery",
+"company": "Aviva",
+"location": "Markham, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=b64d624594b0de4d",
+"source": "Indeed"
+},
+{
+"title": "Lead - Systems Engineering",
+"company": "L3Harris",
+"location": "Waterdown, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=f3d4e8070bd89a85",
+"source": "Indeed"
+},
+{
+"title": "Field Technical Lead - Security Systems",
+"company": "Convergint",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=fa3fabf99589f44d",
+"source": "Indeed"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Kingston, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659597",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Peterborough, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659604",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659611",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659608",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Brantford, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659646",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Cambridge, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659645",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Sudbury, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659648",
+"source": "Job Bank"
+},
+{
+"title": "Informatics consultant",
+"company": "HMG Careers",
+"location": "Barrie, Ontario, Canada",
+"posted": "2026-11-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659655",
+"source": "Job Bank"
+},
+{
+"title": "Director, Financial Accounting and Systems Integration",
+"company": "BAYCREST HOSPITAL",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=18be39e7d9d54d3c",
+"source": "Indeed"
+},
+{
+"title": "CNC Optical Technician (Weekend Shift)",
+"company": "L3Harris",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=2ae46210987e63bf",
+"source": "Indeed"
+},
+{
+"title": "Clinical Support Manager - Access and Flow",
+"company": "Southlake Health",
+"location": "Newmarket, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=051f4494c1f9b5e6",
+"source": "Indeed"
+},
+{
 "title": "Sr. Solution Architect",
 "company": "Rogers",
 "location": "Calgary, AB, CA",
@@ -4023,6 +4407,22 @@
 "location": "Thornhill, ON, CA",
 "posted": "2026-11-02",
 "link": "https://ca.indeed.com/viewjob?jk=18abb22a6c4aa072",
+"source": "Indeed"
+},
+{
+"title": "Project Specialist - Security Systems",
+"company": "Convergint",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=be0a646de9e11d0e",
+"source": "Indeed"
+},
+{
+"title": "Senior Account Executive, Public Sector Professional Services",
+"company": "Amazon Web Services",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=b0c2da3e731b3c94",
 "source": "Indeed"
 }
 ]
