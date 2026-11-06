@@ -1,6 +1,118 @@
 {
-"updated": "2026-11-06T03:12:40+00:00",
+"updated": "2026-11-06T11:20:39+00:00",
 "jobs": [
+{
+"title": "Information technology (IT) analyst",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-06",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50674329",
+"source": "Job Bank"
+},
+{
+"title": "Oracle Cloud Integration Specialist",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=5e7eb08db712ffe1",
+"source": "Indeed"
+},
+{
+"title": "Director – Implementation Assurance Testing",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=3974e5788f8353de",
+"source": "Indeed"
+},
+{
+"title": "Identity Access Management Analyst Sr",
+"company": "Fidelity Canada",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=5a5ce0284db30f32",
+"source": "Indeed"
+},
+{
+"title": "Technical Support Engineer (Mandarin Required) - Mississauga, ON",
+"company": "GOFO Canada Inc.",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=fb0099dc6eec427d",
+"source": "Indeed"
+},
+{
+"title": "Systems Administrator/Operations Support Specialist",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=d9bbae69c4d68da9",
+"source": "Indeed"
+},
+{
+"title": "Product engineer",
+"company": "Leading Edge",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-06",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50674482",
+"source": "Job Bank"
+},
+{
+"title": "Server administrator",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-06",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50674446",
+"source": "Job Bank"
+},
+{
+"title": "Business Analyst",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=4c38ccbd636f9244",
+"source": "Indeed"
+},
+{
+"title": "Staff Site Reliability Engineer, Application",
+"company": "Guidewire",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=8ce24792ce8925a8",
+"source": "Indeed"
+},
+{
+"title": "Software Developer – ETL",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=2b8d2b5aca2822b9",
+"source": "Indeed"
+},
+{
+"title": "Report Developer",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=28a5f0f88a53c54b",
+"source": "Indeed"
+},
+{
+"title": "Software Developer",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=eb5ca1d9f72c9f6f",
+"source": "Indeed"
+},
+{
+"title": "Software Developer- NextJS, TypeScript, React – Senior",
+"company": "SOFTLINE TECHNOLOGY",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=08af28e3e6b18d88",
+"source": "Indeed"
+},
 {
 "title": "Enterprise Core Customer Success Manager",
 "company": "Samsara",
@@ -8,6 +120,30 @@
 "posted": "2026-11-06",
 "link": "https://ca.indeed.com/viewjob?jk=1098a0604d92ecad",
 "source": "Indeed"
+},
+{
+"title": "Sr Mgr, Commercial Security and M&A",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-06T08:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Sr-Mgr%2C-Commercial-Security-and-M&A-ON/1418182700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Sr Platform Specialist",
+"company": "Rogers",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-06T08:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Calgary-Sr-Platform-Specialist-AB/1418156900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Technical Specialist",
+"company": "Rogers",
+"location": "Markham, ON, CA",
+"posted": "2026-11-06T08:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Markham-Technical-Specialist-ON/1438290600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
 },
 {
 "title": "Stagiaire, Support Production - Assemblage (Hiver, 2027)",
@@ -2074,6 +2210,158 @@
 "source": "Indeed"
 },
 {
+"title": "Teleop Platform Engineer, Real-Time Systems & UI",
+"company": "mecka",
+"location": "Richmond Hill, ON, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=e714fae3594ead9a",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer II",
+"company": "Emburse",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=ae7e226b959bf7c6",
+"source": "Indeed"
+},
+{
+"title": "Robotics Software Engineer, Teleoperation",
+"company": "mecka",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=cc1cffb64ff9f134",
+"source": "Indeed"
+},
+{
+"title": "Cabinet Engineer – Cabinet Vision Programmer (Custom Millwork)",
+"company": "Rhyno Equity Group",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=12bd60d0a0d2b4fb",
+"source": "Indeed"
+},
+{
+"title": "Sr. Automation Engineer, Automated Test Equipment",
+"company": "Tesla",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=95ab5298c019e45e",
+"source": "Indeed"
+},
+{
+"title": "DevSecOps Engineer",
+"company": "KPMG",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=0f3b3b6b2aa02866",
+"source": "Indeed"
+},
+{
+"title": "Senior Business Analyst – Post Booking Optimization - Toronto, ON",
+"company": "Flight Centre Travel Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=91dd0ca9fba8e91b",
+"source": "Indeed"
+},
+{
+"title": "Data analytics consultant",
+"company": "CDW",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50672860",
+"source": "Job Bank"
+},
+{
+"title": "Group Product Manager, Search",
+"company": "Priceline.com",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=3f4650cd37c522d8",
+"source": "Indeed"
+},
+{
+"title": "Manager, Digital Product",
+"company": "Samsung Electronics",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=d7a76cd328f75eac",
+"source": "Indeed"
+},
+{
+"title": "Specialist I, IT Enterprise GIS Technical Specialist",
+"company": "Enbridge",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=39825db728f38f0e",
+"source": "Indeed"
+},
+{
+"title": "CLDRSRC10418 - Systems Administrator/Operations Support Specialist - Oracle Fusion/Integration Cloud/Recruiting Cloud- Toronto",
+"company": "Cloud Resourcing",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=2a48cd80282875fd",
+"source": "Indeed"
+},
+{
+"title": "End User Support - Contract",
+"company": "Compugen Inc",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=e4d8698b1a385def",
+"source": "Indeed"
+},
+{
+"title": "CLDRSRC10420 - Microsoft Dynamics 365 F&O / SCM Analyst/Consultant - Toronto",
+"company": "Cloud Resourcing",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=a28a970358f836d9",
+"source": "Indeed"
+},
+{
+"title": "CLDRSRC10419 - Oracle Cloud Specialist - Fusion & Recruiting Cloud - Toronto",
+"company": "Cloud Resourcing",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=040d0427c207f0a1",
+"source": "Indeed"
+},
+{
+"title": "Associate Consultant - Data & Analytics",
+"company": "CDW",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=e55a7067f7ef1655",
+"source": "Indeed"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Native Child and Family Services of Toronto",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50672827",
+"source": "Job Bank"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "ADECCO",
+"location": "Belleville, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50673706",
+"source": "Job Bank"
+},
+{
+"title": "Lead Engineer - Buildings",
+"company": "CIMA+",
+"location": "Bowmanville, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=c51a7265ae8aaa98",
+"source": "Indeed"
+},
+{
 "title": "Senior Forward-Deployed AI Engineer 1",
 "company": "Bell",
 "location": "Toronto, ON, CA",
@@ -2288,6 +2576,22 @@
 "posted": "2026-11-05T00:00:00+00:00",
 "link": "https://careers.purolator.com/job/Mount-Hope-Operations-Support-Representative-International-Gateway-ON-L0R-1W0/1448382400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Purolator careers"
+},
+{
+"title": "Water Distribution/Wastewater Collection Operator - Linear Systems (7 - North Operations Centre - , 7 - North Operations Centre - 8140 Fifth Line, Georgetown (Halton Hills), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-05T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/7-North-Operations-Centre-Water-DistributionWastewater-Collection-Operator-Linear-Systems-7/607797217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
+},
+{
+"title": "Water Distribution/Wastewater Collection Operator - Linear Systems",
+"company": "Halton Region",
+"location": "15 - Woodlands Operation Centr, 15 - Woodlands Operation Centre - 1179 Bronte Road, Oakville, Canada",
+"posted": "2026-11-05T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/15-Woodlands-Operation-Centr-Water-DistributionWastewater-Collection-Operator-Linear-Systems-15/607797317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
 },
 {
 "title": "Senior Clinical Application Analyst",
@@ -4338,20 +4642,36 @@
 "source": "Indeed"
 },
 {
-"title": "Senior Consultant, Marketing Analytics, ICG",
-"company": "Bell",
-"location": "Montreal, QC, CA",
-"posted": "2026-11-04T08:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Montreal-Senior-Consultant%2C-Marketing-Analytics%2C-ICG-QC/1437475600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
+"title": "Director, Product Analytics",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=cbdb115bafc02d85",
+"source": "Indeed"
 },
 {
-"title": "Dev. Machine Learning Engineering II",
-"company": "Bell",
+"title": "Product Owner - Digital Enablement",
+"company": "Sanofi",
 "location": "Toronto, ON, CA",
-"posted": "2026-11-04T08:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Toronto-Dev_-Machine-Learning-Engineering-II-ON/1437571800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=928a08a90f8f570e",
+"source": "Indeed"
+},
+{
+"title": "Contract administrator",
+"company": "Ontario Northland",
+"location": "North Bay, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50672805",
+"source": "Job Bank"
+},
+{
+"title": "Support Technician",
+"company": "Gap Inc.",
+"location": "Brampton, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=74affb54b9a9c4ed",
+"source": "Indeed"
 }
 ]
 }
