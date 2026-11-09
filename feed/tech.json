@@ -1,6 +1,54 @@
 {
-"updated": "2026-11-09T02:23:55+00:00",
+"updated": "2026-11-09T10:05:46+00:00",
 "jobs": [
+{
+"title": "Office & Sales Support Coordinator",
+"company": "iLevel Management Inc.",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=3298595ba113391f",
+"source": "Indeed"
+},
+{
+"title": "Technical Specialist",
+"company": "Ministry of Long - Term Care",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=fc2365b9579f048c",
+"source": "Indeed"
+},
+{
+"title": "Lead Engineer, Weight and Load",
+"company": "Ministry Of Transportation Ontario",
+"location": "St. Catharines, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=33a766f789b46ee8",
+"source": "Indeed"
+},
+{
+"title": "Office Administrator",
+"company": "Cakes Technology Inc.",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=4636951610ea5c93",
+"source": "Indeed"
+},
+{
+"title": "General Manager Information Technology",
+"company": "Cakes Technology Inc.",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=44fc30c5bdb3c49c",
+"source": "Indeed"
+},
+{
+"title": "Creative Studio Operations Administrator",
+"company": "Air Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=f2b6bc2511da10ad",
+"source": "Indeed"
+},
 {
 "title": "Professional Senior, Engineering, Propulsion Systems",
 "company": "Bombardier",
@@ -175,6 +223,14 @@
 "location": "Markham, ON, CA",
 "posted": "2026-11-08",
 "link": "https://ca.indeed.com/viewjob?jk=8cb6668ae7b92196",
+"source": "Indeed"
+},
+{
+"title": "Solutions Designer",
+"company": "Cisco",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-08",
+"link": "https://ca.indeed.com/viewjob?jk=9eda0611bf8c0432",
 "source": "Indeed"
 },
 {
@@ -496,62 +552,6 @@
 "posted": "2026-11-07",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50685816",
 "source": "Job Bank"
-},
-{
-"title": "Digital Data Analytics Manager",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-07T08:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Digital-Data-Analytics-Manager-ON/1438700100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Product Owner, Self Serve & Support",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-07T08:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Product-Owner%2C-Self-Serve-&-Support-ON/1438848300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Sr. Analyst, Digital Analytics",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-07T08:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Sr_-Analyst%2C-Digital-Analytics-ON/1438523900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Digital Campaigns & Experience Optimization Manager",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-07T08:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Digital-Campaigns-&-Experience-Optimization-Manager-ON/1438874400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Buyer, Equipment and Data Centre Sourcing",
-"company": "Bell",
-"location": "Regina, SK, CA",
-"posted": "2026-11-07T08:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Regina-Buyer%2C-Equipment-and-Data-Centre-Sourcing-SK/1438676400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Technical Architect II",
-"company": "Bell",
-"location": "Montreal, QC, CA",
-"posted": "2026-11-07T08:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Montreal-Technical-Architect-II-QC/1410319800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Senior Manager, Strategic Finance & Deal support",
-"company": "Bell",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-07T08:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Toronto-Senior-Manager%2C-Strategic-Finance-&-Deal-support-ON/1417832900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
 }
 ]
 }
