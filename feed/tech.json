@@ -1,6 +1,38 @@
 {
-"updated": "2026-11-09T20:56:56+00:00",
+"updated": "2026-11-10T03:18:24+00:00",
 "jobs": [
+{
+"title": "Specialist - Data Engineering",
+"company": "LTM Limited",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
+"source": "Indeed"
+},
+{
+"title": "Helpdesk Coordinator & Dispatcher",
+"company": "BAASS Business Solutions",
+"location": "Thornhill, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=4c1e9a7aa34b19ac",
+"source": "Indeed"
+},
+{
+"title": "RQ11836 - Software Developer - Senior",
+"company": "Lacuna Technologies",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=45c99f2aa4548cd6",
+"source": "Indeed"
+},
+{
+"title": "Engine Technician - Customer Response Team",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-11-10T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Engine-Technician-Customer-Response-Team-KS-67209/1386167733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
 {
 "title": "Office & Sales Support Coordinator",
 "company": "iLevel Management Inc.",
@@ -818,6 +850,638 @@
 "source": "Indeed"
 },
 {
+"title": "QA Automation Engineer",
+"company": "Wipro",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=f5ec80e19c13c491",
+"source": "Indeed"
+},
+{
+"title": "Site Reliability Engineer II",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=28b7d765ba87911c",
+"source": "Indeed"
+},
+{
+"title": "Full Stack Web Developer, IS",
+"company": "Mitsubishi Motor Sales of Canada Inc.",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=07d6811afe8e7491",
+"source": "Indeed"
+},
+{
+"title": "Digital Campaign Lead",
+"company": "ThinkOn Incorporated",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=3eefb894dc38fffc",
+"source": "Indeed"
+},
+{
+"title": "Senior Back-End Email Developer (Salesforce Marketing Cloud)",
+"company": "Intact",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=653f97f8fc2fe7f2",
+"source": "Indeed"
+},
+{
+"title": "Software Developer (New or Recent Graduate)",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=5128c57c270f4704",
+"source": "Indeed"
+},
+{
+"title": "APPLICATION DEVELOPER",
+"company": "Atos",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=70296b9422d74055",
+"source": "Indeed"
+},
+{
+"title": "Senior Software Engineer",
+"company": "SalesJack",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=a7ef1e80a88431c0",
+"source": "Indeed"
+},
+{
+"title": "CNC Programmer",
+"company": "EUROWERX INC",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=3af660ea4584dd04",
+"source": "Indeed"
+},
+{
+"title": "Senior Software Automation Engineer",
+"company": "Rivian and Volkswagen Group Technologies",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=051f6c2764baf71f",
+"source": "Indeed"
+},
+{
+"title": "Software Engineer - Backend & Platform Systems",
+"company": "Veeda AI",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=24bd0b5fbe4e620e",
+"source": "Indeed"
+},
+{
+"title": "Coding & Robotics Instructor",
+"company": "Zebra Robotics",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=a3966dea7cdef07c",
+"source": "Indeed"
+},
+{
+"title": "Senior DevOps Engineer (AWS, Healthcare)",
+"company": "Aqila Systems Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=2ecb82dcc8df7702",
+"source": "Indeed"
+},
+{
+"title": "FY27 Intern - Firmware Engineering Internship - Canada (16 months)",
+"company": "Qualcomm",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=c6cc4d01bbb47b48",
+"source": "Indeed"
+},
+{
+"title": "Principal Software Developer",
+"company": "ABC Fitness",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=4c1066e5b9f17863",
+"source": "Indeed"
+},
+{
+"title": "Senior DevSecOps & Cloud Security Engineer (PL7326)",
+"company": "Paralucent",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=054eb2dc1c4d94e0",
+"source": "Indeed"
+},
+{
+"title": "Compiler Performance Engineer",
+"company": "Intel Corporation",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=aea85c395290fb07",
+"source": "Indeed"
+},
+{
+"title": "Senior Compiler Performance Engineer",
+"company": "Intel Corporation",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=8e3897a0800b6934",
+"source": "Indeed"
+},
+{
+"title": "Software engineer",
+"company": "Wingmate Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50694349",
+"source": "Job Bank"
+},
+{
+"title": "Senior software developer",
+"company": "Insurance Systems Inc",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50694923",
+"source": "Job Bank"
+},
+{
+"title": "Associate AI Scientist , Technology Leadership Advancement Program(TLAP)",
+"company": "CIBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=18854fe2ceb10a39",
+"source": "Indeed"
+},
+{
+"title": "Senior Engineer, Risk, Risk & Total Fund Management Technology",
+"company": "CPP Investments | Investissements RPC",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=ff1e5e3d5d158845",
+"source": "Indeed"
+},
+{
+"title": "Data Analyst, Employee Communications Platforms (12 Month Contract)",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=eb89050f72c67485",
+"source": "Indeed"
+},
+{
+"title": "Technical Analyst - Mississauga, ON",
+"company": "Intertek",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=15256c0f3b72c1ea",
+"source": "Indeed"
+},
+{
+"title": "Application Business Analyst, IT Application Management",
+"company": "First National Financial",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=6b1f770eaeb8eb3f",
+"source": "Indeed"
+},
+{
+"title": "Big data analyst",
+"company": "Belleville and Quinte West Community Health Centre",
+"location": "Belleville, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50694147",
+"source": "Job Bank"
+},
+{
+"title": "Lead Workforce Scientist",
+"company": "McKesson",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=d4fb7e14178a33ec",
+"source": "Indeed"
+},
+{
+"title": "Senior AI & Document Intelligence Lead - Responsible AI (PL5550)",
+"company": "Paralucent",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=81a7f0eff15e4ebb",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager, Data Science & Analytics",
+"company": "eBay",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=0123740393a114ad",
+"source": "Indeed"
+},
+{
+"title": "Lease Administrator",
+"company": "City of Mississauga",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=2ece3e9e3e9423f3",
+"source": "Indeed"
+},
+{
+"title": "Digital Expansion Associate - Simplii Financial",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=1a33591f2372237c",
+"source": "Indeed"
+},
+{
+"title": "VP, Finance, Global Technology",
+"company": "Sunlife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=7e795ef7e3fd96a3",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager, Data Analytics",
+"company": "Docebo",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=04616b60d9e88abf",
+"source": "Indeed"
+},
+{
+"title": "Intern, Stress Testing, Risk Management",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=3f344de145e6f1a3",
+"source": "Indeed"
+},
+{
+"title": "Forward Deployment Engineer",
+"company": "BDO",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=2505aa2180ae1f3f",
+"source": "Indeed"
+},
+{
+"title": "Systems Analyst - ( Shift 8:30 am to 5:00 pm)",
+"company": "The Authentic T-Shirt Company/SanMar Canada",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=fa4801b39da5be62",
+"source": "Indeed"
+},
+{
+"title": "Server administrator",
+"company": "Parent Organization",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50695736",
+"source": "Job Bank"
+},
+{
+"title": "Senior QA Automation Engineer - Enterprise Platforms & AI (PL4242)",
+"company": "Paralucent",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=f76ea6281f719475",
+"source": "Indeed"
+},
+{
+"title": "Systems Administrator",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=ed8a03f90d2000c0",
+"source": "Indeed"
+},
+{
+"title": "Senior Technical Lead - Workflow & Case Management (PL5616)",
+"company": "Paralucent",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=3cfd15b44971fde8",
+"source": "Indeed"
+},
+{
+"title": "Test Engineer",
+"company": "onsemi",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=41ff48b5e2e9b4e9",
+"source": "Indeed"
+},
+{
+"title": "AI & Cloud Services Professionals",
+"company": "Ericsson",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=fda9b9ac2fd5403f",
+"source": "Indeed"
+},
+{
+"title": "Gas Generation Power - Principal Engineer",
+"company": "DNV",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=7afc5b3a9ba2fdc0",
+"source": "Indeed"
+},
+{
+"title": "CIAM Operations Support",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=62ad8b38dfead1ac",
+"source": "Indeed"
+},
+{
+"title": "Technician - Mississauga, ON",
+"company": "Intertek",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=bef5c49d64155dd1",
+"source": "Indeed"
+},
+{
+"title": "CIAM Operations Support Lead",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=ff6244dd834fd40e",
+"source": "Indeed"
+},
+{
+"title": "Technical Manager",
+"company": "FlatironDragados",
+"location": "St. Catharines, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=a1aab7a417de5009",
+"source": "Indeed"
+},
+{
+"title": "IT Support Specialist - Contract",
+"company": "Compugen Inc",
+"location": "Guelph, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=e8c5e88d164c1b14",
+"source": "Indeed"
+},
+{
+"title": "Ticketing Administrator",
+"company": "Niagara Parks",
+"location": "Niagara Falls, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=c58c0e2c2d1d71fb",
+"source": "Indeed"
+},
+{
+"title": "Senior Agentic Systems / AI Ops Admin",
+"company": "McKesson",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=0f2127874fc0c332",
+"source": "Indeed"
+},
+{
+"title": "Office Administrator",
+"company": "",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=6f0b0af109ad1741",
+"source": "Indeed"
+},
+{
+"title": "Data Center Technician",
+"company": "NYDIG",
+"location": "Thorold, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=224c7fa46d9bafa6",
+"source": "Indeed"
+},
+{
+"title": "Faculty administrator",
+"company": "Queen's University",
+"location": "Kingston, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50694934",
+"source": "Job Bank"
+},
+{
+"title": "Property administrator",
+"company": "Rent In Ottawa Property Management Inc.",
+"location": "Nepean, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50694185",
+"source": "Job Bank"
+},
+{
+"title": "Business Information Security Officer, Audit & Assurance",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=8229d7b9fb1db372",
+"source": "Indeed"
+},
+{
+"title": "Director, Global Network Services, Deloitte Global Technology",
+"company": "Deloitte",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=b16325dc13c6173f",
+"source": "Indeed"
+},
+{
+"title": "Director, Artificial Intelligence Risk Management & Governance",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=ffc65abb4496be8c",
+"source": "Indeed"
+},
+{
+"title": "Service Desk Technician",
+"company": "Movati",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=1bb0fcbb318ba4f9",
+"source": "Indeed"
+},
+{
+"title": "SAP iXp Intern - Product Support",
+"company": "SAP",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=7fa102dd2453a2c9",
+"source": "Indeed"
+},
+{
+"title": "Field Service Tech-Canada",
+"company": "B. Braun Of Canada Ltd.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=4cb82f47fca814ae",
+"source": "Indeed"
+},
+{
+"title": "Product Manager - Network Observability",
+"company": "BlueCat",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=d80a755fee3004e3",
+"source": "Indeed"
+},
+{
+"title": "Collaboration Technical Specialist",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=dc8baa2890e1429c",
+"source": "Indeed"
+},
+{
+"title": "Specialist Solutions",
+"company": "Independent Electricity System Operator",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=b622b38934f079e7",
+"source": "Indeed"
+},
+{
+"title": "Quality Technician",
+"company": "Martinrea International",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=7d024764bf3cd802",
+"source": "Indeed"
+},
+{
+"title": "Business System Specialist",
+"company": "Ryder System",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=b6964de3bbd46e40",
+"source": "Indeed"
+},
+{
+"title": "SR Guidewire Analyst/Scrum master- Onsite",
+"company": "Cognizant",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=811a65c8bbf9a828",
+"source": "Indeed"
+},
+{
+"title": "Technical Account Manager",
+"company": "SOTI Inc.",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=11ec0bc8b792db2f",
+"source": "Indeed"
+},
+{
+"title": "Certinia PSA Architect - Senior Principal",
+"company": "Slalom Consulting",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=1d5db5ffc9e24b31",
+"source": "Indeed"
+},
+{
+"title": "Développeur(euse) principal(e) en développement de courriels dorsaux (Salesforce Marketing Cloud)",
+"company": "Intact",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=6320face2aceb779",
+"source": "Indeed"
+},
+{
+"title": "Senior Specialist, Agentic AI Engineering",
+"company": "McKesson",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=b9dcc0dd360a156e",
+"source": "Indeed"
+},
+{
+"title": "Senior Traffic Engineer/Modeller",
+"company": "CIMA+",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=79d3c83e93afc8ab",
+"source": "Indeed"
+},
+{
+"title": "Intermediate Traffic Engineer/Modeller",
+"company": "CIMA+",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=d78ebef4c78c224e",
+"source": "Indeed"
+},
+{
+"title": "UX Researcher",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=6b3641310f2ee3d2",
+"source": "Indeed"
+},
+{
+"title": "Caseworker, Patient Support & Services",
+"company": "Cencora",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=3d7781fb288564b6",
+"source": "Indeed"
+},
+{
+"title": "Telecommunications Account Agent",
+"company": "Abstract Group",
+"location": "Markham, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=d9a34b3918bdac44",
+"source": "Indeed"
+},
+{
+"title": "Ophthalmic technician",
+"company": "Prism Eye Institute",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50694151",
+"source": "Job Bank"
+},
+{
+"title": "ServiceNow Cyber Sales Executive (Senior Manager)",
+"company": "Deloitte",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=e734220c7e68c899",
+"source": "Indeed"
+},
+{
+"title": "Portfolio Administrator, Private Clients",
+"company": "Leith Wheeler Investment Counsel",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=19c9165e4d4a7fcf",
+"source": "Indeed"
+},
+{
+"title": "UX Design, Experienced II",
+"company": "Bentley Systems",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=8738e910ba3e2009",
+"source": "Indeed"
+},
+{
 "title": "Professional Senior, Engineering, Propulsion Systems",
 "company": "Bombardier",
 "location": "Wichita, KS, US, 67209",
@@ -880,6 +1544,14 @@
 "posted": "2026-11-09T00:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer%2C-INF353H1-Information-Design-Studio-III-Designing-Interactive-Systems-ON/607854017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Commis des Postes - Préposé au comptoir de vente au détail",
+"company": "Canada Post",
+"location": "Kindersley, SK, CA",
+"posted": "2026-11-09T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Kindersley-Commis-des-Postes-Pr%C3%A9pos%C3%A9-au-comptoir-de-vente-au-d%C3%A9tail-SK/607888817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
 },
 {
 "title": "Customer Quality Technologist (6 months assignment)",
@@ -1058,116 +1730,20 @@
 "source": "Job Bank"
 },
 {
+"title": "Solution Architect, Technology Transformation",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-08",
+"link": "https://ca.indeed.com/viewjob?jk=dea82734ded7df35",
+"source": "Indeed"
+},
+{
 "title": "Bilingual Advisor, System Integration",
 "company": "Bell",
 "location": "Toronto, ON, CA",
 "posted": "2026-11-08T08:00:00+00:00",
 "link": "https://jobs.bce.ca/bell/job/Toronto-Bilingual-Advisor%2C-System-Integration-ON/1394025800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bell careers"
-},
-{
-"title": "Experienced Propulsion Systems Engineer",
-"company": "Bombardier",
-"location": "Wichita, KS, US, 67209",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Wichita-Experienced-Propulsion-Systems-Engineer-KS-67209/1436390233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Methods Agent, Production Support, Natural Team",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Methods-Agent%2C-Production-Support%2C-Natural-Team-Qu%C3%A9b-H4S-1Y9/1436363633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Project Manager / Scrum Master, Digital Transformation",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Project-Manager-Scrum-Master%2C-Digital-Transformation-Qu%C3%A9b-H4S-1Y9/1436368833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Methods Engineer",
-"company": "Bombardier",
-"location": "Red Oak, TX, US, 75154",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Red-Oak-Methods-Engineer-TX-75154/1206123801/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Engineer, Manufacturing (Weekend Shift)",
-"company": "Bombardier",
-"location": "Mississauga, ON, CA, L5S 1W1",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Mississauga-Engineer%2C-Manufacturing-%28Weekend-Shift%29-ON-L5S-1W1/1366501533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Experienced Airframe & Powerplant Technician (A&P)",
-"company": "Bombardier",
-"location": "Wichita, KS, US, 67209-2924",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Wichita-Experienced-Airframe-&-Powerplant-Technician-%28A&P%29-KS-67209-2924/1236384601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Lead Structures Technician",
-"company": "Bombardier",
-"location": "Windsor Locks, CT, US, 06096-1086",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Windsor-Locks-Lead-Structures-Technician-CT-06096-1086/1393757033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Intern/Co-op (Data Analyst)",
-"company": "Bombardier",
-"location": "Red Oak, TX, US, 75154",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Red-Oak-InternCo-op-%28Data-Analyst%29-TX-75154/1415464933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Engineering Technologist, Technical Services- Structure",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Engineering-Technologist%2C-Technical-Services-Structure-Qu%C3%A9b-H4S-1Y9/1405074433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Agent.e, Méthodes, Support à la Production, Équipes Naturelles",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Agent_e%2C-M%C3%A9thodes%2C-Support-%C3%A0-la-Production%2C-%C3%89quipes-Naturelles-Qu%C3%A9b-H4S-1Y9/1436363533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Technical Integrator",
-"company": "Bombardier",
-"location": "Wichita, KS, US, 67209",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Wichita-Technical-Integrator-KS-67209/1405291433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Technical Writer",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Technical-Writer-Qu%C3%A9b-H4S-1Y9/1409022433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Analyst, Quality Assurance",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Quality-Assurance-Qu%C3%A9b-H4S-1Y9/1366377833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
 }
 ]
 }
