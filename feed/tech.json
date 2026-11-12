@@ -1,12 +1,60 @@
 {
-"updated": "2026-11-12T02:42:24+00:00",
+"updated": "2026-11-12T10:41:01+00:00",
 "jobs": [
 {
-"title": "Freelance AI & Workflow Automation Consultant",
-"company": "360BusinessMarketing",
-"location": "Concord, ON, CA (remote)",
+"title": "Solutions Consultant, Engagement Manager, gTech Ads",
+"company": "Google",
+"location": "Toronto, ON, CA",
 "posted": "2026-11-12",
-"link": "https://ca.indeed.com/viewjob?jk=161bf740dd169be9",
+"link": "https://ca.indeed.com/viewjob?jk=43c7c7219966b47f",
+"source": "Indeed"
+},
+{
+"title": "I&IT Senior Solutions Designer",
+"company": "Ministry of Public and Business Service Delivery and Procurement",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=24b2bc81f8b7db62",
+"source": "Indeed"
+},
+{
+"title": "Associate Validation Engineer",
+"company": "Canadian Solar",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=fdac4e1a28c3cec7",
+"source": "Indeed"
+},
+{
+"title": "Application Technical Specialist",
+"company": "Flynn Group of Companies",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=9bc3d6b637e55873",
+"source": "Indeed"
+},
+{
+"title": "Devops engineer",
+"company": "Kablamo Pty Ltd",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-12",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710875",
+"source": "Job Bank"
+},
+{
+"title": "Product Developer",
+"company": "Mad Engine Global, LLC",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=ed0c7bb60a881a25",
+"source": "Indeed"
+},
+{
+"title": "SYSTEMS INTEGRATION SPECIALIST (AMANDA Developer/Administrator)",
+"company": "City of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=2029b82c287e593b",
 "source": "Indeed"
 },
 {
@@ -16,6 +64,38 @@
 "posted": "2026-11-12",
 "link": "https://ca.indeed.com/viewjob?jk=6783a7615c55960f",
 "source": "Indeed"
+},
+{
+"title": "Freelance AI & Workflow Automation Consultant",
+"company": "360BusinessMarketing",
+"location": "Concord, ON, CA (remote)",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=161bf740dd169be9",
+"source": "Indeed"
+},
+{
+"title": "Manager, Data Scientist",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12T08:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Manager%2C-Data-Scientist-ON/1440004400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Product Owner",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12T08:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Product-Owner-ON/1440046900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Operations Support Representative - Prince George - Temporary",
+"company": "Purolator",
+"location": "Prince George, British Columbia, CA, V2L 2Y8",
+"posted": "2026-11-12T08:00:00+00:00",
+"link": "https://careers.purolator.com/job/Prince-George-Operations-Support-Representative-Prince-George-Temporary-Brit-V2L-2Y8/1440286000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
 },
 {
 "title": "Senior Security Investigator",
@@ -1495,6 +1575,142 @@
 "location": "Whitchurch-Stouffville, ON, CA",
 "posted": "2026-11-11",
 "link": "https://ca.indeed.com/viewjob?jk=e0ea63e093b6fbfa",
+"source": "Indeed"
+},
+{
+"title": "ServiceNow Software Asset Management Developer",
+"company": "Cognizant",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=900309aae6dc4c33",
+"source": "Indeed"
+},
+{
+"title": "Software developer",
+"company": "Turing",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710897",
+"source": "Job Bank"
+},
+{
+"title": "Cloud administrator",
+"company": "Sienna Senior Living",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710163",
+"source": "Job Bank"
+},
+{
+"title": "Senior Business Analyst (Contract) – Data & Analytics",
+"company": "KRISSILAS GROUP INC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=37c71bb00d9a3bd8",
+"source": "Indeed"
+},
+{
+"title": "Business Analyst, Organizational Development & Transformation",
+"company": "OCAD University",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=19edde501808156c",
+"source": "Indeed"
+},
+{
+"title": "Continuous Improvement Engineer",
+"company": "FGF Brands",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=91fb856316c79f0b",
+"source": "Indeed"
+},
+{
+"title": "Salesforce Quality Analyst Tester",
+"company": "OSI Digital",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=c6ee348435d71d20",
+"source": "Indeed"
+},
+{
+"title": "Technician, Installation 3",
+"company": "AVI-SPL",
+"location": "Markham, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=10e35decc61a41b2",
+"source": "Indeed"
+},
+{
+"title": "Business Information Security Officer, Tax",
+"company": "KPMG",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=7bc7197d84dd062e",
+"source": "Indeed"
+},
+{
+"title": "Senior Strategic Customer Success Manager",
+"company": "Enable International",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=5427d6e2f767f774",
+"source": "Indeed"
+},
+{
+"title": "Data Governance Lead , Canada",
+"company": "Mondelēz International",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=813fe3690fe4b3ec",
+"source": "Indeed"
+},
+{
+"title": "Staffing Support Clerk",
+"company": "University of Guelph",
+"location": "Guelph, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=effe6f672232908e",
+"source": "Indeed"
+},
+{
+"title": "Senior Director, Database & Operations",
+"company": "McKesson",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=5afdb43aa6a2746f",
+"source": "Indeed"
+},
+{
+"title": "Salesforce Business Analyst",
+"company": "OSI Digital",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=0fdc7fc33231c0b7",
+"source": "Indeed"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Financeit",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710179",
+"source": "Job Bank"
+},
+{
+"title": "Customer support representative - wholesale",
+"company": "STAN AI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710105",
+"source": "Job Bank"
+},
+{
+"title": "Safety and Mission Assurance (S&MA) Engineer",
+"company": "MDA",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=2866ebf306da60b8",
 "source": "Indeed"
 },
 {
@@ -3576,6 +3792,14 @@
 "posted": "2026-11-10",
 "link": "https://ca.indeed.com/viewjob?jk=0ad94b09d5e733b6",
 "source": "Indeed"
+},
+{
+"title": "Customer support representative - wholesale",
+"company": "Recrute Action",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710553",
+"source": "Job Bank"
 }
 ]
 }
