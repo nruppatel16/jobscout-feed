@@ -1,12 +1,36 @@
 {
-"updated": "2026-11-14T08:38:45+00:00",
+"updated": "2026-11-14T15:35:21+00:00",
 "jobs": [
 {
-"title": "Business Analyst",
-"company": "0101digitall solutions pvt ltd",
-"location": "Toronto, ON, CA",
+"title": "Validation Engineer",
+"company": "",
+"location": "Markham, ON, CA",
 "posted": "2026-11-14",
-"link": "https://ca.indeed.com/viewjob?jk=52999a9f4d18e1f1",
+"link": "https://ca.indeed.com/viewjob?jk=01d9266a13ce7b91",
+"source": "Indeed"
+},
+{
+"title": "CNC Machinist/Programmer (Experience Required)",
+"company": "Novatek Welding and Fabrication",
+"location": "Cambridge, ON, CA",
+"posted": "2026-11-14",
+"link": "https://ca.indeed.com/viewjob?jk=d0b8d7ea6dbbb66c",
+"source": "Indeed"
+},
+{
+"title": "Associate Software Developer",
+"company": "MiraTerra",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-14",
+"link": "https://ca.indeed.com/viewjob?jk=eab6d55c10276fcc",
+"source": "Indeed"
+},
+{
+"title": "Senior Programmer Analyst (Burlington, ON)",
+"company": "Wolseley Canada, Inc.",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-14",
+"link": "https://ca.indeed.com/viewjob?jk=405de775ea11825b",
 "source": "Indeed"
 },
 {
@@ -18,12 +42,20 @@
 "source": "Indeed"
 },
 {
-"title": "Senior Programmer Analyst (Burlington, ON)",
-"company": "Wolseley Canada, Inc.",
-"location": "Burlington, ON, CA",
+"title": "Business Analyst",
+"company": "0101digitall solutions pvt ltd",
+"location": "Toronto, ON, CA",
 "posted": "2026-11-14",
-"link": "https://ca.indeed.com/viewjob?jk=405de775ea11825b",
+"link": "https://ca.indeed.com/viewjob?jk=52999a9f4d18e1f1",
 "source": "Indeed"
+},
+{
+"title": "Solution Architect - IoT",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-14T08:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Solution-Architect-IoT-ON/1421113700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
 },
 {
 "title": "Sr. Security Consultant - Incident Response Team (TSIRT)",
@@ -48,6 +80,22 @@
 "posted": "2026-11-14T02:00:00+00:00",
 "link": "https://jobs.opg.com/job/Renfrew-Project-&-Control-EngineerOfficer-ON-K7V-0C2/607092017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "OPG careers"
+},
+{
+"title": "Test DO NOT APPLY- 2H26 Grad-Web developer 2 (Grad) 1 1",
+"company": "Bell",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-14T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Mississauga-Test-DO-NOT-APPLY-2H26-Grad-Web-developer-2-%28Grad%29-1-1-ON/1450777200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Dév. web I (Grad) 1 1",
+"company": "Bell",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-14T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Mississauga-D%C3%A9v_-web-I-%28Grad%29-1-1-ON/1450777300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Ophthalmic technician",
@@ -1608,6 +1656,78 @@
 "posted": "2026-11-13",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50725689",
 "source": "Job Bank"
+},
+{
+"title": "Senior Full-Stack Software Engineer",
+"company": "Altis Labs",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-13",
+"link": "https://www.linkedin.com/jobs/view/4462335157",
+"source": "LinkedIn"
+},
+{
+"title": "MAAS Systems Engineer - Python (Toronto area)",
+"company": "Canonical",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-13",
+"link": "https://www.linkedin.com/jobs/view/3999500777",
+"source": "LinkedIn"
+},
+{
+"title": "Full-Stack Developer",
+"company": "Berkshire Hathaway Group Reinsurance Division",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-13",
+"link": "https://www.linkedin.com/jobs/view/4489293493",
+"source": "LinkedIn"
+},
+{
+"title": "Senior Field Service Representative - Secure power cooling",
+"company": "Schneider Electric",
+"location": "Milton, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=21c9df3659bce25c",
+"source": "Indeed"
+},
+{
+"title": "Co-op Student, Quality Assurance",
+"company": "Canadian Institute for Health Information",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=febe8840a5ee7da4",
+"source": "Indeed"
+},
+{
+"title": "SharePoint and Automation Assistant",
+"company": "University of Guelph",
+"location": "Guelph, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=5b0592ad4737d3e7",
+"source": "Indeed"
+},
+{
+"title": "QA AND PRODUCTION SUPPORT",
+"company": "IREKS North America Ltd.",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=4eb33db0f90f8d16",
+"source": "Indeed"
+},
+{
+"title": "Associate Product Manager - Special Sourcing",
+"company": "Würth Group",
+"location": "Guelph, ON, CA (remote)",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=677f8a19c2f634da",
+"source": "Indeed"
+},
+{
+"title": "Technical Service Specialist",
+"company": "GPR Gesundheits- und Pflegezentrum Rüsselsheim gemeinnützige GmbH",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=ff705e80782cd702",
+"source": "Indeed"
 },
 {
 "title": "Director, Engineering and Procurement, AI Fabric",
@@ -3415,6 +3535,14 @@
 "location": "Markham, ON, CA",
 "posted": "2026-11-12",
 "link": "https://ca.indeed.com/viewjob?jk=9282f7a17c5e4b8d",
+"source": "Indeed"
+},
+{
+"title": "Full Stack Data Engineer",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=a9f191b7846aa152",
 "source": "Indeed"
 }
 ]
