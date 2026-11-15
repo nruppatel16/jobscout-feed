@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-14T20:26:49+00:00",
+"updated": "2026-11-15T00:06:40+00:00",
 "jobs": [
 {
 "title": "Validation Engineer",
@@ -119,6 +119,46 @@
 "location": "Markham, ON, CA (remote)",
 "posted": "2026-11-14",
 "link": "https://ca.indeed.com/viewjob?jk=27253fc363cabdde",
+"source": "Indeed"
+},
+{
+"title": "Contract Wordpress Website Developer",
+"company": "S6",
+"location": "Oakville, ON, CA (remote)",
+"posted": "2026-11-14",
+"link": "https://ca.indeed.com/viewjob?jk=2338d6a7e325f627",
+"source": "Indeed"
+},
+{
+"title": "Embedded software engineer",
+"company": "PVLabs",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50729228",
+"source": "Job Bank"
+},
+{
+"title": "System Integration Project Manager",
+"company": "SolutionStack",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50728084",
+"source": "Job Bank"
+},
+{
+"title": "ARCHITECT TECHNOLOGY, DATA",
+"company": "Home Depot Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-14",
+"link": "https://ca.indeed.com/viewjob?jk=ab666f4ecc5bb544",
+"source": "Indeed"
+},
+{
+"title": "Customer Success Manager",
+"company": "SalesSpider Media Inc.",
+"location": "North York, ON, CA",
+"posted": "2026-11-14",
+"link": "https://ca.indeed.com/viewjob?jk=d50cce6584beacdf",
 "source": "Indeed"
 },
 {
@@ -1834,6 +1874,38 @@
 "source": "Indeed"
 },
 {
+"title": "Business Center Practice Leader - Environmental Services (Infrastructure)",
+"company": "Stantec",
+"location": "Markham, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=53e3d0a9c9f887d4",
+"source": "Indeed"
+},
+{
+"title": "Solutions Architect - DXP",
+"company": "Sobeys",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=13134bfc30cc71d9",
+"source": "Indeed"
+},
+{
+"title": "Field Service Engineer - Toronto Canada",
+"company": "Oneservice",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=c2cb8a2b85ed62a8",
+"source": "Indeed"
+},
+{
+"title": "Technical Inside Sales Representative 2",
+"company": "Wainbee Limited",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=19028bcdcf4e1647",
+"source": "Indeed"
+},
+{
 "title": "Director, Engineering and Procurement, AI Fabric",
 "company": "Bell",
 "location": "Calgary, AB, CA",
@@ -1904,94 +1976,6 @@
 "posted": "2026-11-13T02:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-Software-Developer-%28Winter-2027%29-Qu%C3%A9b-H4R-1K2/1448274533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
-},
-{
-"title": "Senior Database Administrator",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Senior-Database-Administrator-Qu%C3%A9b-H4S-1Y9/1457262633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Officer, Security and Investigation Services (Postal Inspector)",
-"company": "Canada Post",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Ottawa-Officer%2C-Security-and-Investigation-Services-%28Postal-Inspector%29-ON/608020217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Commis des Postes - Préposé au comptoir de vente au détail",
-"company": "Canada Post",
-"location": "Springdale, NL, CA",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Springdale-Commis-des-Postes-Pr%C3%A9pos%C3%A9-au-comptoir-de-vente-au-d%C3%A9tail-NL/608012217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers"
-},
-{
-"title": "Network Infrastructure Specialist",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Network-Infrastructure-Specialist-Qu%C3%A9b-H4S-1Y9/1457316233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Infrastructure Security Specialist",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Infrastructure-Security-Specialist-Qu%C3%A9b-H4S-1Y9/1457350033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Wintel and Active Directory Platform Specialist",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Wintel-and-Active-Directory-Platform-Specialist-Qu%C3%A9b-H4S-1Y9/1457354533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Spécialiste de l'infrastructure réseau",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Sp%C3%A9cialiste-de-l'infrastructure-r%C3%A9seau-Qu%C3%A9b-H4S-1Y9/1457316333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Spécialiste des plateformes Wintel et Active Directory",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Sp%C3%A9cialiste-des-plateformes-Wintel-et-Active-Directory-Qu%C3%A9b-H4S-1Y9/1457354633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Linux and Open Source Platform Specialist",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Linux-and-Open-Source-Platform-Specialist-Qu%C3%A9b-H4S-1Y9/1457357733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Spécialiste des plateformes Linux et Open Source",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Sp%C3%A9cialiste-des-plateformes-Linux-et-Open-Source-Qu%C3%A9b-H4S-1Y9/1457357833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers"
-},
-{
-"title": "Associate Solution Architect",
-"company": "Purolator",
-"location": "Mississauga, ON, CA, L5N 0E1",
-"posted": "2026-11-13T00:00:00+00:00",
-"link": "https://careers.purolator.com/job/Mississauga-Associate-Solution-Architect-ON-L5N-0E1/1450715400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Purolator careers"
 }
 ]
 }
