@@ -41,6 +41,8 @@ STRONG_IT = [
     "active directory", "intune", "microsoft 365", "office 365", "m365", "google workspace",
     "technical account", "solutions engineer", "sales engineer", "pre-sales", "presales",
     "telecom", "telecommunications",
+    # French (Quebec and bilingual postings)
+    "développeur", "développeuse", "programmeur", "programmeuse", "informatique", "ti", "logiciel", "logiciels", "données", "base de données", "cybersécurité", "sécurité informatique", "infonuagique", "réseautique", "soutien technique", "soutien informatique", "assurance qualité", "intelligence artificielle", "apprentissage automatique",
 ]
 
 # IT on most titles, but also used outside IT — kept unless a NON_IT word is present.
@@ -75,7 +77,7 @@ NON_IT = [
     "plumber", "welder", "carpenter", "millwright", "machinist", "roofer", "painter", "landscaper",
     "crane", "heavy equipment", "mechanical", "civil", "structural", "chemical", "geotechnical",
     "mining", "petroleum", "environmental", "construction", "building", "manufacturing engineer",
-    "process engineer", "industrial engineer", "electrical engineer", "power engineer",
+    "process engineer", "quality engineer", "industrial engineer", "electrical engineer", "power engineer",
     "stationary engineer", "engineering technician", "aircraft", "avionics", "aerodynamic",
     "mortgage", "teller", "financial advisor", "financial planner", "investment advisor",
     "insurance advisor", "underwriter", "claims", "accountant", "accounting", "bookkeeper",
@@ -86,6 +88,7 @@ NON_IT = [
     "maintenance", "administrative support", "mailroom", "equipment operator", "trade support", "housekeeping", "food", "beauty", "cosmetic", "hair", "nail", "spa",
     "fitness", "lifeguard", "concierge", "branch", "banking advisor", "client advisor",
     "sales advisor", "beauty advisor",
+    "office administrator", "credit", "debt", "distribution", "events", "floater", "workforce",
 ]
 
 # Never IT, whatever else the title says.
@@ -94,6 +97,7 @@ HARD_EXCLUDE = [
     "personal support worker", "psw", "support worker", "personal support", "cashier",
     "janitor", "custodian", "cleaner", "forklift", "general labour", "labourer", "laborer",
     "picker", "packer", "material handler", "dishwasher", "housekeeper", "nanny", "professor",
+    "recruiter", "talent acquisition", "cnc", "sales associate",
 ]
 
 # Search terms for boards that need a query (Glassdoor, Indeed, LinkedIn, Job Bank…):
@@ -131,7 +135,8 @@ SEARCH_TERMS = [
 
 def _rx(words):
     return re.compile(
-        r"(?<![a-z0-9])(" + "|".join(re.escape(w) for w in sorted(set(words), key=len, reverse=True)) + r")(?![a-z0-9])",
+        # \w, not [a-z0-9]: accented letters are part of a word ("Préposé" isn't "pos")
+        r"(?<!\w)(" + "|".join(re.escape(w) for w in sorted(set(words), key=len, reverse=True)) + r")(?!\w)",
         re.I,
     )
 

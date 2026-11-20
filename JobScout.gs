@@ -48,10 +48,10 @@ const COMPANY_HEADERS = ['Company', 'Careers link (any job link from their caree
 // service, POS, CRM/ERP…). Same lists as the job agent's src/it_roles.py:
 // a title is IT if it names none of HARD_EXCLUDE, and either a STRONG_IT word,
 // or an IT_KEYWORDS word and none of NON_IT.
-const STRONG_IT = [".net", "active directory", "ai", "analytics", "android", "angular", "api", "application", "application support", "applications", "artificial intelligence", "aws", "azure", "back end", "back-end", "backend", "bi", "blockchain", "business intelligence", "c#", "cloud", "coder", "computer", "computer vision", "crm", "cyber", "cybersecurity", "data", "data center", "data centre", "database", "dba", "deskside", "desktop support", "developer", "devops", "devsecops", "dynamics 365", "embedded", "end user", "erp", "etl", "euc", "firmware", "front end", "front-end", "frontend", "full stack", "full-stack", "fullstack", "game developer", "gameplay", "gcp", "golang", "google workspace", "help desk", "helpdesk", "i.t.", "implementation", "informatics", "information security", "information systems", "information technology", "infosec", "infrastructure", "integration", "intune", "ios", "iot", "it", "it support", "java", "javascript", "kubernetes", "linux", "llm", "m365", "machine learning", "microsoft 365", "ml", "mlops", "mobile app", "mobile developer", "network", "networking", "nlp", "noc", "node.js", "office 365", "oracle", "penetration", "pentest", "power apps", "power bi", "power platform", "pre-sales", "presales", "programmer", "python", "qa", "quality assurance", "react", "rpa", "saas", "sales engineer", "salesforce", "sap", "sdet", "service desk", "servicenow", "sharepoint", "site reliability", "soc analyst", "software", "software tester", "solutions engineer", "sql", "sre", "sysadmin", "systems administrator", "systems analyst", "tableau", "tech support", "technical account", "technical support", "technology", "telecom", "telecommunications", "terraform", "test automation", "typescript", "uipath", "unity developer", "unix", "web developer", "workday"];
-const IT_KEYWORDS = [".net", "active directory", "administrator", "agile", "ai", "analytics", "android", "angular", "api", "application", "application support", "applications", "architect", "artificial intelligence", "atlassian", "audio visual", "automation", "av technician", "aws", "azure", "back end", "back-end", "backend", "bi", "blockchain", "business analyst", "business intelligence", "business systems", "c#", "cabling", "client success", "client support", "cloud", "coder", "computer", "computer vision", "configuration", "crm", "customer success", "customer support", "cyber", "cybersecurity", "data", "data center", "data centre", "database", "dba", "deskside", "desktop support", "developer", "developer relations", "devops", "devrel", "devsecops", "digital", "digital transformation", "documentation", "dynamics 365", "e-commerce", "ecommerce", "embedded", "end user", "endpoint", "engineer", "erp", "etl", "euc", "field service", "firmware", "forensics", "front end", "front-end", "frontend", "full stack", "full-stack", "fullstack", "functional consultant", "game developer", "gameplay", "gcp", "gis", "golang", "google workspace", "grc", "hardware", "help desk", "helpdesk", "i.t.", "iam", "identity", "implementation", "incident response", "informatics", "information security", "information systems", "information technology", "infosec", "infrastructure", "integration", "intune", "ios", "iot", "it", "it coordinator", "it support", "java", "javascript", "jira", "kubernetes", "linux", "llm", "m365", "machine learning", "mdm", "microsoft 365", "ml", "mlops", "mobile", "mobile app", "mobile developer", "network", "networking", "nlp", "noc", "node.js", "office 365", "onboarding", "onsite support", "operations analyst", "oracle", "penetration", "pentest", "platform", "pos", "power apps", "power bi", "power platform", "pre-sales", "presales", "privacy", "product analyst", "product manager", "product owner", "product specialist", "product support", "professional services", "programmer", "python", "qa", "quality assurance", "react", "reporting", "robotics", "rpa", "saas", "sales engineer", "salesforce", "sap", "scientist", "scrum", "sdet", "security", "service desk", "servicenow", "sharepoint", "shopify", "site reliability", "soc analyst", "software", "software tester", "solution", "solutions", "solutions engineer", "sql", "sre", "support", "sysadmin", "system", "systems", "systems administrator", "systems analyst", "tableau", "tech", "tech support", "technical", "technical account", "technical support", "technical trainer", "technical writer", "technician", "technologist", "technology", "telecom", "telecommunications", "terraform", "test", "test automation", "tester", "testing", "threat", "tier 1", "tier 2", "tier 3", "typescript", "ui", "uipath", "unity developer", "unix", "user experience", "user interface", "ux", "voip", "vulnerability", "web", "web developer", "webmaster", "wireless", "wordpress", "workday"];
-const NON_IT = ["accountant", "accounting", "administrative assistant", "administrative support", "aerodynamic", "aerospace", "aircraft", "automotive", "avionics", "banking advisor", "barista", "bartender", "beauty", "beauty advisor", "biologist", "biology", "bookkeeper", "branch", "broadcast", "building", "caregiver", "carpenter", "chef", "chemical", "chemist", "chemistry", "chiropractor", "civil", "claims", "client advisor", "communications", "concierge", "construction", "cook", "cosmetic", "counsellor", "courier", "crane", "delivery", "dental", "dentist", "doctor", "driver", "drug", "early childhood", "ece", "educator", "electrical", "electrical engineer", "electrician", "engineering technician", "environmental", "equipment operator", "executive assistant", "financial advisor", "financial planner", "fire", "fire alarm", "fitness", "flight", "fly-by-wire", "food", "food server", "geotechnical", "hair", "heavy equipment", "housekeeping", "hr generalist", "human resources", "hvac", "hygiene", "hygienist", "industrial engineer", "instructional", "insurance advisor", "investment advisor", "journalist", "kitchen", "lab", "lab technician", "laboratory", "landscape", "landscaper", "law clerk", "lawyer", "leasing", "legal", "lifeguard", "machinist", "mailroom", "maintenance", "manufacturing engineer", "marketing", "mechanic", "mechanical", "medical laboratory", "merchandiser", "millwright", "mining", "mortgage", "music", "nail", "ndt", "nurse", "nursing", "office assistant", "operating engineer", "optician", "painter", "paralegal", "paramedic", "pastor", "payroll", "petroleum", "pharmacist", "pharmacy", "phlebotomist", "physician", "physiotherapist", "plumber", "power engineer", "process engineer", "program", "real estate", "realtor", "receptionist", "recruiter", "restaurant server", "retail", "rn", "roofer", "rpn", "sales advisor", "sales associate", "social media", "social worker", "spa", "stability", "stationary engineer", "store", "storytelling", "structural", "talent acquisition", "tax", "teacher", "teller", "theatre", "therapist", "trade support", "truck", "tutor", "underwriter", "veterinary", "warehouse", "welder", "youth worker"];
-const HARD_EXCLUDE = ["cashier", "cleaner", "custodian", "data entry", "dishwasher", "forklift", "general labour", "housekeeper", "janitor", "laborer", "labourer", "loss prevention", "material handler", "nanny", "packer", "personal support", "personal support worker", "picker", "professor", "psw", "security guard", "security officer - patrol", "support worker"];
+const STRONG_IT = [".net", "active directory", "ai", "analytics", "android", "angular", "api", "application", "application support", "applications", "apprentissage automatique", "artificial intelligence", "assurance qualité", "aws", "azure", "back end", "back-end", "backend", "base de données", "bi", "blockchain", "business intelligence", "c#", "cloud", "coder", "computer", "computer vision", "crm", "cyber", "cybersecurity", "cybersécurité", "data", "data center", "data centre", "database", "dba", "deskside", "desktop support", "developer", "devops", "devsecops", "données", "dynamics 365", "développeur", "développeuse", "embedded", "end user", "erp", "etl", "euc", "firmware", "front end", "front-end", "frontend", "full stack", "full-stack", "fullstack", "game developer", "gameplay", "gcp", "golang", "google workspace", "help desk", "helpdesk", "i.t.", "implementation", "infonuagique", "informatics", "information security", "information systems", "information technology", "informatique", "infosec", "infrastructure", "integration", "intelligence artificielle", "intune", "ios", "iot", "it", "it support", "java", "javascript", "kubernetes", "linux", "llm", "logiciel", "logiciels", "m365", "machine learning", "microsoft 365", "ml", "mlops", "mobile app", "mobile developer", "network", "networking", "nlp", "noc", "node.js", "office 365", "oracle", "penetration", "pentest", "power apps", "power bi", "power platform", "pre-sales", "presales", "programmer", "programmeur", "programmeuse", "python", "qa", "quality assurance", "react", "rpa", "réseautique", "saas", "sales engineer", "salesforce", "sap", "sdet", "service desk", "servicenow", "sharepoint", "site reliability", "soc analyst", "software", "software tester", "solutions engineer", "soutien informatique", "soutien technique", "sql", "sre", "sysadmin", "systems administrator", "systems analyst", "sécurité informatique", "tableau", "tech support", "technical account", "technical support", "technology", "telecom", "telecommunications", "terraform", "test automation", "ti", "typescript", "uipath", "unity developer", "unix", "web developer", "workday"];
+const IT_KEYWORDS = [".net", "active directory", "administrator", "agile", "ai", "analytics", "android", "angular", "api", "application", "application support", "applications", "apprentissage automatique", "architect", "artificial intelligence", "assurance qualité", "atlassian", "audio visual", "automation", "av technician", "aws", "azure", "back end", "back-end", "backend", "base de données", "bi", "blockchain", "business analyst", "business intelligence", "business systems", "c#", "cabling", "client success", "client support", "cloud", "coder", "computer", "computer vision", "configuration", "crm", "customer success", "customer support", "cyber", "cybersecurity", "cybersécurité", "data", "data center", "data centre", "database", "dba", "deskside", "desktop support", "developer", "developer relations", "devops", "devrel", "devsecops", "digital", "digital transformation", "documentation", "données", "dynamics 365", "développeur", "développeuse", "e-commerce", "ecommerce", "embedded", "end user", "endpoint", "engineer", "erp", "etl", "euc", "field service", "firmware", "forensics", "front end", "front-end", "frontend", "full stack", "full-stack", "fullstack", "functional consultant", "game developer", "gameplay", "gcp", "gis", "golang", "google workspace", "grc", "hardware", "help desk", "helpdesk", "i.t.", "iam", "identity", "implementation", "incident response", "infonuagique", "informatics", "information security", "information systems", "information technology", "informatique", "infosec", "infrastructure", "integration", "intelligence artificielle", "intune", "ios", "iot", "it", "it coordinator", "it support", "java", "javascript", "jira", "kubernetes", "linux", "llm", "logiciel", "logiciels", "m365", "machine learning", "mdm", "microsoft 365", "ml", "mlops", "mobile", "mobile app", "mobile developer", "network", "networking", "nlp", "noc", "node.js", "office 365", "onboarding", "onsite support", "operations analyst", "oracle", "penetration", "pentest", "platform", "pos", "power apps", "power bi", "power platform", "pre-sales", "presales", "privacy", "product analyst", "product manager", "product owner", "product specialist", "product support", "professional services", "programmer", "programmeur", "programmeuse", "python", "qa", "quality assurance", "react", "reporting", "robotics", "rpa", "réseautique", "saas", "sales engineer", "salesforce", "sap", "scientist", "scrum", "sdet", "security", "service desk", "servicenow", "sharepoint", "shopify", "site reliability", "soc analyst", "software", "software tester", "solution", "solutions", "solutions engineer", "soutien informatique", "soutien technique", "sql", "sre", "support", "sysadmin", "system", "systems", "systems administrator", "systems analyst", "sécurité informatique", "tableau", "tech", "tech support", "technical", "technical account", "technical support", "technical trainer", "technical writer", "technician", "technologist", "technology", "telecom", "telecommunications", "terraform", "test", "test automation", "tester", "testing", "threat", "ti", "tier 1", "tier 2", "tier 3", "typescript", "ui", "uipath", "unity developer", "unix", "user experience", "user interface", "ux", "voip", "vulnerability", "web", "web developer", "webmaster", "wireless", "wordpress", "workday"];
+const NON_IT = ["accountant", "accounting", "administrative assistant", "administrative support", "aerodynamic", "aerospace", "aircraft", "automotive", "avionics", "banking advisor", "barista", "bartender", "beauty", "beauty advisor", "biologist", "biology", "bookkeeper", "branch", "broadcast", "building", "caregiver", "carpenter", "chef", "chemical", "chemist", "chemistry", "chiropractor", "civil", "claims", "client advisor", "communications", "concierge", "construction", "cook", "cosmetic", "counsellor", "courier", "crane", "credit", "debt", "delivery", "dental", "dentist", "distribution", "doctor", "driver", "drug", "early childhood", "ece", "educator", "electrical", "electrical engineer", "electrician", "engineering technician", "environmental", "equipment operator", "events", "executive assistant", "financial advisor", "financial planner", "fire", "fire alarm", "fitness", "flight", "floater", "fly-by-wire", "food", "food server", "geotechnical", "hair", "heavy equipment", "housekeeping", "hr generalist", "human resources", "hvac", "hygiene", "hygienist", "industrial engineer", "instructional", "insurance advisor", "investment advisor", "journalist", "kitchen", "lab", "lab technician", "laboratory", "landscape", "landscaper", "law clerk", "lawyer", "leasing", "legal", "lifeguard", "machinist", "mailroom", "maintenance", "manufacturing engineer", "marketing", "mechanic", "mechanical", "medical laboratory", "merchandiser", "millwright", "mining", "mortgage", "music", "nail", "ndt", "nurse", "nursing", "office administrator", "office assistant", "operating engineer", "optician", "painter", "paralegal", "paramedic", "pastor", "payroll", "petroleum", "pharmacist", "pharmacy", "phlebotomist", "physician", "physiotherapist", "plumber", "power engineer", "process engineer", "program", "quality engineer", "real estate", "realtor", "receptionist", "recruiter", "restaurant server", "retail", "rn", "roofer", "rpn", "sales advisor", "sales associate", "social media", "social worker", "spa", "stability", "stationary engineer", "store", "storytelling", "structural", "talent acquisition", "tax", "teacher", "teller", "theatre", "therapist", "trade support", "truck", "tutor", "underwriter", "veterinary", "warehouse", "welder", "workforce", "youth worker"];
+const HARD_EXCLUDE = ["cashier", "cleaner", "cnc", "custodian", "data entry", "dishwasher", "forklift", "general labour", "housekeeper", "janitor", "laborer", "labourer", "loss prevention", "material handler", "nanny", "packer", "personal support", "personal support worker", "picker", "professor", "psw", "recruiter", "sales associate", "security guard", "security officer - patrol", "support worker", "talent acquisition"];
 
 const IT_FIELD = 'IT (every role)';
 const FIELDS = {
@@ -707,7 +707,7 @@ function passesFilters(job, cfg) {
   if (!levelFits(job.title, cfg.level)) return false;
   if (!workStyleFits(job, cfg)) return false;
   if (job.preFiltered) return true; // searched at the source with the student's own terms
-  if (!isItRole(job.title) && !(cfg.keywords.length && matchesAny(job.title, cfg.keywords))) return false;
+  if (!isItRole(job.title) && !(cfg.keywords.length && matchesAny(job.title, cfg.keywords) && !matchesAny(job.title, NON_IT))) return false;
   // Remote jobs were already judged by Work style above.
   if (job.location && cfg.locations.length && !isRemoteJob(job)) {
     const place = placeText(job.location);
@@ -796,7 +796,6 @@ function isForeignPlace(loc) {
   return !CANADIAN_PLACE.test(l) && FOREIGN_PLACES.test(l);
 }
 
-// "2 Locations", "Hybrid", "Centenary Site" … can't tell where these are, so keep them.
 // Lower-case location with province codes spelled out: "Oakville, ON, CAN" → "oakville, ontario, canada".
 // Cities alone ("Oakville, Canada") also get their province.
 function placeText(loc) {
@@ -807,6 +806,7 @@ function placeText(loc) {
   for (const [prov, cities] of Object.entries(CITY_PROVINCE)) {
     if (!t.includes(PROVINCES[prov].toLowerCase()) && cities.test(t)) t += `, ${PROVINCES[prov].toLowerCase()}`;
   }
+  if (!/\bcanada\b/.test(t) && CANADIAN_PLACE.test(t)) t += ', canada';
   return t;
 }
 
@@ -820,9 +820,11 @@ const CITY_PROVINCE = {
   NS: /\b(halifax|dartmouth)\b/,
 };
 
+// "2 Locations", "Hybrid", "Various" … can't tell where these are, so keep them. A bare place
+// name ("Austria", "US", "Mississauga") is a real location and must be in Canada to pass.
 function locationUnclear(loc) {
   const l = String(loc).trim();
-  return /^\d+ locations?$/i.test(l) || /^(hybrid|on-?site|remote|multiple locations?|various)$/i.test(l) || !/[,(·/]| - /.test(l);
+  return /^\d+ locations?$/i.test(l) || /^(hybrid|on-?site|remote|multiple locations?|various|tbd|n\/a)$/i.test(l);
 }
 
 // Every IT role — see the lists at the top.
@@ -834,7 +836,8 @@ function isItRole(title) {
 
 function matchesAny(text, words) {
   const t = String(text || '').toLowerCase();
-  return words.some(w => new RegExp(`(^|[^a-z0-9])${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}($|[^a-z0-9])`).test(t));
+  // Letters of any alphabet are part of a word, so "Préposé" doesn't match "pos".
+  return words.some(w => new RegExp(`(^|[^\\p{L}\\p{N}])${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}($|[^\\p{L}\\p{N}])`, 'u').test(t));
 }
 
 // Baseline for pages without dates: remember every link, report only links
@@ -940,6 +943,9 @@ const BOARDS = {
   },
 };
 
+// Job sites that repost other employers' jobs, one copy per country. Not careers pages.
+const AGGREGATORS = new Set(['jobgether']);
+
 function fetchCompanyBoards(cfg, errors, started) {
   const sheet = SpreadsheetApp.getActive().getSheetByName(TABS.companies);
   const cutoff = Date.now() - cfg.maxAgeHours * 3600e3;
@@ -953,6 +959,10 @@ function fetchCompanyBoards(cfg, errors, started) {
     link = String(link).trim();
     const row = i + 2;
     if (!name || !link || name.startsWith('{{') || link.startsWith('{{')) return;
+    if (AGGREGATORS.has(normName(name))) {
+      sheet.getRange(row, 4).setValue('– skipped: job aggregator (reposts the same job in many countries)');
+      return;
+    }
     const board = detectBoard(link);
     if (!board) {
       sheet.getRange(row, 3, 1, 2).setValues([['—', '✗ Not a web link']]);
@@ -1308,7 +1318,7 @@ function discoverCompanies(found, cfg, started) {
   // 1. Links that point straight at a careers system.
   found.forEach(j => {
     const b = detectBoard(j.link);
-    if (!b || b.type === 'firecrawl' || !j.company || knownNames.has(normName(j.company))) return;
+    if (!b || b.type === 'firecrawl' || !j.company || knownNames.has(normName(j.company)) || AGGREGATORS.has(normName(j.company))) return;
     knownNames.add(normName(j.company));
     toAdd.push([j.company, boardHomeUrl(b), `auto-found ${stamp} (from job links)`]);
   });
@@ -1322,7 +1332,7 @@ function discoverCompanies(found, cfg, started) {
   const names = [];
   found.forEach(j => {
     const n = normName(j.company);
-    if (n.length < 3 || knownNames.has(n) || tried.has(n) || names.some(x => x.n === n)) return;
+    if (n.length < 3 || knownNames.has(n) || AGGREGATORS.has(n) || tried.has(n) || names.some(x => x.n === n)) return;
     names.push({ n, name: cleanText(j.company) });
   });
   const batch = names.slice(0, limit);
