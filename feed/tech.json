@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-20T21:11:10+00:00",
+"updated": "2026-11-20T21:21:10+00:00",
 "jobs": [
+{
+"title": "Analyst, Strategic Finance - AI & Data Systems",
+"company": "Snowflake",
+"location": "Remote · United States",
+"posted": "2026-11-20T21:13:16.905+00:00",
+"link": "https://jobs.ashbyhq.com/snowflake/e8b43774-6ade-4c0a-ab68-9d92fc4ace7b",
+"source": "Snowflake careers",
+"country": "US",
+"years": 1
+},
 {
 "title": "Cloud Data Infrastructure Engineer",
 "company": "ClickHouse",
@@ -3729,6 +3739,348 @@
 "country": "US",
 "years": null,
 "apply": "https://www.applicantpro.com/openings/axiomconsultants/jobs/4284776-499465"
+},
+{
+"title": "Python/AI Developer",
+"company": "Citi",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=37324b097979d42f",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.citi.com/job/mississauga/python-ai-developer/287/103573083376"
+},
+{
+"title": "Desktop Support Engineer",
+"company": "Cognizant",
+"location": "Oakville, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b761784446d3deb6",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071321291/desktop-support-engineer/"
+},
+{
+"title": "IT Operations Specialist",
+"company": "Athennian",
+"location": "Remote, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=61a54bcfb315972e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://ats.rippling.com/athennian/jobs/d6ff58fe-56ff-4ed3-b8ae-47d09e73740f?jobSite=Indeed"
+},
+{
+"title": "Java Developer",
+"company": "Veracity Ventures Inc.",
+"location": "CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=15faa620219583c7",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://veracity-ventures-inc.careerplug.com/j/037mdzg"
+},
+{
+"title": "Streaming Azure Data Engineer",
+"company": "Cognizant",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=9df1575af2410ae2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071353911/streaming-azure-data-engineer/"
+},
+{
+"title": "Testing Intermediate Analyst - Officer",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=aaa4a81f7ecc134c",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.citi.com/job/mississauga/testing-intermediate-analyst-officer/287/103566065152"
+},
+{
+"title": "Technicienne ou technicien en informatique classe principale",
+"company": "Fédération des centres de services scolaires du Québec",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=eb0ee72847db1cc8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.glowinthecloud.com/federation-des-centres-de-services-scolaires-du-quebec/20261120001?l=fr&source=Indeed"
+},
+{
+"title": "Information Technology Specialist - 1 Year Term (Winnipeg)",
+"company": "",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=60763f42efe45c9a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5c7f415a-c424-43c7-a90f-d942891a565a&ccId=19000101_000001&jobId=541598&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Microsoft 365 Specialist",
+"company": "Goway Travel",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=f39566ff6ecf5dc6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruiting.ultipro.ca/GOW5000GOWT/JobBoard/30cfb287-d992-42ab-8128-0c113578d2be/OpportunityDetail?opportunityId=90c31d72-847d-4386-b466-8c1d35269c8f&postingId=33f5b0fa-7824-4dd0-9497-c29fc76db40d"
+},
+{
+"title": "User support technician",
+"company": "HEM Innovative Solutions Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50771427",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "TELUS - Field Tech Sales Representative",
+"company": "Gamma IT Solutions Inc.",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=2261c8ff10287993",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/telus-field-tech-sales-representative-2261c8ff10287993"
+},
+{
+"title": "Railcar Repair Technician",
+"company": "Procor Limited",
+"location": "Regina, SK, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=0253233c11d580b9",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/CAN_Regina_Saskatchewan_999-Default-Street/Railcar-Repair-Technician_JR0000045692"
+},
+{
+"title": "Accounts Receivable EDI / SBT Integration Specialist",
+"company": "Postmedia Network Inc.",
+"location": "CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=37c2b516783a567a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-CA/postmedia/CANDIDATEPORTAL/jobs/10552"
+},
+{
+"title": "Forward Deployed Engineer, AI for Retail Supply Chain",
+"company": "Efficio",
+"location": "Remote, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=191ef3b3206f9dd2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/68827515/0/0/Forward+Deployed+Engineer%2C+AI+for+Retail+Supply+Chain+.html"
+},
+{
+"title": "Administrative technician",
+"company": "Centre de services scolaire des Navigateurs",
+"location": "Lévis, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50771216",
+"source": "Job Bank",
+"country": "CA",
+"years": null,
+"french": true
+},
+{
+"title": "Administrative technician",
+"company": "Centre des services scolaires de quebec",
+"location": "Lévis, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50771223",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "MiPACS Admin & Identity & Security Analyst",
+"company": "Health Choice Network",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=0348a4f97fb84de7",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b3d54757-c241-42e9-9543-b455cbbb68ff&ccId=19000101_000001&jobId=601143&source=IN&lang=en_US"
+},
+{
+"title": "Research Security Analyst, Office of Research Support and Compliance",
+"company": "University of Texas at Austin",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=4cb8acd70906f2fa",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Research-Security-Analyst--Office-of-Research-Support-and-Compliance_R_00050118"
+},
+{
+"title": "Surgical Tech (PRN)",
+"company": "UVA Health",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=023012531f04fdaf",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://fa-euzb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/7621",
+"part_time": true
+},
+{
+"title": "Semiconductor Photonics Test & Reliability Specialist",
+"company": "ElectroPhotonic-IC",
+"location": "Halifax, NS, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=d3c4a76064e7940d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/semiconductor-photonics-test-reliability-specialist-d3c4a76064e7940d"
+},
+{
+"title": "Salesforce Software Engineer",
+"company": "Contract Services Administration Trust Fund",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=4266810ed1388993",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=086fe5a7-d7df-4f17-94af-63b9a6c053da&ccId=19000101_000001&jobId=562079&source=IN&lang=en_US"
+},
+{
+"title": "Title Software Customer Service Representative",
+"company": "AccuTitle LLC",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=5976ec5b596b8ec4",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/title-software-customer-service-representative-5976ec5b596b8ec4"
+},
+{
+"title": "IT Service Engineer - Warehouse Automation",
+"company": "SSI SCHÄFER",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=18676c9e69970472",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c61fde4-033c-488f-81a2-aa5c11dbb9c4&ccId=19000101_000001&jobId=560206&source=IN&lang=en_US"
+},
+{
+"title": "Digital Technology Consultant - Performance Monitoring",
+"company": "Brown and Caldwell",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=a281fc4332a04fa7",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://recruiting2.ultipro.com/BRO1018BRACA/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=ae7d8a5a-1ac1-43fb-a3db-de89ba8e9bce&postingId=ae202d39-6daa-48eb-b0e0-54b8988c07b5"
+},
+{
+"title": "Product Systems Analyst",
+"company": "Stearns Bank NA",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=e8374aa9507caf9e",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbc61a9e-850d-4133-ba7a-16f730256632&ccId=19000101_000001&jobId=573427&source=IN&lang=en_US"
+},
+{
+"title": "Applications Analyst - Pharmacist",
+"company": "Avera Health",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=b7f660b75e634879",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Applications-Analyst---Pharmacist_R-260031639"
+},
+{
+"title": "Python/AI Developer",
+"company": "Citi",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=27c2871d286198ff",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://jobs.citi.com/job/tampa/python-ai-developer/287/103573083104"
+},
+{
+"title": "Production Quality Assurance Technician",
+"company": "Oxygen8 Solutions Inc",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=577c98c803944aae",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://grnh.se/rqm7jr5p9us"
+},
+{
+"title": "Control Systems Engineer II",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=690203eed51912cf",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://ats.rippling.com/smarttech/jobs/101855aa-3ce5-42fa-bd20-d4d401c235dc?jobSite=Indeed"
+},
+{
+"title": "Research Scientist II",
+"company": "Spring Health",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=f0cd186ef3fe61b2",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/a3a2e826-7709-4fb9-af54-bcd264a56bbf?utm_source=n0GE98Wz5m"
+},
+{
+"title": "Quality Control Technician-1",
+"company": "ABB",
+"location": "Saint-Laurent, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b651d8d1c52a2634",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://abb.wd3.myworkdayjobs.com/en-CA/External_Career_Page/job/Saint-Laurent-Quebec-Canada/Quality-Control-Technician-1_JR00054226?source=Indeed",
+"french": true
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -14959,6 +15311,167 @@
 "years": null
 },
 {
+"title": "Business System Analyst",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=7a5ec585c238d77e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.manulife.com/global/en/job/JR26110505/Business-System-Analyst"
+},
+{
+"title": "Data Engineer (Snowflake, Azure Data Factory, Python & SQL)",
+"company": "Cognizant",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4458304201",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer II, WW Promotions Data and Insights",
+"company": "Amazon",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492707172",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Integration Specialist - UW Analytics",
+"company": "Co-operators Assurance et services financiers",
+"location": "Laval, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491890820",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Streaming Data Engineer",
+"company": "PLATO",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492720069",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieure ou ingénieur, Plateforme de données",
+"company": "BRP",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4484492807",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer- Silver Conversions and Scheduling",
+"company": "PLATO",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492719070",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(-euse), ServiceNow- FR",
+"company": "La Caisse (Caisse de dépôt et placement du Québec)",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492194175",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack /Eval & QA Engineer",
+"company": "Maximizer",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492182499",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Specialist (DevOps)",
+"company": "TEKFORTUNE INC",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492724167",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Agentic AI & DevOps Automation Engineer - Robotics Data Platform, Kitchener, ON",
+"company": "Siemens",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4449361375",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Analyst",
+"company": "Trans Mountain",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492195209",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Insights Data Developer",
+"company": "Cencora",
+"location": "Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4482571218",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel·le BI",
+"company": "ACENSI",
+"location": "Urban agglomeration of Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492502631",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Migration Specialist (ETL/SSIS, Data Mapping)",
+"company": "FNZ",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491366177",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur de données intermédiaire – Microsoft Fabric / Azure / SQL / Python",
+"company": "Systematix",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492165373",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -24065,6 +24578,17 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Infrastructure Engineer",
+"company": "Manor Independent School District",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=019cf2177fc32778",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.SchoolSpring.com/jobdetail?jobId=5997694"
 },
 {
 "title": "Presales Solutions Engineer, GRC",
