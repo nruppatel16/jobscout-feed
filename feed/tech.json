@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T19:11:10+00:00",
+"updated": "2026-11-20T19:21:10+00:00",
 "jobs": [
 {
 "title": "Software Engineer 3",
@@ -2414,8 +2414,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50770594",
 "source": "Job Bank",
 "country": "CA",
-"years": 1,
-"french": true
+"years": 1
 },
 {
 "title": "Library Technician, LLC Web Support & Outreach",
@@ -2648,6 +2647,303 @@
 "country": "CA",
 "years": null,
 "apply": "https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/CALGARY-CAN/Account-Support-Analyst---Calgary--AB_R1154895"
+},
+{
+"title": "Transit Data Analyst (MA I)",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=dc7497b351a6812d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56470&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Strategic Business Analyst",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=a96eee498dc69d49",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=55643&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Intern Hardware",
+"company": "ecobee Technologies ULC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=314ccff2a8b76a90",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://generac.wd5.myworkdayjobs.com/External/job/Toronto-Canada/Intern-Hardware_JR17325"
+},
+{
+"title": "BOARD OFFICE - 1.0 Information Services Support Technician",
+"company": "Louis Riel School Division",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=660fc8c76d304e0b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apps.lrsd.net/JobPostings/656C26-1.0-ISSupportTechnician-NorberryBoardOffice.pdf"
+},
+{
+"title": "Murex Application Support Engineer - Bonds",
+"company": "FDM Group",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=468c1a8b06c5159b",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.fdmgroup.com/vacancies/3385/murex-application-support-engineer--bonds.html"
+},
+{
+"title": "Dental Software Technical Support",
+"company": "Lasalle Dental Clinic",
+"location": "Windsor, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1419c48161bd905a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/dental-software-technical-support-1419c48161bd905a"
+},
+{
+"title": "Field Service Technician - UL (Multiple Locations)",
+"company": "Battlefield Equipment Rentals",
+"location": "Dartmouth, NS, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1f1d370de2507c60",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruiting.ultipro.ca/TOR5001TIL/JobBoard/32be29ef-2204-47a4-a0cc-a8aed97783ec/OpportunityDetail?opportunityId=6063f8ca-5abc-4be6-bfcf-8dee6fd38142&postingId=3b3f8ba5-334c-43f2-9eb3-533131b6c23e"
+},
+{
+"title": "Scrum master",
+"company": "Groupe CIS",
+"location": "Saint-Jérôme, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=65e1c836f3a5dcd5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/scrum-master-65e1c836f3a5dcd5",
+"french": true
+},
+{
+"title": "Exposure and Threat Analyst",
+"company": "TMX GROUP",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=db08cf1ec856d4a4",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Exposure-and-Threat-Analyst_R-6679"
+},
+{
+"title": "Applications Engineer, Coiled Tubing",
+"company": "Baker Hughes",
+"location": "Mount Pearl, NL, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=02f6d522d6275be7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR171164EXTERNALENGLOBAL/Applications-Engineer-Coiled-Tubing?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Operations Analyst, Mutual Funds",
+"company": "Aviso",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=a5ca99bea78a3503",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/86D72F450D"
+},
+{
+"title": "EHR Application Analyst",
+"company": "Rochester Regional Health",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=39f2f56ef3027d32",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/EHR-Application-Analyst_REQ_243793",
+"part_time": true
+},
+{
+"title": "Technical sales specialist",
+"company": "OPEN CONNECTION",
+"location": "Nanaimo, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50770637",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "IT Help Desk Specialist - Part Time",
+"company": "Questeq",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=142eaaf05518c225",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/67B83823B5DB22BBB392A90580F0441F/jobs/401976?source=Indeed",
+"part_time": true
+},
+{
+"title": "Junior ServiceNow Developer (CSM Specialist)",
+"company": "SV Consulting Services",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=9bb40ccd7bb40627",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/junior-servicenow-developer-csm-specialist-9bb40ccd7bb40627"
+},
+{
+"title": "Electric appliance service technician",
+"company": "Machines à Coudre Pénélope",
+"location": "Saint-Hubert, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50770684",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Property administrator",
+"company": "Metro Vancouver",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50770647",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Learning Technology Support Specialist",
+"company": "Kaleidoscope Learning",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=ecb56a3483132e37",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/learning-technology-support-specialist-ecb56a3483132e37"
+},
+{
+"title": "AI Engineer",
+"company": "Catch Creation, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=7eb4877ab8c79e04",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://grnh.se/txc8lm3x9us"
+},
+{
+"title": "Informations Systems Security Engineer",
+"company": "Sparibis",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=03526ac86f4ce3d9",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://sparibis.applicantstack.com/x/detail/a2c7hhkkx1b5/aaac"
+},
+{
+"title": "Operations Analyst, Mutual Funds",
+"company": "Aviso",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=5474198bfcde9a2b",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/AF1FA692C0"
+},
+{
+"title": "Développeur(euse) logiciel",
+"company": "Promutuel Assurance",
+"location": "Longueuil, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=d6d1d0441cb10eff",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://promutuel.wd3.myworkdayjobs.com/promutuel_carrieres/job/Qubec-Boul-Lebourgneuf/Dveloppeur-euse--logiciel_R-0000001555"
+},
+{
+"title": "Security Officer",
+"company": "South Beach Casino & Resort",
+"location": "Scanterbury, MB, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=a47afe1fd23fca9a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/security-officer-a47afe1fd23fca9a"
+},
+{
+"title": "Oncology Data Specialist Certified",
+"company": "Banner Health",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=5b1f31beae8f711d",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Oncology-Data-Specialist-Certified_R4459259"
+},
+{
+"title": "Quality Assurance Specialist",
+"company": "Peter Brasseler Holdings",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=15fb0eed8374535a",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://henryschein.wd1.myworkdayjobs.com/nl-NL/External_Careers/job/Savannah---Georgia/Quality-Assurance-Specialist_R135982"
+},
+{
+"title": "Health System Specialist",
+"company": "US Military Treatment Facilities under DHA",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=606d5a13dfeec3e8",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893630000"
+},
+{
+"title": "Seasonal - Tree Planting Technician",
+"company": "TOWN OF OAKVILLE",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=fbee0ca03104331d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=TOWNOFOA&cws=43&rid=4816"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -5553,7 +5849,7 @@
 "apply": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000162540103-application-engineering-associate"
 },
 {
-"title": "Développeur(-euse)",
+"title": "Développeur(-euse), ServiceNow",
 "company": "Caisse de dépôt et placement du Québec",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-19",
@@ -6550,7 +6846,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://career17.sapsf.com/career?career%5fns=job%5flisting&company=Cameco&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=42739&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=sAPlS%2fLHGg1kLTp%2b6ckUfrHRkp9jj9%2f%2bgL5bS3ZAUQY%3d"
+"apply": "https://career17.sapsf.com/career?career%5fns=job%5flisting&company=Cameco&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=42739&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=q2mDs5SpL8pSvPwYPTCPKOT%2fCjbNW18%2fe9frBxnNe34%3d"
 },
 {
 "title": "Reliability, Engineer In Training",
@@ -13270,6 +13566,177 @@
 "location": "Concord, Ontario, Canada",
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4482563491",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Installation Technician",
+"company": "PRIORITY COMMUNICATION SYSTEMS LTD.",
+"location": "Kelowna, BC, CA (remote)",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=d7ef7cf83d5ca708",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/installation-technician-d7ef7cf83d5ca708"
+},
+{
+"title": "GenAI Developer",
+"company": "Iris Software Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492156593",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste, Gouvernance, Cyber Risque et Conformité",
+"company": "Boralex Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491443479",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Risk Management Officer",
+"company": "BNP Paribas",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4474485170",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, Integrated Management System",
+"company": "WSP in Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4438018630",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, Integrated Management System",
+"company": "WSP in Canada",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4438015662",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Automation Engineer",
+"company": "T2 Systems",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4484706872",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "OTT platform tester",
+"company": "Ampstek",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492171461",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer",
+"company": "Euna Solutions",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492476896",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Audio Software Engineer - EA SPORTS™ NHL",
+"company": "EA SPORTS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4460403014",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4476909572",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Guidewire Developer",
+"company": "MSR Technology Group",
+"location": "Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492182563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SCADA/OT System Integrator",
+"company": "City of Ottawa / Ville d’Ottawa",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4488165956",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Services District Support Technician - Corporate",
+"company": "Bird Construction",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4476911137",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst II, OPL – Personal Lines",
+"company": "Intact",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4484105959",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst - Data Warehouse & Business Intelligence",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4482564832",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "I&IT Business Analyst",
+"company": "Metrolinx",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492178807",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -22341,6 +22808,17 @@
 "years": null
 },
 {
+"title": "Yard Technician",
+"company": "Amrize",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=6973bcea84d7ccd6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.amrize.com/amrize/job/Richmond-Yard-Technician-Brit-V6W-1H4/1452046300/"
+},
+{
 "title": "Presales Solutions Engineer, GRC",
 "company": "Secureframe",
 "location": "Remote · United States",
@@ -22517,6 +22995,16 @@
 "location": "Dorval, Québec, CA, H4S 1Y9",
 "posted": "2026-11-18T02:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Customer-Services-Technical-Services-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1449627833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, EcoJet - Technology Development Test Integration - Flight Control (Winter 2027)",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-11-18T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-EcoJet-Technology-Development-Test-Integration-Flight-Control-%28Winter-2027%29-Qu%C3%A9b-H4S-2A9/1439812433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers",
 "country": "CA",
 "years": null
