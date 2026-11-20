@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T23:11:49+00:00",
+"updated": "2026-11-20T23:21:49+00:00",
 "jobs": [
 {
 "title": "Solutions Engineer - Ads Product & Innovation",
@@ -2147,7 +2147,7 @@
 "apply": "http://ca.indeed.com/job/robotics-coding-instructor-90864cb2097b4205"
 },
 {
-"title": "Process Technician",
+"title": "Process Technician - Night Shift",
 "company": "PPG",
 "location": "Cambridge, ON, CA",
 "posted": "2026-11-20",
@@ -2155,7 +2155,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://careers.ppg.com/us/en/job/PIIPIIUSJR2614707EXTERNALENUS/Process-Technician?utm_source=indeed&utm_medium=phenom-feeds"
+"apply": "https://careers.ppg.com/us/en/job/PIIPIIUSJR2614707EXTERNALENUS/Process-Technician-Night-Shift?utm_source=indeed&utm_medium=phenom-feeds"
 },
 {
 "title": "Lifecycle Data Capabilities Analyst",
@@ -5024,6 +5024,346 @@
 "country": "US",
 "years": 4,
 "apply": "https://recruiting2.ultipro.com/QTC1000QTC/JobBoard/401507f4-5ffa-4c84-b89c-0ebfae8d9292/OpportunityDetail?opportunityId=2046d07b-2280-4469-ad3e-df6620dd2262&postingId=54ca9dc5-a258-4e16-b5dc-490c2c3f446b"
+},
+{
+"title": "Développeur en IA appliquée et automatisation – Ingénierie",
+"company": "Venmar Ventilation",
+"location": "Drummondville, QC, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=2aef55afaa515d6e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://nortekinc.wd503.myworkdayjobs.com/Broan-NuTone/job/Drummondville-Quebec/Dveloppeur-en-IA-applique-et-automatisation---Ingnierie_JR101428",
+"french": true
+},
+{
+"title": "Junior Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-20",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Software Developer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-20",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en informatique - Administration de systèmes et de plateformes",
+"company": "Loto-Québec",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=fab3448ea3a91c52",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://carrieres.lotoquebec.com/tous-les-emplois/09547"
+},
+{
+"title": "Intern, DevOps - Stagiaire, DevOps",
+"company": "Autodesk",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=3f303ad42fbc11ef",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.autodesk.com/careers/job/1443154637901"
+},
+{
+"title": "QA Lab Technician (9-month Temporary)",
+"company": "Mark Anthony Group",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1bb4e0de986d7ed6",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruiting2.ultipro.com/MAR5000MAG/JobBoard/8febf0ae-8776-428e-b625-2faa005b7fc1/OpportunityDetail?opportunityId=be882f4b-acec-44d7-a226-2aefa1db42e5&postingId=204d0f90-51fe-419f-90ae-a25c02e1d7ef"
+},
+{
+"title": "Quality Technician",
+"company": "East Coast Wild Blueberry",
+"location": "Glenholme, NS, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=955a593826660015",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/quality-technician-955a593826660015"
+},
+{
+"title": "Quality Engineer I, QA Systems",
+"company": "Baxter",
+"location": "Alliston, Ontario",
+"posted": "2026-11-20",
+"link": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Alliston-Ontario/Quality-Engineer-I--QA-Systems_JR-212007-1",
+"source": "Baxter careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Specialist (18-Month Maternity Leave Coverage)",
+"company": "Baxter",
+"location": "Mississauga, Ontario",
+"posted": "2026-11-20",
+"link": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Mississauga-Ontario/Technical-Support-Specialist--18-Month-Maternity-Leave-Coverage-_JR-211460-1",
+"source": "Baxter careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Controls Programmer / PLC Specialist",
+"company": "AIS Technologies Group",
+"location": "Oldcastle, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=d10ce4a19f3881bd",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/controls-programmer-plc-specialist-d10ce4a19f3881bd"
+},
+{
+"title": "Computer department coordinator",
+"company": "Topologic informatique inc.",
+"location": "Portneuf, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50771945",
+"source": "Job Bank",
+"country": "CA",
+"years": null,
+"french": true
+},
+{
+"title": "Service Technician",
+"company": "Western Tractor",
+"location": "Burdett, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=4443c66c21e0a76a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://westerntractor.zohorecruit.com/jobs/Careers/755733000005027043/Service-Technician?source=Indeed"
+},
+{
+"title": "Electrcial / Computer Engineer",
+"company": "Zerosound Systems Inc.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=6b258b86c610720d",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/electrcial-computer-engineer-6b258b86c610720d"
+},
+{
+"title": "Records Management Technician",
+"company": "City of Saskatoon, SK",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=7fcbbee17d92ef41",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.saskatoon.ca/job/Saskatoon-Records-Management-Technician-SK/608252217/"
+},
+{
+"title": "Spécialiste de la Qualité et Support Technique 1",
+"company": "Elopak",
+"location": "Boisbriand, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=5e921a43f11e84b0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career.elopak.com/job/Sp%C3%A9cialiste-de-la-Qualit%C3%A9-et-Support-Technique-1/931-fr_FR"
+},
+{
+"title": "Cloud Security Engineer",
+"company": "CSG",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=5cd0ab90d000f1dc",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://csgi.wd5.myworkdayjobs.com/en-US/CSGCareers/job/United-States-Remote/Cloud-Security-Engineer_32536"
+},
+{
+"title": "Business Analyst",
+"company": "Zoll Medical Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=74bf28bc231f657f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Atlanta-GA/Business-Analyst_R20940"
+},
+{
+"title": "Entry Level Business Analyst",
+"company": "Dhatronictech",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=16a85575313c8ef1",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "http://www.indeed.com/job/entry-level-business-analyst-16a85575313c8ef1"
+},
+{
+"title": "Remote Business Solutions Engineer – Provider Data Management",
+"company": "Alignment Health",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=6b6d176896f3fd5a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://alignmenthealthcare.wd12.myworkdayjobs.com/ahc_external/job/Anywhere-in-the-US/Remote-Business-Solutions-Engineer---Provider-Data-Management_R2806-1"
+},
+{
+"title": "Information Security Analyst II",
+"company": "CSG",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=a7f128f760d9c32f",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://csgi.wd5.myworkdayjobs.com/en-US/CSGCareers/job/United-States-Remote/Information-Security-Analyst-II_32434"
+},
+{
+"title": "SAP SuccessFactors/UKG Payroll Technical Systems Analyst",
+"company": "Wahl Clipper Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=a274bea159d59d94",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://wahl.aaimtrack.com/jobs/1342234-117942.html"
+},
+{
+"title": "Field Service Technician",
+"company": "Toshiba Global Commerce Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=c1a4a2b77d11ba94",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://grnh.se/801jr6of7us"
+},
+{
+"title": "Project Engineer l",
+"company": "DHL eCommerce",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=48a6fdbbcdc03a68",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://phg.tbe.taleo.net/phg03/ats/careers/v2/viewRequisition?org=DHLECOMMERCE&cws=43&rid=11160"
+},
+{
+"title": "Security Project Specialist 1",
+"company": "Convergint",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=fb44663dbdea8faf",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://convergint.wd501.myworkdayjobs.com/Gbl/job/US-CO-Centennial/Security-Project-Specialist-1_R-1077"
+},
+{
+"title": "Service Technician (Part-Time)",
+"company": "Sporting Life",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=02b84bc7e69f1a03",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-CA/slg001/SLCareers/jobs/10479",
+"part_time": true
+},
+{
+"title": "Cybersecurity Analyst - OT",
+"company": "North Texas Municipal Water District",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=992417d590a234de",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://ntmwd.wd501.myworkdayjobs.com/NTMWD/job/Wylie-TX/Cybersecurity-Analyst---OT_JR100092"
+},
+{
+"title": "Cybersecurity Analyst",
+"company": "Comrade Consulting",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=ff6717d41459524f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://comradeconsulting.com/careers/#"
+},
+{
+"title": "Surgical Tech (PRN)",
+"company": "University of Virginia",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=4c9bf196357ac8ff",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.uvahealth.org/us/en/job/7621",
+"part_time": true
+},
+{
+"title": "IT Specialty Analyst",
+"company": "Sentara",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=b15de4ac177f8c90",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Virginia-Beach-VA/IT-Specialty-Analyst_JR-109213-1"
+},
+{
+"title": "Operations Administrator",
+"company": "Government Of Alberta",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=d8e136000fc0a8a9",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobpostings.alberta.ca/job/Edmonton-Operations-Administrator/608248017/"
+},
+{
+"title": "Technical Project Coordinator",
+"company": "Connect Group",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=0ba814fdf550db98",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-project-coordinator-0ba814fdf550db98"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -16799,6 +17139,116 @@
 "years": null
 },
 {
+"title": "Test Automation Specialist, AI & Quality Engineering",
+"company": "PLATO",
+"location": "Fredericton, New Brunswick, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492720068",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer in Test II (Backend)",
+"company": "Motorola Solutions",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492724705",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Tester",
+"company": "Ampstek",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492172225",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur test logiciel",
+"company": "CS GROUP",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492734179",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Tester",
+"company": "Vertisystem (A MOURI Tech Company)",
+"location": "Moncton, New Brunswick, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492717908",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "3DEXPERIENCE DevOps Specialist",
+"company": "Techso",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492735545",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste DevOps 3DEXPERIENCE",
+"company": "Techso",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492752076",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Specialist - Kubernetes (35700)",
+"company": "Myticas Consulting",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492505881",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst (Hybrid)",
+"company": "Tru Cooperative Bank",
+"location": "Langley, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492506751",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Capital Markets Business Analyst",
+"company": "Bridgenext",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4468944466",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste DevOps / Plateforme infonuagique (Azure ou AWS)",
+"company": "Wepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492195008",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -20070,17 +20520,6 @@
 "apply": "https://sinopec.bamboohr.com/careers/129?source=indeed&src=indeed&postedDate=2026-11-19"
 },
 {
-"title": "Solutions Engineering & Introduction - New Grad",
-"company": "Ciena",
-"location": "Ottawa, ON, CA (remote)",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=3912ff4eaf1a31ab",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Solutions-Engineering---Introduction---New-Grad_R032118"
-},
-{
 "title": "Municipal Engineer-in-Training",
 "company": "KGS Group",
 "location": "Winnipeg, MB, CA",
@@ -21951,7 +22390,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://apps.hr.cornell.edu/recruiting/externalview.cfm?posting_id=_JOB_POSTING-3-112884&wdurl=https://jobs.hr.cornell.edu/us/en/job/WDR-00062278"
+"apply": "https://apps.hr.cornell.edu/recruiting/externalview.cfm?posting_id=_JOB_POSTING-3-112932&wdurl=https://jobs.hr.cornell.edu/us/en/job/WDR-00062278"
 },
 {
 "title": "RWE Data Scientist (OMOP) / Clinical Data Analyst",
@@ -25934,6 +26373,36 @@
 "posted": "2026-11-18",
 "link": "https://www.linkedin.com/jobs/view/4492223672",
 "source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Engineering & Introduction - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-18",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Solutions-Engineering---Introduction---New-Grad_R032118",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Hardware Engineer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-18",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "ASIC Engineer Intern",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-18",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
+"source": "Ciena careers",
 "country": "CA",
 "years": null
 },
