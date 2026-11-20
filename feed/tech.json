@@ -1,6 +1,26 @@
 {
-"updated": "2026-11-20T20:41:09+00:00",
+"updated": "2026-11-20T20:51:10+00:00",
 "jobs": [
+{
+"title": "Cloud Data Infrastructure Engineer",
+"company": "ClickHouse",
+"location": "Canada",
+"posted": "2026-11-20T20:45:19.647+00:00",
+"link": "https://jobs.ashbyhq.com/clickhouse/b8799d90-9d53-40c7-be9b-6fb9cc061be0",
+"source": "ClickHouse careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "IT Auditor",
+"company": "Snowflake",
+"location": "Remote · United States",
+"posted": "2026-11-20T20:40:36.601+00:00",
+"link": "https://jobs.ashbyhq.com/snowflake/e5806abe-d416-4dae-b086-88a519a4bc62",
+"source": "Snowflake careers",
+"country": "US",
+"years": 3
+},
 {
 "title": "Release Strategist, Professional Services",
 "company": "LaunchDarkly",
@@ -1414,7 +1434,7 @@
 "apply": "https://api17.sapsf.com/career?company=metro&career_ns=job_listing&career_job_req_id=50183&lang=fr_CA&jobPipeline=Indeed"
 },
 {
-"title": "GTM AI Engineer",
+"title": "AI Engineer",
 "company": "Trexo Robotics",
 "location": "Mississauga, ON, CA",
 "posted": "2026-11-20",
@@ -3240,8 +3260,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50770807",
 "source": "Job Bank",
 "country": "CA",
-"years": 5,
-"french": true
+"years": 5
 },
 {
 "title": "IT Infrastructure Analyst",
@@ -3341,6 +3360,375 @@
 "country": "CA",
 "years": 1,
 "apply": "http://ca.indeed.com/job/employment-integration-specialist-maternity-leave-full-time-102b9ca7fa3fe70b"
+},
+{
+"title": "Administrator (Support & Operations)",
+"company": "HCLTech",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=80ab710ef9d9a4b6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=194969&lang=en_US&jobPipeline=Indeed"
+},
+{
+"title": "Technical Support Specialist",
+"company": "ASSA ABLOY Group",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=8e92a1d98e1cda39",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://assaabloy.jobs2web.com/job/Mississauga-Technical-Support-Specialist-ON-L5R-3K2/1459388533/"
+},
+{
+"title": "Bilingual IS Help Desk Specialist",
+"company": "Giant Tiger",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=36eee36dbdbfd598",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gianttiger.wd3.myworkdayjobs.com/fr-CA/GiantTiger/job/Ottawa-Home-Office-Ontario-Canada/Bilingual-IS-Help-Desk-Specialist_JR134356",
+"french": true
+},
+{
+"title": "CRM Administrator",
+"company": "Paramount Properties",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=da8630d830e60fd1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/crm-administrator-da8630d830e60fd1"
+},
+{
+"title": "Consultant(e) Fonctionnel(le) CRM/ERP",
+"company": "Devpresso Consulting Inc",
+"location": "Laval, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1b82f27b8b4ea6d9",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/consultante-fonctionnelle-crmerp-1b82f27b8b4ea6d9"
+},
+{
+"title": "Intermediate Full-Stack Software Developer - Remote/Hybrid (Canada)",
+"company": "Infotech",
+"location": "London, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b5ee05682e926405",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://recruiting.ultipro.ca/INF5000IFTC/JobBoard/2526a5be-e33e-4de9-90ae-3b23d42b9441/OpportunityDetail?opportunityId=7342bcff-de68-4f31-bcd8-7b1e605993ca&postingId=6f38481c-d0d3-41d5-aba1-944671077324"
+},
+{
+"title": "Software Developer Intern",
+"company": "TAIT",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=2fc8a3db562f8e36",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.taittowers.com/en/jobs/18503479-software-developer-intern?tm_job=3971&tm_event=view&tm_company=92544"
+},
+{
+"title": "Quality Assurance Specialist (Survey Plan Checker)",
+"company": "Caltech BC Land Surveying Inc.",
+"location": "Remote, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b5b440852d9095df",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/quality-assurance-specialist-survey-plan-checker-b5b440852d9095df"
+},
+{
+"title": "JAVA BACKEND DEVELOPER REMOTE 1016",
+"company": "Veracity Ventures Inc.",
+"location": "CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1a34b03893609e6a",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://veracity-ventures-inc.careerplug.com/j/037mbdz"
+},
+{
+"title": "SME - Azure DevOps, Terraform",
+"company": "HCLTech",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=c5f256ec158a9e0c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=196014&lang=en_US&jobPipeline=Indeed"
+},
+{
+"title": "Développeur Power BI",
+"company": "CGI",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=9d9baa840b72c73a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1733&BRID=1351443&sbdid=936&lang=2"
+},
+{
+"title": "ESDC Design Coordinator - Kiewit Infrastructure Engineers",
+"company": "Kiewit Corporation",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=bbb324c8c2d5ce98",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://kiewitcareers.kiewit.com/job/Toronto-ESDC-Design-Coordinator-Kiewit-Infrastructure-Engineers-ON/1452723000/"
+},
+{
+"title": "Research Technician - Genotyping",
+"company": "Western University",
+"location": "London, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=e1ffed26a4b7aa40",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=45173&SiteId=1&PostingSeq=1"
+},
+{
+"title": "C# .NET / Angular Developer",
+"company": "NTT DATA",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=d0b8e6e2a35bdfe3",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=vtjdnw5v1z1v2psgylbu76nbkkhb0y080epfxtsjq71b065808wxj6cim4ud5upr&SearchString=&StatesString=&source=indeed.com&id=33659462&compid=-1"
+},
+{
+"title": "Project Onboarding & Training Coordinator",
+"company": "Trans Mountain Corporation Inc.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=435b53246f17a261",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.transmountain.com/job/Calgary-Project-Onboarding-&-Training-Coordinator-%28Contract%29-Albe/1291781747/"
+},
+{
+"title": "Technical Support Specialist",
+"company": "PAR Technology",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=9e47e2d4647df811",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.ashbyhq.com/PAR%20Technology/1ca8d13b-fa4c-430e-866d-5d8aac30a210?utm_source=X8m9D5p0n4"
+},
+{
+"title": "Professional, Product Support",
+"company": "JLL",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=3fe90b2de382be66",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://click.appcast.io/t/KXOhbpjqOjnjzcrzdUGk-OraeVdX3rqUqeEdkbj7i5c="
+},
+{
+"title": "Freedom Boat Club - Systems Support Coordinator",
+"company": "Brunswick",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=8b9701bae11467ae",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Venice-FL/Freedom-Boat-Club---Systems-Support-Coordinator_JR-052189"
+},
+{
+"title": "Analyste en exploitation et support bureautique junior",
+"company": "Groupe Tehora",
+"location": "Lévis, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=4c48b0020a47f1a3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.workable.com/j/8255482ACB",
+"french": true
+},
+{
+"title": "Analyste en exploitation et support bureautique sénior",
+"company": "Groupe Tehora",
+"location": "Lévis, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=299959e4a55eba6d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.workable.com/j/56F30078A6",
+"french": true
+},
+{
+"title": "Rope access technician (RAT)",
+"company": "Toronto Window Cleaners",
+"location": "Thornhill, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50771166",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Analyste en exploitation et support bureautique junior",
+"company": "Groupe Tehora",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=a52a34c88272e7db",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.workable.com/j/FD9E220023",
+"french": true
+},
+{
+"title": "Analyste en exploitation et support bureautique sénior",
+"company": "Groupe Tehora",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=213a64c0bd1c736e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.workable.com/j/69D782E5D9",
+"french": true
+},
+{
+"title": "Product Support Specialist",
+"company": "Fidelity Canada",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=c59b1722f5f4ba13",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://fil.wd3.myworkdayjobs.com/en-US/fidelitycanada/job/Mississauga-Office/Product-Support-Specialist_J73596"
+},
+{
+"title": "Intern, Field Service Representative (8 Months) - Kitchener, Ontario",
+"company": "Eaton",
+"location": "Kitchener, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b384ac55c27c3b5d",
+"source": "Indeed",
+"country": "CA",
+"years": 0,
+"apply": "https://career41.sapsf.com/career?company=eatoncorpo&career_ns=job_listing&career_job_req_id=77637&lang=en_US&jobPipeline=Indeed"
+},
+{
+"title": "Business Intelligence Engineer (Azure / Fabric, Power BI)",
+"company": "Big Bolt",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=a2f39c0ede03e90e",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/business-intelligence-engineer-azure-fabric-power-bi-a2f39c0ede03e90e"
+},
+{
+"title": "Analyste en exploitation et support bureautique junior",
+"company": "Groupe Tehora",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=8ccb6c88eb83c500",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.workable.com/j/9281C9ECD5",
+"french": true
+},
+{
+"title": "Analyste en exploitation et support bureautique sénior",
+"company": "Groupe Tehora",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=f2a257532a307877",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.workable.com/j/61E8526BAE",
+"french": true
+},
+{
+"title": "Advanced Process Development Engineer",
+"company": "Saint-Gobain",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=ebb3d958c4605e87",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://joinus.saint-gobain.com/description?nPostingTargetId=331531&id=Q2FFK026203F3VBQBLO7V8M1O&LG=EN&languageSelect=EN&source=Indeed&sType=Indeed+Organic"
+},
+{
+"title": "Customer Success Engineer",
+"company": "Insycle",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=3fb9cfef4612c806",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.comeet.com/jobs/Insycle/D3.002/customer-success-engineer/78.57D?coref=1.11.p2E_DD13"
+},
+{
+"title": "FVP, Clearing Technology",
+"company": "Axos Bank",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=471966ca0ca8095f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Head-of-Clearing-Development_JR5827"
+},
+{
+"title": "TEN-M Cybersecurity Administrator",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=a0714a228c04fa0f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.gdit.com/careers/job/eb690a8fc/ten-m-cybersecurity-administrator/"
+},
+{
+"title": "Technical Writer",
+"company": "Axiom Consultants",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=c494ce852c95088a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.applicantpro.com/openings/axiomconsultants/jobs/4284776-499465"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -14410,6 +14798,167 @@
 "years": null
 },
 {
+"title": "Installation Technician",
+"company": "PRIORITY COMMUNICATION SYSTEMS LTD.",
+"location": "Victoria, BC, CA (remote)",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=ab7600b7cc0836f4",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/installation-technician-ab7600b7cc0836f4"
+},
+{
+"title": "Workday AMS Talent & Learning Consultant",
+"company": "Kainos",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4476794012",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IAM Analyst",
+"company": "Precision Technologies",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492516021",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste d'Affaires - Plateforme Web",
+"company": "Fidelio by Commsoft Technologies",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491644690",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System and Network Administrator",
+"company": "Robert Half",
+"location": "Newmarket, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492500827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrateur-trice Système et Cloud Azure",
+"company": "Maximiz",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492504386",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste de données, Intelligence d'affaires/Business Intelligence Data Analyst⚡",
+"company": "Nouveau Monde Graphite | NYSE: NMG + TSX: NOU",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4417207424",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Specialist - Permanent Full-Time (2026-247)",
+"company": "Collingwood General and Marine Hospital",
+"location": "Collingwood, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492712351",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Technology - Engineering - Software Engineering",
+"company": "EY",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491620990",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Dynamics CRM Developer",
+"company": "LeverageTek Staffing Solutions",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492440871",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "MS Power Platform Developer",
+"company": "Makwa Resourcing Inc.",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492472551",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Developer with AI Tools Experience",
+"company": "Tata Consultancy Services",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492196017",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Technician (Junior)",
+"company": "Levata",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4457619712",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT and AV Support Technician Backup / Backfill Resource",
+"company": "Sky Systems, Inc. (SkySys)",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492714162",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Assistant C - Bronfman Support du centre d'enseignement",
+"company": "McGill University",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491624851",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Supply Chain (Data Insights and Profitability), (Winter 2027)",
+"company": "Bombardier",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4477432801",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -23504,6 +24053,16 @@
 "posted": "2026-11-18",
 "link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Analyste-programmeur-ou-analyste-programmeuse--Support-oprationnel_R2614075-1",
 "source": "Desjardins careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicienne-analyste ou technicien-analyste en informatique (programmeur-analyste .net - dynamics 365)",
+"company": "Ville de Québec",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4492209526",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
