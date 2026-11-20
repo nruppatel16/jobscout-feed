@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-20T20:11:10+00:00",
+"updated": "2026-11-20T20:21:09+00:00",
 "jobs": [
+{
+"title": "Release Strategist, Professional Services",
+"company": "LaunchDarkly",
+"location": "Remote · United States",
+"posted": "2026-11-20T15:19:21-05:00",
+"link": "https://job-boards.greenhouse.io/launchdarkly/jobs/8210880003",
+"source": "LaunchDarkly careers",
+"country": "US",
+"years": null
+},
 {
 "title": "Software Engineer 3",
 "company": "MongoDB",
@@ -3201,6 +3211,138 @@
 "part_time": true
 },
 {
+"title": "Inbound Technical Support Representative",
+"company": "Sasktel",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1e4af0b1ec17f979",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.sasktel.com/job/Saskatoon%2C-SK-Inbound-Technical-Support-Representative-SK/608236917/"
+},
+{
+"title": "IT Support Technician",
+"company": "BAY FERRIES LIMITED",
+"location": "Saint John, NB, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=5936ae8afb9edf30",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gethired.com/job/it-support-technician-35?rcid=inply"
+},
+{
+"title": "Deskside support technician",
+"company": "La Vie en Rose",
+"location": "Montréal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50770807",
+"source": "Job Bank",
+"country": "CA",
+"years": 5,
+"french": true
+},
+{
+"title": "IT Infrastructure Analyst",
+"company": "Laboratoires CDL",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=0d4215d287ffa86e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/it-infrastructure-analyst-0d4215d287ffa86e",
+"french": true
+},
+{
+"title": "Patent Agent (Mid-Level) Hi Tech",
+"company": "Brion Raffoul",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=bff2cca80e965480",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/patent-agent-mid-level-hi-tech-bff2cca80e965480"
+},
+{
+"title": "Software Engineer, Front End",
+"company": "Veilant",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=d094f2b08ce2a25a",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.smartrecruiters.com/Veilant/744000162810248-software-engineer-front-end"
+},
+{
+"title": "Engineer Systems II (Non-Key)",
+"company": "People, Technology & Processes",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=6782b1c1172f1e8d",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/F22E334739B721BD200B05E79DC87DE5/jobs/303747?source=Indeed"
+},
+{
+"title": "Remote Quality Control & Data Analyst",
+"company": "Jackson & MacNichol",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=19721a1b71d48651",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/remote-quality-control-data-analyst-19721a1b71d48651"
+},
+{
+"title": "Data Scientist 2",
+"company": "Vanderbilt Health",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=a3a41d0af7103c19",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Data-Scientist-2_R-70879-2"
+},
+{
+"title": "Software Engineer",
+"company": "Optum",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=5a4250c79a5864a5",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2397674&lang=en"
+},
+{
+"title": "Front-end developer",
+"company": "Future Electronics",
+"location": "Kirkland, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50770814",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Employment Integration Specialist [Maternity Leave, Full Time]",
+"company": "Central Vancouver Island Multicultural Society",
+"location": "Nanaimo, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=102b9ca7fa3fe70b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/employment-integration-specialist-maternity-leave-full-time-102b9ca7fa3fe70b"
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -4552,7 +4694,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105_1001&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180eccee-e436-11f1-8316-8f9481ca9d62%26rx_job%3DR-0000193105_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T180422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105_1001&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180eccee-e436-11f1-8316-8f9481ca9d62%26rx_job%3DR-0000193105_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Recruitment Administrator",
@@ -4573,7 +4715,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1001&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e7d7d-e436-11f1-875f-8f9481ca9d62%26rx_job%3DR-0000193074_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T180422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1001&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e7d7d-e436-11f1-875f-8f9481ca9d62%26rx_job%3DR-0000193074_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -6815,7 +6957,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180ec0da-e436-11f1-bda4-8f9481ca9d62%26rx_job%3DR-0000193105%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T180422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180ec0da-e436-11f1-bda4-8f9481ca9d62%26rx_job%3DR-0000193105%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Technician, Customer Service",
@@ -8743,7 +8885,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105_1002&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180ed7fe-e436-11f1-823d-8f9481ca9d62%26rx_job%3DR-0000193105_1002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T180422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105_1002&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180ed7fe-e436-11f1-823d-8f9481ca9d62%26rx_job%3DR-0000193105_1002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Bilingual Client Implementation Officer",
@@ -8754,7 +8896,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1003&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e93cf-e436-11f1-98c5-8f9481ca9d62%26rx_job%3DR-0000193074_1003%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T180422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1003&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e93cf-e436-11f1-98c5-8f9481ca9d62%26rx_job%3DR-0000193074_1003%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -8972,7 +9114,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1002&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e88be-e436-11f1-9e80-8f9481ca9d62%26rx_job%3DR-0000193074_1002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T180422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1002&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e88be-e436-11f1-9e80-8f9481ca9d62%26rx_job%3DR-0000193074_1002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -9145,7 +9287,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e71d8-e436-11f1-a802-8f9481ca9d62%26rx_job%3DR-0000193074%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T180422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e71d8-e436-11f1-a802-8f9481ca9d62%26rx_job%3DR-0000193074%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -14108,6 +14250,166 @@
 "years": null
 },
 {
+"title": "Summer 2027 Intern, Software Engineering",
+"company": "Ryan",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4484528343",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Pioneer Tech Sales Intern",
+"company": "Vylor",
+"location": "Chatham, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4482547607",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist, Commercial Price Modelling",
+"company": "Aviva Canada",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4475498686",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist, Commercial Price Modelling",
+"company": "Aviva Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4475705564",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scientifique en intelligence artificielle",
+"company": "CGI",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492473157",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Test Automation Engineer (Python / Playwright / D365)",
+"company": "PLATO",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492714187",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Software Development Engineer in Test (SDET)",
+"company": "SOTI",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4484990408",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Validation testing",
+"company": "Ampstek",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492174346",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Test Engineer",
+"company": "Raas Infotek",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492713076",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "eTrading Full Stack Engineering - Network",
+"company": "HSBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4476359113",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "RF Optimization Engineer",
+"company": "ELITS",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492195597",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Functional Analyst - Banking Technology",
+"company": "EY",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4456518365",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) technique TI spécialiste",
+"company": "Intact",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4466595582",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Engineer (Software) Bilingual (English, Spanish)",
+"company": "Incognito Software Systems",
+"location": "British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492193848",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer",
+"company": "Randstad Digital",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492504217",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Infrastructure Scrum Master",
+"company": "Galent",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491654055",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -16484,7 +16786,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695580-2494-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695580-2494%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D739ca9a0-e458-11f1-8dfa-9d702fe06d74%26rx_job%3D200695580-2494-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T180423Z%26rx_vp%3Dcpc"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695580-2494-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695580-2494%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D739ca9a0-e458-11f1-8dfa-9d702fe06d74%26rx_job%3D200695580-2494-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc"
 },
 {
 "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
