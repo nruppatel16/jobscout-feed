@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-21T01:01:50+00:00",
+"updated": "2026-11-21T01:11:49+00:00",
 "jobs": [
 {
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
+"location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
-},
-{
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
 "title": "Business Analyst",
@@ -36,15 +25,46 @@
 "part_time": true
 },
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
-"location": "Remote · United States",
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
 "source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+},
+{
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Remote Canada",
+"posted": "2026-11-20T20:09:11-05:00",
+"link": "https://job-boards.greenhouse.io/affirm/jobs/8201471003",
+"source": "Affirm careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Remote · United States",
+"posted": "2026-11-20T20:09:09-05:00",
+"link": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+"source": "Affirm careers",
 "country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"years": null
 },
 {
 "title": "Personnel Security Officer",
