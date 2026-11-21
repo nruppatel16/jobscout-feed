@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T19:36:27+00:00",
+"updated": "2026-11-21T19:46:27+00:00",
 "jobs": [
 {
 "title": "Diagnostic imaging technologist",
@@ -665,6 +665,51 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/sales-support-coordinator-windows-doors-31f670b70168cc82"
+},
+{
+"title": "Tax Analysis Programmer 2, Canada Tax",
+"company": "Intuit",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=0e4593bd13e3685f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://dsp.prng.co/U6i0O5b"
+},
+{
+"title": "Trailer Technician 3d printer/web designer",
+"company": "Challenger Trailers",
+"location": "Esquimalt, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=9761d34ee333b699",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/trailer-technician-3d-printerweb-designer-9761d34ee333b699",
+"part_time": true
+},
+{
+"title": "Pega Business Analyst",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=d03688f155d3c1ad",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.gdit.com/careers/job/bc34d472b/pega-business-analyst/"
+},
+{
+"title": "Junior Data Scientist",
+"company": "Avail Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=d90f635a6eca695c",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://weavailsolutions.jobs.agile-ats.com/jobs/details/189"
 },
 {
 "title": "Spécialiste de la croissance des solutions de point de vente",
@@ -12882,6 +12927,276 @@
 "location": "Winnipeg, Manitoba, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492841041",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python Developer",
+"company": "Intellisoft Technologies",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492963401",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python + AI Engineer",
+"company": "Cognizant",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484865766",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python-PySpark Developer (CCD/C-CDA)",
+"company": "XChange Software Inc",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492594876",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Backend Engineer, LLMs and Autonomous Agents (R&D) - Canada",
+"company": "Ascend",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4410301295",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scientifique de données Implementation codification modeles",
+"company": "National Bank of Canada",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491699892",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Specialist, Software Engineering (D365 ERP)",
+"company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477491117",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer, Defensive Security",
+"company": "Clio",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4475428586",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Software Engineer",
+"company": "McAfee",
+"location": "Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484571491",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Platform Administrator/Developer",
+"company": "BBA Consultants",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476917380",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Platform Administrator/Developer",
+"company": "BBA Consultants",
+"location": "Boisbriand, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476915561",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Gestionnaire de relation d'affaires - Support",
+"company": "ALTEN Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491960261",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Information Systems Analyst (Winter 2027)",
+"company": "Bombardier",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477440632",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Asset Management Analyst",
+"company": "The Salvation Army in Canada",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492976031",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Systems Engineering",
+"company": "L3Harris Technologies",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492995061",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) SAP HCM",
+"company": "Wepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476206492",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Functional Lead, Dynamics 365 Commerce and Finance & Operations",
+"company": "Amicis Solutions",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492822886",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Maximo Integration Specialist",
+"company": "Informatic Technologies, Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491196418",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller.ère en implantation ERP",
+"company": "GROUPE CONCERTI INC",
+"location": "Laprairie, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492830496",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Implementation Analyst - Bilingual (English & Spanish)",
+"company": "MaintainX",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4449318352",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Pilote de la solution GIA Sailpoint",
+"company": "Wepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492813263",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Specialist",
+"company": "ProMach",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492824061",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ServiceNow ITOM Developer",
+"company": "Envision Technology Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492816283",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Directeur(trice) adjoint(e), Plateforme ServiceNow",
+"company": "iA Financial Group (Industrial Alliance)",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492965179",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Officer – Corporate Security",
+"company": "Aeolus Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492929899",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ServiceNow CMDB Consultant",
+"company": "TechNeptune Consulting Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491940243",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer , Device Privacy And Data Handling",
+"company": "Amazon",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477496339",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire, Chaîne d'approvisionnement (Analyse des Données et Rentabilité), (Hiver 2027)",
+"company": "Bombardier",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477448113",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -26669,6 +26984,16 @@
 "country": "CA",
 "years": null,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bdb7d3fc-4d65-4696-8f5b-625ae24d6a93&ccId=19000101_000001&jobId=567561&source=IN&lang=en_US"
+},
+{
+"title": "AI Engineer",
+"company": "TechMatrix Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492190919",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Software Engineer, Collections Infra",
