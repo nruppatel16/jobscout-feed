@@ -1,101 +1,38 @@
 {
-"updated": "2026-11-21T04:00:25+00:00",
+"updated": "2026-11-21T04:10:25+00:00",
 "jobs": [
 {
-"title": "Embedded Software Developer - New Grad",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-11-21",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "ASIC DFT Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-21",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "ASIC Product Design Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-21",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Architecte de solutions et analyste d’affaires – Cybersécurité",
-"company": "Xideral",
-"location": "Montréal, QC, CA (remote)",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=59cec66be96c89f3",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://xideral.recruiterbox.com/jobs/fk0zaui?fjb_hash=ezLpq610"
-},
-{
-"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
-"company": "Northwestern Medicine",
+"title": "Robot Learning Engineer, Sim-to-Real",
+"company": "",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
+"link": "https://www.indeed.com/viewjob?jk=5419acdfb564a846",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+"years": null,
+"apply": "https://join.com/companies/wintermeyer-venturescom/16973093-robot-learning-engineer-sim-to-real?pid=a13795120131dbe48464"
 },
 {
-"title": "Instructor - Programming and Robotics (In Person)",
-"company": "Ultimate Coders",
-"location": "Toronto, ON, CA",
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"link": "https://ca.indeed.com/viewjob?jk=b8146baedb3a97e1",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+"apply": "https://grnh.se/u7np9g0a3us"
 },
 {
-"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
-"company": "Karmakarah Technologies Inc.",
-"location": "Windsor, ON, CA",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
+"location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
-},
-{
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
-},
-{
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
 "title": "Business Analyst",
@@ -110,37 +47,100 @@
 "part_time": true
 },
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
-"location": "Remote · United States",
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
 "source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
 },
 {
-"title": "Software Engineer I, Backend (Streaming Infra)",
-"company": "Affirm",
-"location": "Toronto, ON, CA (remote)",
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=b8146baedb3a97e1",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
+"company": "Karmakarah Technologies Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://grnh.se/u7np9g0a3us"
+"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
 },
 {
-"title": "Robot Learning Engineer, Sim-to-Real",
-"company": "",
+"title": "Instructor - Programming and Robotics (In Person)",
+"company": "Ultimate Coders",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+},
+{
+"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
+"company": "Northwestern Medicine",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=5419acdfb564a846",
+"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
 "source": "Indeed",
 "country": "US",
+"years": 4,
+"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+},
+{
+"title": "Architecte de solutions et analyste d’affaires – Cybersécurité",
+"company": "Xideral",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=59cec66be96c89f3",
+"source": "Indeed",
+"country": "CA",
 "years": null,
-"apply": "https://join.com/companies/wintermeyer-venturescom/16973093-robot-learning-engineer-sim-to-real?pid=a13795120131dbe48464"
+"apply": "https://xideral.recruiterbox.com/jobs/fk0zaui?fjb_hash=ezLpq610"
+},
+{
+"title": "ASIC Product Design Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "ASIC DFT Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Embedded Software Developer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-21",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Intern, Customer Services - Technical Services (Winter 2027)",
@@ -7203,6 +7203,36 @@
 "part_time": true
 },
 {
+"title": "Enterprise Account Executive, Tableau",
+"company": "Salesforce",
+"location": "2 Locations, Canada",
+"posted": "2026-11-20",
+"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto-Metro---Remote/Enterprise-Account-Executive--Tableau_JR369041-1",
+"source": "Salesforce careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Informatica Cloud Account Executive, MDM",
+"company": "Salesforce",
+"location": "2 Locations, Canada",
+"posted": "2026-11-20",
+"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Montreal/Informatica-Cloud-Account-Executive--MDM_JR365287",
+"source": "Salesforce careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
+"company": "NVIDIA",
+"location": "Canada, Toronto",
+"posted": "2026-11-20",
+"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
+"source": "NVIDIA careers",
+"country": "CA",
+"years": null
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -8965,26 +8995,6 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/auto-glass-window-installation-technician-fdeae36760a5ad4f"
-},
-{
-"title": "Enterprise Account Executive, Tableau",
-"company": "Salesforce",
-"location": "2 Locations, Canada",
-"posted": "2026-11-19",
-"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto-Metro---Remote/Enterprise-Account-Executive--Tableau_JR369041-1",
-"source": "Salesforce careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Informatica Cloud Account Executive, MDM",
-"company": "Salesforce",
-"location": "2 Locations, Canada",
-"posted": "2026-11-19",
-"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Montreal/Informatica-Cloud-Account-Executive--MDM_JR365287",
-"source": "Salesforce careers",
-"country": "CA",
-"years": null
 },
 {
 "title": "Quotation Administrator (Mississauga Based : 11am - 7pm)",
@@ -14279,16 +14289,6 @@
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4491604023",
 "source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
-"company": "NVIDIA",
-"location": "Canada, Toronto",
-"posted": "2026-11-19",
-"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
-"source": "NVIDIA careers",
 "country": "CA",
 "years": null
 },
@@ -20000,6 +20000,26 @@
 "years": null
 },
 {
+"title": "Talent Advisor, AI Labs",
+"company": "Salesforce",
+"location": "Canada - Toronto",
+"posted": "2026-11-19",
+"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Talent-Advisor--AI-Labs_JR368090",
+"source": "Salesforce careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud / DevOps Engineer II",
+"company": "Thomson Reuters",
+"location": "Canada",
+"posted": "2026-11-19",
+"link": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Cloud---DevOps-Engineer-II_JREQ205427",
+"source": "Thomson Reuters careers",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -21861,16 +21881,6 @@
 "country": "CA",
 "years": null,
 "apply": "https://mallette.zohorecruit.ca/jobs/Careers/3947000011268111/Technicien-ou-technicienne-informatique-sénior?source=Indeed"
-},
-{
-"title": "Talent Advisor, AI Labs",
-"company": "Salesforce",
-"location": "Canada - Toronto",
-"posted": "2026-11-18",
-"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Talent-Advisor--AI-Labs_JR368090",
-"source": "Salesforce careers",
-"country": "CA",
-"years": null
 },
 {
 "title": "Bilingual Client Services Administrator",
@@ -26641,16 +26651,6 @@
 "posted": "2026-11-18",
 "link": "https://www.linkedin.com/jobs/view/4483801552",
 "source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Cloud / DevOps Engineer II",
-"company": "Thomson Reuters",
-"location": "Canada",
-"posted": "2026-11-18",
-"link": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Cloud---DevOps-Engineer-II_JREQ205427",
-"source": "Thomson Reuters careers",
 "country": "CA",
 "years": null
 },
