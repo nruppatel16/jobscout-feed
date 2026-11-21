@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T21:06:27+00:00",
+"updated": "2026-11-21T21:16:27+00:00",
 "jobs": [
 {
 "title": "Diagnostic imaging technologist",
@@ -722,6 +722,28 @@
 "years": null,
 "apply": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-ON-ETOBICOKE-03031-WM-SUPERCENTER/XMLNAME--CAN--Front-End-Checkout-Team-Associate--LC-_R-2718805",
 "part_time": true
+},
+{
+"title": "Donor Administration & Database Assistant, Foundation",
+"company": "St. Joseph's Health Care London",
+"location": "London, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=a1ba9fa18140dcbc",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ats.sjhc.london.on.ca/viewPosting.php?posting=57415"
+},
+{
+"title": "Medical Support Assistant",
+"company": "US Military Treatment Facilities under DHA",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=f456d8ea856f5c17",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893796000"
 },
 {
 "title": "Spécialiste de la croissance des solutions de point de vente",
@@ -13472,6 +13494,226 @@
 "location": "",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492996408",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Security",
+"company": "Cohere",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4467598778",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrateur de Bases de données Oracle, SQL Server, MySQL",
+"company": "Exposant 3",
+"location": "Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492805892",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "PostgreSQL Database Administrator",
+"company": "Apptoza Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492936616",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Database Administrator (Full-time)",
+"company": "District School Board of Niagara",
+"location": "Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492838401",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Database Administrator",
+"company": "Mitchell Martin Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491940161",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste SAP Basis",
+"company": "GO ROCK IT",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493206023",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur, OpenText",
+"company": "Dollarama",
+"location": "Mont-Royal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484571894",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en informatique - Transformation des outils et rapports opérationnels",
+"company": "Université de Sherbrooke",
+"location": "Sherbrooke, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491934839",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Étudiant en ingénierie - Ingénierie des Test Procédures - hiver 2027",
+"company": "MDA Space",
+"location": "Sainte-Anne-de-Bellevue, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492814478",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en exploitation et support bureautique junior",
+"company": "TEHORA inc.",
+"location": "Lévis, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491956518",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Loan Origination System (LOS) Technical Administrator",
+"company": "Conexus Credit Union",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492830557",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Asset Management (SAM) Analyst",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4468276720",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Governance, Risk, and Compliance (GRC) Analyst",
+"company": "Tenstorrent",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492821149",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Security Analyst",
+"company": "Alignerr",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492776407",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Developer",
+"company": "McAfee",
+"location": "Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484584074",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Engineer",
+"company": "TEEMA",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492822234",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Systems & Technical Support",
+"company": "Patterson Companies, Inc.",
+"location": "Cambridge, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4485339213",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "End User Computing (EUC) Support",
+"company": "Pacer Group",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491959397",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "End-User Linux RedHat support - Consultant (6 month-contract)",
+"company": "TMX Group",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492532340",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems software support sales representative",
+"company": "WearWell Garments Limited",
+"location": "Pictou, Nova Scotia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492911608",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Applications Assistant (4 Month Summer Term) - Antec Controls",
+"company": "Antec Controls",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492817999",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien support informatique – Corporatif",
+"company": "Ecosystem",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492994786",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -27266,6 +27508,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4492190919",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer – AI & Application Solutions",
+"company": "Techso",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492751211",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
