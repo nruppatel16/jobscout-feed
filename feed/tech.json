@@ -1,38 +1,112 @@
 {
-"updated": "2026-11-21T04:10:25+00:00",
+"updated": "2026-11-21T04:20:25+00:00",
 "jobs": [
 {
-"title": "Robot Learning Engineer, Sim-to-Real",
-"company": "",
-"location": "Remote · United States",
+"title": "Windows Server Administrator",
+"company": "Sublime Solution",
+"location": "Regina, SK, CA",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=5419acdfb564a846",
+"link": "https://ca.indeed.com/viewjob?jk=cb8955119953ae4f",
 "source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://join.com/companies/wintermeyer-venturescom/16973093-robot-learning-engineer-sim-to-real?pid=a13795120131dbe48464"
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/windows-server-administrator-cb8955119953ae4f"
 },
 {
-"title": "Software Engineer I, Backend (Streaming Infra)",
-"company": "Affirm",
-"location": "Toronto, ON, CA (remote)",
+"title": "Embedded Software Developer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=b8146baedb3a97e1",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "ASIC DFT Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "ASIC Product Design Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Architecte de solutions et analyste d’affaires – Cybersécurité",
+"company": "Xideral",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=59cec66be96c89f3",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://grnh.se/u7np9g0a3us"
+"apply": "https://xideral.recruiterbox.com/jobs/fk0zaui?fjb_hash=ezLpq610"
 },
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
+"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
+"company": "Northwestern Medicine",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
 "source": "Indeed",
 "country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"years": 4,
+"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+},
+{
+"title": "Instructor - Programming and Robotics (In Person)",
+"company": "Ultimate Coders",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+},
+{
+"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
+"company": "Karmakarah Technologies Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
+},
+{
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
 },
 {
 "title": "Business Analyst",
@@ -47,100 +121,37 @@
 "part_time": true
 },
 {
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
-},
-{
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
-},
-{
-"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
-"company": "Karmakarah Technologies Inc.",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
-},
-{
-"title": "Instructor - Programming and Robotics (In Person)",
-"company": "Ultimate Coders",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
-},
-{
-"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
-"company": "Northwestern Medicine",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
-"title": "Architecte de solutions et analyste d’affaires – Cybersécurité",
-"company": "Xideral",
-"location": "Montréal, QC, CA (remote)",
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=59cec66be96c89f3",
+"link": "https://ca.indeed.com/viewjob?jk=b8146baedb3a97e1",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://xideral.recruiterbox.com/jobs/fk0zaui?fjb_hash=ezLpq610"
+"apply": "https://grnh.se/u7np9g0a3us"
 },
 {
-"title": "ASIC Product Design Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
+"title": "Robot Learning Engineer, Sim-to-Real",
+"company": "",
+"location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "ASIC DFT Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-21",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Embedded Software Developer - New Grad",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-11-21",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
+"link": "https://www.indeed.com/viewjob?jk=5419acdfb564a846",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://join.com/companies/wintermeyer-venturescom/16973093-robot-learning-engineer-sim-to-real?pid=a13795120131dbe48464"
 },
 {
 "title": "Intern, Customer Services - Technical Services (Winter 2027)",
@@ -6769,7 +6780,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020408Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T040423Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
 },
 {
 "title": "Software Developer",
@@ -7229,6 +7240,124 @@
 "posted": "2026-11-20",
 "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
 "source": "NVIDIA careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Security Engineer (Splunk) ZT",
+"company": "Athenix Special Missions",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=2f10b3c0b685d88d",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680180/Athenix-Solutions-Group/Cyber-Security-Engineer-Splunk-ZT?source=Indeed_Feed"
+},
+{
+"title": "Specialist, Customer Success (Higher Education)",
+"company": "Pearson",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=ca9418b63ec175a8",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://pearson.jobs/honolulu-hi/specialist-customer-success-higher-education/5FBE6F82F2E84E40966177CC7D87905C/job/"
+},
+{
+"title": "Environmental Database Analyst",
+"company": "Vertex Resource Group Ltd.",
+"location": "Sherwood Park, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492541440",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supervisory Transportation Specialist (Discretionary Infrastructure Grants) (Open to both U.S. Citizens and Federal Employees)",
+"company": "US Office of the Secretary of Transportation",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=301032950402cb3f",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893777200"
+},
+{
+"title": "Computer systems engineer",
+"company": "Tonertech Document Solutions Ltd.",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50773122",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Service Desk Agent",
+"company": "SAIC",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=fb9ed9b80b35289f",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T040402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
+},
+{
+"title": "IT Network Engineer II",
+"company": "Billings Clinic",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=5b7b1b6b83a7c09a",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://billingsclinic.csod.com/ux/ats/careersite/1/home/requisition/13154?c=billingsclinic"
+},
+{
+"title": "Regulatory Support Specialist",
+"company": "US Treasury, Financial Crimes Enforcement Network",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=77be2fd30cebc816",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893788600"
+},
+{
+"title": "INFORMATION TECHNOLOGY SPECIALIST (SUCCESS ENGINEER)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=1f42f7004cfd7586",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893760600"
+},
+{
+"title": "Sanitation Technician, Production",
+"company": "BioVectra Inc.",
+"location": "Windsor, NS, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=50f6bf4e83403a55",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Canada-Nova-Scotia-Windsor/Sanitation-Technician--Production_4037663"
+},
+{
+"title": "Technicien(ne) de support FAL",
+"company": "Liebherr-Canada Ltd.",
+"location": "Laval, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492533072",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
@@ -10816,7 +10945,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180ec0da-e436-11f1-bda4-8f9481ca9d62%26rx_job%3DR-0000193105%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180ec0da-e436-11f1-bda4-8f9481ca9d62%26rx_job%3DR-0000193105%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T040422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Technician, Customer Service",
@@ -11102,7 +11231,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://career17.sapsf.com/career?career%5fns=job%5flisting&company=Cameco&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=42739&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=NXXQYt%2b07%2fKLKO4RYLtc2qwYZ7SM6L7t4aOXXGvg8EE%3d"
+"apply": "https://career17.sapsf.com/career?career%5fns=job%5flisting&company=Cameco&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=42739&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=%2fLFa08GfHODVf8o8lm8Xee8V53BrVDdOVHDmxX%2fm4Tw%3d"
 },
 {
 "title": "Reliability, Engineer In Training",
@@ -12755,7 +12884,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1003&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dc278e00f-e520-11f1-b236-e138fd45f7ce%26rx_job%3DR-0000193074_1003%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1003&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dc278e00f-e520-11f1-b236-e138fd45f7ce%26rx_job%3DR-0000193074_1003%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T040422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -12973,7 +13102,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1002&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e88be-e436-11f1-9e80-8f9481ca9d62%26rx_job%3DR-0000193074_1002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1002&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e88be-e436-11f1-9e80-8f9481ca9d62%26rx_job%3DR-0000193074_1002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T040422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -13146,7 +13275,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e71d8-e436-11f1-a802-8f9481ca9d62%26rx_job%3DR-0000193074%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e71d8-e436-11f1-a802-8f9481ca9d62%26rx_job%3DR-0000193074%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T040422Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -20020,6 +20149,26 @@
 "years": null
 },
 {
+"title": "Cloud Platform Engineer",
+"company": "Insight",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4476770246",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer, Application & Infrastructure - Technology Strategy & Transformation",
+"company": "EY",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4474480299",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -22386,7 +22535,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695580-2494-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695580-2494%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D739ca9a0-e458-11f1-8dfa-9d702fe06d74%26rx_job%3D200695580-2494-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020408Z%26rx_vp%3Dcpc"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695580-2494-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695580-2494%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D739ca9a0-e458-11f1-8dfa-9d702fe06d74%26rx_job%3D200695580-2494-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T040428Z%26rx_vp%3Dcpc"
 },
 {
 "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
