@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T17:07:34+00:00",
+"updated": "2026-11-21T17:17:34+00:00",
 "jobs": [
 {
 "title": "Diagnostic imaging technologist",
@@ -509,6 +509,51 @@
 "source": "Job Bank",
 "country": "CA",
 "years": 0
+},
+{
+"title": "Mill Operations Support",
+"company": "Minor Bros Animal Health and Nutrition",
+"location": "Dunnville, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=bb5c61cad599d6d7",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/mill-operations-support-bb5c61cad599d6d7",
+"part_time": true
+},
+{
+"title": "Commission Sales Rep — AI Commercials for Local Businesses",
+"company": "CT Painters",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=0eb70e9ef9472df5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/commission-sales-rep-ai-commercials-local-businesses-0eb70e9ef9472df5"
+},
+{
+"title": "Sales & Design Consultant / Administrator",
+"company": "Sarmazian Brothers Flooring",
+"location": "Waterloo, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=697e2ea7dae39bcb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/sales-design-consultant-administrator-697e2ea7dae39bcb"
+},
+{
+"title": "Front Desk Administrator",
+"company": "Toronto Cosmetic Clinic",
+"location": "North York, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=b441588c66369abd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-administrator-b441588c66369abd"
 },
 {
 "title": "Spécialiste de la croissance des solutions de point de vente",
@@ -11401,6 +11446,276 @@
 "location": "Kirkland, Quebec, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492802592",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Power BI",
+"company": "CGI",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492961221",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supply Chain BI Solutions Analyst",
+"company": "Pet Valu",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4467591382",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketing Database Analyst",
+"company": "CAA Club Group",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4483070352",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Data Analyst II",
+"company": "Mosaic North America",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4483413552",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Mine Systems Developer",
+"company": "Baffinland",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492970193",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java/Scala Developer",
+"company": "Axelon Services Corporation",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492598529",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Power Platform Developer - 12 Month Contract",
+"company": "Albarrie Canada Limited",
+"location": "Barrie, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491942027",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur logiciel infonuagique / DevOps",
+"company": "LGS, an IBM Company",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492747945",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GIS Developer",
+"company": "Bridgenext",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4458084633",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Generative AI Engineer",
+"company": "Staffingine LLC",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492940486",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Backend / API Engineer, Radar",
+"company": "Stripe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4482036292",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Java Developer",
+"company": "Priceline",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4440078829",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Fullstack Engineer, Source Code: Repository Services (Ruby)",
+"company": "GitLab",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4485282199",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Engineer",
+"company": "Ecolab",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476378792",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Integrated Services - Systems Analyst",
+"company": "F12.net",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492953769",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Helpdesk Technician - French Canadian",
+"company": "Stefanini North America and APAC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4485369379",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Technology Support Technician",
+"company": "Ren's Pets",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492932907",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Windows Engineer",
+"company": "Soho Square Solutions",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4489764770",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Accounts Receivable EDI / SBT Integration Specialist",
+"company": "Postmedia Network Inc.",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492965205",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP Integration Consultant",
+"company": "ExcelGens, Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491936404",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded OS Software Engineer, Separation Kernel, Core OS",
+"company": "Apple",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492538723",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Success Representative",
+"company": "Transoft Solutions Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4466938817",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Success Specialist",
+"company": "Aon",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492757231",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) en assurance qualité logicielle - Software Quality Assurance Developer",
+"company": "Eaton",
+"location": "Brossard, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491916352",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Specialist",
+"company": "Hyundai Mobis (Mobis Parts Canada)",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493206265",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "MRB Liaison Engineer - Systems",
+"company": "SOGECLAIR",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4455320515",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op or Intern, Business Analysis & Quality Assurance (January 2027)",
+"company": "BDO Canada",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492965301",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -25027,6 +25342,56 @@
 "country": "US",
 "years": 1,
 "apply": "https://www.usajobs.gov:443/job/893644100"
+},
+{
+"title": "Data Solutions Designer",
+"company": "CI Financial",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492191520",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer , Customer Service Experience (CSX)",
+"company": "Amazon",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492487791",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketplace Operations Engineer (Boca Raton / Toronto)",
+"company": "Pingtree",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492729026",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Service Representative - BFL Digital",
+"company": "BFL CANADA",
+"location": "Blainville, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491352615",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer in Test",
+"company": "Galactic Minds INC",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492713411",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Software Engineer, Collections Infra",
