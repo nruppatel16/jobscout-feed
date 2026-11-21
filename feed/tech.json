@@ -1,60 +1,16 @@
 {
-"updated": "2026-11-21T01:41:49+00:00",
+"updated": "2026-11-21T01:51:49+00:00",
 "jobs": [
 {
-"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
-"company": "Northwestern Medicine",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
-},
-{
-"title": "Instructor - Programming and Robotics (In Person)",
-"company": "Ultimate Coders",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
-},
-{
-"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
-"company": "Karmakarah Technologies Inc.",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
-},
-{
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
-},
-{
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
 "title": "Business Analyst",
@@ -69,15 +25,59 @@
 "part_time": true
 },
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+},
+{
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
+"company": "Karmakarah Technologies Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
+},
+{
+"title": "Instructor - Programming and Robotics (In Person)",
+"company": "Ultimate Coders",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+},
+{
+"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
+"company": "Northwestern Medicine",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
 "source": "Indeed",
 "country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"years": 4,
+"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
 },
 {
 "title": "Software Engineer I, Backend (Streaming Infra)",
@@ -6332,6 +6332,309 @@
 "country": "CA",
 "years": 5,
 "apply": "https://secure.ukgready.ca/ta/6213364.careers?ShowJob=520222786"
+},
+{
+"title": "Rail Operations Analyst",
+"company": "SYSTRA",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1df9e6e1331a77f4",
+"source": "Indeed",
+"country": "CA",
+"years": 0,
+"apply": "https://careers-systra.icims.com/jobs/11593/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Identity & Access Compliance Analyst",
+"company": "CPKC",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=72d02d607fc10442",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.cpr.ca/job/Calgary-Identity-&-Access-Compliance-Analyst-AB-T2G-3J5/608243217/?feedId=421860&utm_source=Indeed&utm_campaign=CPKC_Indeed"
+},
+{
+"title": "Junior GIS Analyst",
+"company": "Onterris",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=d0af5d8e7a1f5cf0",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://onterris.wd1.myworkdayjobs.com/en-US/ONT/job/CAN-Alberta-Calgary/Junior-GIS-Analyst_R9037"
+},
+{
+"title": "AWS Analyst",
+"company": "Flair Airlines Ltd.",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=cf842582d6137e18",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b969f000-deee-43ae-b41e-ea6f47ea7487&ccId=19000101_000001&jobId=602317&source=IN&lang=en_CA"
+},
+{
+"title": "AWS Analyst",
+"company": "Flair Airlines Ltd.",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=c82b911a4fc34755",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b969f000-deee-43ae-b41e-ea6f47ea7487&ccId=19000101_000001&jobId=602317&source=IN&lang=en_CA"
+},
+{
+"title": "Technical Business Analyst",
+"company": "Canadian Cancer Society",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=d5383007bbf7c1d5",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=594878&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Technical Business Analyst",
+"company": "Canadian Cancer Society",
+"location": "St. John's, NL, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=79128fca27990309",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=594878&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Cyber Security Engineer",
+"company": "Coca-Cola Canada Bottling Limited",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=d638dcb0425676c3",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://conaservices.jobs2web.com/canada/job/Toronto-Cyber-Security-Engineer-ON-M5A-1L1/1452794200/?feedId=331200&utm_source=Indeed&utm_campaign=CONA_Indeed"
+},
+{
+"title": "Technical Business Analyst",
+"company": "Canadian Cancer Society",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=4e1856d5a98a926f",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=594878&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Entry Level Weaving-Warping Technician (Night Shift)",
+"company": "Davey Textile Solutions Inc",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1d31c6fa811df63d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f748a906-dffe-49a1-b13b-1cee4736d706&ccId=19000101_000001&jobId=518944&source=IN&lang=en_CA"
+},
+{
+"title": "Technical Business Analyst",
+"company": "Canadian Cancer Society",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=304e28cbdd86f7cf",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=594878&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Technical Business Analyst",
+"company": "Canadian Cancer Society",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=82f2667f3a8c06c5",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=594878&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Technical Business Analyst",
+"company": "Canadian Cancer Society",
+"location": "Halifax, NS, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=345e81c45e179f37",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=594878&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Technical Business Analyst",
+"company": "Canadian Cancer Society",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=5f38bb9015364953",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=594878&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "AWS Analyst",
+"company": "Flair Airlines Ltd.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=41b50a475b3b7f9a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b969f000-deee-43ae-b41e-ea6f47ea7487&ccId=19000101_000001&jobId=602317&source=IN&lang=en_CA"
+},
+{
+"title": "AWS Analyst",
+"company": "Flair Airlines Ltd.",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=3988abbaea01e2a1",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b969f000-deee-43ae-b41e-ea6f47ea7487&ccId=19000101_000001&jobId=602317&source=IN&lang=en_CA"
+},
+{
+"title": "Technical Business Analyst",
+"company": "Canadian Cancer Society",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=9d0f6e7751be7382",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=594878&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Salesforce Administrator - Remote",
+"company": "GPRS",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=d362695de80d37e4",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/50E56B7399EA75003B44CEDE1FF806BE/jobs/583855?source=Indeed"
+},
+{
+"title": "GPQSS North America Business Segment Leader - Grid Solutions",
+"company": "Hitachi Energy",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=2bd77cc944343584",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Raleigh-North-Carolina-United-States/GPQSS-North-America-Business-Segment-Leader---Grid-Solutions_R0151478"
+},
+{
+"title": "IT Support Specialist - JM",
+"company": "JM Eagle",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=e4961f0cbed4a159",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/E72743AF54FD8F64B5BF1A0B98912B71/jobs/144647?source=Indeed"
+},
+{
+"title": "Software Engineer I",
+"company": "Capital Blue Cross",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=e08d0d4490fef093",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers-capbluecross.icims.com/jobs/5201/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "(CAN) Front End Checkout Team Associate (LC)",
+"company": "Walmart",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=f2d6e3c1708e9879",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-ON-MISSISSAUGA-01126-WM-SUPERCENTER/XMLNAME--CAN--Front-End-Checkout-Team-Associate--LC-_R-2717305",
+"part_time": true
+},
+{
+"title": "DevOps",
+"company": "OPAL-RT TECHNOLOGIES India Pvt. Ltd.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491986095",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI/ML Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=49a4b98bfdee3d24",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39724&hr_id=3978"
+},
+{
+"title": "Mid-Office Travel Technology Developer",
+"company": "World Travel, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=24209694a208db83",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0ee0369a-b441-4a3d-85bc-da718a7f73e8&ccId=19000101_000001&jobId=958160&source=IN&lang=en_US"
+},
+{
+"title": "Technical Business Analyst",
+"company": "TMX Group",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492519918",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Business Systems Analyst",
+"company": "FIS",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492738728",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -14350,7 +14653,7 @@
 "years": null
 },
 {
-"title": "Salesforce Data Cloud MarTech Consultant",
+"title": "Salesforce Data 360 Cloud MarTech Consultant",
 "company": "Accenture",
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-19",
@@ -18786,6 +19089,67 @@
 "location": "Fort McKay 174, Alberta, Canada",
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4492515631",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Customer Services - Technical Services (Winter 2027)",
+"company": "Bombardier",
+"location": "Dorval, QC, CA (remote)",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=9374027137749782",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Customer-Services-Technical-Services-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1449627833/?feedId=383233&utm_source=Indeed"
+},
+{
+"title": "DevOps Cloud Engineer",
+"company": "Nasdaq",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4400930363",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SPECIALISTE BILINGUE AZUR DEVOPS",
+"company": "BDC",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492714773",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Security Analyst - Winter Semester 2027",
+"company": "AlayaCare",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4482255367",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Database Administrator",
+"company": "Tekgence Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492510198",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "PostgreSQL DBA",
+"company": "Pacer Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491657294",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -27971,6 +28335,17 @@
 "apply": "https://career4.successfactors.com/career?company=Purolator&career_ns=job_listing&career_job_req_id=70202&lang=en_US&jobPipeline=Indeed"
 },
 {
+"title": "Course Developer - Introduction to Nutrition",
+"company": "University of Niagara Falls Canada",
+"location": "Niagara Falls, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=4835aeddfca40ef2",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b66c1f0-8cf2-4998-bb48-8075d65af718&ccId=19000101_000001&jobId=577502&source=IN&lang=en_CA"
+},
+{
 "title": "Presales Solutions Engineer, GRC",
 "company": "Secureframe",
 "location": "Remote · United States",
@@ -28040,126 +28415,6 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 3
-},
-{
-"title": "Analyst, Commercial Customer Master Data",
-"company": "Canada Post",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Ottawa-Analyst%2C-Commercial-Customer-Master-Data-ON/603481017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Analyste, Données de des clients commerciaux",
-"company": "Canada Post",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.canadapost.ca/job/Ottawa-Analyste%2C-Donn%C3%A9es-de-des-clients-commerciaux-ON/603481117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Canada Post careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "AI DevOps Specialist (AI Enablement & Secure DevOps)",
-"company": "Celestica",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://careers.celestica.com/job/Toronto-AI-DevOps-Specialist-%28AI-Enablement-&-Secure-DevOps%29-ON/1439826933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Celestica careers",
-"country": "CA",
-"years": 4
-},
-{
-"title": "Software Developer",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M5A 3X5",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Software-Developer-ON-M5A-3X5/607183517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Technical Business Analyst",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M5C2V9",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Technical-Business-Analyst-ON-M5C2V9/607197017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Data Scientist, Fraud Threat Management",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M5H1H1",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Data-Scientist%2C-Fraud-Threat-Management-ON-M5H1H1/606200317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Client Solutions Advisor - Eastgate Crossing, Regina, Saskatchewan",
-"company": "Scotiabank",
-"location": "Regina, SK, CA",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Regina-Client-Solutions-Advisor-Eastgate-Crossing%2C-Regina%2C-Saskatchewan-SK/606296217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Client Solutions Advisor - Quartier Laval",
-"company": "Scotiabank",
-"location": "Laval, QC, CA",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Laval-Client-Solutions-Advisor-Quartier-Laval-QC/606307517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Full Stack Developer, Application Support",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M5A 3X5",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Full-Stack-Developer%2C-Application-Support-ON-M5A-3X5/607185117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Intern, Research & Technology: EcoJet Project Management (Winter 2027)",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4S 2A9",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-Research-&-Technology-EcoJet-Project-Management-%28Winter-2027%29-Qu%C3%A9b-H4S-2A9/1439812733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Intern, Customer Services - Technical Services (Winter 2027)",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Customer-Services-Technical-Services-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1449627833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Intern, EcoJet - Technology Development Test Integration - Flight Control (Winter 2027)",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4S 2A9",
-"posted": "2026-11-18T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-EcoJet-Technology-Development-Test-Integration-Flight-Control-%28Winter-2027%29-Qu%C3%A9b-H4S-2A9/1439812433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
 }
 ]
 }
