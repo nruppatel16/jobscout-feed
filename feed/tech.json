@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T18:36:28+00:00",
+"updated": "2026-11-21T18:46:27+00:00",
 "jobs": [
 {
 "title": "Diagnostic imaging technologist",
@@ -574,9 +574,42 @@
 "link": "https://ca.indeed.com/viewjob?jk=9081114fc55be934",
 "source": "Indeed",
 "country": "CA",
-"years": null,
+"years": 2,
 "apply": "https://www.transdiff.com/postes-a-combler/?ide_poste=3761&ide_source=6&source=indeed",
 "french": true
+},
+{
+"title": "IT Infrastructure System Administrator",
+"company": "Johnson Controls",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=ba3c3488c10c0c25",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://click.appcast.io/t/61moD1htUnoF_kro6ol09IytGA5iyun_If-EoEb9bAU="
+},
+{
+"title": "IT Field Service Technician / Subcontractor",
+"company": "TechShield",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=e3be356b1f559724",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-field-service-technician-subcontractor-e3be356b1f559724"
+},
+{
+"title": "Remote Application Support Specialist",
+"company": "Johnson Controls",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=01cfd768cb924533",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://click.appcast.io/t/fuCXmQYGvcCrD6o0jwD_doMUxeG-I_lc9edjPdOKea4="
 },
 {
 "title": "Spécialiste de la croissance des solutions de point de vente",
@@ -12227,6 +12260,356 @@
 "years": null
 },
 {
+"title": "SharePoint / Power Platform Technical Specialist",
+"company": "TEEMA",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492833377",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien(ne) en soutien informatique – N2",
+"company": "Groupe ABS",
+"location": "Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492982508",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Intelligence & Data Analyst",
+"company": "StandardAero",
+"location": "Slemon Park, Prince Edward Island, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492942731",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Portfolio Tracking & Coordination Analyst",
+"company": "UniSysTech Consulting",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492801107",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advance Solutions Project Specialist, AVP",
+"company": "Morgan Stanley",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492542857",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "EHR Solution Analyst – Seniors Living",
+"company": "SE Health",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4479840765",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst II (Learning Specialist)",
+"company": "TELUS",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484547819",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst, Enterprise Resource Planning (ERP)",
+"company": "SureWerx",
+"location": "British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4485235757",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Sales Engineer",
+"company": "FANUC America Corporation",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492963631",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Sales Engineer, Central Canada",
+"company": "Axis Communications",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492939960",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Consultant 2",
+"company": "Palo Alto Networks",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4429421367",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Consultant, OT Integrations",
+"company": "MaintainX",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4475464311",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Solutions Engineer",
+"company": "ProShop ERP",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492910805",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Engineer - Mining",
+"company": "Veolia | Water Tech",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491947480",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) Application/Application Engineer - Minier/Mining",
+"company": "Veolia | North America",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492821058",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur d'Affaires TI (Intermédiaire)",
+"company": "SII Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476966375",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud & Infrastructure Specialist",
+"company": "TELUS Health",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4433502921",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft 365 & Exchange Administrator",
+"company": "Viva Tech Solutions",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492944513",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyberark Engineer",
+"company": "Tekshapers",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491954126",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support (AI/ML)",
+"company": "Iris Software Inc.",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492590668",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Developer, OpenText",
+"company": "Dollarama",
+"location": "Mont-Royal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484591085",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Systems Analyst",
+"company": "Royal Victoria Regional Health Centre",
+"location": "Barrie, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4489639993",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Security Analyst II",
+"company": "TekStaff IT Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492968284",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Analyst",
+"company": "EllisDon",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492986258",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste informatique",
+"company": "Exposant 3",
+"location": "Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492821109",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Voice Admin",
+"company": "Avanciers Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491953421",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Engineer",
+"company": "Moneris",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4474858457",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Asset Management Analyst",
+"company": "The Salvation Army in Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492968703",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire en réseautique H2027",
+"company": "Hatch",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484559448",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft 365 administration",
+"company": "Pacer Group",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491931379",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer (Alluvial)",
+"company": "Jacobs",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492741665",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Strategic Projects",
+"company": "Tailscale",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4448064655",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste de la sécurité des applications PAM",
+"company": "ALTEN Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491940777",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste de la sécurité des applications PAM",
+"company": "COFOMO",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492985204",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur DevSecOps",
+"company": "CGI",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4458584071",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -13675,7 +14058,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604957393?etd=MUVP6CXQ22IN53WTB6BW6W4UYSF53DI2H6NKJ7IHDB4D2PKRLA3V63UYM756AEZKFO5TZ74TT4NXYTZNL4CILBUL7KQQGYELQFY27AA2G2W7DEYBXA2Q%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604957393?etd=MUVP6CXQ22IN53WTB6BW6W4UYSF53DI2H6NKJ7IHDB4D2PKRLA3V63UYM756AEZKFO5TZ74TT4NXYTZNL4CILBUL7KQQGYELQFY27ADY4JRXRBT2T4PA%3d%3d%3d%3d"
 },
 {
 "title": "Nuclear Tendering Engineer",
@@ -25985,6 +26368,16 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4492512601",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Engineer with Apigee Hybrid Platform",
+"company": "Nityo Infotech",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492707588",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
