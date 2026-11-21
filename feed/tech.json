@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T16:37:34+00:00",
+"updated": "2026-11-21T16:47:33+00:00",
 "jobs": [
 {
 "title": "Diagnostic imaging technologist",
@@ -479,6 +479,36 @@
 "source": "Job Bank",
 "country": "CA",
 "years": null
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "The Printing House",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50774878",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Houle Electric Limited",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50774883",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Irrigation system installer",
+"company": "MS IRRIGATION (2021) INC.",
+"location": "Saint-Michel, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50775076",
+"source": "Job Bank",
+"country": "CA",
+"years": 0
 },
 {
 "title": "Spécialiste de la croissance des solutions de point de vente",
@@ -5434,7 +5464,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/2OgZwU2BtmMVgHflm-t7szkycLdLa8BYnvZwrqXReEU#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/zggFACW0cYOK6zvSauJwOZf4qqFXFU8cKDlwSwIcJV0#.job_boards.Indeed"
 },
 {
 "title": "Treasury Business Analyst",
@@ -5445,7 +5475,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/J_YDyeNyu94Rc-G0TBuHf_WxPVss0aoJ-16P0SCrPgQ#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/XnfHs_3RRjRqW_hACmr3bukzlibtAX3u03bbNk4dYak#.job_boards.Indeed"
 },
 {
 "title": "CS Business Analyst (16 Month Temporary Assignment Contract)",
@@ -7801,7 +7831,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/akWGuc1iMliltAZ_vNhanZAYvGtjnWBLSPcIrnN-WL4#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/65mHZy1mymSU0HtzK9egfoUrko0wnjAmo-hE38gHuZo#.job_boards.Indeed"
 },
 {
 "title": "Data Migration Specialist",
@@ -7888,7 +7918,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/VI0GSuLYJtCZee5r9ChtpiLDkBB9ZFSGzFdCwl-l5JI#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/W2bdTpNJefN1fV3Egaj-g1CxFwtjVfeujbcypU_TV2I#.job_boards.Indeed"
 },
 {
 "title": "Agricultural Science Research Technician",
@@ -11125,6 +11155,257 @@
 "years": null
 },
 {
+"title": "Full Stack Java Engineer",
+"company": "Miratech",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491946043",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Java Engineer",
+"company": "Miratech",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491928831",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "English Creative Data Annotation Generalist II (AI Evaluation)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=154b4a5775a91437",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://auraone.ai/public/ai-labs/jobs/english-creative-data-annotation-generalist-ii-ai-evaluation-aoj-dc3bf0b7744b1101ce?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-dc3bf0b7744b1101ce&role=English+Creative+Data+Annotation+Generalist+II+%28AI+Evaluation%29&category=frontier-model-evaluation&source=indeed&jobId=aoj-dc3bf0b7744b1101ce&sourceJobId=aoj-dc3bf0b7744b1101ce"
+},
+{
+"title": "Solution Designer (Endpoints), Cloud Technologies",
+"company": "PSP Investments | Investissements PSP",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4467954437",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Operations & Service Transition Consultant (ITSM)",
+"company": "Procom",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492596285",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Customer Support Representative",
+"company": "Jobgether",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492542453",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller en architecture de solution",
+"company": "Exposant 3",
+"location": "Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492591304",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Chargé(e) de projet - Implantation de solutions SaaS",
+"company": "Nakisa",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492593493",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Project Controls Engineer / Specialist",
+"company": "Ganotec",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492534251",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technologist II - Sewer & Drainage Operations",
+"company": "City of Regina",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4487415776",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer",
+"company": "Staffingine LLC",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492934601",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer - Secure Container Images",
+"company": "Canonical",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4458798675",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien informatique, niveau 2, Support TI, Technologie de l’information.",
+"company": "MONTONI",
+"location": "Laval, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4487839254",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Customer Support",
+"company": "Henry Schein One UK",
+"location": "Surrey, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492595845",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste Technique CFirst / CFirst Technical Specialist",
+"company": "Pratt & Whitney",
+"location": "Longueuil, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477471546",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scientifique de données",
+"company": "Alithya",
+"location": "Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4485236647",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scientifique de données",
+"company": "Autorité des marchés financiers (Québec)",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492963009",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist",
+"company": "TSR Consulting",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492801314",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist",
+"company": "Remarcable",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4465286212",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst (Dynamics 365 Business Central)",
+"company": "Tenth Revolution Group",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491934191",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP Functional Consultant",
+"company": "Fairstone Bank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4432281438",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IBM Maximo Functional Consultant",
+"company": "K&K Global Talent Solutions INC.",
+"location": "Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492943509",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Engineering Specialist (Hybrid) / Spécialiste en ingénierie réseau (hybride)",
+"company": "Morgan Stanley",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484579705",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien de Centre de Données / Data Center Technician, Opérations de centres de données/Data Center Operations",
+"company": "Amazon Web Services (AWS)",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477667836",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien informatique/Technicienne informatique",
+"company": "Randstad Digital",
+"location": "Kirkland, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492802592",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -12516,7 +12797,9 @@
 "link": "https://ca.indeed.com/viewjob?jk=25933f643f4d15d7",
 "source": "Indeed",
 "country": "CA",
-"years": null
+"years": 1,
+"apply": "https://iaemup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2213",
+"french": true
 },
 {
 "title": "Bilingual Client Implementation Officer",
@@ -16206,7 +16489,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/OG5AaOITmf_1YVYp8iL_c1UeUGEuAupt3xRaPPxy6-k#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/7XZp-MTGowlbtSW_4h0MWXBfcUjnxbGTLWDZ1Fo-Uo0#.job_boards.Indeed"
 },
 {
 "title": "Data Engineer- Atlanta, GA",
@@ -24723,6 +25006,27 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Network Wireless Solutions",
+"location": "Milton, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50774904",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Biological Science Technician",
+"company": "US Agricultural Research Service",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=c358890dc6477906",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893644100"
 },
 {
 "title": "Software Engineer, Collections Infra",
