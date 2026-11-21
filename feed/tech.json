@@ -1,71 +1,38 @@
 {
-"updated": "2026-11-21T02:41:50+00:00",
+"updated": "2026-11-21T02:51:50+00:00",
 "jobs": [
 {
-"title": "Architecte de solutions et analyste d’affaires – Cybersécurité",
-"company": "Xideral",
-"location": "Montréal, QC, CA (remote)",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=59cec66be96c89f3",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://xideral.recruiterbox.com/jobs/fk0zaui?fjb_hash=ezLpq610"
-},
-{
-"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
-"company": "Northwestern Medicine",
+"title": "Robot Learning Engineer, Sim-to-Real",
+"company": "",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
+"link": "https://www.indeed.com/viewjob?jk=5419acdfb564a846",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+"years": null,
+"apply": "https://join.com/companies/wintermeyer-venturescom/16973093-robot-learning-engineer-sim-to-real?pid=a13795120131dbe48464"
 },
 {
-"title": "Instructor - Programming and Robotics (In Person)",
-"company": "Ultimate Coders",
-"location": "Toronto, ON, CA",
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"link": "https://ca.indeed.com/viewjob?jk=b8146baedb3a97e1",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+"apply": "https://grnh.se/u7np9g0a3us"
 },
 {
-"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
-"company": "Karmakarah Technologies Inc.",
-"location": "Windsor, ON, CA",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
+"location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
-},
-{
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
-},
-{
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
 "title": "Business Analyst",
@@ -80,15 +47,70 @@
 "part_time": true
 },
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+},
+{
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
+"company": "Karmakarah Technologies Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
+},
+{
+"title": "Instructor - Programming and Robotics (In Person)",
+"company": "Ultimate Coders",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+},
+{
+"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
+"company": "Northwestern Medicine",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
 "source": "Indeed",
 "country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"years": 4,
+"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+},
+{
+"title": "Architecte de solutions et analyste d’affaires – Cybersécurité",
+"company": "Xideral",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=59cec66be96c89f3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://xideral.recruiterbox.com/jobs/fk0zaui?fjb_hash=ezLpq610"
 },
 {
 "title": "Intern, Customer Services - Technical Services (Winter 2027)",
@@ -6914,6 +6936,61 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Customer Success Engineer",
+"company": "Insycle",
+"location": "Remote, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=fe5e389dd5b7897a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://www.comeet.com/jobs/Insycle/D3.002/customer-success-engineer/B8.57A?coref=1.11.pCE_DD18"
+},
+{
+"title": "Analyst, Tier II Network Operations Center",
+"company": "Cogeco",
+"location": "Cumberland, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b199fd98a0f60b79",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://cogeco.wd3.myworkdayjobs.com/en-US/Cogeco_Careers/job/Cumberland-MD/Analyst--Tier-II-Network-Operations-Center_JR10056"
+},
+{
+"title": "Associate Software Engineer",
+"company": "Parsons",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=a41a1451b2495927",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://jobs.parsons.com/jobs/associate-software-engineer-virtual-r-188926-jobs--engineering--"
+},
+{
+"title": "Research Scientist, Associate - Wyoming Coop Unit",
+"company": "University of Wyoming",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=9c2ff179130c1eec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/263091"
+},
+{
+"title": "AI Solutions Engineer",
+"company": "YA Group",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=cda17f21c3012442",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.dayforcehcm.com/en-US/yagroup/CANDIDATEPORTAL/jobs/1624"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -19498,6 +19575,76 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4491659261",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud DevOps Engineer",
+"company": "Alquemy Search & Consulting",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4487935590",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste réseaux et infrastructure TI (fly-in fly-out 14/14)",
+"company": "QualiTech",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492193308",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste spécialiste en informatique",
+"company": "Centre de services scolaire du Lac-Saint-Jean",
+"location": "Alma, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491655480",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Backend Developer (Agentic AI)",
+"company": "K&K Global Talent Solutions INC.",
+"location": "Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492716263",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Managed Services - Salesforce Associate Consultant, Nonprofit",
+"company": "Passion Fruit Partners",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492182835",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur de données – Intermédiaire",
+"company": "Exposant 3",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492166073",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Integration Specialist",
+"company": "Co-operators Assurance et services financiers",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492188206",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
