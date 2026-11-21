@@ -1,16 +1,60 @@
 {
-"updated": "2026-11-21T01:11:49+00:00",
+"updated": "2026-11-21T01:21:49+00:00",
 "jobs": [
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
+"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
+"company": "Northwestern Medicine",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
 "source": "Indeed",
 "country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"years": 4,
+"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+},
+{
+"title": "Instructor - Programming and Robotics (In Person)",
+"company": "Ultimate Coders",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+},
+{
+"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
+"company": "Karmakarah Technologies Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
+},
+{
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
 },
 {
 "title": "Business Analyst",
@@ -25,26 +69,15 @@
 "part_time": true
 },
 {
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
+"location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
-},
-{
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
 "title": "Software Engineer I, Backend (Streaming Infra)",
@@ -64,6 +97,16 @@
 "link": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
 "source": "Affirm careers",
 "country": "US",
+"years": null
+},
+{
+"title": "Software Engineer II - AI Engineering",
+"company": "Microsoft",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21T01:03:13+00:00",
+"link": "https://apply.careers.microsoft.com/careers/job/1970393557074099",
+"source": "Microsoft careers",
+"country": "CA",
 "years": null
 },
 {
@@ -4741,7 +4784,7 @@
 "link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
 "source": "Cisco careers",
 "country": "CA",
-"years": null
+"years": 5
 },
 {
 "title": "ASIC DFT Developer",
@@ -4751,7 +4794,7 @@
 "link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
 "source": "Cisco careers",
 "country": "CA",
-"years": null
+"years": 5
 },
 {
 "title": "Scorecard Reporting Analyst",
@@ -6125,6 +6168,170 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Business Technology Analyst",
+"company": "Tru Cooperative Bank",
+"location": "Langley, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=25ad56138ef87250",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3960"
+},
+{
+"title": "Winter 2027 Intern – AI Program",
+"company": "Mackenzie Investments",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=3dd0407d72bd89b0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Web Developer (Internal Only)",
+"company": "MacEwan University",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=d9a49869041e830f",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://www.macewan.ca/about-macewan/careers/opportunities/postings/?competition=26.11.302"
+},
+{
+"title": "Endpoint Administrator (Internal Only)",
+"company": "MacEwan University",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=4a3b278f48fc2895",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://www.macewan.ca/about-macewan/careers/opportunities/postings/?competition=26.11.301"
+},
+{
+"title": "Mine Systems Developer",
+"company": "Baffinland Iron Mines",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=72d94f2ee913890c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careersen-baffinland.icims.com/jobs/8262/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Business Scientist, Operations",
+"company": "Wyse Meter Solutions Inc.",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=655656e5ddddbf15",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=006d94ef-e5ba-44e2-bb6d-e27d2e4abb1f&ccId=19000101_000001&jobId=555561&source=IN&lang=en_CA"
+},
+{
+"title": "FAE - Support Essentiel / FAE - Essential Support (12 months)",
+"company": "OPAL-RT TECHNOLOGIES",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491788274",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Help Desk Specialist",
+"company": "Makpar Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=557be3960b576c8b",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.lever.co/makpar/226f1ad5-260c-4c08-89b2-99317a54a791"
+},
+{
+"title": "Software Engineer",
+"company": "Quantum Sky",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=16b5287cd2404363",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers-quantumsky.icims.com/jobs/2388/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Intern Architect",
+"company": "Surbana Jurong Private Limited",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=f9575ff90878cb23",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://surbanajurong.wd3.myworkdayjobs.com/en-US/SJ_Careers/job/Vancouver/Intern-Architect_JR120009"
+},
+{
+"title": "IIoT U.S. Public Sector Solutions Engineer",
+"company": "Cisco",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=1754ed82bc9876fb",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.cisco.com/global/en/job/2032166"
+},
+{
+"title": "Technical Advisor",
+"company": "",
+"location": "St. Isidore, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1777866dd9de0547",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jldlague.com/en/available-jobs/?ide_poste=3762&ide_source=6&source=indeed"
+},
+{
+"title": "Agronomics Sales Support Representative (Remote)",
+"company": "SiteOne Landscape Supply",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=7a54bfcf45e56fb9",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.siteone.com/jobs/27996/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Security Project Specialist 2",
+"company": "Convergint",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=1513d4d1da75016e",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://convergint.wd501.myworkdayjobs.com/Gbl/job/US-CO-Centennial/Security-Project-Specialist-2_R-1079"
+},
+{
+"title": "Technical Trainer",
+"company": "Force Inspection Services",
+"location": "Nisku, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=dc3daec1324cb53a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.ukgready.ca/ta/6213364.careers?ShowJob=520222786"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -18519,6 +18726,67 @@
 "posted": "2026-11-19",
 "link": "https://hydroottawa.wd3.myworkdayjobs.com/hydro_ottawa_careersite/job/Ottawa-ON/Service-Desk-Agent--Temporary---12-months-_R005419-1",
 "source": "Hydro Ottawa careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "AV Service Engineer, Control Systems & Device Integration",
+"company": "evertz.io",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491355775",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Program Implementation Specialist",
+"company": "CDC Foundation",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=a529d3da91b05398",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=014dfa20-d261-4f83-8d77-5edb4e15f0f8&ccId=19000101_000001&jobId=599430&source=IN&lang=en_US"
+},
+{
+"title": "Associé, Soutien aux applications",
+"company": "Raymond James Ltd.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492740623",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Investment Operations, Data Support Analyst 18-month contract)",
+"company": "AGF Investments",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4481811553",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Developer (Data Specialist)",
+"company": "Munich Re",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492715712",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Mine Technician",
+"company": "Kent",
+"location": "Fort McKay 174, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492515631",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
