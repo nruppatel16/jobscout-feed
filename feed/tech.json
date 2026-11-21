@@ -1,60 +1,16 @@
 {
-"updated": "2026-11-21T01:21:49+00:00",
+"updated": "2026-11-21T01:31:49+00:00",
 "jobs": [
 {
-"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
-"company": "Northwestern Medicine",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
-},
-{
-"title": "Instructor - Programming and Robotics (In Person)",
-"company": "Ultimate Coders",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
-},
-{
-"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
-"company": "Karmakarah Technologies Inc.",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
-},
-{
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
-},
-{
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
 "title": "Business Analyst",
@@ -69,15 +25,59 @@
 "part_time": true
 },
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
+},
+{
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
+"company": "Karmakarah Technologies Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
+},
+{
+"title": "Instructor - Programming and Robotics (In Person)",
+"company": "Ultimate Coders",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+},
+{
+"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
+"company": "Northwestern Medicine",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
 "source": "Indeed",
 "country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"years": 4,
+"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
 },
 {
 "title": "Software Engineer I, Backend (Streaming Infra)",
