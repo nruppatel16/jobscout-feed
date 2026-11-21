@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T19:06:28+00:00",
+"updated": "2026-11-21T19:16:27+00:00",
 "jobs": [
 {
 "title": "Diagnostic imaging technologist",
@@ -610,6 +610,61 @@
 "country": "CA",
 "years": 5,
 "apply": "https://click.appcast.io/t/fuCXmQYGvcCrD6o0jwD_doMUxeG-I_lc9edjPdOKea4="
+},
+{
+"title": "Information technology (IT) data analyst",
+"company": "IT Minds Inc.",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50776859",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "SaaS Sales Account Executive B2B/Proptech",
+"company": "EDIFICE",
+"location": "Remote, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=0de572fb5a095a2d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/saas-sales-account-executive-b2bproptech-0de572fb5a095a2d",
+"french": true
+},
+{
+"title": "Customer Support Specialist",
+"company": "Brightree",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=a3f7273f2b705303",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://resmed.wd3.myworkdayjobs.com/en-US/Brightree_External_Careers/job/US-Brightree-Peachtree-Corners-Corp-Office/Customer-Support-Specialist_JR_055670"
+},
+{
+"title": "Forward Deployed Engineer",
+"company": "Payabli",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=202d96f85adb5384",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://jobs.ashbyhq.com/payabli/0c2342cf-603a-4da9-97e1-64fb2bae61ef"
+},
+{
+"title": "Sales Support Coordinator - Windows & Doors",
+"company": "North Shore Door",
+"location": "North Vancouver, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=31f670b70168cc82",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/sales-support-coordinator-windows-doors-31f670b70168cc82"
 },
 {
 "title": "Spécialiste de la croissance des solutions de point de vente",
@@ -12610,6 +12665,228 @@
 "years": null
 },
 {
+"title": "Spécialiste Solutions, Mobilité d'entreprise / télécoms │ Solutions Specialist, Enterprise mobility/telecoms",
+"company": "Evvo",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492810603",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Support Associate",
+"company": "ONVIGO",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492805684",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Partenaire d'affaires, Systèmes SAP et finance",
+"company": "BRP",
+"location": "Brossard, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4449659157",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Applications Engineer",
+"company": "Communications & Power Industries (CPI)",
+"location": "Georgetown, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4440840111",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Planning Software Solutions Consultant",
+"company": "RBC Dominion Securities",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492797978",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer - Games",
+"company": "Affinity",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4383213410",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeuse ou développeur mobile, Connectivité et développement des applications",
+"company": "BRP",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4422967865",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "iOS Developer",
+"company": "TekStaff IT Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492985536",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Xerox",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476209174",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Atlas Copco Group",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484585377",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Onsite AV Service Technician - Downtown Toronto",
+"company": "Diversified",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476923384",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oil Heat Systems Technician (Journeyman)",
+"company": "Northview Residential REIT",
+"location": "Iqaluit, Nunavut, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492825087",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Inside Sales - water treatment plants",
+"company": "BI Pure Water",
+"location": "Surrey, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=484f50c3d378e03c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-inside-sales-water-treatment-plants-484f50c3d378e03c"
+},
+{
+"title": "Project Administrator",
+"company": "",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1fce702e5904e427",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670454/Burloak-Technologies/Project-Administrator?source=Indeed_Feed"
+},
+{
+"title": "Stage informatique au Centre Vidéotron (Québec seulement)",
+"company": "Videotron",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4475449052",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst",
+"company": "Smartrend Manufacturing Group (SMG)",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492805773",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel(le) Workday – Finances",
+"company": "Fonds de solidarité FTQ",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4485260529",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "User Experience Designer",
+"company": "Insight Global",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492596490",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Design Engineer",
+"company": "Cohere",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476279754",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Firmware Engineer",
+"company": "Q-Block Computing",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492813552",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Software Engineer – Co-op Winter 2027",
+"company": "Ciena",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484590321",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Systems Design Assistant (4 Month Summer Term) - Antec Controls",
+"company": "Antec Controls",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492841041",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -14058,7 +14335,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604957393?etd=MUVP6CXQ22IN53WTB6BW6W4UYSF53DI2H6NKJ7IHDB4D2PKRLA3V63UYM756AEZKFO5TZ74TT4NXYTZNL4CILBUL7KQQGYELQFY27ADY4JRXRBT2T4PA%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604957393?etd=MUVP6CXQ22IN53WTB6BW6W4UYSF53DI2H6NKJ7IHDB4D2PKRLA3V63UYM756AEZKFO5TZ74TT4NXYTZNL4CILBUL7KQQGYELQFY27AAPSR3AKVQJP4YQ%3d%3d%3d%3d"
 },
 {
 "title": "Nuclear Tendering Engineer",
@@ -26383,6 +26660,17 @@
 "years": null
 },
 {
+"title": "Technicien(e) à l’assemblage / Assembly Technician",
+"company": "Hydraulic Technologies USA, LLC",
+"location": "Saint-Hyacinthe, QC, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=2b9e58268254c8af",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bdb7d3fc-4d65-4696-8f5b-625ae24d6a93&ccId=19000101_000001&jobId=567561&source=IN&lang=en_US"
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -26612,16 +26900,6 @@
 "link": "https://jobs.ashbyhq.com/hex/5653698b-2ea0-46aa-bc69-bff116232a60",
 "source": "Hex careers",
 "country": "US",
-"years": null
-},
-{
-"title": "Gestionnaire de Programme Matériel, Lyft Solutions Urbaines",
-"company": "Lyft",
-"location": "Longueuil, Canada",
-"posted": "2026-11-18T14:23:18-05:00",
-"link": "https://app.careerpuck.com/job-board/lyft/job/8948822002?gh_jid=8948822002",
-"source": "Lyft careers",
-"country": "CA",
 "years": null
 }
 ]
