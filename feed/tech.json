@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T21:56:28+00:00",
+"updated": "2026-11-21T22:06:27+00:00",
 "jobs": [
 {
 "title": "Diagnostic imaging technologist",
@@ -1006,6 +1006,16 @@
 "source": "PointClickCare careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Software Engineer (Frontend Focus)",
+"company": "Kira",
+"location": "Remote · United States",
+"posted": "2026-11-20T21:07:48.299+00:00",
+"link": "https://jobs.ashbyhq.com/kira/dcda6f09-1818-43e2-b2f5-e24d116339a8",
+"source": "Kira careers",
+"country": "US",
+"years": 3
 },
 {
 "title": "Solutions Analyst (EHR, Clinexus Customer Support) - US",
@@ -28023,26 +28033,6 @@
 "posted": "2026-11-18T22:22:18.691+00:00",
 "link": "https://jobs.ashbyhq.com/openai/c389205c-b163-402f-ab8f-674b7f260c9d",
 "source": "OpenAI careers",
-"country": "US",
-"years": null
-},
-{
-"title": "Software Engineer (Entry Level)",
-"company": "Kira",
-"location": "Remote · United States",
-"posted": "2026-11-18T21:57:51.557+00:00",
-"link": "https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7",
-"source": "Kira careers",
-"country": "US",
-"years": 0
-},
-{
-"title": "Software Engineering Intern (Winter '27)",
-"company": "Kira",
-"location": "Remote · United States",
-"posted": "2026-11-18T21:56:52.175+00:00",
-"link": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe",
-"source": "Kira careers",
 "country": "US",
 "years": null
 }
