@@ -1,16 +1,71 @@
 {
-"updated": "2026-11-21T02:11:49+00:00",
+"updated": "2026-11-21T02:21:49+00:00",
 "jobs": [
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
+"title": "Architecte de solutions et analyste d’affaires – Cybersécurité",
+"company": "Xideral",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=59cec66be96c89f3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://xideral.recruiterbox.com/jobs/fk0zaui?fjb_hash=ezLpq610"
+},
+{
+"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
+"company": "Northwestern Medicine",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
 "source": "Indeed",
 "country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"years": 4,
+"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+},
+{
+"title": "Instructor - Programming and Robotics (In Person)",
+"company": "Ultimate Coders",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
+},
+{
+"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
+"company": "Karmakarah Technologies Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
+},
+{
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
 },
 {
 "title": "Business Analyst",
@@ -25,59 +80,15 @@
 "part_time": true
 },
 {
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
-},
-{
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
-},
-{
-"title": "Field IT Technician (Part-Time / On-Call) – Karmakarah National Technician Program (KNTP)",
-"company": "Karmakarah Technologies Inc.",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=c48f8dbf0bada4c1",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/field-it-technician-part-time-call-karmakarah-national-technician-program-kntp-c48f8dbf0bada4c1"
-},
-{
-"title": "Instructor - Programming and Robotics (In Person)",
-"company": "Ultimate Coders",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=5ef5662bd14d3992",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/instructor-programming-and-robotics-person-5ef5662bd14d3992"
-},
-{
-"title": "Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN, IA, MO, or WI )",
-"company": "Northwestern Medicine",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
 "location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=d7043aae3a882ff2",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162838018-outpatient-coder-ii-hb-coding-full-time-days-remote-must-reside-in-il-in-ia-mo-or-wi-"
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
 "title": "Intern, Customer Services - Technical Services (Winter 2027)",
@@ -108,6 +119,67 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 3
+},
+{
+"title": "Professional, Engineering, Systems - Weekend Shift",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-11-21T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Professional%2C-Engineering%2C-Systems-Weekend-Shift-ON-L5S-1W1/1441048033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Analyst, Business Intelligence",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-21T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Business-Intelligence-Qu%C3%A9b-H4S-1Y9/1409452333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Professional, Project Engineering - Research & Technology / Digital transformation",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-21T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Project-Engineering-Research-&-Technology-Digital-transformation-Qu%C3%A9b-H4S-1Y9/1419964333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5,
+"french": true
+},
+{
+"title": "Spécialiste, assistance informatique - Événements et utilisateurs VIP",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-21T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Sp%C3%A9cialiste%2C-assistance-informatique-%C3%89v%C3%A9nements-et-utilisateurs-VIP-Qu%C3%A9b-H4S-1Y9/1441176533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer- Global Payments Engineering",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M1L4S2",
+"posted": "2026-11-21T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/606433617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Student Intern, AI Project Coordinator",
+"company": "Celestica",
+"location": "Remote Employee Canada, ON, CA",
+"posted": "2026-11-21T02:00:00+00:00",
+"link": "https://careers.celestica.com/job/Remote-Employee-Canada-Student-Intern%2C-AI-Project-Coordinator-ON/1441161033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Celestica careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Software Engineer I, Backend (Streaming Infra)",
@@ -6667,6 +6739,183 @@
 "years": null
 },
 {
+"title": "Field Facilities Technician - Western Ontario",
+"company": "Chipotle Mexican Grill",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=66a1db7282a7d289",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020408Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
+},
+{
+"title": "Software Developer",
+"company": "Phantom Screens",
+"location": "Abbotsford, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=e0d184604e3ea509",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/phantomscreens/PHANTOMEXTNCAREERS/jobs/1230"
+},
+{
+"title": "Bilingual LLM Generative AI Developer",
+"company": "Koers Bedrijfspsychologie",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=8c1c7659a039a7e4",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://lifeworks.wd3.myworkdayjobs.com/en-US/External/job/Montreal-Quebec-Canada/Bilingual-LLM-Generative-AI-Developer_R-23560",
+"french": true
+},
+{
+"title": "Cyber Security Engineer",
+"company": "",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=571655471951ac5f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://conaservices.jobs2web.com/canada/job/Toronto-Cyber-Security-Engineer-ON-M5A-1L1/1452794200/"
+},
+{
+"title": "Technical Support Coordinator - P2",
+"company": "OSI Maritime Systems",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=7a879317994e8e34",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.dayforcehcm.com/en-CA/osimaritime/CANDIDATEPORTAL/jobs/3234"
+},
+{
+"title": "Bilingual Automotive Accounting Specialist - Training and Implementation",
+"company": "PBS Systems",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b0c2eed18e18cfac",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jobs.dayforcehcm.com/en-US/pbssystems/CANDIDATEPORTAL/jobs/12200",
+"french": true
+},
+{
+"title": "(Ottawa Remote) Bilingual Automotive Accounting Specialist - Training and Implementation",
+"company": "PBS Systems",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=4fd588d1654afb21",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jobs.dayforcehcm.com/en-US/pbssystems/CANDIDATEPORTAL/jobs/12217",
+"french": true
+},
+{
+"title": "Safety and Operational Support Assistant",
+"company": "BWX Technologies",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=7a87e9a8b862f339",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.bwxt.com/job/Vancouver-Safety-and-Operational-Support-Assistant-BC/1452700700/"
+},
+{
+"title": "Reliability Technician",
+"company": "Lakeside Controls",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=4b784b0cc1580339",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/lakesidecontrols/CANDIDATEPORTAL/jobs/754"
+},
+{
+"title": "Assembly Technician",
+"company": "Gogo Business Aviation",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=a0c98d7f5466a385",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://gogo.wd503.myworkdayjobs.com/en-US/careers/job/Ottawa-Canada/Assembly-Technician_R4289-2"
+},
+{
+"title": "Forward Deployed Engineer (Alluvial)",
+"company": "Jacobs",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492737723",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Desk Engineer I- Elevity",
+"company": "Gordon Flesch",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=be05de93b632ae1e",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://apply.clearcompany.com/gordon?jobId=9d77999c-5bec-688c-6bc0-7418e86faedf&source=JB-1014"
+},
+{
+"title": "Service Desk Engineer II- Elevity",
+"company": "Gordon Flesch",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=0198a7b6abfd9bfb",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://apply.clearcompany.com/gordon?jobId=90dfb2b7-5f0a-8bd4-54ab-abe0fec24d47&source=JB-1014"
+},
+{
+"title": "Telecommunications Specialist",
+"company": "Abacus Technology",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=12f8af74f456b088",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers-abacustech.icims.com/jobs/9171/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Technical Customer Care Specialist I",
+"company": "vitu",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=fd218accebaee29e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/vitu/CANDIDATEPORTAL/jobs/4960"
+},
+{
+"title": "Associate (Graduate) Developer",
+"company": "Thoughtworks",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492773177",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -8039,7 +8288,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1001&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e7d7d-e436-11f1-875f-8f9481ca9d62%26rx_job%3DR-0000193074_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1001&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dc2773d20-e520-11f1-80d4-e138fd45f7ce%26rx_job%3DR-0000193074_1001%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -10270,7 +10519,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180ec0da-e436-11f1-bda4-8f9481ca9d62%26rx_job%3DR-0000193105%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T000412Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193105&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193105%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180ec0da-e436-11f1-bda4-8f9481ca9d62%26rx_job%3DR-0000193105%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Technician, Customer Service",
@@ -12209,7 +12458,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1003&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e93cf-e436-11f1-98c5-8f9481ca9d62%26rx_job%3DR-0000193074_1003%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1003&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dc278e00f-e520-11f1-b236-e138fd45f7ce%26rx_job%3DR-0000193074_1003%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -12427,7 +12676,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1002&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e88be-e436-11f1-9e80-8f9481ca9d62%26rx_job%3DR-0000193074_1002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T000412Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074_1002&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e88be-e436-11f1-9e80-8f9481ca9d62%26rx_job%3DR-0000193074_1002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -12600,7 +12849,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e71d8-e436-11f1-a802-8f9481ca9d62%26rx_job%3DR-0000193074%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T000412Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193074&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193074%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D180e71d8-e436-11f1-a802-8f9481ca9d62%26rx_job%3DR-0000193074%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -14693,7 +14942,7 @@
 "years": null
 },
 {
-"title": "Consultant MarTech spécialisé en Salesforce Data Cloud",
+"title": "Consultant MarTech spécialisé en Salesforce Data 360 Cloud",
 "company": "Accenture",
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-19",
@@ -19174,6 +19423,86 @@
 "years": null
 },
 {
+"title": "Junior BAS Technician - FIFO 14/14",
+"company": "Convergint",
+"location": "Fort McMurray, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492736678",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer II",
+"company": "TD",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492734603",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python Developer",
+"company": "Siri InfoSolutions, Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492182488",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Angular Sénior (100% télétravail au Québec)",
+"company": "Genius Solutions",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492158940",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Engineer",
+"company": "StackAdapt",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492725229",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Programmer",
+"company": "AGAT Laboratories",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4490153500",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Engineer",
+"company": "StackAdapt",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492709607",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Fullstack Developer",
+"company": "Pacer Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491659261",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -20701,7 +21030,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01889557&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01889557%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Deb4be404-e3c0-11f1-9040-993ca28fa6db%26rx_job%3D01889557%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T220404Z%26rx_vp%3Dcpc"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01889557&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01889557%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Deb4be404-e3c0-11f1-9040-993ca28fa6db%26rx_job%3D01889557%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020405Z%26rx_vp%3Dcpc"
 },
 {
 "title": "Field Service Representative - Biomolecular, Genomics, and Cell Analysis Instrumentation - Toronto",
@@ -21550,7 +21879,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695580-2494-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695580-2494%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D739ca9a0-e458-11f1-8dfa-9d702fe06d74%26rx_job%3D200695580-2494-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T000412Z%26rx_vp%3Dcpc"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695580-2494-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695580-2494%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D739ca9a0-e458-11f1-8dfa-9d702fe06d74%26rx_job%3D200695580-2494-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T020408Z%26rx_vp%3Dcpc"
 },
 {
 "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
