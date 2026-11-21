@@ -1,16 +1,27 @@
 {
-"updated": "2026-11-21T00:51:49+00:00",
+"updated": "2026-11-21T01:01:50+00:00",
 "jobs": [
 {
-"title": "Security Engineer (MSP or MSSP Experience Required)",
-"company": "Generation IX Technologies, Inc.",
-"location": "Remote · United States",
+"title": "Plant Layout Engineer/ Specialist",
+"company": "Thelis Greenhouse Technologies",
+"location": "Pitt Meadows, BC, CA",
 "posted": "2026-11-21",
-"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
+"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
 "source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+},
+{
+"title": "Sales Administrator (Mandarin-Speaking)",
+"company": "Vicostone canada inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
 },
 {
 "title": "Business Analyst",
@@ -25,26 +36,15 @@
 "part_time": true
 },
 {
-"title": "Sales Administrator (Mandarin-Speaking)",
-"company": "Vicostone canada inc",
-"location": "Port Coquitlam, BC, CA",
+"title": "Security Engineer (MSP or MSSP Experience Required)",
+"company": "Generation IX Technologies, Inc.",
+"location": "Remote · United States",
 "posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=a6a91f1603b9da8b",
+"link": "https://www.indeed.com/viewjob?jk=23367d5dc3263e5d",
 "source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/sales-administrator-mandarin-speaking-a6a91f1603b9da8b"
-},
-{
-"title": "Plant Layout Engineer/ Specialist",
-"company": "Thelis Greenhouse Technologies",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-21",
-"link": "https://ca.indeed.com/viewjob?jk=ab1c8f2423644151",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/plant-layout-engineer-specialist-ab1c8f2423644151"
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/security-engineer-msp-or-mssp-experience-required-23367d5dc3263e5d"
 },
 {
 "title": "Personnel Security Officer",
@@ -8554,17 +8554,6 @@
 "country": "CA",
 "years": 1,
 "apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680651/CATALIS/Data-Migration-Specialist-12-Month-Contract?source=Indeed_Feed"
-},
-{
-"title": "Service Desk Agent (Temporary - 12 months)",
-"company": "Hydro Ottawa",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-19",
-"link": "https://ca.indeed.com/viewjob?jk=443b5945c09e0411",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://hydroottawa.wd3.myworkdayjobs.com/en-US/hydro_ottawa_careersite/job/Ottawa-ON/Service-Desk-Agent--Temporary---12-months-_R005419-1"
 },
 {
 "title": "Engineering Student – AI/ML Specialist - Winter 2027",
@@ -18500,6 +18489,16 @@
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4484135434",
 "source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Desk Agent (Temporary - 12 months)",
+"company": "Hydro Ottawa",
+"location": "Ottawa, ON",
+"posted": "2026-11-19",
+"link": "https://hydroottawa.wd3.myworkdayjobs.com/hydro_ottawa_careersite/job/Ottawa-ON/Service-Desk-Agent--Temporary---12-months-_R005419-1",
+"source": "Hydro Ottawa careers",
 "country": "CA",
 "years": null
 },
