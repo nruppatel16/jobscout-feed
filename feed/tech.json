@@ -1,38 +1,16 @@
 {
-"updated": "2026-11-22T09:43:54+00:00",
+"updated": "2026-11-22T09:53:54+00:00",
 "jobs": [
 {
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
-},
-{
-"title": "Integration Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/9nm711us3us"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
@@ -46,15 +24,37 @@
 "apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
 },
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
+},
+{
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
 "title": "Business Systems Analyst",
@@ -6615,17 +6615,6 @@
 "country": "US",
 "years": null,
 "apply": "https://jobs.ashbyhq.com/PrimeIntellect/93783399-a5cc-4037-853e-824cf0ad1aeb"
-},
-{
-"title": "Scorecard Reporting Analyst",
-"company": "BMO Financial Group",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=0887cf8742b2270e",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Scorecard-Reporting-Analyst_R260031276"
 },
 {
 "title": "Software Quality Automation Analyst",
@@ -16007,16 +15996,6 @@
 "years": null
 },
 {
-"title": "Developer - Data, AI, Platform & Support",
-"company": "BMO",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-20",
-"link": "https://www.linkedin.com/jobs/view/4493224074",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
 "title": "Ingénieur·e en données – Sécurité des actifs/Data Engineer – Asset Security",
 "company": "ALTEN Canada",
 "location": "Montreal, Quebec, Canada",
@@ -17795,6 +17774,56 @@
 "years": null
 },
 {
+"title": "Developer - Data, AI, Platform & Support",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-20",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Developer---Data--AI--Platform---Support_R260031252",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator - (Windows and Unix-Linux environments/ Automation/ AWS)",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-20",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Systems-Administrator----Windows-and-Unix-Linux-environments--Automation--AWS-_R260028831",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scorecard Reporting Analyst",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-20",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Scorecard-Reporting-Analyst_R260031276",
+"source": "BMO careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Quality Engineer /SRE",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-20",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quality-Engineer--SRE_R260032197",
+"source": "BMO careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "AI Software Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-20",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Software-Engineer_R260032207",
+"source": "BMO careers",
+"country": "CA",
+"years": 3
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -18447,17 +18476,6 @@
 "apply": "https://i8is.zohorecruit.ca/jobs/Careers/5829000008639429/UX-Designer-Intermediate?source=Indeed"
 },
 {
-"title": "AI Software Engineer",
-"company": "BMO Financial Group",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-19",
-"link": "https://ca.indeed.com/viewjob?jk=7af970ac9c0eb325",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/AI-Software-Engineer_R260032092"
-},
-{
 "title": "Application Developer (Data Specialist)",
 "company": "",
 "location": "Toronto, ON, CA (remote)",
@@ -18524,17 +18542,6 @@
 "apply": "http://ca.indeed.com/job/software-test-engineer-96273d1c1c51d9fe"
 },
 {
-"title": "Quality Engineer /SRE",
-"company": "BMO Financial Group",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-19",
-"link": "https://ca.indeed.com/viewjob?jk=7d99776602882c3a",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quality-Engineer--SRE_R260032100"
-},
-{
 "title": "Data Engineer – Enterprise Data Engineering, Data Science and Informatica",
 "company": "Data intuition",
 "location": "Brampton, ON, CA",
@@ -18564,17 +18571,6 @@
 "source": "Job Bank",
 "country": "CA",
 "years": 3
-},
-{
-"title": "Investment Banking Associate, Technology",
-"company": "BMO Financial Group",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-19",
-"link": "https://ca.indeed.com/viewjob?jk=2d136cc96b448f02",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Investment-Banking-Associate--Technology_R260025057"
 },
 {
 "title": "BA Power Platform Functional Consultant",
@@ -28281,16 +28277,6 @@
 "years": null
 },
 {
-"title": "AI Engineer",
-"company": "BMO",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-19",
-"link": "https://www.linkedin.com/jobs/view/4492462614",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
 "title": "Développeur(euse) en IA appliquée",
 "company": "GO ROCK IT",
 "location": "Montreal, Quebec, Canada",
@@ -31630,6 +31616,36 @@
 "source": "Job Bank",
 "country": "CA",
 "years": 3
+},
+{
+"title": "Investment Banking Associate, Technology",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-19",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Investment-Banking-Associate--Technology_R260025057",
+"source": "BMO careers",
+"country": "CA",
+"years": 4
+},
+{
+"title": "Associate, Corporate Banking, North American Power, Utilities and Infrastructure",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-19",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Corporate-Banking--North-American-Power--Utilities-and-Infrastructure_R260031720",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-19",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer_R260029413",
+"source": "BMO careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Software Engineer, Collections Infra",
