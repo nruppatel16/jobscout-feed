@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T23:31:58+00:00",
+"updated": "2026-11-22T23:41:59+00:00",
 "jobs": [
 {
 "title": "Learning Solutions Specialist",
@@ -591,6 +591,39 @@
 "country": "CA",
 "years": 2,
 "apply": "http://ca.indeed.com/job/sales-administrator-51deb58b55ed0eca"
+},
+{
+"title": "B2B Telecommunications Sales Representative — SDR to Account Executive",
+"company": "tB3",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=03308d96d5f37275",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/b2b-telecommunications-sales-representative-sdr-account-executive-03308d96d5f37275"
+},
+{
+"title": "Junior Software Developer",
+"company": "SlickDevs.com",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=c4c6b5c2a02ec931",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/junior-software-developer-c4c6b5c2a02ec931"
+},
+{
+"title": "Intermediate Architectural Technologist",
+"company": "KPlex",
+"location": "North York, ON, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=31cfbb27f467475c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/intermediate-architectural-technologist-31cfbb27f467475c"
 },
 {
 "title": "Business Systems Analyst",
@@ -5235,6 +5268,46 @@
 "location": "",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4493283761",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supply Chain Performance Reporting Assistant (Term for a period of up to 6 months)",
+"company": "Vancouver Fraser Port Authority",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4478011355",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Geomatics Technician",
+"company": "Canadian Armed Forces | Forces armées canadiennes",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4451216889",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur·e / Concepteur·trice de solutions",
+"company": "NūMove Robotics & Vision",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493299663",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Outside Technical Sales Representative",
+"company": "Hoskin Scientific Limited",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493238328",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -22270,6 +22343,17 @@
 "years": null
 },
 {
+"title": "Salesforce Functional Consultant",
+"company": "Ness Digital Engineering",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=233a0f2dff2b80d4",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://ness-usa.ttcportals.com/jobs/18506565-salesforce-functional-consultant?tm_job=9662&tm_event=view&tm_company=48372"
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -22530,16 +22614,6 @@
 "source": "OPG careers",
 "country": "CA",
 "years": 2
-},
-{
-"title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
-"company": "Microsoft",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-19T23:45:08+00:00",
-"link": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
-"source": "Microsoft careers",
-"country": "CA",
-"years": null
 }
 ]
 }
