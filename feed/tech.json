@@ -1,38 +1,16 @@
 {
-"updated": "2026-11-22T09:33:55+00:00",
+"updated": "2026-11-22T09:43:54+00:00",
 "jobs": [
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
-},
-{
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
 "title": "Integration Engineer",
@@ -46,15 +24,37 @@
 "apply": "https://grnh.se/9nm711us3us"
 },
 {
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Business Systems Analyst",
@@ -1623,6 +1623,66 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4492862633",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Eaton",
+"location": "Fort McMurray, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483438293",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Eaton",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483440274",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "iOS Engineer - SE3",
+"company": "eBay",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4474874273",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492876217",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer in Test II (Python)",
+"company": "Akamai Technologies",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4478004641",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Tax Technology Analyst, e- Invoicing",
+"company": "lululemon",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483917018",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -17710,6 +17770,26 @@
 "location": "Markham, Ontario, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4475445935",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicieen(ne) de service en chantier (sous terre)/Field Service Technician (Underground)",
+"company": "Sandvik",
+"location": "Val-d’Or, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4427379351",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Semantic Model and Cube Developer at Mississauga, ON (Hybrid)",
+"company": "Zodiac Solutions, Inc",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491945308",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
