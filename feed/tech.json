@@ -1,16 +1,27 @@
 {
-"updated": "2026-11-22T03:05:12+00:00",
+"updated": "2026-11-22T03:15:12+00:00",
 "jobs": [
 {
-"title": "Integration Engineer",
-"company": "Oddball",
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://grnh.se/9nm711us3us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+},
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
 },
 {
 "title": "Data Engineer",
@@ -24,15 +35,15 @@
 "apply": "https://grnh.se/yjoj28f03us"
 },
 {
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
+"title": "Integration Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
 "source": "Indeed",
 "country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
 },
 {
 "title": "Linux Desktop Engineer",
@@ -16523,6 +16534,26 @@
 "years": null
 },
 {
+"title": "Client Data Analyst II",
+"company": "Mosaic North America",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4483411593",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Soho Square Solutions",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4490807515",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -30326,6 +30357,17 @@
 "country": "CA",
 "years": null,
 "apply": "https://www.glencore.com/fr/careers/jobs/FD%2000306226"
+},
+{
+"title": "QA Auditor Canada",
+"company": "First Advantage",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=e4d16c0840fc9198",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://firstadvantage.wd5.myworkdayjobs.com/FirstAdvantage/job/CA_Alberta_Virtual/QA-Auditor-Canada_R10718-1"
 },
 {
 "title": "Software Engineer, Collections Infra",
