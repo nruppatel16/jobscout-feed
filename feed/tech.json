@@ -1,36 +1,82 @@
 {
-"updated": "2026-11-22T13:03:55+00:00",
+"updated": "2026-11-22T13:13:54+00:00",
 "jobs": [
 {
-"title": "Financial security advisor",
-"company": "Vigilis Solutions Collectives Inc.",
-"location": "Laval, Quebec, Canada",
-"posted": "2026-11-22",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780809",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business systems consultant",
-"company": "Revenu Québec",
-"location": "Québec, Quebec, Canada",
-"posted": "2026-11-22",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780817",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "AI Data Quality Specialist-Davina Group",
-"company": "",
+"title": "Computer Support Specialist-Journeyman",
+"company": "NuAxis Innovations",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=e7d0719da7f7100a",
+"link": "https://www.indeed.com/viewjob?jk=c605932916979b7a",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/jNFd87g8Wm/AI-Data-Quality-SpecialistDavina-Group?source=INDE&~"
+"apply": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/viewRequisition?org=NUAXINNO&cws=39&rid=4305"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+},
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Data Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
+},
+{
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
+},
+{
+"title": "Operations Support Specialist-Davina Group",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bcfdc787525548ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/LZK6ICW3h6/Operations-Support-SpecialistDavina-Group?source=INDE&~"
 },
 {
 "title": "Customer Support Specialist-Davina Group",
@@ -45,81 +91,35 @@
 "french": true
 },
 {
-"title": "Operations Support Specialist-Davina Group",
+"title": "AI Data Quality Specialist-Davina Group",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bcfdc787525548ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/LZK6ICW3h6/Operations-Support-SpecialistDavina-Group?source=INDE&~"
-},
-{
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=e7d0719da7f7100a",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/jNFd87g8Wm/AI-Data-Quality-SpecialistDavina-Group?source=INDE&~"
 },
 {
-"title": "Integration Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
+"title": "Business systems consultant",
+"company": "Revenu Québec",
+"location": "Québec, Quebec, Canada",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/9nm711us3us"
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780817",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
+"title": "Financial security advisor",
+"company": "Vigilis Solutions Collectives Inc.",
+"location": "Laval, Quebec, Canada",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
-},
-{
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
-},
-{
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
-},
-{
-"title": "Computer Support Specialist-Journeyman",
-"company": "NuAxis Innovations",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=c605932916979b7a",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/viewRequisition?org=NUAXINNO&cws=39&rid=4305"
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780809",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
 "title": "Business Systems Analyst",
@@ -2128,6 +2128,126 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4493281266",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Project Administrator (12 Month Contract)",
+"company": "BGIS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4457659243",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste d’affaires, applications commerciales",
+"company": "Groupe CH",
+"location": "Montréal-Ouest, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477807925",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Professional Services Consultant - Implementation Specialist",
+"company": "Global Payments Inc.",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4441467912",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Machine Learning Operations Developer, AI/ML Platform",
+"company": "Autodesk",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4476849690",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer - Platform Services",
+"company": "Nokia",
+"location": "Kanata, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4474847590",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire – Développement de solutions intelligence artificielle",
+"company": "Lassonde",
+"location": "Rougemont, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468820795",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 (12-16 Months)",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4463563060",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Disputes Platform)",
+"company": "Affirm",
+"location": "Kelowna, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492855922",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer – Research & Development",
+"company": "Octasic",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4491994760",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Operations Specialist",
+"company": "Athennian",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493288239",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Nuclear QA Engineer",
+"company": "Flowserve Corporation",
+"location": "Woodbridge, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4421876551",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Sales, Crushing and Screening Solutions",
+"company": "Metso",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492868850",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
