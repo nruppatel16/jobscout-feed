@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T01:55:13+00:00",
+"updated": "2026-11-22T02:05:12+00:00",
 "jobs": [
 {
 "title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
@@ -11,6 +11,16 @@
 "country": "US",
 "years": 2,
 "apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Linux Desktop Engineer",
+"company": "Celestica",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-22T02:00:00+00:00",
+"link": "https://careers.celestica.com/job/Toronto-Linux-Desktop-Engineer-ON/1406161033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Celestica careers",
+"country": "CA",
+"years": 3
 },
 {
 "title": "Diagnostic imaging technologist",
@@ -10924,16 +10934,6 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492923691",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Linux Desktop Engineer",
-"company": "Celestica",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-20",
-"link": "https://www.linkedin.com/jobs/view/4484531927",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -30172,97 +30172,6 @@
 "country": "CA",
 "years": null,
 "french": true
-},
-{
-"title": "Intern, Systems Integration, Avionics (Winter 2027)",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4S 2A9",
-"posted": "2026-11-19T02:01:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-Systems-Integration%2C-Avionics-%28Winter-2027%29-Qu%C3%A9b-H4S-2A9/1450053533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Intern, Research & Technology - EcoJet Project Engineering Management (Winter 2027)",
-"company": "Bombardier",
-"location": "Mississauga, ON, CA, L5S 1W1",
-"posted": "2026-11-19T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Mississauga-Intern%2C-Research-&-Technology-EcoJet-Project-Engineering-Management-%28Winter-2027%29-ON-L5S-1W1/1440257533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Professional, Engineering - Engineering Digital Transformation Specialist",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-19T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Engineering-Engineering-Digital-Transformation-Specialist-Qu%C3%A9b-H4S-1Y9/1380077633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 5,
-"french": true
-},
-{
-"title": "Experienced Airframe and Powerplant (A&P) Technician - Overnight Shift",
-"company": "Bombardier",
-"location": "Windsor Locks, CT, US, 06096-1086",
-"posted": "2026-11-19T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Windsor-Locks-Experienced-Airframe-and-Powerplant-%28A&P%29-Technician-Overnight-Shift-CT-06096-1086/1440279033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Scotia Jarislowsky Fraser Portfolio Administrator (Vancouver)",
-"company": "Scotiabank",
-"location": "Vancouver, BC, CA, V6B4N7",
-"posted": "2026-11-19T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Vancouver-Scotia-Jarislowsky-Fraser-Portfolio-Administrator-%28Vancouver%29-BC-V6B4N7/606026917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Client Solutions Advisor - Wye Road, Sherwood Park, Alberta",
-"company": "Scotiabank",
-"location": "Sherwood Park, AB, CA, T8A4N5",
-"posted": "2026-11-19T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Sherwood-Park-Client-Solutions-Advisor-Wye-Road%2C-Sherwood-Park%2C-Alberta-AB-T8A4N5/607228017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "OT Systems/Applications Design",
-"company": "Celestica",
-"location": "Newmarket, ON, CA",
-"posted": "2026-11-19T02:00:00+00:00",
-"link": "https://careers.celestica.com/job/Newmarket-OT-SystemsApplications-Design-ON/1449844033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Celestica careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Student Intern, SCM Data Analyst",
-"company": "Celestica",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-19T02:00:00+00:00",
-"link": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-SCM-Data-Analyst-ON/1449998233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Celestica careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Client Solutions Advisor - Rochdale Station, Regina Saskatchewan",
-"company": "Scotiabank",
-"location": "Regina, SK, CA, S4X4N9",
-"posted": "2026-11-19T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Regina-Client-Solutions-Advisor-Rochdale-Station%2C-Regina-Saskatchewan-SK-S4X4N9/607229317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null
 }
 ]
 }
