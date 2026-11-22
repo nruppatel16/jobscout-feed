@@ -1,38 +1,16 @@
 {
-"updated": "2026-11-22T08:44:44+00:00",
+"updated": "2026-11-22T08:53:55+00:00",
 "jobs": [
 {
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
-},
-{
-"title": "Integration Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/9nm711us3us"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
@@ -46,15 +24,37 @@
 "apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
 },
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
+},
+{
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
 "title": "Business Systems Analyst",
@@ -309,16 +309,6 @@
 "country": "CA",
 "years": 5,
 "apply": "http://ca.indeed.com/job/windows-server-administrator-cb8955119953ae4f"
-},
-{
-"title": "Embedded Software Developer - New Grad",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-11-21",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
 },
 {
 "title": "Architecte de solutions et analyste d’affaires – Cybersécurité",
@@ -1408,26 +1398,6 @@
 "years": null
 },
 {
-"title": "ASIC DFT Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-21",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "ASIC Product Design Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-21",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
 "title": "IT Support Specialist",
 "company": "Talent Edge",
 "location": "Burnaby, British Columbia, Canada",
@@ -1978,6 +1948,36 @@
 "source": "Amplitude careers",
 "country": "US",
 "years": null
+},
+{
+"title": "Embedded Software Developer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-20",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "ASIC DFT Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "ASIC Product Design Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Infrastructure Analyst",
@@ -17294,16 +17294,6 @@
 "years": null
 },
 {
-"title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
-"company": "NVIDIA",
-"location": "Canada, Toronto",
-"posted": "2026-11-20",
-"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
-"source": "NVIDIA careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Foundation Leader - Technology and Organizational Improvement",
 "company": "SelfDesign Learning Foundation",
 "location": "Vancouver, British Columbia, Canada",
@@ -18075,6 +18065,16 @@
 "source": "Ramp careers",
 "country": "US",
 "years": 3
+},
+{
+"title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
+"company": "NVIDIA",
+"location": "Canada, Toronto",
+"posted": "2026-11-19",
+"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
+"source": "NVIDIA careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Enterprise Account Executive, Tableau",
