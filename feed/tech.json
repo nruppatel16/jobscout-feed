@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T17:03:04+00:00",
+"updated": "2026-11-22T17:13:05+00:00",
 "jobs": [
 {
 "title": "Diagnostic radiological technologist",
@@ -173,6 +173,17 @@
 "country": "CA",
 "years": 2,
 "apply": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Canada---Quebec---Montreal/IT-Technical-Support-Tech_R-111217-1"
+},
+{
+"title": "Modern Workplace Support Engineer",
+"company": "",
+"location": "Whitby, ON, CA (remote)",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=90961a7b6bd2e87f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/modern-workplace-support-engineer-90961a7b6bd2e87f"
 },
 {
 "title": "Business Systems Analyst",
@@ -3321,6 +3332,190 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4483468915",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en exploitation et support bureautique de niveau sénior",
+"company": "Groupe Tehora",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=7040757266b72a0c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruit.zoho.com/recruit/ViewJob.na?digest=wzVkhPSJlCIeU3h@7uWaNtLPF6xMKW6CpuPaZwM@pJE-&embedsource=Indeed",
+"french": true
+},
+{
+"title": "Analyste en exploitation et support bureautique de niveau sénior",
+"company": "Groupe Tehora",
+"location": "Lévis, QC, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=defa99ea970a2639",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruit.zoho.com/recruit/ViewJob.na?digest=wzVkhPSJlCIeU3h@7uWaNuehWGWNy3P38v9sjhY8Dg0-&embedsource=Indeed",
+"french": true
+},
+{
+"title": "Business Systems Analyst",
+"company": "Altis",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492869197",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Support Technical Specialist",
+"company": "Jonas Club Software",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485370060",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Communicator - RCA / Failure Analysis",
+"company": "Toromont Cat",
+"location": "Bradford, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4436117825",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer",
+"company": "Capco",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4459615451",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Developer",
+"company": "Levata",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4484856629",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Developer – Microsoft Power Platform",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493103028",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Java/Spring intermédiaire",
+"company": "CGI",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485636063",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Backend Engineer – AI",
+"company": "Capco",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4478007087",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Azure Developer (Supply Chain Applications)",
+"company": "Cognizant",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485135437",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeuse / Développeur d'intégration",
+"company": "MaintainX",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485112730",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Power BI Developer",
+"company": "Synechron",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493107060",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft Solution Sales Executive",
+"company": "Softchoice",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4467576376",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur.se d’outils / Tools Developer (Apex Legends)",
+"company": "Respawn Entertainment",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4466608768",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Software Developer",
+"company": "ATS Industrial Automation",
+"location": "Woodbridge, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4476857160",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System Hardware Technician",
+"company": "Tenstorrent",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4484884031",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Wireless Sales Consultant",
+"company": "Staples Canada",
+"location": "Valleyfield, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485368552",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -20054,6 +20249,16 @@
 "location": "Moncton, New Brunswick, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492855066",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer",
+"company": "Clear Prism",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492827713",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
