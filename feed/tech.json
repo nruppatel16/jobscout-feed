@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-22T06:24:04+00:00",
+"updated": "2026-11-22T06:34:04+00:00",
 "jobs": [
 {
-"title": "Integration Engineer",
-"company": "Oddball",
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://grnh.se/9nm711us3us"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
@@ -35,15 +24,26 @@
 "apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
 },
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
 },
 {
 "title": "Linux Desktop Engineer",
@@ -1374,6 +1374,26 @@
 "years": null
 },
 {
+"title": "ASIC DFT Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "ASIC Product Design Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
+},
+{
 "title": "Spécialiste de la croissance des solutions de point de vente",
 "company": "Rogers",
 "location": "Ottawa, ON, CA",
@@ -1774,26 +1794,6 @@
 "source": "HP careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "ASIC DFT Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-20",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "ASIC Product Design Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-20",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
 },
 {
 "title": "Business Analyst",
