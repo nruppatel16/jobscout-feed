@@ -1,6 +1,28 @@
 {
-"updated": "2026-11-22T02:35:12+00:00",
+"updated": "2026-11-22T02:45:13+00:00",
 "jobs": [
+{
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
+},
+{
+"title": "Data Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/yjoj28f03us"
+},
 {
 "title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
 "company": "GReminders",
@@ -1113,6 +1135,27 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4492870098",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Telecommunications Client Service Associate",
+"company": "BEVCOMM",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=f66dd289210e6ed0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/telecommunications-client-service-associate-f66dd289210e6ed0"
+},
+{
+"title": "Développeur(euse) logiciel Back-End/DevOps",
+"company": "Mirego",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493229676",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -16395,6 +16438,86 @@
 "location": "Mississauga, Ontario, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4493218608",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System Administrator (Microsoft F&O)",
+"company": "Jonas Software",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477609093",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oracle EBS Financials Techno-Functional Consultant (AP/GL)",
+"company": "Raas Infotek",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492935584",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft 365 Application Operations Engineer",
+"company": "Apptoza Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491952982",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft 365 administrator",
+"company": "Apptoza Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491958717",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist",
+"company": "Motion Recruitment",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493203674",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data/AI/ML Engineering",
+"company": "Raas Infotek",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492994312",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist",
+"company": "Infotek Consulting Inc.",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491957654",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Machine Learning Engineer",
+"company": "Hays",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4489622464",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
