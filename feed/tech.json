@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-22T05:34:04+00:00",
+"updated": "2026-11-22T05:44:04+00:00",
 "jobs": [
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Integration Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
-},
-{
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+"apply": "https://grnh.se/9nm711us3us"
 },
 {
 "title": "Data Engineer",
@@ -35,15 +24,26 @@
 "apply": "https://grnh.se/yjoj28f03us"
 },
 {
-"title": "Integration Engineer",
-"company": "Oddball",
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://grnh.se/9nm711us3us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Linux Desktop Engineer",
@@ -1287,6 +1287,56 @@
 "location": "Oakville, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4491978998",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Coordinator",
+"company": "Actalent",
+"location": "Port Coquitlam, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493263170",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Software Developer",
+"company": "Work in Ottawa",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468252809",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst Co-op, Data Platform",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483913954",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Representative",
+"company": "GE HealthCare",
+"location": "Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493252398",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Representative",
+"company": "GE HealthCare",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493253391",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -16961,6 +17011,66 @@
 "location": "Halifax, Nova Scotia, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4493201092",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrator - 1 Year Term",
+"company": "Siemens",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476246728",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Deposit Administrator (12-Month Contract)",
+"company": "Peoples Group",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484530649",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) logiciel sénior - Cyber Intelligence",
+"company": "L3Harris Technologies",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4465400425",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) DevOps / DevSecOps",
+"company": "LGS, an IBM Company",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492958293",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketing Automation Developer (18-month contract)",
+"company": "Wealthsimple",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4475966887",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Test Development Engineer",
+"company": "SCIEX",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4489531168",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
