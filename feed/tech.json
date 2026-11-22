@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T19:31:58+00:00",
+"updated": "2026-11-22T19:41:58+00:00",
 "jobs": [
 {
 "title": "Diagnostic radiological technologist",
@@ -338,6 +338,106 @@
 "country": "US",
 "years": 5,
 "apply": "https://neon.justworks.com/jobs/f3fc0e93-2d4c-40d4-9752-7af87486350e-job?utm_source=indeed"
+},
+{
+"title": "Electronic Technician",
+"company": "Universal Pain Technology Canada Inc.",
+"location": "Prince George, BC, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=eb1eae8a0b54969f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/electronic-technician-eb1eae8a0b54969f",
+"french": true
+},
+{
+"title": "ServiceNow Business Analyst",
+"company": "TRI-GLOBAL SOLUTIONS GROUP INC.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=8e65d03c4fe56357",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://apply.tri-global.com/job/tri-global-solutions-group-inc-hybrid-toronto-ontario-5-servicenow-business-analyst/"
+},
+{
+"title": "Front Desk Administrator",
+"company": "Netcom Plus, LLC",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=e56c57a6d8a8b6e7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-administrator-e56c57a6d8a8b6e7"
+},
+{
+"title": "Full Stack Developer with DevOps",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=124c3fd700341ffb",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39792&hr_id=3897"
+},
+{
+"title": "AWS Cloud Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=e1fd5e3a7e3c4314",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39797&hr_id=3897"
+},
+{
+"title": "Oracle EBS Integration Developer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=e7ab91c55f74ba04",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39796&hr_id=3897"
+},
+{
+"title": "Python with Agentic AI Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=4041ee61cf40c620",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39788&hr_id=3897"
+},
+{
+"title": "QA Automation Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=827aff5eb675cb0a",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39791&hr_id=3897"
+},
+{
+"title": "Forward Deployed Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=a7697cbf0852b6c5",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39793&hr_id=3897"
 },
 {
 "title": "Business Systems Analyst",
@@ -4360,6 +4460,228 @@
 "location": "Coquitlam, British Columbia, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4450016398",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Front End Clerk Part Time Day",
+"company": "Loblaw",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=0370ecbf0b65e8da",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/front-end-clerk-part-time-day/job/R2000736049",
+"part_time": true
+},
+{
+"title": "Customer Support Specialist",
+"company": "MyDigitalWork",
+"location": "Granum, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493295474",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Science - Future Opportunities",
+"company": "Neo Financial",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468368095",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analytics Associate, CIB Business Management",
+"company": "TD",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485646325",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Funding and Data Officer",
+"company": "McConnell Foundation",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493286103",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur (Euse) Logiciel",
+"company": "Actalent",
+"location": "Longueuil, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493258301",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation / Controls Specialist - Days - New Brunswick",
+"company": "NPAworldwide",
+"location": "St Stephen, New Brunswick, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492882778",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste des systèmes (technicien sur le terrain, systèmes d’automatisation de bâtiment – solutions) - Halifax NS",
+"company": "Siemens",
+"location": "Dartmouth, Nova Scotia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485134523",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst - Internal Logistics",
+"company": "Bombardier",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4431228979",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst, Investly",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4448097006",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste de l'Assurance Qualité",
+"company": "L3Harris Technologies",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492888927",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IP Silicon Validation Engineer",
+"company": "AMD",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483495910",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Integration Specialist",
+"company": "GFL Environmental Inc.",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485636127",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Deployment Engineer - Counter UAS",
+"company": "Axon",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4440555702",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Quality Assurance - Suppliers",
+"company": "Bombardier",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4449946438",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) mécanique des Centre de Données / Data Center Mechanical Engineer",
+"company": "Microsoft",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493294069",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "General Repair Technician",
+"company": "BGIS",
+"location": "Orillia, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4448594326",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Hexagon Mining",
+"location": "Greater Sudbury, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4469257778",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) en architecture de solutions de sécurité",
+"company": "iA Financial Group (Industrial Alliance)",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485619931",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(se) logiciel(e) principale(e) Guidewire - Bilingue (FR/EN)",
+"company": "Intact",
+"location": "St-Hyacinthe, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4476228713",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Fullstack (Ads Platform)",
+"company": "Affirm",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4476866970",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Fullstack (Ads Platform)",
+"company": "Affirm",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4476885160",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -21204,6 +21526,26 @@
 "location": "",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4483099158",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Engineer",
+"company": "Raise",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493204513",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Utilities Technician",
+"company": "Leclerc Foods",
+"location": "Brockville, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4472320465",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
