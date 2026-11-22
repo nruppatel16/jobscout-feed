@@ -1,36 +1,93 @@
 {
-"updated": "2026-11-22T14:03:04+00:00",
+"updated": "2026-11-22T14:13:05+00:00",
 "jobs": [
 {
-"title": "Financial security advisor",
-"company": "Vigilis Solutions Collectives Inc.",
-"location": "Laval, Quebec, Canada",
-"posted": "2026-11-22",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780809",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business systems consultant",
-"company": "Revenu Québec",
-"location": "Québec, Quebec, Canada",
-"posted": "2026-11-22",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780817",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "AI Data Quality Specialist-Davina Group",
-"company": "",
+"title": "ServiceNow Developer",
+"company": "General Dynamics Information Technology",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=e7d0719da7f7100a",
+"link": "https://www.indeed.com/viewjob?jk=56c0792b2b5ec19c",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://www.gdit.com/careers/job/1726b8d83/servicenow-developer/"
+},
+{
+"title": "Computer Support Specialist-Journeyman",
+"company": "NuAxis Innovations",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=c605932916979b7a",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/jNFd87g8Wm/AI-Data-Quality-SpecialistDavina-Group?source=INDE&~"
+"apply": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/viewRequisition?org=NUAXINNO&cws=39&rid=4305"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+},
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Data Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
+},
+{
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
+},
+{
+"title": "Operations Support Specialist-Davina Group",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bcfdc787525548ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/LZK6ICW3h6/Operations-Support-SpecialistDavina-Group?source=INDE&~"
 },
 {
 "title": "Customer Support Specialist-Davina Group",
@@ -45,81 +102,35 @@
 "french": true
 },
 {
-"title": "Operations Support Specialist-Davina Group",
+"title": "AI Data Quality Specialist-Davina Group",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bcfdc787525548ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/LZK6ICW3h6/Operations-Support-SpecialistDavina-Group?source=INDE&~"
-},
-{
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=e7d0719da7f7100a",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/jNFd87g8Wm/AI-Data-Quality-SpecialistDavina-Group?source=INDE&~"
 },
 {
-"title": "Integration Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
+"title": "Business systems consultant",
+"company": "Revenu Québec",
+"location": "Québec, Quebec, Canada",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/9nm711us3us"
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780817",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
+"title": "Financial security advisor",
+"company": "Vigilis Solutions Collectives Inc.",
+"location": "Laval, Quebec, Canada",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
-},
-{
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
-},
-{
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
-},
-{
-"title": "Computer Support Specialist-Journeyman",
-"company": "NuAxis Innovations",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=c605932916979b7a",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/viewRequisition?org=NUAXINNO&cws=39&rid=4305"
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780809",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
 "title": "Business Systems Analyst",
@@ -2408,6 +2419,76 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4484861638",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Programmeur.euse IA - R6 SIEGE",
+"company": "Ubisoft Montréal",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483475758",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "TTG Technology",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477441239",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel Microsoft Dynamics CE / Power Platform",
+"company": "CGI",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485619951",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Retail IT Systems Administrator",
+"company": "Parkland Corporation",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483482447",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Center Technician",
+"company": "Groq",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477608178",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Clinical Trial Web Application Developer",
+"company": "Everest Clinical Research",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477873938",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Specialist- Circuit Breakers and OEM Integration",
+"company": "Eaton",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4474813902",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -9169,7 +9250,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T120408Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140407Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
 },
 {
 "title": "Software Developer",
@@ -9664,7 +9745,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T120402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
 },
 {
 "title": "IT Network Engineer II",
@@ -11133,7 +11214,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T120402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
 },
 {
 "title": "Hindi AI Evaluation Specialist (Singaporean Dialect)",
@@ -11535,7 +11616,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01877798_rxr-1&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01877798%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3D9941e75f-e542-11f1-9409-0b2a9c1bdc80%26rx_job%3D01877798_rxr-1%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Cjob-refresh%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T100405Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01877798_rxr-1&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01877798%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3D9941e75f-e542-11f1-9409-0b2a9c1bdc80%26rx_job%3D01877798_rxr-1%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Cjob-refresh%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140405Z%26rx_vp%3Dcpc",
 "french": true
 },
 {
@@ -15766,7 +15847,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T120433Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140412Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
 },
 {
 "title": "Développeur(se) logiciel",
@@ -18804,6 +18885,37 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4491961177",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Media Specialist",
+"company": "Rush Street Interactive",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=d9f9360927fb8bd7",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://grnh.se/schyzxd24us"
+},
+{
+"title": "Intermediate System Verification and Evaluation Specialist",
+"company": "SCIEX",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491329905",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Technician (Printers/Copiers/Scanner)",
+"company": "Xerox",
+"location": "Prince Albert, Saskatchewan, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4476202386",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
