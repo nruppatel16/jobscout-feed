@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T02:05:12+00:00",
+"updated": "2026-11-22T02:15:13+00:00",
 "jobs": [
 {
 "title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
@@ -21,6 +21,37 @@
 "source": "Celestica careers",
 "country": "CA",
 "years": 3
+},
+{
+"title": "Technologist, Manufacturing Engineering",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-11-22T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Technologist%2C-Manufacturing-Engineering-Qu%C3%A9b-H4R-1K2/1431229833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null,
+"french": true
+},
+{
+"title": "Client Solutions Advisor - Lakeshore Centre, Kelowna, BC",
+"company": "Scotiabank",
+"location": "Kelowna, BC, CA, V1W3S9",
+"posted": "2026-11-22T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Kelowna-Client-Solutions-Advisor-Lakeshore-Centre%2C-Kelowna%2C-BC-BC-V1W3S9/601423517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer (Data Modeling/Data Governance)",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M2H0A1",
+"posted": "2026-11-22T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/Tangerine/job/Toronto-Data-Engineer-%28Data-ModelingData-Governance%29-ON-M2H0A1/606471417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Diagnostic imaging technologist",
@@ -1051,6 +1082,37 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4493223900",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SALES ANALYTICS & ENABLEMENT ANALYST",
+"company": "Green Shield Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=e7ece28b9c2f5d38",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://greenshield.csod.com/ux/ats/careersite/4/home/requisition/2751?c=greenshield&lang[0]=en-US&lang[1]=en-US&lang[2]=fr-FR&lang[3]=en-US"
+},
+{
+"title": "Gestionnaire de données II- FR",
+"company": "Altasciences",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4486078128",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Functional Analyst - SAP FICO | Analyste fonctionnel - SAP FICO",
+"company": "Groupe Avversita",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492870098",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -7803,7 +7865,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T000406Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T020407Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
 },
 {
 "title": "Software Developer",
@@ -8298,7 +8360,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T020402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
 },
 {
 "title": "IT Network Engineer II",
@@ -9767,7 +9829,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T020402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
 },
 {
 "title": "Hindi AI Evaluation Specialist (Singaporean Dialect)",
@@ -10169,7 +10231,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01877798_rxr-1&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01877798%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3D9941e75f-e542-11f1-9409-0b2a9c1bdc80%26rx_job%3D01877798_rxr-1%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Cjob-refresh%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261121T220407Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01877798_rxr-1&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01877798%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3D9941e75f-e542-11f1-9409-0b2a9c1bdc80%26rx_job%3D01877798_rxr-1%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Cjob-refresh%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T020406Z%26rx_vp%3Dcpc",
 "french": true
 },
 {
@@ -14400,7 +14462,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T000413Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T020420Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
 },
 {
 "title": "Développeur(se) logiciel",
@@ -16323,6 +16385,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4484259430",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Specialist - Services",
+"company": "Vertiv",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493218608",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
