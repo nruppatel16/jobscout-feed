@@ -1,38 +1,50 @@
 {
-"updated": "2026-11-22T11:33:55+00:00",
+"updated": "2026-11-22T11:43:55+00:00",
 "jobs": [
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "AI Data Quality Specialist-Davina Group",
+"company": "",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=e7d0719da7f7100a",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/jNFd87g8Wm/AI-Data-Quality-SpecialistDavina-Group?source=INDE&~"
 },
 {
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
+"title": "Customer Support Specialist-Davina Group",
+"company": "",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"link": "https://www.indeed.com/viewjob?jk=ec6eb494cf1a8d98",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/merwZ3xs3R/Customer-Support-SpecialistDavina-Group?source=INDE&~",
+"french": true
+},
+{
+"title": "Operations Support Specialist-Davina Group",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bcfdc787525548ec",
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/LZK6ICW3h6/Operations-Support-SpecialistDavina-Group?source=INDE&~"
 },
 {
-"title": "Data Engineer",
-"company": "Oddball",
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
 "title": "Integration Engineer",
@@ -46,15 +58,37 @@
 "apply": "https://grnh.se/9nm711us3us"
 },
 {
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Business Systems Analyst",
@@ -1813,6 +1847,106 @@
 "location": "(remote)",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4477448694",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en science des données",
+"company": "Loto-Québec",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4491284461",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Time Field Service/Install Rep",
+"company": "The Beer Store",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492809355",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Equipment Technician | Edmonton, Canada",
+"company": "Vixxo Facility Solutions",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4466031824",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician - Canada",
+"company": "Cypress HCM",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4467567073",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "FY27 Intern - AI Software Engineering Co-op - Canada (4 months)",
+"company": "Qualcomm",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4484851679",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, BI Developer",
+"company": "Parkland Corporation",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483907571",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Professional Services Executive",
+"company": "Siemens Healthineers",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4474884350",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Data Quality & Governance",
+"company": "Four Seasons",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4461219922",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Detection (TOR)",
+"company": "Doppel",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4410328240",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Eaton",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483442286",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18009,6 +18143,106 @@
 "location": "Burnaby, British Columbia, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4482243629",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Underground Field Service Technician",
+"company": "Komatsu",
+"location": "Timmins, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4440308995",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician, Machine Tools",
+"company": "Source Atlantic Limited",
+"location": "British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4483842975",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Trailer Technician",
+"company": "Day & Ross",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493212367",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Wind Service Technician/Technicien d’entretien – Énergie éolienne",
+"company": "Siemens Gamesa",
+"location": "Murdochville, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4448530710",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste des données et de l'analytique, Marchés et Opérations bancaires",
+"company": "Bank of Canada",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491872277",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Repair Technician I",
+"company": "Olympus Corporation",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4483084710",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer",
+"company": "Great Value Hiring",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4474297698",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Full Stack Developer",
+"company": "J&M Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492986731",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer | Remote",
+"company": "Crossing Hurdles",
+"location": "(remote)",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484504582",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineer - Fridge",
+"company": "Trane Technologies",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492864018",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
