@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T21:01:59+00:00",
+"updated": "2026-11-22T21:11:59+00:00",
 "jobs": [
 {
 "title": "Diagnostic radiological technologist",
@@ -504,6 +504,39 @@
 "country": "US",
 "years": null,
 "apply": "http://www.indeed.com/job/ai-sales-marketing-automation-specialist-fdbf3a4df507cfe0"
+},
+{
+"title": "Coding and AI Teacher",
+"company": "Leap Learning Centre",
+"location": "Brampton, ON, CA (remote)",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=3541a50d6d0dee52",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/coding-and-ai-teacher-3541a50d6d0dee52",
+"part_time": true
+},
+{
+"title": "Web developer",
+"company": "Starlight Trading Co., Ltd.",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-11-22",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50782553",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Bi-lingual Insurance Sales Representative",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=5047e2b37292f20c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://app.idealtraits.com/career/Allstate-Agency-of-Tony-Strang/380508IND"
 },
 {
 "title": "Business Systems Analyst",
@@ -4828,6 +4861,46 @@
 "location": "Markham, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4449108641",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en exploitation et support bureautique junior",
+"company": "TEHORA inc.",
+"location": "Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493290465",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Product Tester",
+"company": "Calian Group",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4458310174",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Tester",
+"company": "TEKsystems",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493233631",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(se) en IA",
+"company": "Wepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485110409",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -21768,6 +21841,27 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Order Processing Administrator",
+"company": "Abacus Brands Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492858247",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Customer Technical Support Representative",
+"company": "Johnson Controls",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=fe922e498ca62444",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://click.appcast.io/t/wXhNDtx_eVUoFfasURrI7X6N8fGB6ODAYZDSFHJFyY0="
 },
 {
 "title": "Intermediate Software Developer, DevOps",
