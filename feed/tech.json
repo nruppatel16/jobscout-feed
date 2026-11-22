@@ -1,38 +1,16 @@
 {
-"updated": "2026-11-22T07:54:03+00:00",
+"updated": "2026-11-22T08:04:03+00:00",
 "jobs": [
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
-},
-{
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
 "title": "Integration Engineer",
@@ -46,15 +24,47 @@
 "apply": "https://grnh.se/9nm711us3us"
 },
 {
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+},
+{
+"title": "Business Systems Analyst",
+"company": "PCL Construction",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-22T08:00:00+00:00",
+"link": "https://careers.pcl.com/job/Edmonton-Business-Systems-Analyst-AB/1434125800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "PCL Construction careers",
+"country": "CA",
+"years": 3
 },
 {
 "title": "Linux Desktop Engineer",
@@ -1183,16 +1193,6 @@
 "years": null
 },
 {
-"title": "Infrastructure Analyst",
-"company": "NAV CANADA",
-"location": "Ottawa",
-"posted": "2026-11-21",
-"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Infrastructure-Analyst_JR-8653",
-"source": "NAV CANADA careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Software Engineer I, Fullstack (Disputes Platform)",
 "company": "Affirm",
 "location": "Regina, Saskatchewan, Canada",
@@ -1927,6 +1927,16 @@
 "link": "https://jobs.ashbyhq.com/amplitude/cc52ed40-7eb9-426d-8684-9c124140aab2",
 "source": "Amplitude careers",
 "country": "US",
+"years": null
+},
+{
+"title": "Infrastructure Analyst",
+"company": "NAV CANADA",
+"location": "Ottawa",
+"posted": "2026-11-20",
+"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Infrastructure-Analyst_JR-8653",
+"source": "NAV CANADA careers",
+"country": "CA",
 "years": null
 },
 {
@@ -31359,37 +31369,6 @@
 "source": "Notion careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Network Designer",
-"company": "Rogers",
-"location": "Montreal, QC, CA",
-"posted": "2026-11-19T08:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Montreal-Network-Designer-QC/1442485500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Network Designer",
-"company": "Rogers",
-"location": "Brampton, ON, CA",
-"posted": "2026-11-19T08:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Brampton-Network-Designer-ON/1442527900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Engagement Support Analyst, Audit Central Team (12-18 month contract)",
-"company": "Deloitte",
-"location": "Montreal, QC, CA, H3B 4T9",
-"posted": "2026-11-19T08:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Montreal%2C-QC-Engagement-Support-Analyst%2C-Audit-Central-Team-%2812-18-month-contract%29-QC-H3B-4T9/1442203900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": null,
-"french": true
 }
 ]
 }
