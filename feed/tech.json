@@ -1,6 +1,17 @@
 {
-"updated": "2026-11-22T01:05:13+00:00",
+"updated": "2026-11-22T01:15:13+00:00",
 "jobs": [
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
 {
 "title": "Diagnostic imaging technologist",
 "company": "NL Health Services",
@@ -958,6 +969,58 @@
 "location": "Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4486122485",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Platform",
+"company": "BIOBOX",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=f1dbebfe7758421c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.ashbyhq.com/biobox/d8f46016-d745-4589-9a7b-2397088c9098?utm_source=5MeJNdKDxJ"
+},
+{
+"title": "Intermediate Instrumentation and Controls Engineer-Water",
+"company": "Stantec",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-21",
+"link": "https://ca.indeed.com/viewjob?jk=6a6656e5c897b2c6",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://rr.jobsyn.org/FC506063B98548999BA0DEADB85D413F1554"
+},
+{
+"title": "Développeur(euse) Fullstack",
+"company": "Mirego",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493228845",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Computer Operations Operator",
+"company": "Pomeroy",
+"location": "Longueuil, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4491969795",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) Fullstack",
+"company": "Mirego",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493244322",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -15978,6 +16041,108 @@
 "location": "Pointe-Claire, Quebec, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4477491954",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Solutions Consultant (EST)",
+"company": "Paychex, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=be6172d1ec90143c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.paychex.com/careers/jobs/50446/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Application Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=403d90d74a8c5da6",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671923/Forgent/Application-Engineer?source=Indeed_Feed"
+},
+{
+"title": "Experienced Intermediate Software Engineer, Ruby on Rails",
+"company": "SureSwift Capital",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492842098",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Developer Advisory",
+"company": "Scotiabank",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4465913909",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Quality Assurance",
+"company": "Bombardier",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4440878477",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Language Rater - AI Voice (French Canadian)",
+"company": "HCLTech",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492856263",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst",
+"company": "MethodHub",
+"location": "Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492995540",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Development Tester - On Call",
+"company": "XQA",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492990208",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur ou développeuse Drupal",
+"company": "Alithya",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4465390099",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer",
+"company": "Hanalytica GmbH",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4482709091",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
