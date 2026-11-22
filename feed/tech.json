@@ -1,93 +1,57 @@
 {
-"updated": "2026-11-22T14:33:05+00:00",
+"updated": "2026-11-22T14:43:05+00:00",
 "jobs": [
 {
-"title": "ServiceNow Developer",
-"company": "General Dynamics Information Technology",
+"title": "Technical Intelligence Analyst",
+"company": "City of Fayetteville, NC",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=56c0792b2b5ec19c",
+"link": "https://www.indeed.com/viewjob?jk=ebbcd1b8a9558e32",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://www.gdit.com/careers/job/1726b8d83/servicenow-developer/"
+"years": 3,
+"apply": "https://www.governmentjobs.com/careers/fayetteville/jobs/5555806/technical-intelligence-analyst"
 },
 {
-"title": "Computer Support Specialist-Journeyman",
-"company": "NuAxis Innovations",
-"location": "Remote · United States",
+"title": "Rope access technician (RAT)",
+"company": "BUNGEE ACCESS",
+"location": "Vancouver, British Columbia, Canada",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=c605932916979b7a",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/viewRequisition?org=NUAXINNO&cws=39&rid=4305"
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50781540",
+"source": "Job Bank",
+"country": "CA",
+"years": 0
 },
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
-"location": "Remote · United States",
+"title": "Financial security advisor",
+"company": "Vigilis Solutions Collectives Inc.",
+"location": "Laval, Quebec, Canada",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780809",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
+"title": "Business systems consultant",
+"company": "Revenu Québec",
+"location": "Québec, Quebec, Canada",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780817",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
-},
-{
-"title": "Integration Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/9nm711us3us"
-},
-{
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
-},
-{
-"title": "Operations Support Specialist-Davina Group",
+"title": "AI Data Quality Specialist-Davina Group",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bcfdc787525548ec",
+"link": "https://www.indeed.com/viewjob?jk=e7d0719da7f7100a",
 "source": "Indeed",
 "country": "US",
-"years": 2,
-"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/LZK6ICW3h6/Operations-Support-SpecialistDavina-Group?source=INDE&~"
+"years": null,
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/jNFd87g8Wm/AI-Data-Quality-SpecialistDavina-Group?source=INDE&~"
 },
 {
 "title": "Customer Support Specialist-Davina Group",
@@ -102,35 +66,92 @@
 "french": true
 },
 {
-"title": "AI Data Quality Specialist-Davina Group",
+"title": "Operations Support Specialist-Davina Group",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=e7d0719da7f7100a",
+"link": "https://www.indeed.com/viewjob?jk=bcfdc787525548ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/LZK6ICW3h6/Operations-Support-SpecialistDavina-Group?source=INDE&~"
+},
+{
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://davinagroupindustrialsupply.applytojob.com/apply/jNFd87g8Wm/AI-Data-Quality-SpecialistDavina-Group?source=INDE&~"
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
-"title": "Business systems consultant",
-"company": "Revenu Québec",
-"location": "Québec, Quebec, Canada",
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780817",
-"source": "Job Bank",
-"country": "CA",
-"years": null
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
 },
 {
-"title": "Financial security advisor",
-"company": "Vigilis Solutions Collectives Inc.",
-"location": "Laval, Quebec, Canada",
+"title": "Data Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780809",
-"source": "Job Bank",
-"country": "CA",
-"years": null
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+},
+{
+"title": "Computer Support Specialist-Journeyman",
+"company": "NuAxis Innovations",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=c605932916979b7a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/viewRequisition?org=NUAXINNO&cws=39&rid=4305"
+},
+{
+"title": "ServiceNow Developer",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=56c0792b2b5ec19c",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://www.gdit.com/careers/job/1726b8d83/servicenow-developer/"
 },
 {
 "title": "Business Systems Analyst",
@@ -2489,6 +2510,206 @@
 "location": "Burlington, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4474813902",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Windows Systems Administrator - L3",
+"company": "Global Relay",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485629304",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien(ne) en sécurité informatique",
+"company": "Commission de la construction du Québec",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4439474557",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Procurement & Supplier Analytics Associate (Hybrid) / Associé(e), Analytique de l'approvisionnement et des fournisseurs (hybride)",
+"company": "Morgan Stanley",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4457497561",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student Intern, Power Infrastructure - Pricing Management and Product Data Analysis",
+"company": "Celestica",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468037117",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)",
+"company": "Tower Research Capital",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468881757",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Disputes Platform)",
+"company": "Affirm",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492871304",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Engineering (Fabric Data Engineering)",
+"company": "Allstate Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4458304396",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Azure Databricks Engineer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492882860",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492860838",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492867479",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "WorkForce Suite Implementation Consultant / Consultant en implémentation WorkForce Suite",
+"company": "ADP",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492317161",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oracle EPM Analyst",
+"company": "Marsh",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485637564",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Integration Specialist",
+"company": "Modern Niagara",
+"location": "Nepean, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4440584902",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support Specialist, Credit Risk Technology",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4450380334",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Front Office – Analyste Développeur",
+"company": "Societe Generale",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483498087",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Management Control Tower Specialist",
+"company": "BNP Paribas",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4458019642",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SharePoint Administrator",
+"company": "Apex Systems",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493254749",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste d’affaires domaine TI",
+"company": "Exposant 3",
+"location": "Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4448433766",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity Advisor (GRC)",
+"company": "CGI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4474716389",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Engineer, Application Security",
+"company": "Sentry",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4459612291",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18916,6 +19137,56 @@
 "location": "Prince Albert, Saskatchewan, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4476202386",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft Dynamics 365 F&O Functional Analyst - Customer Service & Warehouse Management",
+"company": "Akkodis",
+"location": "Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492832731",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Project Management - Production Support (Winter 2027)",
+"company": "Bombardier",
+"location": "Pointe-Claire, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477434732",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Architecture (Cloud- AWS, Azure, GCP)",
+"company": "Q1 Technologies, Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491938189",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketing Technology Engineer",
+"company": "TRM Labs",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4459083034",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineer",
+"company": "Mitchell Martin Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491942036",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
