@@ -1,38 +1,16 @@
 {
-"updated": "2026-11-22T08:04:03+00:00",
+"updated": "2026-11-22T08:14:04+00:00",
 "jobs": [
 {
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
-},
-{
-"title": "Integration Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/9nm711us3us"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
@@ -46,15 +24,37 @@
 "apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
 },
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
+},
+{
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
 "title": "Business Systems Analyst",
@@ -65,6 +65,26 @@
 "source": "PCL Construction careers",
 "country": "CA",
 "years": 3
+},
+{
+"title": "Developer",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-22T08:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Developer-ON/1443403800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Directeur(rice), Projets d'infrastructure",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-11-22T08:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Directeur%28rice%29%2C-Projets-d'infrastructure-ON-M5H-0A9/1433938100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Linux Desktop Engineer",
@@ -8275,7 +8295,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T060522Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T080407Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
 },
 {
 "title": "Software Developer",
@@ -8770,7 +8790,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T060421Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T080403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
 },
 {
 "title": "IT Network Engineer II",
@@ -10239,7 +10259,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T060421Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T080403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
 },
 {
 "title": "Hindi AI Evaluation Specialist (Singaporean Dialect)",
@@ -14872,7 +14892,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T060557Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T080412Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
 },
 {
 "title": "Développeur(se) logiciel",
@@ -17093,26 +17113,6 @@
 "years": null
 },
 {
-"title": "Enterprise Account Executive, Tableau",
-"company": "Salesforce",
-"location": "2 Locations, Canada",
-"posted": "2026-11-20",
-"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto-Metro---Remote/Enterprise-Account-Executive--Tableau_JR369041-1",
-"source": "Salesforce careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Informatica Cloud Account Executive, MDM",
-"company": "Salesforce",
-"location": "2 Locations, Canada",
-"posted": "2026-11-20",
-"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Montreal/Informatica-Cloud-Account-Executive--MDM_JR365287",
-"source": "Salesforce careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Business Intelligence Engineer (Azure / Fabric, Power BI)",
 "company": "Lindfast Solutions Group",
 "location": "Remote · United States",
@@ -17539,6 +17539,77 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492821290",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Inabia Software & Consulting Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50769776",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist / Spécialiste – Red Hat OpenShift et Kubernetes - NETE",
+"company": "Weir",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4418764289",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Developer - Platform & Infrastructure",
+"company": "MaintainX",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4475452773",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Representative, Advisory Services",
+"company": "Ontario Medical Association",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4431256563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Rep",
+"company": "BSH Home Appliances",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=cf0d816741feeb5c",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/viewRequisition?org=BSHHOME&cws=43&rid=10581"
+},
+{
+"title": "System Administrator",
+"company": "Mitchell Martin Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491929505",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Technology Service Management Consultant",
+"company": "Encore Technical Solutions Inc.",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492985979",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -17984,6 +18055,26 @@
 "source": "Ramp careers",
 "country": "US",
 "years": 3
+},
+{
+"title": "Enterprise Account Executive, Tableau",
+"company": "Salesforce",
+"location": "2 Locations, Canada",
+"posted": "2026-11-19",
+"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto-Metro---Remote/Enterprise-Account-Executive--Tableau_JR369041-1",
+"source": "Salesforce careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Informatica Cloud Account Executive, MDM",
+"company": "Salesforce",
+"location": "2 Locations, Canada",
+"posted": "2026-11-19",
+"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Montreal/Informatica-Cloud-Account-Executive--MDM_JR365287",
+"source": "Salesforce careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Water/Wastewater Application Engineer",
