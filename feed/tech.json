@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-22T04:34:04+00:00",
+"updated": "2026-11-22T04:44:03+00:00",
 "jobs": [
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Integration Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
-},
-{
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+"apply": "https://grnh.se/9nm711us3us"
 },
 {
 "title": "Data Engineer",
@@ -35,15 +24,26 @@
 "apply": "https://grnh.se/yjoj28f03us"
 },
 {
-"title": "Integration Engineer",
-"company": "Oddball",
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://grnh.se/9nm711us3us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Linux Desktop Engineer",
@@ -862,7 +862,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/BtHXCnbi-i3KBIMrsVJG9o7JD6QWj0u_0ipvMKXAjy4#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/UDua_H_7YE4g1J7tIMAI_pArCKkZiW_fgALX74ookKc#.job_boards.Indeed"
 },
 {
 "title": "RQ11694 - Oracle EPM Specialist /Consultant - Toronto - Onsite",
@@ -873,7 +873,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/4yPUhrncu83jCXayqb9-hzEr6GpT3fub8nxQlrslh8w#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/fOjT0WKqvDoQB1nutxiXVaGR72nKx30g9bS9HGR_FAY#.job_boards.Indeed"
 },
 {
 "title": "CLDRSRC10479 - Siebel Developer/Specialist/Consultant - Toronto",
@@ -884,7 +884,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/KNTR4ZMJgidu_nZEONyqhQTyrEXDhXFnvQVrN-8bgIk#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/cmxc81Bn9AjifJLEoIzJpHE8yOccclhOfaRKHzz-DV4#.job_boards.Indeed"
 },
 {
 "title": "Professional Engineering - Air Systems/Pneumatics - Pool Posting",
@@ -1210,6 +1210,17 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Engineer II, Process Controls Automation",
+"company": "Phillips 66",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=5bc112861ed868b0",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers.phillips66.com/job/Houston-Engineer-II%2C-Process-Controls-Automation-TX-77042/1452748700/"
 },
 {
 "title": "Spécialiste de la croissance des solutions de point de vente",
@@ -5343,7 +5354,7 @@
 },
 {
 "title": "Microsoft 365 Specialist",
-"company": "",
+"company": "Goway Travel",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-20",
 "link": "https://ca.indeed.com/viewjob?jk=f39566ff6ecf5dc6",
@@ -6175,7 +6186,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/Aq5RzyR8xCMMDOexLxk-zfVVsvHjzbGHfxoYO89506U#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/wzxY--t0EvZGS2XZArJWNXh3VpViUNZ39H3Vjxc0J5A#.job_boards.Indeed"
 },
 {
 "title": "Treasury Business Analyst",
@@ -6186,7 +6197,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/U3IfauCOCgZwhvxQn4TqVj7ckxoTSAOzfe12Fu909WI#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/fTTmKiLVEhDyLQGTOwiP9iXsSQzV2SjWCwEGD98-I_A#.job_boards.Indeed"
 },
 {
 "title": "CS Business Analyst (16 Month Temporary Assignment Contract)",
@@ -8542,7 +8553,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/sqP3Ux0OKib367wFmW0kNBJfGtii8loxiySI9LMtGVY#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/qrM9xBxnw1O7zEJPJ_r17aaZQeTj-bbemZkJXAiE25A#.job_boards.Indeed"
 },
 {
 "title": "Data Migration Specialist",
@@ -8629,7 +8640,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/LvF2AsWPdO5HUOaQWo8cjFhE9oWg9o1Hr4_sQcEWzuI#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/WtzKJki6ZCgS6toL8yn2rDyAUjGJhCGPgz6WurAniVc#.job_boards.Indeed"
 },
 {
 "title": "Agricultural Science Research Technician",
@@ -16793,6 +16804,47 @@
 "posted": "2026-11-20",
 "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Montreal/Informatica-Cloud-Account-Executive--MDM_JR365287",
 "source": "Salesforce careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Intelligence Engineer (Azure / Fabric, Power BI)",
+"company": "Lindfast Solutions Group",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=6fdf54d0f27993d8",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://lindfastgrp.com/careers/#"
+},
+{
+"title": "End User Services Engineer (Windows & macOS Support)",
+"company": "AceStack",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492857093",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste des ventes technologiques - Programme de ventes pour débutants 2027/ Technology Seller - Entry Level Sales Program",
+"company": "IBM",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4483049965",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Vendor Programs Administrator",
+"company": "Hypertec Group",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4485275447",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
