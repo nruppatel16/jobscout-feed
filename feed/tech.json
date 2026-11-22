@@ -1,27 +1,27 @@
 {
-"updated": "2026-11-22T06:34:04+00:00",
+"updated": "2026-11-22T06:44:04+00:00",
 "jobs": [
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
+"title": "Integration Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
 "source": "Indeed",
 "country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
 },
 {
 "title": "Data Engineer",
@@ -35,15 +35,26 @@
 "apply": "https://grnh.se/yjoj28f03us"
 },
 {
-"title": "Integration Engineer",
-"company": "Oddball",
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://grnh.se/9nm711us3us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Linux Desktop Engineer",
@@ -1392,6 +1403,46 @@
 "source": "Cisco careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "IT Support Specialist",
+"company": "Talent Edge",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4445210411",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire, Paie et Analyse de Données",
+"company": "Saputo Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4491972435",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Dynamics 365 Customer Engagement (D365 CE) Platform Administrator",
+"company": "Capgemini",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493243103",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste informatique - VB.net / C#",
+"company": "Hydro Québec",
+"location": "Chicoutimi, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4491421209",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Spécialiste de la croissance des solutions de point de vente",
@@ -17173,6 +17224,126 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492588885",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Engineer",
+"company": "TMT IT Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492819996",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student Intern, Aerospace and Defense, Material Pricing and Product Data",
+"company": "Celestica",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484585374",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Human resources and information technology (Winter 2027)",
+"company": "Bombardier",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4477448114",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Support Coordinator",
+"company": "Brandt Group of Companies",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492996770",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Success Coordinator",
+"company": "STRIDE Management Corp",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4485280976",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Technology Business Analyst",
+"company": "PEOPLE FORCE CONSULTING INC",
+"location": "Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492173160",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "MONTRÉAL | [HYBRID] – Middleware File Transfer Engineer",
+"company": "QUANTEAM - North America (RAINBOW PARTNERS Group)",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491963331",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Intelligence Analyst - Operation Performance Analytics",
+"company": "Intact",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4484163268",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "PowerBI Developer - Banking/Capital market exp at Mississauga, ON (Hybrid)",
+"company": "Zodiac Solutions, Inc",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491950035",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data & Analytics Specialist (Markets & Banking)",
+"company": "Bank of Canada",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4490897919",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) IA en déploiement avancé// Forward Deployed Engineer, AI Trust and Reliability",
+"company": "Jobgether",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492569279",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Systems Specialist",
+"company": "SCIEX",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4482241697",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
