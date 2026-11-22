@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T23:01:59+00:00",
+"updated": "2026-11-22T23:11:58+00:00",
 "jobs": [
 {
 "title": "Learning Solutions Specialist",
@@ -580,6 +580,17 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/web-and-digital-media-designer-a95f89ad7a72e756"
+},
+{
+"title": "Sales Administrator",
+"company": "R. McKenzie Enterprises",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=51deb58b55ed0eca",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/sales-administrator-51deb58b55ed0eca"
 },
 {
 "title": "Business Systems Analyst",
@@ -5194,6 +5205,36 @@
 "location": "",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4485394926",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Security Analyst",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492897876",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technician 2",
+"company": "Aggreko",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477457848",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) électrique de centres de données /Data Center Electrical Engineer",
+"company": "Microsoft",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493283761",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
