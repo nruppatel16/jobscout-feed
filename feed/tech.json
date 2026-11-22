@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T20:01:59+00:00",
+"updated": "2026-11-22T20:11:58+00:00",
 "jobs": [
 {
 "title": "Diagnostic radiological technologist",
@@ -288,7 +288,7 @@
 {
 "title": "Mobile Developer",
 "company": "Dallas Independent School District",
-"location": "Toronto, ON, CA (remote)",
+"location": "Remote, CA",
 "posted": "2026-11-22",
 "link": "https://ca.indeed.com/viewjob?jk=e7f64ac3ff0b4511",
 "source": "Indeed",
@@ -438,6 +438,50 @@
 "country": "US",
 "years": 1,
 "apply": "https://roboticstechno.com/view_job?mode=apply&id=39793&hr_id=3897"
+},
+{
+"title": "WordPress / WooCommerce & Shopify Web Developer",
+"company": "Starlight Trading Co., Ltd.",
+"location": "Richmond, BC, CA (remote)",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=1ce64a023b18e0fe",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/wordpress-woocommerce-shopify-web-developer-1ce64a023b18e0fe"
+},
+{
+"title": "Security systems technician",
+"company": "24 and 7 / Shell",
+"location": "Sylvan Lake, Alberta, Canada",
+"posted": "2026-11-22",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50782498",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "UI developer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=158d76f2452209db",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39790&hr_id=3897"
+},
+{
+"title": "Mobile App Developer (Cross-Platform)",
+"company": "Eventhogs",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=c6ef06b27efe0810",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/mobile-app-developer-cross-platform-c6ef06b27efe0810",
+"part_time": true
 },
 {
 "title": "Business Systems Analyst",
@@ -4682,6 +4726,46 @@
 "location": "Edmonton, Alberta, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4476885160",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Technology Leader",
+"company": "Honeywell Technologies",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477822993",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Azure Databricks Platform engineer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493102041",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Account Executive - Identity - Canada",
+"company": "Workday",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483478281",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste d'affaires TI",
+"company": "Onepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483906683",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -11443,7 +11527,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T180418Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3312&rx_jobId=JR-2026-01370805_20261120&rx_url=https%3A%2F%2Fjobs.chipotle.ca%2Fen%2Fjob%2F-%2F-%2F282%2F100944675520%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D142364%26rx_id%3D0b5a8d03-e521-11f1-9089-7dec47474d99%26rx_job%3DJR-2026-01370805_20261120%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T200412Z%26rx_vp%3Dcpc%26source%3DRecruiticsIndeedOrganic%26src%3DJB-10063"
 },
 {
 "title": "Software Developer",
@@ -11938,7 +12022,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T180402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T200405Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
 },
 {
 "title": "IT Network Engineer II",
@@ -13407,7 +13491,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T180402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T200405Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
 },
 {
 "title": "Hindi AI Evaluation Specialist (Singaporean Dialect)",
@@ -18040,7 +18124,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T180428Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T200424Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
 },
 {
 "title": "Développeur(se) logiciel",
@@ -21551,6 +21635,26 @@
 "years": null
 },
 {
+"title": "Healthcare IT Consultants – Clinical Applications, Integration & Finance Systems",
+"company": "ChabezTech LLC",
+"location": "Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491966485",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data/AI/ML Engineerin",
+"company": "Raas Infotek",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492980912",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -21929,16 +22033,6 @@
 "posted": "2026-11-19T15:24:42-05:00",
 "link": "https://instacart.careers/job/?gh_jid=8403432",
 "source": "Instacart careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "AI Developer",
-"company": "OpenText",
-"location": "Richmond Hill, Ontario, CAN",
-"posted": "2026-11-19T20:08:24+00:00",
-"link": "https://careers.opentext.com/us/en/job/OPJOPEUS54346EXTERNALENUS",
-"source": "OpenText careers",
 "country": "CA",
 "years": null
 }
