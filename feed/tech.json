@@ -1,38 +1,16 @@
 {
-"updated": "2026-11-22T10:33:54+00:00",
+"updated": "2026-11-22T10:43:55+00:00",
 "jobs": [
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
-},
-{
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
 "title": "Integration Engineer",
@@ -46,15 +24,37 @@
 "apply": "https://grnh.se/9nm711us3us"
 },
 {
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Business Systems Analyst",
@@ -893,7 +893,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/UDua_H_7YE4g1J7tIMAI_pArCKkZiW_fgALX74ookKc#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/22v7SR-Vd4Ref3GODbQs-zMXoBjGgttoiuPNQHE9Zyk#.job_boards.Indeed"
 },
 {
 "title": "RQ11694 - Oracle EPM Specialist /Consultant - Toronto - Onsite",
@@ -904,7 +904,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/fOjT0WKqvDoQB1nutxiXVaGR72nKx30g9bS9HGR_FAY#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/1JuFy2Z-bIKIJkiVuOWrjgzfcZJviE2RY2lEmoiIitg#.job_boards.Indeed"
 },
 {
 "title": "CLDRSRC10479 - Siebel Developer/Specialist/Consultant - Toronto",
@@ -915,7 +915,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/cmxc81Bn9AjifJLEoIzJpHE8yOccclhOfaRKHzz-DV4#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/7OHGGmm2A1aZmKKGXjeOffXnTiDpJfL3i4tu3bwtqjc#.job_boards.Indeed"
 },
 {
 "title": "Professional Engineering - Air Systems/Pneumatics - Pool Posting",
@@ -1713,6 +1713,56 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4427353815",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Engineer (Remote - Montreal)",
+"company": "Dynatrace",
+"location": "Québec, Quebec, Canada (remote)",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4460322513",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Field Service Specialist - Medical Device/Diagnostics - Northern British Columbia/Prince George",
+"company": "Werfen",
+"location": "Prince George, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468670342",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant TLM Support / Consultant (e), soutien de gestion de temps (TLM)",
+"company": "ADP",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483918922",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support Analyst - Remote",
+"company": "Duck Creek Technologies",
+"location": "(remote)",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4466934441",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel SAP SD",
+"company": "LGS, an IBM Company",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4423086287",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -6690,7 +6740,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/wzxY--t0EvZGS2XZArJWNXh3VpViUNZ39H3Vjxc0J5A#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/bs3G3DZzjN2SwL7GXu_jBNWH8VwMwQKiLv83zgHJMV8#.job_boards.Indeed"
 },
 {
 "title": "Treasury Business Analyst",
@@ -6701,7 +6751,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/fTTmKiLVEhDyLQGTOwiP9iXsSQzV2SjWCwEGD98-I_A#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/1NOU8w9wa0gBQ-eP5-eeClcWVVmuRx9HGUFbLizi52A#.job_boards.Indeed"
 },
 {
 "title": "CS Business Analyst (16 Month Temporary Assignment Contract)",
@@ -9057,7 +9107,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/qrM9xBxnw1O7zEJPJ_r17aaZQeTj-bbemZkJXAiE25A#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/_t0EjUWSvlj38tUEOfxK_TQzTfpI-m8I8E1Iu1BrE4E#.job_boards.Indeed"
 },
 {
 "title": "Data Migration Specialist",
@@ -9144,7 +9194,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/WtzKJki6ZCgS6toL8yn2rDyAUjGJhCGPgz6WurAniVc#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/D3mg4621DNKWrl1ci92k_-GckMpG5uPnNq5WymBZOWQ#.job_boards.Indeed"
 },
 {
 "title": "Agricultural Science Research Technician",
@@ -17852,6 +17902,56 @@
 "source": "BMO careers",
 "country": "CA",
 "years": 3
+},
+{
+"title": "Application Engineer - Mining",
+"company": "Veolia | North America",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492859147",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Optical Technical Sales Consultant",
+"company": "Nokia",
+"location": "Kanata, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4465557095",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Java Engineer",
+"company": "Miratech",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491927849",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual LLM Generative AI Developer",
+"company": "TELUS Health",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493232009",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Gestionnaire de projets TI",
+"company": "Akkodis",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4458634734",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Intermediate Software Developer, DevOps",
