@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T17:33:04+00:00",
+"updated": "2026-11-22T17:43:04+00:00",
 "jobs": [
 {
 "title": "Diagnostic radiological technologist",
@@ -184,6 +184,29 @@
 "country": "CA",
 "years": 3,
 "apply": "http://ca.indeed.com/job/modern-workplace-support-engineer-90961a7b6bd2e87f"
+},
+{
+"title": "Quality Assurance (QA) Analyst",
+"company": "Pollard Banknote Limited",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=d7628477bf8e68a7",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/quality-assurance-qa-analyst-d7628477bf8e68a7"
+},
+{
+"title": "SAP Operations Clerk Part Time Day",
+"company": "Real Canadian Superstore",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=cc791f532ae39522",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/sap-operations-clerk-part-time-day/job/R2000736294",
+"part_time": true
 },
 {
 "title": "Business Systems Analyst",
@@ -3516,6 +3539,156 @@
 "location": "Valleyfield, Quebec, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4485368552",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
+"company": "Cohere",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4404282852",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant, Cybersecurity",
+"company": "KPMG Canada",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485357685",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support & Training Specialist – HVAC/R",
+"company": "Copeland",
+"location": "Brantford, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4466928842",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Engineer, LLMs and Autonomous Agents (R&D) - Canada",
+"company": "Ascend",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4438738893",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur de logiciels / Software Developer",
+"company": "Tower Research Capital",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477616685",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492862827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Core java, Apache Spark, Python",
+"company": "Tata Consultancy Services",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493102054",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
+"company": "Cohere",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4297045435",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Test Engineer",
+"company": "Actalent",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493262189",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer",
+"company": "CGI",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485627458",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Integrations Developer",
+"company": "MaintainX",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485102774",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Professionnel de l'ingénierie - Intégrateur.trice de système de carburant / Engineering Professional - Fuel System Integrator",
+"company": "Airbus",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4469229731",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Reliability Engineer",
+"company": "Tailscale",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4438035237",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Concepteur d'architecture-applications-II_AES",
+"company": "LGS, an IBM Company",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477830936",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Security Consultant",
+"company": "Maple Leaf Foods Inc",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4484866611",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -20259,6 +20432,46 @@
 "location": "Greater Toronto Area, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492827713",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QTest Technical Consultant",
+"company": "Themesoft Inc.",
+"location": "",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492990107",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "FinOps Specialist - Cloud Cost & Technology Spend Analytics",
+"company": "Akkodis",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4486910105",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) systèmes et infrastructure ferroviaires",
+"company": "setec",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492996869",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Specialist, Real Property Management",
+"company": "Defence Construction Canada",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492841607",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
