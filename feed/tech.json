@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-22T03:35:12+00:00",
+"updated": "2026-11-22T03:45:13+00:00",
 "jobs": [
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Integration Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
-},
-{
-"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
-"company": "GReminders",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+"apply": "https://grnh.se/9nm711us3us"
 },
 {
 "title": "Data Engineer",
@@ -35,15 +24,26 @@
 "apply": "https://grnh.se/yjoj28f03us"
 },
 {
-"title": "Integration Engineer",
-"company": "Oddball",
+"title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
+"company": "GReminders",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"link": "https://www.indeed.com/viewjob?jk=b1d4900ebe4180ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
+},
+{
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://grnh.se/9nm711us3us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Linux Desktop Engineer",
@@ -1157,6 +1157,16 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4493229676",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Contact Center Solutions Integrator (Genesys Cloud) / Intégrateur de solutions pour centres de contact (Genesys Cloud)",
+"company": "CallTower",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492870138",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -16554,6 +16564,77 @@
 "years": null
 },
 {
+"title": "Bilingual Datacenter Technician",
+"company": "Compucom Staffing",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4487680928",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst - Finance / Analyste d'affaires - Finance-EN",
+"company": "Guillevin",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4417957937",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant, Food Safety and Quality Assurance",
+"company": "Intertek",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=fc8ae32cc71f019a",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://hcog.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/16364"
+},
+{
+"title": "Appian Platform Engineer",
+"company": "Resource Logistics Inc.",
+"location": "Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491937689",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeuses principales et développeurs principaux Full-stack",
+"company": "FCC / FAC",
+"location": "Prince Edward Island, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4431739800",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) en architecture de solution",
+"company": "Wepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492849485",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller en amélioration des processus et pratiques TI",
+"company": "IDEKA Services Conseils",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491933960",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Intermediate Software Developer, DevOps",
 "company": "Hootsuite",
 "location": "Calgary, Alberta, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada; Waterloo, Ontario, Canada",
@@ -25122,16 +25203,6 @@
 "years": null
 },
 {
-"title": "Bilingual Datacenter Technician",
-"company": "Compucom Staffing",
-"location": "Montreal, Quebec, Canada",
-"posted": "2026-11-19",
-"link": "https://www.linkedin.com/jobs/view/4487680928",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
 "title": "Field Service Representative - Thermal",
 "company": "Vertiv",
 "location": "Edmonton, Alberta, Canada",
@@ -30368,6 +30439,17 @@
 "country": "CA",
 "years": null,
 "apply": "https://firstadvantage.wd5.myworkdayjobs.com/FirstAdvantage/job/CA_Alberta_Virtual/QA-Auditor-Canada_R10718-1"
+},
+{
+"title": "ServiceNow System Administrator",
+"company": "TekSynap",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=a5262ee67211a78c",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://careers-teksynap.icims.com/jobs/9996/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
 },
 {
 "title": "Software Engineer, Collections Infra",
