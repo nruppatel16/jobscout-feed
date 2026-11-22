@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T20:31:59+00:00",
+"updated": "2026-11-22T20:41:59+00:00",
 "jobs": [
 {
 "title": "Diagnostic radiological technologist",
@@ -482,6 +482,28 @@
 "years": null,
 "apply": "http://www.indeed.com/job/mobile-app-developer-cross-platform-c6ef06b27efe0810",
 "part_time": true
+},
+{
+"title": "Founding Solutions Engineer, EMEA",
+"company": "ResolveAi",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=915b76651f180ed1",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.ashbyhq.com/ResolveAI/824ada24-e829-44b7-82cd-952dd60b121f?utm_source=1nxGlQpADQ"
+},
+{
+"title": "AI, Sales, Marketing & Automation Specialist",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=fdbf3a4df507cfe0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/ai-sales-marketing-automation-specialist-fdbf3a4df507cfe0"
 },
 {
 "title": "Business Systems Analyst",
@@ -4766,6 +4788,46 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4483906683",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Reporting Advisor",
+"company": "Raise",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493258328",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst, Systems & Data Transformation",
+"company": "HSB - Hartford Steam Boiler",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477855195",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste d'affaires TI",
+"company": "Wepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485104465",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineer",
+"company": "Qualcomm",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4449108641",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -21650,6 +21712,59 @@
 "location": "",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492980912",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Email Support Specialist Remote",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=2548fa83767e0fda",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.peoplematter.com/job/2091136?source=Indeed"
+},
+{
+"title": "PostgreSQL DBA",
+"company": "Apptoza Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4491956735",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Outpatient Coder-REMOTE",
+"company": "Garnet Health",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=f0acb29b26db38b0",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers-garnethealth-1199.icims.com/jobs/29540/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Service Technician",
+"company": "PrairieCoast Equipment",
+"location": "Nanaimo, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=a9f5f1911ab328ef",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/service-technician-a9f5f1911ab328ef"
+},
+{
+"title": "Platform Engineer",
+"company": "Hays",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4487291819",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
