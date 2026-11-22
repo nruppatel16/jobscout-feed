@@ -1,38 +1,16 @@
 {
-"updated": "2026-11-22T09:03:54+00:00",
+"updated": "2026-11-22T09:13:54+00:00",
 "jobs": [
 {
-"title": "Frontend Engineer - AI Trainer",
-"company": "Software Developer",
+"title": "Business Administrator",
+"company": "The Uncommon Heart",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
-},
-{
-"title": "Integration Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/9nm711us3us"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us"
+"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
 },
 {
 "title": "Fintech Wealth Mgmt SaaS B2B Account Exec",
@@ -46,15 +24,37 @@
 "apply": "http://www.indeed.com/job/fintech-wealth-mgmt-saas-b2b-account-exec-b1d4900ebe4180ec"
 },
 {
-"title": "Business Administrator",
-"company": "The Uncommon Heart",
+"title": "Data Engineer",
+"company": "Oddball",
 "location": "Remote · United States",
 "posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=bf8c2486508fbef5",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-bf8c2486508fbef5"
+"apply": "https://grnh.se/yjoj28f03us"
+},
+{
+"title": "Integration Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=ddf465a1a276247d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/9nm711us3us"
+},
+{
+"title": "Frontend Engineer - AI Trainer",
+"company": "Software Developer",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=cb7b126bf446fd15",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/frontend-engineer-ai-trainer-cb7b126bf446fd15"
 },
 {
 "title": "Business Systems Analyst",
@@ -1553,6 +1553,76 @@
 "location": "St. Victor, Saskatchewan, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4492876519",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Engineer, Patch Management (12 month contract)",
+"company": "TMX Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4440987508",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Disputes Platform)",
+"company": "Affirm",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492863704",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Disputes Platform)",
+"company": "Affirm",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492867478",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Disputes Platform)",
+"company": "Affirm",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492873264",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Disputes Platform)",
+"company": "Affirm",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492860845",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Disputes Platform)",
+"company": "Affirm",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492860842",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support & Product Specialist – Tax Software",
+"company": "Dexian",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492862633",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -17620,6 +17690,26 @@
 "location": "Greater Toronto Area, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492985979",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Modeler",
+"company": "VBeyond Corporation",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492959721",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technician Field Service",
+"company": "AVI-SPL Canada",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4475445935",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
