@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-23T19:27:20+00:00",
+"updated": "2026-11-23T19:37:19+00:00",
 "jobs": [
+{
+"title": "Electronics Technician",
+"company": "Tenstorrent",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23T14:31:49-05:00",
+"link": "https://job-boards.greenhouse.io/tenstorrent/jobs/5293993007",
+"source": "Tenstorrent careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Software Engineer II, Consumer",
 "company": "Toast",
@@ -2804,6 +2814,171 @@
 "part_time": true
 },
 {
+"title": "Software Developer II / Développeur logiciel sénior",
+"company": "Kronos Consulting",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=774a86f27484c982",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/software-developer-ii-d%C3%A9veloppeur-logiciel-s%C3%A9nior-774a86f27484c982"
+},
+{
+"title": "Software Development Student (4 Months) - Winter 2027",
+"company": "Canadian Tire Corporation, Ltd.",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=9a41218130a9c144",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/Software-Development-Student--4-Months----Winter-2027_JR168222"
+},
+{
+"title": "AVP, Data Governance",
+"company": "Pacific Life",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=4060582f8f742355",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.pacificlife.com/us/en/job/PLBPLAUSR18246EXTERNALENUS/AVP-Data-Governance?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Concepteur logiciel sénior",
+"company": "Haemonetics Corp.",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d25ebc021a8cc80c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://haemonetics.wd5.myworkdayjobs.com/en-US/HAE/job/Quebec-Canada/Concepteur-logiciel-snior_R11222"
+},
+{
+"title": "Field Service TechnicianField Service Technician - Part Time",
+"company": "Digital Business Systems Inc.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f97ead19add02e3b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://app.workwolf.com/pipelineLink/BL8P0WK0?utm_source=indeed"
+},
+{
+"title": "Medical Policy Business Analyst",
+"company": "Healthfirst",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=1291bd653d9fc984",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.healthfirst.org/careersmarketplace/ApplicationMethods?pipelineId=16574"
+},
+{
+"title": "Workday Reporting & Prism Analytics Consultant",
+"company": "Capgemini",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=1cbfcb365426327d",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://capgemini.talentnet.community/jobs/afda4eb8-ae95-415f-a66b-c01dca68df68"
+},
+{
+"title": "Oracle SCM Functional Consultant",
+"company": "BTSS Corp",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=a08e13218502fc4d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/oracle-scm-functional-consultant-a08e13218502fc4d"
+},
+{
+"title": "Advisor Data Analyst",
+"company": "Gainwell Technologies LLC",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=d81b9bcb69cf9df0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Data-Analyst-TX-99999/1453073900/"
+},
+{
+"title": "Analyst-Cyber Security",
+"company": "FedEx Freight",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=91e90031aee6b485",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.fedexfreight.com/jobs/RC6285?lang=en-us"
+},
+{
+"title": "QA Technician",
+"company": "Refresco",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d16844020dc904cd",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruiting.ultipro.com/REF1001RBUS/JobBoard/9dc59b6d-6dab-454e-883b-4c8c6d36d52d/OpportunityDetail?opportunityId=82bb9f95-e1b7-43f3-93f2-dcae66515dd1&postingId=6ba42eb5-7ad8-46fe-a70c-8ce35995a1a1"
+},
+{
+"title": "Epic Application Analyst Intermediate - Willow",
+"company": "Hennepin Healthcare",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=4522d12c83217cee",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://hcmc.taleo.net/careersection/1/jobdetail.ftl?job=261939&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Front Desk Specialist- USFTGP UMSA RCO Front End",
+"company": "Tampa General Hospital",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=4d19c59a937f3f6d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://tgh.taleo.net/careersection/ex/jobdetail.ftl?job=260004SR&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "IT Contract & Procurement Specialist",
+"company": "University of Pittsburgh",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=82fe3fb0cc8b1646",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://cfopitt.taleo.net/careersection/pitt_staff_external/jobdetail.ftl?job=26006955&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Ai Sales Executive",
+"company": "Elite Sales Consulting",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=9ffde11e2f9c2dfd",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/ai-sales-executive-9ffde11e2f9c2dfd"
+},
+{
 "title": "IT Auditor",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -3017,6 +3192,17 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 1
+},
+{
+"title": "Information Security Analyst II",
+"company": "Bell",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-23T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Mississauga-Information-Security-Analyst-II-ON/1453136000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers",
+"country": "CA",
+"years": 5,
+"french": true
 },
 {
 "title": "Learning Solutions Specialist",
@@ -5598,6 +5784,26 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4476855076",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "C++ Software Engineer Intern (UFC - Vancouver - Summer 2027 - 8-months)",
+"company": "EA SPORTS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4475286195",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant Cybersécurité (déploiement crowstrike et autres rôles)",
+"company": "Procom",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493509640",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
