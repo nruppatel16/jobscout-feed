@@ -1,16 +1,16 @@
 {
-"updated": "2026-11-23T01:30:47+00:00",
+"updated": "2026-11-23T01:40:48+00:00",
 "jobs": [
 {
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
 },
 {
 "title": "Junior CAD Technician",
@@ -22,6 +22,17 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+},
+{
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
 },
 {
 "title": "Learning Solutions Specialist",
@@ -705,6 +716,26 @@
 "location": "Greater Toronto Area, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4470021744",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Implementation Consultant",
+"company": "Samsara",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493311703",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Implementation Consultant",
+"company": "Samsara",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493308734",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -5522,6 +5553,56 @@
 "location": "Halifax, Nova Scotia, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4484708820",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Azure Digital Solution Area Specialist",
+"company": "Microsoft",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493289644",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Disputes Platform)",
+"company": "Affirm",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492862836",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Trainer",
+"company": "Toromont Cat",
+"location": "",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4457010959",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Materials Engineer / Materials Testing and Inspection Specialist",
+"company": "WSP in Canada",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4474839980",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Engineer, Design",
+"company": "Nubank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485373594",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -22566,6 +22647,17 @@
 "country": "US",
 "years": 5,
 "apply": "https://ness-usa.ttcportals.com/jobs/18506565-salesforce-functional-consultant?tm_job=9662&tm_event=view&tm_company=48372"
+},
+{
+"title": "Auto Mobile Associate",
+"company": "HUB International",
+"location": "Victoria, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=7e5f2bd911d83edd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.hubinternational.com/us/en/job/R0039692"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
