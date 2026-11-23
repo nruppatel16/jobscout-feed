@@ -1,6 +1,17 @@
 {
-"updated": "2026-11-23T00:30:47+00:00",
+"updated": "2026-11-23T00:40:48+00:00",
 "jobs": [
+{
+"title": "Junior CAD Technician",
+"company": "Burnum Industries",
+"location": "Diamond Valley, AB, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+},
 {
 "title": "Learning Solutions Specialist",
 "company": "KPMG",
@@ -636,6 +647,36 @@
 "years": null,
 "apply": "https://careers.loblaw.ca/sap-operations-clerk-part-time-day/job/R2000736412",
 "part_time": true
+},
+{
+"title": "Analyste en exploitation et support bureautique junior",
+"company": "TEHORA inc.",
+"location": "",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493312549",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Enterprise resource planning (ERP) analyst",
+"company": "Shah Trading Company Ltd",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-11-22",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50783391",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Analyste en exploitation et support bureautique de niveau sénior",
+"company": "TEHORA inc.",
+"location": "",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493313528",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Business Systems Analyst",
@@ -5420,6 +5461,16 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4477617542",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oracle ERP Compliance & Security Specialist",
+"company": "Maplesoft Group, an SEB Company",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485621724",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
