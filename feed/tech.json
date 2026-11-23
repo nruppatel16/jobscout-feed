@@ -1,16 +1,16 @@
 {
-"updated": "2026-11-23T01:50:48+00:00",
+"updated": "2026-11-23T02:00:47+00:00",
 "jobs": [
 {
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
 },
 {
 "title": "Junior CAD Technician",
@@ -24,15 +24,15 @@
 "apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
 },
 {
-"title": "Drupal Developer",
-"company": "Universal Health Hub",
-"location": "Markham, ON, CA (remote)",
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
 },
 {
 "title": "Learning Solutions Specialist",
@@ -22778,67 +22778,6 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 5
-},
-{
-"title": "Supervising Associate, Privacy and Data Protection (12-month contract)",
-"company": "EY",
-"location": "Toronto, ON, CA, M5H 0B3",
-"posted": "2026-11-20T02:01:00+00:00",
-"link": "https://careers.ey.com/ey/job/Toronto-Supervising-Associate%2C-Privacy-and-Data-Protection-%2812-month-contract%29-ON-M5H-0B3/1450505533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "EY careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Engineer",
-"company": "Toronto Hydro",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-20T02:00:00+00:00",
-"link": "https://jobs.torontohydro.com/job/Toronto-Engineer-ON/607276117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Toronto Hydro careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Professionnel·le, Livraison de solutions d'affaires PLM",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4S 2A9",
-"posted": "2026-11-20T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Professionnel%C2%B7le%2C-Livraison-de-solutions-d'affaires-PLM-Qu%C3%A9b-H4S-2A9/1440603433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Scrum Master-Global Payments Engineering",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M1K5L1",
-"posted": "2026-11-20T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Scrum-Master-Global-Payments-Engineering-ON-M1K5L1/605512017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Conseiller, Architecture de solutions",
-"company": "CMHC",
-"location": "Ottawa",
-"posted": "2026-11-20T02:00:00+00:00",
-"link": "https://careers.cmhc-schl.gc.ca/job/Ottawa-Conseiller%2C-Architecture-de-solutions/606402617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "CMHC careers",
-"country": "CA",
-"years": null,
-"french": true
-},
-{
-"title": "HR Administrator, Background Check Coordinator",
-"company": "Celestica",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-20T02:00:00+00:00",
-"link": "https://careers.celestica.com/job/Toronto-HR-Administrator%2C-Background-Check-Coordinator-ON/1450451333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Celestica careers",
-"country": "CA",
-"years": 4
 }
 ]
 }
