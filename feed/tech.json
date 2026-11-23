@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T17:47:19+00:00",
+"updated": "2026-11-23T17:57:19+00:00",
 "jobs": [
 {
 "title": "AI Solutions Engineer",
@@ -10174,36 +10174,6 @@
 "posted": "2026-11-20T14:03:03-05:00",
 "link": "https://www.mongodb.com/careers/job/?gh_jid=8406857",
 "source": "MongoDB careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Integrations Engineer",
-"company": "Top Hat",
-"location": "Canada",
-"posted": "2026-11-20T17:54:55.473+00:00",
-"link": "https://jobs.ashbyhq.com/top-hat/c75f79ce-4295-4bc1-bae2-e6d4e278c715",
-"source": "Top Hat careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Integration Reliability Engineer, Payments",
-"company": "Stripe",
-"location": "Toronto",
-"posted": "2026-11-20T12:51:32-05:00",
-"link": "https://stripe.com/jobs/search?gh_jid=8406660",
-"source": "Stripe careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Azure Digital Solution Area Specialist",
-"company": "Microsoft",
-"location": "ON,CA; Vancouver, BC, CA; Calgary, AB, CA",
-"posted": "2026-11-20T17:47:53+00:00",
-"link": "https://apply.careers.microsoft.com/careers/job/1970393557070174",
-"source": "Microsoft careers",
 "country": "CA",
 "years": null
 }
