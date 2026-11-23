@@ -1,16 +1,38 @@
 {
-"updated": "2026-11-23T02:00:47+00:00",
+"updated": "2026-11-23T02:10:47+00:00",
 "jobs": [
 {
-"title": "Drupal Developer",
-"company": "Universal Health Hub",
-"location": "Markham, ON, CA (remote)",
+"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"company": "",
+"location": "Remote · United States",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
+"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
+},
+{
+"title": "Club Administrator/Registrar",
+"company": "Calgary West Football club",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
+"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
+},
+{
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
 },
 {
 "title": "Junior CAD Technician",
@@ -24,15 +46,128 @@
 "apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
 },
 {
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
+},
+{
+"title": "Analyst, Data Science & AI developper",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Data-Science-&-AI-developper-Qu%C3%A9b-H4S-1Y9/1420955833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Technical Writer",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Technical-Writer-Qu%C3%A9b-H4S-1Y9/1420885633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Sales support (Winter 2027)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Sales-support-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1441597733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Account, Engineer (Permanent)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Customer-Account%2C-Engineer-%28Permanent%29-Qu%C3%A9b-H4S-1Y9/1441624633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 3,
+"french": true
+},
+{
+"title": "Documentation Agent",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Documentation-Agent-Qu%C3%A9b-H4R-1K2/1016612901/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Analyst, Quality Assurance Coordinator",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Quality-Assurance-Coordinator-Qu%C3%A9b-H4S-1Y9/1390068933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5,
+"french": true
+},
+{
+"title": "Analyste, coordonnateur assurance qualité",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste%2C-coordonnateur-assurance-qualit%C3%A9-Qu%C3%A9b-H4S-1Y9/1390069033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null,
+"french": true
+},
+{
+"title": "Commis à la documentation",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Commis-%C3%A0-la-documentation-Qu%C3%A9b-H4R-1K2/1016612801/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Professional Engineering - Electrical Systems Integration - Pool Posting",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional-Engineering-Electrical-Systems-Integration-Pool-Posting-Qu%C3%A9b-H4S-1Y9/1390082133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Analyst, Data Science & AI",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Data-Science-&-AI-Qu%C3%A9b-H4S-1Y9/1420904733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Analyste, Sciences des données et IA",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste%2C-Sciences-des-donn%C3%A9es-et-IA-Qu%C3%A9b-H4S-1Y9/1420904833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Learning Solutions Specialist",
@@ -736,6 +871,38 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4493308734",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Outreach Education Specialist - Digital Ed.",
+"company": "TELUS World of Science - Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=0bcca9cf6e165e97",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=01847499-58c4-4a89-8853-f5a6452f6439&ccId=19000101_000001&jobId=24863&source=IN&lang=en_CA"
+},
+{
+"title": "Talent Support Specialist",
+"company": "micro1",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=6958bac508c698d6",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.micro1.ai/post/184ab02e-aa21-49dc-b8de-65ba59d06327"
+},
+{
+"title": "Implementation Consultant",
+"company": "Samsara",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493298975",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -4890,7 +5057,7 @@
 {
 "title": "Operations Integration Specialist",
 "company": "GFL Environmental Inc.",
-"location": "Edmonton, Alberta, Canada",
+"location": "Vaughan, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4485636127",
 "source": "LinkedIn",
@@ -5603,6 +5770,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4485373594",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Estimateur des coûts, construction de centres de données",
+"company": "Bell",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477603319",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -12859,7 +13036,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T000409Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T020402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368"
 },
 {
 "title": "IT Network Engineer II",
@@ -14328,7 +14505,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T000409Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T020402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395"
 },
 {
 "title": "Hindi AI Evaluation Specialist (Singaporean Dialect)",
@@ -14730,7 +14907,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01877798_rxr-1&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01877798%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3D9941e75f-e542-11f1-9409-0b2a9c1bdc80%26rx_job%3D01877798_rxr-1%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Cjob-refresh%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T220409Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01877798_rxr-1&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01877798%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3D9941e75f-e542-11f1-9409-0b2a9c1bdc80%26rx_job%3D01877798_rxr-1%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Cjob-refresh%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T020405Z%26rx_vp%3Dcpc",
 "french": true
 },
 {
@@ -18961,7 +19138,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T000626Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T020410Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
 },
 {
 "title": "Développeur(se) logiciel",
