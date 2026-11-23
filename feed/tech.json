@@ -1,61 +1,16 @@
 {
-"updated": "2026-11-23T03:30:47+00:00",
+"updated": "2026-11-23T03:40:48+00:00",
 "jobs": [
 {
-"title": "OSSD Computer & Technology High School Teacher",
-"company": "SprintMind Education Center",
-"location": "Scarborough, ON, CA",
+"title": "Laser Technician",
+"company": "Glisten Glow Aesthetics",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=355870a86e071549",
+"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ossd-computer-technology-high-school-teacher-355870a86e071549",
-"part_time": true
-},
-{
-"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
-},
-{
-"title": "Club Administrator/Registrar",
-"company": "Calgary West Football club",
-"location": "Remote, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
-},
-{
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
-},
-{
-"title": "Junior CAD Technician",
-"company": "Burnum Industries",
-"location": "Diamond Valley, AB, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+"years": 1,
+"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
 },
 {
 "title": "Drupal Developer",
@@ -69,15 +24,60 @@
 "apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
 },
 {
-"title": "Laser Technician",
-"company": "Glisten Glow Aesthetics",
-"location": "Winnipeg, MB, CA",
+"title": "Junior CAD Technician",
+"company": "Burnum Industries",
+"location": "Diamond Valley, AB, CA (remote)",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
+"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
 "source": "Indeed",
 "country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+},
+{
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+},
+{
+"title": "Club Administrator/Registrar",
+"company": "Calgary West Football club",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
+},
+{
+"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
+},
+{
+"title": "OSSD Computer & Technology High School Teacher",
+"company": "SprintMind Education Center",
+"location": "Scarborough, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=355870a86e071549",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ossd-computer-technology-high-school-teacher-355870a86e071549",
+"part_time": true
 },
 {
 "title": "Cloud Applications Consultant",
@@ -5895,6 +5895,27 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4438022372",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ops Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-21",
+"link": "https://www.indeed.com/viewjob?jk=e481024391b33a9a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/miramace/15a7b34e-3d3c-4f27-a84b-3bf67e12f37b?utm_source=rV4VGDaa9X"
+},
+{
+"title": "Project Administrator - Buildings East",
+"company": "Bird Construction",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477849221",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
