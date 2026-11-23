@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T21:26:55+00:00",
+"updated": "2026-11-23T21:36:56+00:00",
 "jobs": [
 {
 "title": "Package Design Engineer",
@@ -3925,6 +3925,313 @@
 "apply": "https://grnh.se/8hn544sj9us"
 },
 {
+"title": "Spécialiste en automatisation/ Automation Specialist - Pharmaceutical Manufacturing",
+"company": "Vetio Animal Health",
+"location": "Saint-Laurent, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=9045ef488536209f",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://vetio.bamboohr.com/careers/84?source=indeed&src=indeed&postedDate=2026-11-23"
+},
+{
+"title": "Customer Load Planning Engineer",
+"company": "FortisAlberta",
+"location": "Airdrie, AB, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=879b8f6483529361",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://career4.successfactors.com/career?company=C0000208235P&career_ns=job_listing&career_job_req_id=11754"
+},
+{
+"title": "Technicien(ne) support informatique",
+"company": "Microcom Development",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f2c951bb61ab4791",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technicienne-support-informatique-f2c951bb61ab4791"
+},
+{
+"title": "AI Specialist",
+"company": "iA Groupe financier",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=4b3d883ac9511236",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ia.ca/en/carrieres/job/JR10028300"
+},
+{
+"title": "Payment & Collections Administrator",
+"company": "Sunlife",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=648f96dad99eb5d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Montreal-Quebec/Payment---Collections-Administrator_JR00129743",
+"french": true
+},
+{
+"title": "Analyste en données de marché",
+"company": "iA Groupe financier",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=18381a2c57bd07fe",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://ia.ca/en/carrieres/job/JR10028517"
+},
+{
+"title": "P&C Product Business Analyst",
+"company": "iA Groupe financier",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=82ff8b87ea3cd836",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ia.ca/en/carrieres/job/JR10028521"
+},
+{
+"title": "Implementation Technician",
+"company": "Missing Link Technologies",
+"location": "Moncton Area, NB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f1ef1e51e2d78639",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/implementation-technician-f1ef1e51e2d78639"
+},
+{
+"title": "QRA (Quality Assurance & Regulatory Affairs) Specialist",
+"company": "Radiant Logistics",
+"location": "Bolton, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=5da3dc9760887f71",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/qra-quality-assurance-regulatory-affairs-specialist-5da3dc9760887f71"
+},
+{
+"title": "Software development programmer",
+"company": "ADNIKA TECH Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50788125",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Data & AI Platform Engineer",
+"company": "AGF Management Limited",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=22936caddedce5e4",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://agf.wd3.myworkdayjobs.com/en-US/AGF_Careers/job/Toronto-ON/Data---AI-Platform-Engineer_R11340-1"
+},
+{
+"title": "Assistant Contract Administrator",
+"company": "Arcadis",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=214e1b3a844faebf",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.arcadis.com/careers/job/563671533456432?domain=arcadis.com"
+},
+{
+"title": "Telecom Network Designer",
+"company": "Arcadis",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=3803dbd09fa30dbf",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.arcadis.com/careers/job/563671533344697?domain=arcadis.com"
+},
+{
+"title": "AI/ML Engineering Intern",
+"company": "FormFactor, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=0129242b9d4e6d2a",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/AI-ML-Engineering-Intern_JR101434"
+},
+{
+"title": "Voice Engineer",
+"company": "Cloud Destinations",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=cabb2e4946141f51",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/voice-engineer-cabb2e4946141f51"
+},
+{
+"title": "Assistant(e) clinique, Santé du sommeil (mobile)",
+"company": "Air Liquide",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=0cd9f2ad860d9da8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Ste-Foy-QC-270---Respiratory-therapy/Assistant-e--clinique--Sant-du-sommeil--mobile-_R10105489-1"
+},
+{
+"title": "Software Engineer I",
+"company": "WSRB",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=2983e654587f364c",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://wsrb.bamboohr.com/careers/25?source=indeed&src=indeed&postedDate=2026-11-23"
+},
+{
+"title": "Business Intelligence Developer - Full Time (Remote)",
+"company": "Contributor Development Partnership",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=2563efcd226bead3",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7998c65d-0e6b-425f-a970-5fec90afc5a0&ccId=19000101_000001&jobId=625343&source=IN&lang=en_US"
+},
+{
+"title": "Estates and Registered Products Administrator",
+"company": "CAMBRIAN CREDIT UNION",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=ed4f126ca0a9dea3",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruiting.ultipro.ca/CAM5000CBCU/JobBoard/9d837c0d-2f33-4012-b342-47e8ff696a36/OpportunityDetail?opportunityId=a084bc54-0ce1-4aa2-a93d-aca81c8dbd0b&postingId=407a4328-fa2a-4fb7-9aab-1ceaa6c53cc6"
+},
+{
+"title": "Solutions Engineer",
+"company": "ntara",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=317522ba958b60bb",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://ntara.bamboohr.com/careers/111?source=indeed&src=indeed&postedDate=2026-11-23"
+},
+{
+"title": "Court Reporting Onboarding & Training Specialist",
+"company": "Remote Legal",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=649ab8999a9f525b",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://ats.rippling.com/remote-legal/jobs/079aed85-8777-489a-bb0e-68486dee0885?jobSite=Indeed"
+},
+{
+"title": "Product Sales Specialist - AI",
+"company": "E-Emphasys Technologies Inc",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=8e8a4045e1e118bb",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c4000cb1-a39c-438d-94c7-ba150b897644&ccId=19000101_000001&jobId=626167&source=IN&lang=en_US"
+},
+{
+"title": "IT Network Specialist 1",
+"company": "Convergint",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=bcedb83da0aec43d",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://convergint.wd501.myworkdayjobs.com/Gbl/job/US-MD-Columbia/IT-Network-Specialist-1_R-1095"
+},
+{
+"title": "Strategic Web Coordinator",
+"company": "S&S Activewear",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=a1f87327bed0cac9",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ssactivewear.wd115.myworkdayjobs.com/ssactivewearcareers/job/Remote-Canada/Strategic-Web-Coordinator_JR1126"
+},
+{
+"title": "Mammography Tech I/RAD",
+"company": "Northern Light Health",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=8bd09c549b6794da",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,97612,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL"
+},
+{
+"title": "Service Administrator",
+"company": "BROWN MACHINE GROUP",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=363b20b38cbe1da9",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2f047b16-53d1-435c-b2a6-165f00fcea49&ccId=19000101_000001&jobId=638855&source=IN&lang=en_US"
+},
+{
+"title": "HR Administrator & Office Coordinator (Full-Time)",
+"company": "AAI Solutions",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=006b7611a11deb8c",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://aaisolutions.bamboohr.com/careers/71?source=indeed&src=indeed&postedDate=2026-11-23"
+},
+{
+"title": "X-ray (radiology) technologist",
+"company": "Interior Health Authority",
+"location": "Kelowna, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50788143",
+"source": "Job Bank",
+"country": "CA",
+"years": 0
+},
+{
 "title": "IT Auditor",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -6810,6 +7117,56 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4459406857",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Engineer – Combustion Systems",
+"company": "John Zink",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4430273668",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Test Facilities Specialist",
+"company": "INNIO Group",
+"location": "Welland, Ontario, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4458910211",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "(CAN) Front End Checkout Team Associate",
+"company": "Walmart Canada",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4485927879",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Front End - Clerk All Purpose",
+"company": "Safeway Canada",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4477874345",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Marketing Intern – AI & SaaS Industry- GTA Candidates only",
+"company": "Digy4",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493536275",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -11392,7 +11749,7 @@
 "years": null
 },
 {
-"title": "Software Dveloper",
+"title": "Software Developer",
 "company": "Spait Infotech",
 "location": "",
 "posted": "2026-11-21",
