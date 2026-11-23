@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:18:24+00:00",
+ "updated": "2026-11-23T13:28:25+00:00",
  "mode": "quick",
  "last_full": "2026-11-23T13:08:24+00:00",
  "searches_run": {
@@ -12,12 +12,12 @@
   "Employer career sites": 152,
   "Employer boards": 74
  },
- "in_feed": 2338,
+ "in_feed": 2339,
  "us_remote_in_feed": 463,
  "quebec_in_feed": 479,
  "french_in_feed": 67,
  "part_time_in_feed": 45,
- "with_years": 531,
+ "with_years": 532,
  "jobbank_postings_opened": 0,
  "alerts_sent": 0,
  "zero_streak": {
@@ -28,5 +28,5 @@
   "Employer boards": 0,
   "Tech company boards": 0
  },
- "seconds": 19
+ "seconds": 17
 }
