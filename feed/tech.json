@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T20:06:55+00:00",
+"updated": "2026-11-23T20:16:56+00:00",
 "jobs": [
 {
 "title": "Electronics Technician",
@@ -3184,6 +3184,16 @@
 "posted": "2026-11-23",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50787405",
 "source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, Business strategies",
+"company": "Desjardins",
+"location": "Montréal",
+"posted": "2026-11-23",
+"link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Analyste-d-affaires--Solutions-de-tarification_R2614010",
+"source": "Desjardins careers",
 "country": "CA",
 "years": null
 },
