@@ -1,38 +1,27 @@
 {
-"updated": "2026-11-23T02:30:47+00:00",
+"updated": "2026-11-23T02:40:47+00:00",
 "jobs": [
 {
-"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
-"company": "",
-"location": "Remote · United States",
+"title": "Laser Technician",
+"company": "Glisten Glow Aesthetics",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
 "source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
 },
 {
-"title": "Club Administrator/Registrar",
-"company": "Calgary West Football club",
-"location": "Remote, CA",
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
-},
-{
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
 },
 {
 "title": "Junior CAD Technician",
@@ -46,15 +35,37 @@
 "apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
 },
 {
-"title": "Drupal Developer",
-"company": "Universal Health Hub",
-"location": "Markham, ON, CA (remote)",
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+},
+{
+"title": "Club Administrator/Registrar",
+"company": "Calgary West Football club",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
+},
+{
+"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
 },
 {
 "title": "Analyst, Data Science & AI developper",
@@ -903,6 +914,27 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4493298975",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Security & Data Foundation Software Engineer - Intern (TikTok BRIC) - 2027 Start",
+"company": "TikTok",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=8b89c06c6d0bece0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://lifeattiktok.com/search/7705023349533346101"
+},
+{
+"title": "Implementation Consultant",
+"company": "Samsara",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493318140",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -5780,6 +5812,36 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4477603319",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Specialist",
+"company": "Maple Leaf Foods Inc",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4484862635",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SBT Content Software Engineer II",
+"company": "Guidewire Software",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4432287852",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "FX Trader - Data Analytics",
+"company": "Corpay",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4449035922",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -22835,6 +22897,17 @@
 "country": "CA",
 "years": null,
 "apply": "https://careers.hubinternational.com/us/en/job/R0039692"
+},
+{
+"title": "Generalist (France) | AI Business Judgment Review",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=87078235674000b0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://auraone.ai/public/ai-labs/jobs/generalist-france-ai-business-judgment-review-aoj-480c7b0b69373a57b7?utm_source=indeed&utm_medium=job_board&utm_campaign=ai_jobs&utm_content=aoj-480c7b0b69373a57b7&role=Generalist+%28France%29+%7C+AI+Business+Judgment+Review&category=frontier-model-evaluation&source=indeed&jobId=aoj-480c7b0b69373a57b7&sourceJobId=aoj-480c7b0b69373a57b7"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
