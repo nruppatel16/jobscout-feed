@@ -1,161 +1,27 @@
 {
-"updated": "2026-11-23T07:59:19+00:00",
+"updated": "2026-11-23T08:09:20+00:00",
 "jobs": [
 {
-"title": "Sales Executive – Cattle Industry Technology Services",
-"company": "folio3",
-"location": "Remote · United States",
-"posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=aacf3d3493bde4cd",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/sales-executive-cattle-industry-technology-services-aacf3d3493bde4cd"
-},
-{
-"title": "STAGIAIRE – Technicienne ou technicien en réseautique",
-"company": "Ministère des relations internationales et de la francophonie",
-"location": "Quebec City, QC, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=a9212bdb1bdf8d39",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi/poste/27518"
-},
-{
-"title": "System Controller (PWU)",
-"company": "Alectra Utilities",
-"location": "Hamilton, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=beb9362fd9ab41d5",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.dayforcehcm.com/en-US/alectra/CANDIDATEPORTAL/jobs/6105"
-},
-{
-"title": "SPÉCIALISTE DES SOLUTIONS IA (Temporaire, 24 mois)",
-"company": "BDC",
+"title": "Développeur I - BI Databricks",
+"company": "Hydro Québec",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=23f479736d30149a",
+"link": "https://ca.indeed.com/viewjob?jk=194dff2e3d82c13e",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://bdc.wd10.myworkdayjobs.com/fr-CA/BDC_Careers/job/Montral/AI-SOLUTIONS-SPECIALIST--Temporary--24-months-_R-8507",
-"french": true
+"apply": "https://emploi.hydroquebec.com/job/D%C3%A9veloppeur-I-BI-Databricks/190166-fr_FR"
 },
 {
-"title": "Miramichi Health Information Professional 4 - Decision Support Analyst (HP00) PCN 1750187",
-"company": "Horizon Health Network",
-"location": "Miramichi, NB, CA",
+"title": "Network Administrator, Desktop",
+"company": "City of Brampton",
+"location": "Brampton, ON, CA (remote)",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=67cd1bc33be0b333",
+"link": "https://ca.indeed.com/viewjob?jk=62f0635a1de297b1",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "https://horizonnb.itacit.com/itacit-career-ui/postings/221154?CLIENT=73224542677&SID=3&LANGUAGE=en"
-},
-{
-"title": "Quality Engineer (Developer)",
-"company": "Ontario Power Generation",
-"location": "Oshawa, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=18678a4bad567487",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.opg.com/job/Oshawa-Quality-Engineer-%28Developer%29-ON-L1H-8W8/608246817/?feedId=247217&utm_source=Indeed&utm_campaign=OPG_Indeed"
-},
-{
-"title": "Représentant(e) des ventes B2B – SaaS",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=6ba250fc4100201e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/repr%C3%A9sentante-des-ventes-b2b-saas-6ba250fc4100201e"
-},
-{
-"title": "Laser Technician",
-"company": "Glisten Glow Aesthetics",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
-},
-{
-"title": "Drupal Developer",
-"company": "Universal Health Hub",
-"location": "Markham, ON, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
-},
-{
-"title": "Junior CAD Technician",
-"company": "Burnum Industries",
-"location": "Diamond Valley, AB, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
-},
-{
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
-},
-{
-"title": "Club Administrator/Registrar",
-"company": "Calgary West Football club",
-"location": "Remote, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
-},
-{
-"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
-},
-{
-"title": "OSSD Computer & Technology High School Teacher",
-"company": "SprintMind Education Center",
-"location": "Scarborough, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=355870a86e071549",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ossd-computer-technology-high-school-teacher-355870a86e071549",
-"part_time": true
+"years": 5,
+"apply": "https://careers.brampton.ca/job/Network-Administrator%2C-Desktop/622-en_US"
 },
 {
 "title": "Computer Science and AI Teacher",
@@ -170,15 +36,170 @@
 "part_time": true
 },
 {
-"title": "Network Administrator, Desktop",
-"company": "City of Brampton",
-"location": "Brampton, ON, CA (remote)",
+"title": "OSSD Computer & Technology High School Teacher",
+"company": "SprintMind Education Center",
+"location": "Scarborough, ON, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=62f0635a1de297b1",
+"link": "https://ca.indeed.com/viewjob?jk=355870a86e071549",
 "source": "Indeed",
 "country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ossd-computer-technology-high-school-teacher-355870a86e071549",
+"part_time": true
+},
+{
+"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
+},
+{
+"title": "Club Administrator/Registrar",
+"company": "Calgary West Football club",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
+},
+{
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+},
+{
+"title": "Junior CAD Technician",
+"company": "Burnum Industries",
+"location": "Diamond Valley, AB, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+},
+{
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
+},
+{
+"title": "Laser Technician",
+"company": "Glisten Glow Aesthetics",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
+},
+{
+"title": "Représentant(e) des ventes B2B – SaaS",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=6ba250fc4100201e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/repr%C3%A9sentante-des-ventes-b2b-saas-6ba250fc4100201e"
+},
+{
+"title": "Quality Engineer (Developer)",
+"company": "Ontario Power Generation",
+"location": "Oshawa, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=18678a4bad567487",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.opg.com/job/Oshawa-Quality-Engineer-%28Developer%29-ON-L1H-8W8/608246817/?feedId=247217&utm_source=Indeed&utm_campaign=OPG_Indeed"
+},
+{
+"title": "Miramichi Health Information Professional 4 - Decision Support Analyst (HP00) PCN 1750187",
+"company": "Horizon Health Network",
+"location": "Miramichi, NB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=67cd1bc33be0b333",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://horizonnb.itacit.com/itacit-career-ui/postings/221154?CLIENT=73224542677&SID=3&LANGUAGE=en"
+},
+{
+"title": "SPÉCIALISTE DES SOLUTIONS IA (Temporaire, 24 mois)",
+"company": "BDC",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=23f479736d30149a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bdc.wd10.myworkdayjobs.com/fr-CA/BDC_Careers/job/Montral/AI-SOLUTIONS-SPECIALIST--Temporary--24-months-_R-8507",
+"french": true
+},
+{
+"title": "System Controller (PWU)",
+"company": "Alectra Utilities",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=beb9362fd9ab41d5",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.dayforcehcm.com/en-US/alectra/CANDIDATEPORTAL/jobs/6105"
+},
+{
+"title": "STAGIAIRE – Technicienne ou technicien en réseautique",
+"company": "Ministère des relations internationales et de la francophonie",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=a9212bdb1bdf8d39",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi/poste/27518"
+},
+{
+"title": "Sales Executive – Cattle Industry Technology Services",
+"company": "folio3",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=aacf3d3493bde4cd",
+"source": "Indeed",
+"country": "US",
 "years": 5,
-"apply": "https://careers.brampton.ca/job/Network-Administrator%2C-Desktop/622-en_US"
+"apply": "http://www.indeed.com/job/sales-executive-cattle-industry-technology-services-aacf3d3493bde4cd"
+},
+{
+"title": "Directeur ou directrice, Oracle Field Service",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-11-23T08:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Directeur-ou-directrice%2C-Oracle-Field-Service-ON-M5H-0A9/1414244700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Cloud Applications Consultant",
@@ -1234,6 +1255,16 @@
 "location": "Québec, Quebec, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4493316888",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Sales and Field Service Engineer",
+"company": "Captiveaire - Region 114 Western PA",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493318754",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -6177,36 +6208,6 @@
 "years": null
 },
 {
-"title": "Infrastructure Analyst",
-"company": "NAV CANADA",
-"location": "Ottawa",
-"posted": "2026-11-21",
-"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Infrastructure-Analyst_JR-8653",
-"source": "NAV CANADA careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "ASIC DFT Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-21",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "ASIC Product Design Developer",
-"company": "Cisco",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-21",
-"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
-"source": "Cisco careers",
-"country": "CA",
-"years": 5
-},
-{
 "title": "Early-Career Scientist or Engineering Professional",
 "company": "Geosyntec Consultants",
 "location": "Ottawa, Ontario, Canada",
@@ -6817,6 +6818,36 @@
 "source": "Amplitude careers",
 "country": "US",
 "years": null
+},
+{
+"title": "Infrastructure Analyst",
+"company": "NAV CANADA",
+"location": "Ottawa",
+"posted": "2026-11-20",
+"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Infrastructure-Analyst_JR-8653",
+"source": "NAV CANADA careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "ASIC DFT Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-DFT-Developer_2028202",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "ASIC Product Design Developer",
+"company": "Cisco",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/ASIC-Product-Design-Developer_2031275",
+"source": "Cisco careers",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Embedded Software Developer - New Grad",
@@ -19720,7 +19751,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T060901Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T080412Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
 },
 {
 "title": "Développeur(se) logiciel",
@@ -23529,66 +23560,6 @@
 "source": "ClickHouse careers",
 "country": "US",
 "years": 1
-},
-{
-"title": "Directeur ou directrice, Oracle Cloud ERP Finance",
-"company": "Deloitte",
-"location": "Montréal, QC, CA, H3B 4T9",
-"posted": "2026-11-20T08:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Montr%C3%A9al%2C-QC-Directeur-ou-directrice%2C-Oracle-Cloud-ERP-Finance-QC-H3B-4T9/1442761200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Technology Analyst / Consultant (Technology Strategy and Transformation)",
-"company": "Deloitte",
-"location": "Ottawa, ON, CA, K1P 5T8",
-"posted": "2026-11-20T08:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Ottawa%2C-ON-Business-Technology-Analyst-Consultant-%28Technology-Strategy-and-Transformation%29-ON-K1P-5T8/1379232400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": 1
-},
-{
-"title": "Cybersecurity Controls Testing Analyst, Deloitte Global Technology",
-"company": "Deloitte",
-"location": "Toronto, ON, CA, M5H 0A9",
-"posted": "2026-11-20T08:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Cybersecurity-Controls-Testing-Analyst%2C-Deloitte-Global-Technology-ON-M5H-0A9/1432868000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Directeur ou directrice - Ingénierie Azure AI (Azure AI, Copilot Studio et AI Foundry)",
-"company": "Deloitte",
-"location": "Toronto, ON, CA, M5H 0A9",
-"posted": "2026-11-20T08:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Directeur-ou-directrice-Ing%C3%A9nierie-Azure-AI-%28Azure-AI%2C-Copilot-Studio-et-AI-Foundry%29-ON-M5H-0A9/1413122600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Technical Analyst",
-"company": "Deloitte",
-"location": "Toronto, ON, CA, M5H 0A9",
-"posted": "2026-11-20T08:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Business-Technical-Analyst-ON-M5H-0A9/1442755300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Technical Delivery Mgr, ServiceNow IRM/Sec Ops, Deloitte Global Technology",
-"company": "Deloitte",
-"location": "Toronto, ON, CA, M5H 0A9",
-"posted": "2026-11-20T08:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Technical-Delivery-Mgr%2C-ServiceNow-IRMSec-Ops%2C-Deloitte-Global-Technology-ON-M5H-0A9/1442997700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": 5
 }
 ]
 }
