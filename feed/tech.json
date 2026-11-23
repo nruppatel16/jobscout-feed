@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T20:16:56+00:00",
+"updated": "2026-11-23T20:26:56+00:00",
 "jobs": [
 {
 "title": "Electronics Technician",
@@ -11590,16 +11590,6 @@
 "source": "ClickHouse careers",
 "country": "CA",
 "years": 5
-},
-{
-"title": "Release Strategist, Professional Services",
-"company": "LaunchDarkly",
-"location": "Remote · United States",
-"posted": "2026-11-20T15:19:21-05:00",
-"link": "https://job-boards.greenhouse.io/launchdarkly/jobs/8210880003",
-"source": "LaunchDarkly careers",
-"country": "US",
-"years": null
 }
 ]
 }
