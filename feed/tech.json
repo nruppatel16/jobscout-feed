@@ -1,161 +1,27 @@
 {
-"updated": "2026-11-23T08:19:19+00:00",
+"updated": "2026-11-23T08:29:19+00:00",
 "jobs": [
 {
-"title": "Sales Executive – Cattle Industry Technology Services",
-"company": "folio3",
-"location": "Remote · United States",
-"posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=aacf3d3493bde4cd",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/sales-executive-cattle-industry-technology-services-aacf3d3493bde4cd"
-},
-{
-"title": "STAGIAIRE – Technicienne ou technicien en réseautique",
-"company": "Ministère des relations internationales et de la francophonie",
-"location": "Quebec City, QC, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=a9212bdb1bdf8d39",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi/poste/27518"
-},
-{
-"title": "System Controller (PWU)",
-"company": "Alectra Utilities",
-"location": "Hamilton, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=beb9362fd9ab41d5",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.dayforcehcm.com/en-US/alectra/CANDIDATEPORTAL/jobs/6105"
-},
-{
-"title": "SPÉCIALISTE DES SOLUTIONS IA (Temporaire, 24 mois)",
-"company": "BDC",
+"title": "Développeur I - BI Databricks",
+"company": "Hydro Québec",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=23f479736d30149a",
+"link": "https://ca.indeed.com/viewjob?jk=194dff2e3d82c13e",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://bdc.wd10.myworkdayjobs.com/fr-CA/BDC_Careers/job/Montral/AI-SOLUTIONS-SPECIALIST--Temporary--24-months-_R-8507",
-"french": true
+"apply": "https://emploi.hydroquebec.com/job/D%C3%A9veloppeur-I-BI-Databricks/190166-fr_FR"
 },
 {
-"title": "Miramichi Health Information Professional 4 - Decision Support Analyst (HP00) PCN 1750187",
-"company": "Horizon Health Network",
-"location": "Miramichi, NB, CA",
+"title": "Network Administrator, Desktop",
+"company": "City of Brampton",
+"location": "Brampton, ON, CA (remote)",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=67cd1bc33be0b333",
+"link": "https://ca.indeed.com/viewjob?jk=62f0635a1de297b1",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "https://horizonnb.itacit.com/itacit-career-ui/postings/221154?CLIENT=73224542677&SID=3&LANGUAGE=en"
-},
-{
-"title": "Quality Engineer (Developer)",
-"company": "Ontario Power Generation",
-"location": "Oshawa, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=18678a4bad567487",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.opg.com/job/Oshawa-Quality-Engineer-%28Developer%29-ON-L1H-8W8/608246817/?feedId=247217&utm_source=Indeed&utm_campaign=OPG_Indeed"
-},
-{
-"title": "Représentant(e) des ventes B2B – SaaS",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=6ba250fc4100201e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/repr%C3%A9sentante-des-ventes-b2b-saas-6ba250fc4100201e"
-},
-{
-"title": "Laser Technician",
-"company": "Glisten Glow Aesthetics",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
-},
-{
-"title": "Drupal Developer",
-"company": "Universal Health Hub",
-"location": "Markham, ON, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
-},
-{
-"title": "Junior CAD Technician",
-"company": "Burnum Industries",
-"location": "Diamond Valley, AB, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
-},
-{
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
-},
-{
-"title": "Club Administrator/Registrar",
-"company": "Calgary West Football club",
-"location": "Remote, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
-},
-{
-"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
-},
-{
-"title": "OSSD Computer & Technology High School Teacher",
-"company": "SprintMind Education Center",
-"location": "Scarborough, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=355870a86e071549",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ossd-computer-technology-high-school-teacher-355870a86e071549",
-"part_time": true
+"years": 5,
+"apply": "https://careers.brampton.ca/job/Network-Administrator%2C-Desktop/622-en_US"
 },
 {
 "title": "Computer Science and AI Teacher",
@@ -170,26 +36,160 @@
 "part_time": true
 },
 {
-"title": "Network Administrator, Desktop",
-"company": "City of Brampton",
-"location": "Brampton, ON, CA (remote)",
+"title": "OSSD Computer & Technology High School Teacher",
+"company": "SprintMind Education Center",
+"location": "Scarborough, ON, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=62f0635a1de297b1",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://careers.brampton.ca/job/Network-Administrator%2C-Desktop/622-en_US"
-},
-{
-"title": "Développeur I - BI Databricks",
-"company": "Hydro Québec",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=194dff2e3d82c13e",
+"link": "https://ca.indeed.com/viewjob?jk=355870a86e071549",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://emploi.hydroquebec.com/job/D%C3%A9veloppeur-I-BI-Databricks/190166-fr_FR"
+"apply": "http://ca.indeed.com/job/ossd-computer-technology-high-school-teacher-355870a86e071549",
+"part_time": true
+},
+{
+"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
+},
+{
+"title": "Club Administrator/Registrar",
+"company": "Calgary West Football club",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
+},
+{
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+},
+{
+"title": "Junior CAD Technician",
+"company": "Burnum Industries",
+"location": "Diamond Valley, AB, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+},
+{
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
+},
+{
+"title": "Laser Technician",
+"company": "Glisten Glow Aesthetics",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
+},
+{
+"title": "Représentant(e) des ventes B2B – SaaS",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=6ba250fc4100201e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/repr%C3%A9sentante-des-ventes-b2b-saas-6ba250fc4100201e"
+},
+{
+"title": "Quality Engineer (Developer)",
+"company": "Ontario Power Generation",
+"location": "Oshawa, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=18678a4bad567487",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.opg.com/job/Oshawa-Quality-Engineer-%28Developer%29-ON-L1H-8W8/608246817/?feedId=247217&utm_source=Indeed&utm_campaign=OPG_Indeed"
+},
+{
+"title": "Miramichi Health Information Professional 4 - Decision Support Analyst (HP00) PCN 1750187",
+"company": "Horizon Health Network",
+"location": "Miramichi, NB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=67cd1bc33be0b333",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://horizonnb.itacit.com/itacit-career-ui/postings/221154?CLIENT=73224542677&SID=3&LANGUAGE=en"
+},
+{
+"title": "SPÉCIALISTE DES SOLUTIONS IA (Temporaire, 24 mois)",
+"company": "BDC",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=23f479736d30149a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bdc.wd10.myworkdayjobs.com/fr-CA/BDC_Careers/job/Montral/AI-SOLUTIONS-SPECIALIST--Temporary--24-months-_R-8507",
+"french": true
+},
+{
+"title": "System Controller (PWU)",
+"company": "Alectra Utilities",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=beb9362fd9ab41d5",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.dayforcehcm.com/en-US/alectra/CANDIDATEPORTAL/jobs/6105"
+},
+{
+"title": "STAGIAIRE – Technicienne ou technicien en réseautique",
+"company": "Ministère des relations internationales et de la francophonie",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=a9212bdb1bdf8d39",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi/poste/27518"
+},
+{
+"title": "Sales Executive – Cattle Industry Technology Services",
+"company": "folio3",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=aacf3d3493bde4cd",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/sales-executive-cattle-industry-technology-services-aacf3d3493bde4cd"
 },
 {
 "title": "Directeur ou directrice, Oracle Field Service",
@@ -6368,16 +6368,6 @@
 "years": null
 },
 {
-"title": "Junior Network Provisioning Engineer",
-"company": "Mastercard",
-"location": "Waterloo, Belgium",
-"posted": "2026-11-21",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
-"source": "Mastercard careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Software Engineer II, Full Stack (Card Pre-Swipe Experience)",
 "company": "Affirm",
 "location": "Windsor, Ontario, Canada",
@@ -6817,6 +6807,16 @@
 "link": "https://jobs.ashbyhq.com/amplitude/cc52ed40-7eb9-426d-8684-9c124140aab2",
 "source": "Amplitude careers",
 "country": "US",
+"years": null
+},
+{
+"title": "Junior Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-20",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
 "years": null
 },
 {
