@@ -1,61 +1,27 @@
 {
-"updated": "2026-11-23T04:30:48+00:00",
+"updated": "2026-11-23T04:40:47+00:00",
 "jobs": [
 {
-"title": "OSSD Computer & Technology High School Teacher",
-"company": "SprintMind Education Center",
-"location": "Scarborough, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=355870a86e071549",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ossd-computer-technology-high-school-teacher-355870a86e071549",
-"part_time": true
-},
-{
-"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"title": "Représentant(e) des ventes B2B – SaaS",
 "company": "",
-"location": "Remote · United States",
-"posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
-},
-{
-"title": "Club Administrator/Registrar",
-"company": "Calgary West Football club",
 "location": "Remote, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"link": "https://ca.indeed.com/viewjob?jk=6ba250fc4100201e",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
+"apply": "http://ca.indeed.com/job/repr%C3%A9sentante-des-ventes-b2b-saas-6ba250fc4100201e"
 },
 {
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
+"title": "Laser Technician",
+"company": "Glisten Glow Aesthetics",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
-},
-{
-"title": "Junior CAD Technician",
-"company": "Burnum Industries",
-"location": "Diamond Valley, AB, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+"years": 1,
+"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
 },
 {
 "title": "Drupal Developer",
@@ -69,15 +35,60 @@
 "apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
 },
 {
-"title": "Laser Technician",
-"company": "Glisten Glow Aesthetics",
-"location": "Winnipeg, MB, CA",
+"title": "Junior CAD Technician",
+"company": "Burnum Industries",
+"location": "Diamond Valley, AB, CA (remote)",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
+"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
 "source": "Indeed",
 "country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+},
+{
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+},
+{
+"title": "Club Administrator/Registrar",
+"company": "Calgary West Football club",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
+},
+{
+"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
+},
+{
+"title": "OSSD Computer & Technology High School Teacher",
+"company": "SprintMind Education Center",
+"location": "Scarborough, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=355870a86e071549",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ossd-computer-technology-high-school-teacher-355870a86e071549",
+"part_time": true
 },
 {
 "title": "Cloud Applications Consultant",
@@ -993,6 +1004,27 @@
 "years": null
 },
 {
+"title": "NEG00010SE - Server Administrator",
+"company": "Amyantek",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493316483",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AS400 Programmer",
+"company": "Weaver Popcorn Manufacturing",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=6c8e94cf60c21556",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684613/Weaver/AS400-Programmer?source=Indeed_Feed"
+},
+{
 "title": "Business Systems Analyst",
 "company": "PCL Construction",
 "location": "Edmonton, AB, CA",
@@ -1829,7 +1861,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/ETWFUrjy1qr3iI966dERvkq6DNcDzaQcLx4x3BVZV_Y#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/5UMGqpnYOhXQ4GSKN8_d4EN3I3mBZmJhFjRoeCF-xuI#.job_boards.Indeed"
 },
 {
 "title": "RQ11694 - Oracle EPM Specialist /Consultant - Toronto - Onsite",
@@ -1840,7 +1872,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/P7YxGVIX9LA70IQ9mA3I29dcjY4GNBxHwfG4VZef0uQ#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/Oc6XBncPHXsPrLA_djLm5Y-UzVYGVTmkiuC2jOSOSJI#.job_boards.Indeed"
 },
 {
 "title": "CLDRSRC10479 - Siebel Developer/Specialist/Consultant - Toronto",
@@ -1851,7 +1883,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/xlZlTW27pm0T9zZTNAQuaTp6AV8qhhw5_QbutQI4GfU#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/gxujcD1W50kjd1ETXrwG1akoe1lhkiUHAndO56MorKk#.job_boards.Indeed"
 },
 {
 "title": "Professional Engineering - Air Systems/Pneumatics - Pool Posting",
@@ -5966,6 +5998,36 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4477886213",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en exploitation et support bureautique sénior",
+"company": "TEHORA inc.",
+"location": "Quebec, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493291358",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Purchasing Support Specialist",
+"company": "SFC Energy North America",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493297484",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, Marketing Technology (12-month contract)",
+"company": "AGF Investments",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4452505102",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
