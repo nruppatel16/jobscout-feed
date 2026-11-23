@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:19:20+00:00",
+ "updated": "2026-11-23T07:29:19+00:00",
  "mode": "quick",
  "last_full": "2026-11-23T07:09:19+00:00",
  "searches_run": {
@@ -10,7 +10,7 @@
  "found_this_run": {
   "Tech company boards": 1,
   "Employer career sites": 149,
-  "Employer boards": 81
+  "Employer boards": 84
  },
  "in_feed": 2253,
  "us_remote_in_feed": 446,
@@ -28,5 +28,5 @@
   "Employer boards": 0,
   "Tech company boards": 0
  },
- "seconds": 37
+ "seconds": 17
 }
