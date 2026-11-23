@@ -1,38 +1,16 @@
 {
-"updated": "2026-11-23T02:20:47+00:00",
+"updated": "2026-11-23T02:30:47+00:00",
 "jobs": [
 {
-"title": "Drupal Developer",
-"company": "Universal Health Hub",
-"location": "Markham, ON, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
-},
-{
-"title": "Junior CAD Technician",
-"company": "Burnum Industries",
-"location": "Diamond Valley, AB, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
-},
-{
-"title": "Junior Appliance Service Technician – Entry Level",
+"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
 "company": "",
-"location": "Delta, BC, CA",
+"location": "Remote · United States",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
 },
 {
 "title": "Club Administrator/Registrar",
@@ -46,15 +24,37 @@
 "apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
 },
 {
-"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"title": "Junior Appliance Service Technician – Entry Level",
 "company": "",
-"location": "Remote · United States",
+"location": "Delta, BC, CA",
 "posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+},
+{
+"title": "Junior CAD Technician",
+"company": "Burnum Industries",
+"location": "Diamond Valley, AB, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+},
+{
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
 },
 {
 "title": "Analyst, Data Science & AI developper",
