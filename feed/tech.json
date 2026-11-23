@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T20:26:56+00:00",
+"updated": "2026-11-23T20:36:55+00:00",
 "jobs": [
 {
 "title": "Electronics Technician",
@@ -3198,6 +3198,327 @@
 "years": null
 },
 {
+"title": "Winter 2027 Co-op: Developer (4 months)",
+"company": "CGI",
+"location": "Shawinigan, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=3bdd3464646d54aa",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351586&sbdid=936"
+},
+{
+"title": "Intermediate Administrator, Finance",
+"company": "University of Ottawa",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=50a0c0416a76d52e",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://uottawa.wd3.myworkdayjobs.com/en-US/uOttawa_External_Career_Site/job/Ottawa-ON/Intermediate-Administrator--Finance_JR41404",
+"french": true
+},
+{
+"title": "Industrial Automation Specilaist",
+"company": "OFI",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=690b94a80d4a10ef",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://www.oficareers.com/en/jobs/18508383-industrial-automation-specilaist?tm_job=2273&tm_event=view&tm_company=48005"
+},
+{
+"title": "Desktop Support Analyst",
+"company": "Thompson Dorfman Sweatman LLP",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=85ce00fedbfa6501",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/desktop-support-analyst-85ce00fedbfa6501"
+},
+{
+"title": "Data Scientist",
+"company": "Definity",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f3d00739fdc332e0",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/fr-CA/sites/CX_1/requisitions/preview/9512"
+},
+{
+"title": "Systems Developer (AI Focus)",
+"company": "MUNICIPAL PROPERTY ASSESSMENT CORPORATION",
+"location": "Pickering, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=e06841711c63b83c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.mpac.ca/job/Pickering-Systems-Developer-%28AI-Focus%29-ON/1291784647/",
+"french": true
+},
+{
+"title": "BI Developer - Revenue and Analytics",
+"company": "Canadian Niagara Hotels",
+"location": "Niagara Falls, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=024b54166dfb416f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/bi-developer-revenue-and-analytics-024b54166dfb416f"
+},
+{
+"title": "Field Installation Technician – CCTV & Low Voltage",
+"company": "VK Communications",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=0b480f430d207c0a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-installation-technician-cctv-low-voltage-0b480f430d207c0a"
+},
+{
+"title": "AWS Developer",
+"company": "CGI",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=a0506750b57d8cce",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2092&BRID=1351590&sbdid=936"
+},
+{
+"title": "Concepteur(trice) en ingénierie de données",
+"company": "Cascades",
+"location": "Kingsey Falls, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=60f7faab7bb3fdf0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career4.successfactors.com/career?company=Cascades&career_ns=job_listing&career_job_req_id=37902&lang=fr_CA&jobPipeline=Indeed",
+"french": true
+},
+{
+"title": "Client Success - Service Call Coordinator - 2592",
+"company": "Trailcon Leasing Inc.",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=abb4a5755e0ca67f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/client-success-service-call-coordinator-2592-abb4a5755e0ca67f"
+},
+{
+"title": "Student Digital Construction Coordinator - Data Centres",
+"company": "Bird Construction",
+"location": "Regina, SK, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=bc85f5a70709d5d1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bird.wd3.myworkdayjobs.com/en-US/BirdConstructionCareers/job/Regina-SK/Student-Digital-Construction-Coordinator---Data-Centres_JR-9920"
+},
+{
+"title": ".NET Developer",
+"company": "Enterprise Solutions and Management Corporation (ESM)",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=92a07015d06b4500",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://esmcorp.isolvedhire.com/jobs/1910722-204707.html"
+},
+{
+"title": "ColdFusion Developer",
+"company": "Enterprise Solutions and Management Corporation (ESM)",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=df62f63f9b50d25f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://esmcorp.isolvedhire.com/jobs/1910706-204707.html"
+},
+{
+"title": "API Developer",
+"company": "Enterprise Solutions and Management Corporation (ESM)",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=144fb361522bd220",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://esmcorp.isolvedhire.com/jobs/1910701-204707.html"
+},
+{
+"title": "Field Tech II",
+"company": "CompuCom",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=2353f6a884a048ac",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=k3jdnw5isk3uqiefzvya3xv2fyxnaz0aa1mjddyzvkufiylxtt34fkf0h14p30zn&SearchString=&StatesString=&source=indeed.com&id=33666486&compid=-1"
+},
+{
+"title": "QA/Test Engineer – Section 508 Accessibility",
+"company": "Qeepr",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=78698093b0e64e4c",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "http://www.indeed.com/job/qatest-engineer-section-508-accessibility-78698093b0e64e4c"
+},
+{
+"title": "Forward Deployed AI Engineer",
+"company": "MeridianLink",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=bf9cce6cc1942ceb",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/meridianlink/a16eea89-1e97-4b61-8fbf-4ffa97ac32c7"
+},
+{
+"title": "Network system administrator",
+"company": "Chief Isaac Inc",
+"location": "Dawson, Yukon, Canada",
+"posted": "2026-11-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50787745",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Database administrator (DBA)",
+"company": "ONIKON Creative",
+"location": "Surrey, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50787738",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Product and Solutions Sales Specialist 3",
+"company": "Dell Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=c10eebed58c20408",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://enterpriseplatform.dell.com:443/hcmUI/CandidateExperience/en/job/302553"
+},
+{
+"title": "Concepteur(trice) en ingénierie de données",
+"company": "Cascades",
+"location": "Saint-Hubert, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=a9e3e7c8a7158f6e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career4.successfactors.com/career?company=Cascades&career_ns=job_listing&career_job_req_id=37992&lang=fr_CA&jobPipeline=Indeed",
+"french": true
+},
+{
+"title": "Plant Administrator - Quality",
+"company": "Nexus Staffing",
+"location": "York, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=b09187f7798a4e99",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://nexusstaffing.talentpoolbuilder.com/Plant+Administrator+-+Quality/300341/?source=Indeed"
+},
+{
+"title": "Customer Success Agent - Call Center Representative",
+"company": "Freedom Mortgage",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=51160820c71cb352",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.freedommortgage.com/us/en/job/FMJFMVUSJR107677EXTERNALENUS/Customer-Success-Agent-Call-Center-Representative?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Geomatics Technologist",
+"company": "Integrated Geomatics",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=bbf40b6b21769bef",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/geomatics-technologist-bbf40b6b21769bef"
+},
+{
+"title": "Payment Solutions Consultant",
+"company": "eClerx",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=151be51f08947deb",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/payment-solutions-consultant-151be51f08947deb"
+},
+{
+"title": "Software Engineer II, AI Experience (Remote Eligible)",
+"company": "Smartsheet",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=23fe56ab0d23c114",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/8ohdhy0v1us"
+},
+{
+"title": "QA Technician - Animal Welfare & Compliance",
+"company": "Domingos Meats",
+"location": "Arthur, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=5dad9a182c396782",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/qa-technician-animal-welfare-compliance-5dad9a182c396782"
+},
+{
+"title": "Cloud Engineer",
+"company": "AllCloud",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=f7a0c835e179cdcc",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://allcloud.io/careers/co/united-states/57.57E/cloud-engineer/all/?coref=1.11.pF0_ED1A"
+},
+{
 "title": "IT Auditor",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -3422,6 +3743,16 @@
 "country": "CA",
 "years": 5,
 "french": true
+},
+{
+"title": "Consultant, Contracts & Technology Transformation",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-11-23T00:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Consultant%2C-Contracts-&-Technology-Transformation-ON-M5H-0A9/1453157400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": 1
 },
 {
 "title": "Learning Solutions Specialist",
@@ -6043,6 +6374,26 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4449964011",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer II (Restaurant AI CoPilot)",
+"company": "OpenTable",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4467897996",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Directeur ou directrice - Ingénierie Azure AI (Azure AI, Copilot Studio et AI Foundry)",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4459406857",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -11580,16 +11931,6 @@
 "source": "PointClickCare careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Cloud Data Infrastructure Engineer",
-"company": "ClickHouse",
-"location": "Canada",
-"posted": "2026-11-20T20:45:19.647+00:00",
-"link": "https://jobs.ashbyhq.com/clickhouse/b8799d90-9d53-40c7-be9b-6fb9cc061be0",
-"source": "ClickHouse careers",
-"country": "CA",
-"years": 5
 }
 ]
 }
