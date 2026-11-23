@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T18:57:19+00:00",
+"updated": "2026-11-23T19:07:19+00:00",
 "jobs": [
 {
 "title": "Software Engineer II, Consumer",
@@ -2579,6 +2579,229 @@
 "country": "US",
 "years": 2,
 "apply": "https://monroecc.interviewexchange.com/jobofferdetails.jsp?JOBID=206986&CNTRNO=0&TSTMP=1795457567448"
+},
+{
+"title": "IT Help Desk Student",
+"company": "InterRent REIT",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=eabdf5c8f0d39d25",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/clv/CANDIDATEPORTAL/jobs/4262"
+},
+{
+"title": "Étudiant(e) en soutien technique informatique (session d’hiver)",
+"company": "InterRent REIT",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=b3611a0f05e2e47a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/fr-CA/clv/CANDIDATEPORTAL/jobs/4262",
+"french": true
+},
+{
+"title": "CO-OP Assistant Asset Management Data Analyst",
+"company": "City of Brampton",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=aaffd9e3723d69a7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.brampton.ca/job/CO-OP-Assistant-Asset-Management-Data-Analyst/651-en_US",
+"part_time": true
+},
+{
+"title": "Aboriginal employment developer",
+"company": "Bissell Centre",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50786910",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Hydraulic Hose Technician",
+"company": "SMS Equipment Inc.",
+"location": "Acheson, AB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=fa0ec9c8fac2516b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruiting.ultipro.ca/SMS5000/JobBoard/dccf001c-2a74-6f6d-db34-5fea10a37eec/OpportunityDetail?opportunityId=0441ca79-bdd0-41cb-a0b0-14b55fcc9099&postingId=62f34ca2-45fb-49f3-8c5a-d29bcc79bfc9"
+},
+{
+"title": "After Sales and Technical Services Engineer",
+"company": "Trench",
+"location": "Pickering, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=3c3b196ac008897e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1812?c=trench"
+},
+{
+"title": "Telecommunications Account Agent",
+"company": "Abstract Group",
+"location": "Scarborough, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=ed82900a75843eae",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/telecommunications-account-agent-ed82900a75843eae"
+},
+{
+"title": "Associate Engineer - Systems Integration",
+"company": "Innergex Renewable Energy Inc",
+"location": "Longueuil, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=e015b0aa6020974d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://fa-ewqm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2593"
+},
+{
+"title": "Full-Stack Software Engineer",
+"company": "NovaWave",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=dc7e49de1be88eaa",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/full-stack-software-engineer-dc7e49de1be88eaa"
+},
+{
+"title": "Junior Sales Engineer",
+"company": "Appspace",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=ae9a27e1ac0dbe6f",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://grnh.se/a7s3tmzs4us"
+},
+{
+"title": "Clinical Strategic Operations Analyst",
+"company": "Cohere Health",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=733b6ed261977dad",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/i4teqtlu3us"
+},
+{
+"title": "OpenShift Systems Administrator",
+"company": "Iron Bow Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=5a45b3a3e696d9da",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://grnh.se/34iwrbs07us"
+},
+{
+"title": "AI Engineer",
+"company": "US Acute Care Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=a95cb820b646cb05",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://usacs.wd1.myworkdayjobs.com/en-US/usacscareers/job/Virtual-OH/AI-Prompt-Engineer_R0002412"
+},
+{
+"title": "Forward Deployed Engineer (Applied AI)",
+"company": "Together AI",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=15662820edc393bc",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://grnh.se/u2e9ruzx7us"
+},
+{
+"title": "HR / Safety Administrator",
+"company": "D.B.I. Dry-Blast Inc",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f23543542376fdf6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/hr-safety-administrator-f23543542376fdf6"
+},
+{
+"title": "NDSS Operation Command Center Support Analyst",
+"company": "LS Technologies, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=22d8c2807572d5b7",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://tetratech.referrals.selectminds.com/lstech/jobs/ndss-operation-command-center-support-analyst-58139"
+},
+{
+"title": "Outside Sales Executive (Bilingual) - Contractors and Wireless/Responsable des ventes externes (bilingue) – Entrepreneurs et solutions sans fil",
+"company": "Network Wireless Solutions",
+"location": "Milton, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=497e6c85b8ff9180",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://nwsnext.isolvedhire.com/jobs/1910591-391302.html",
+"french": true
+},
+{
+"title": "Biomedical Engineer",
+"company": "Rediantt",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=49ad7670cfea5e96",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/biomedical-engineer-49ad7670cfea5e96"
+},
+{
+"title": "Integration Developer",
+"company": "JSM Consulting India",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=1e1371582bc13205",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/integration-developer-1e1371582bc13205"
+},
+{
+"title": "Remote Sensing Scientist",
+"company": "Radiance Technologies Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=307664bb015386ca",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://radiancetech.wd12.myworkdayjobs.com/en-US/Radiance_External/job/OH---Home/Remote-Sensing-Scientist_HR102590-1",
+"part_time": true
 },
 {
 "title": "IT Auditor",
@@ -5295,6 +5518,86 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4460505269",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Product Support",
+"company": "Bombardier",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4469222125",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Applicatif Full-Stack (Kotlin-Java/React)",
+"company": "Equisoft",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4458095990",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Agentic AI Analyst, Deloitte Global Technology",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4460516076",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Security Analyst",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4483991610",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Vice-président.e, Sécurité & Opérations TI",
+"company": "Lassonde",
+"location": "Rougemont, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4477865827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Responsable cybersécurité et conformité (CCL) | Cybersecurity & Compliance Leader (CCL)",
+"company": "Pratt & Whitney",
+"location": "Longueuil, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4468826138",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Gameplay Engineer (Apex Legends)",
+"company": "Respawn Entertainment",
+"location": "",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4457292549",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician (Production) - Toronto, ON",
+"company": "Xerox",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4476855076",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -10851,16 +11154,6 @@
 "link": "https://job-boards.greenhouse.io/launchdarkly/jobs/8210880003",
 "source": "LaunchDarkly careers",
 "country": "US",
-"years": null
-},
-{
-"title": "Software Engineer 3",
-"company": "MongoDB",
-"location": "Ontario",
-"posted": "2026-11-20T14:03:03-05:00",
-"link": "https://www.mongodb.com/careers/job/?gh_jid=8406857",
-"source": "MongoDB careers",
-"country": "CA",
 "years": null
 }
 ]
