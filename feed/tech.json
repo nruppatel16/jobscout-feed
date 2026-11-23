@@ -1,17 +1,127 @@
 {
-"updated": "2026-11-23T06:29:19+00:00",
+"updated": "2026-11-23T06:39:20+00:00",
 "jobs": [
 {
-"title": "Computer Science and AI Teacher",
-"company": "Symphonic Data Solution Inc.",
-"location": "Oakville, ON, CA",
+"title": "System Controller (PWU)",
+"company": "Alectra Utilities",
+"location": "Hamilton, ON, CA",
 "posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=84b141ac67e8a145",
+"link": "https://ca.indeed.com/viewjob?jk=beb9362fd9ab41d5",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.dayforcehcm.com/en-US/alectra/CANDIDATEPORTAL/jobs/6105"
+},
+{
+"title": "SPÉCIALISTE DES SOLUTIONS IA (Temporaire, 24 mois)",
+"company": "BDC",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=23f479736d30149a",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/computer-science-and-ai-teacher-84b141ac67e8a145",
-"part_time": true
+"apply": "https://bdc.wd10.myworkdayjobs.com/fr-CA/BDC_Careers/job/Montral/AI-SOLUTIONS-SPECIALIST--Temporary--24-months-_R-8507",
+"french": true
+},
+{
+"title": "Miramichi Health Information Professional 4 - Decision Support Analyst (HP00) PCN 1750187",
+"company": "Horizon Health Network",
+"location": "Miramichi, NB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=67cd1bc33be0b333",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://horizonnb.itacit.com/itacit-career-ui/postings/221154?CLIENT=73224542677&SID=3&LANGUAGE=en"
+},
+{
+"title": "Quality Engineer (Developer)",
+"company": "Ontario Power Generation",
+"location": "Oshawa, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=18678a4bad567487",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.opg.com/job/Oshawa-Quality-Engineer-%28Developer%29-ON-L1H-8W8/608246817/?feedId=247217&utm_source=Indeed&utm_campaign=OPG_Indeed"
+},
+{
+"title": "Représentant(e) des ventes B2B – SaaS",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=6ba250fc4100201e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/repr%C3%A9sentante-des-ventes-b2b-saas-6ba250fc4100201e"
+},
+{
+"title": "Laser Technician",
+"company": "Glisten Glow Aesthetics",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
+},
+{
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
+},
+{
+"title": "Junior CAD Technician",
+"company": "Burnum Industries",
+"location": "Diamond Valley, AB, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
+},
+{
+"title": "Junior Appliance Service Technician – Entry Level",
+"company": "",
+"location": "Delta, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
+},
+{
+"title": "Club Administrator/Registrar",
+"company": "Calgary West Football club",
+"location": "Remote, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
+},
+{
+"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
 },
 {
 "title": "OSSD Computer & Technology High School Teacher",
@@ -26,103 +136,16 @@
 "part_time": true
 },
 {
-"title": "Independent B2B Sales Representative – SaaS / AI Business Solutions",
-"company": "",
-"location": "Remote · United States",
+"title": "Computer Science and AI Teacher",
+"company": "Symphonic Data Solution Inc.",
+"location": "Oakville, ON, CA",
 "posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=e9db9bf6bede3268",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/independent-b2b-sales-representative-saas-ai-business-solutions-e9db9bf6bede3268"
-},
-{
-"title": "Club Administrator/Registrar",
-"company": "Calgary West Football club",
-"location": "Remote, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=f7350f492621c09d",
+"link": "https://ca.indeed.com/viewjob?jk=84b141ac67e8a145",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/club-administratorregistrar-f7350f492621c09d"
-},
-{
-"title": "Junior Appliance Service Technician – Entry Level",
-"company": "",
-"location": "Delta, BC, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=d01274d9200d059a",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-appliance-service-technician-entry-level-d01274d9200d059a"
-},
-{
-"title": "Junior CAD Technician",
-"company": "Burnum Industries",
-"location": "Diamond Valley, AB, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=12173a8b5ee0a5d6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/junior-cad-technician-12173a8b5ee0a5d6"
-},
-{
-"title": "Drupal Developer",
-"company": "Universal Health Hub",
-"location": "Markham, ON, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5"
-},
-{
-"title": "Laser Technician",
-"company": "Glisten Glow Aesthetics",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=9852b6a18a63002a",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/laser-technician-9852b6a18a63002a"
-},
-{
-"title": "Représentant(e) des ventes B2B – SaaS",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=6ba250fc4100201e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/repr%C3%A9sentante-des-ventes-b2b-saas-6ba250fc4100201e"
-},
-{
-"title": "Quality Engineer (Developer)",
-"company": "Ontario Power Generation",
-"location": "Oshawa, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=18678a4bad567487",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.opg.com/job/Oshawa-Quality-Engineer-%28Developer%29-ON-L1H-8W8/608246817/?feedId=247217&utm_source=Indeed&utm_campaign=OPG_Indeed"
-},
-{
-"title": "Miramichi Health Information Professional 4 - Decision Support Analyst (HP00) PCN 1750187",
-"company": "Horizon Health Network",
-"location": "Miramichi, NB, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=67cd1bc33be0b333",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://horizonnb.itacit.com/itacit-career-ui/postings/221154?CLIENT=73224542677&SID=3&LANGUAGE=en"
+"apply": "http://ca.indeed.com/job/computer-science-and-ai-teacher-84b141ac67e8a145",
+"part_time": true
 },
 {
 "title": "Cloud Applications Consultant",
@@ -1095,6 +1118,36 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4493131560",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste en assurance qualité",
+"company": "TEHORA inc.",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493337180",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller DevOps",
+"company": "TEHORA inc.",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493329311",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller en architecture de solution",
+"company": "TEHORA inc.",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493317629",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -6234,6 +6287,46 @@
 "posted": "2026-11-21",
 "link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
 "source": "Mastercard careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Full Stack (Card Pre-Swipe Experience)",
+"company": "Affirm",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485120060",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Full Stack (Card Pre-Swipe Experience)",
+"company": "Affirm",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485122057",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Full Stack (Card Pre-Swipe Experience)",
+"company": "Affirm",
+"location": "Kelowna, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485104148",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Event Audio Visual Technician- Part Time- Fairmont Jasper Park Lodge",
+"company": "Encore Canada",
+"location": "Jasper, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4476230325",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
@@ -19531,7 +19624,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T040413Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-474442&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F103580484208%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D548bdb4d-e5b8-11f1-86d1-538a645bec45%26rx_job%3D2026-474442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T060901Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed"
 },
 {
 "title": "Développeur(se) logiciel",
