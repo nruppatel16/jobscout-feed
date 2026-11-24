@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T17:54:14+00:00",
+"updated": "2026-11-24T18:04:14+00:00",
 "jobs": [
 {
 "title": "Designer, Web Presence & Platform",
@@ -2125,6 +2125,207 @@
 "years": null
 },
 {
+"title": "Technical Sales Representative (Manufacturing)",
+"company": "Smiths Group",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=960b493bd4cfe15a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.smartrecruiters.com/SmithsGroup2/744000163521693-technical-sales-representative-manufacturing-"
+},
+{
+"title": "Technical Sales Representative (Manufacturing)",
+"company": "Smiths Group",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9a753766c241ae9b",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.smartrecruiters.com/SmithsGroup2/744000163522128-technical-sales-representative-manufacturing-"
+},
+{
+"title": "Service Desk Analyst",
+"company": "Systematix",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=ccf9dc326c7f01f6",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/service-desk-analyst-ccf9dc326c7f01f6"
+},
+{
+"title": "Programmer in Automation (Automations Engineer)",
+"company": "Lallemand",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=48f318b1edfec563",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.lallemand.com/job-postings/details/2328-programmer-in-automation-automations-engineer"
+},
+{
+"title": "IT Field Service Technician (Independent Contractor)",
+"company": "",
+"location": "Victoria, BC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f33d1b4c381cbc01",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-field-service-technician-independent-contractor-f33d1b4c381cbc01",
+"part_time": true
+},
+{
+"title": "Spécialiste, infrastructure et soutien TI",
+"company": "Jefo Nutrition Inc.",
+"location": "Saint-Hyacinthe, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9ef36067fcc81eb1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f8c1f927-dbe5-40c3-8e64-d330dd194c7e&ccId=19000101_000001&jobId=635422&source=IN&lang=fr_CA",
+"french": true
+},
+{
+"title": "Business Analyst (Finance) - Mobile Services",
+"company": "Avianor",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=eadfb3e4ddb99b86",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.glowinthecloud.com/avianor/20261124005?l=en&source=Indeed",
+"french": true
+},
+{
+"title": "Field Technician - Measure Insulation Covers/Blankets",
+"company": "Sol Thermal Consulting Inc",
+"location": "Grande Prairie, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1b613158f2ac9d56",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-technician-measure-insulation-coversblankets-1b613158f2ac9d56"
+},
+{
+"title": "Systems Engineering Specialist",
+"company": "PAL Group of Companies",
+"location": "Halifax, NS, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=b19e7a57d545026f",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=06351502-0666-4c6f-9a0b-165c5faeab35&ccId=19000101_000001&jobId=749779&source=IN&lang=en_CA"
+},
+{
+"title": "Field Service Coordinator - Rytech Restoration",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=593b3bfeb206b910",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://apply.workable.com/j/D2AC21E1CE"
+},
+{
+"title": "QA Analyst",
+"company": "Nitka Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=f9cc71a60d16dfca",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://nitkatechnologies.applytojob.com/apply/bSpLAa5Pea/QA-Analyst?source=INDE&~"
+},
+{
+"title": "Software Support Specialist II",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=4e9993e698611967",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=95f44138-584e-4596-919d-a00b1adb4bed&ccId=19000101_000001&jobId=635343&source=IN&lang=en_US"
+},
+{
+"title": "SRE Engineer",
+"company": "Nitka Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=13f81d12dee540bc",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://nitkatechnologies.applytojob.com/apply/vxXLIFmWO8/SRE-Engineer?source=INDE&~"
+},
+{
+"title": "Cybersecurity Cloud Operations Engineer",
+"company": "UMass Memorial Health",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=01b15c2e21af4ebe",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://ummh.wd1.myworkdayjobs.com/en-US/Careers/job/Worcester-MA/Cybersecurity-Cloud-Operations-Engineer_R26112839"
+},
+{
+"title": "Entry Land Survey Technician",
+"company": "Morrison-Maierle",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=e6406fa0b537252a",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://grnh.se/i2cfinna9us"
+},
+{
+"title": "Grocery Integration Consultant",
+"company": "Ottimate",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=98ccfe48af5e0d12",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://apply.workable.com/j/C894775B5D"
+},
+{
+"title": "MDM Engineer",
+"company": "D&H Distributing",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=4434c37920642404",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://dandh.csod.com/ux/ats/careersite/5/home/requisition/3631?c=dandh"
+},
+{
+"title": "Site Reliability Engineer II",
+"company": "Blue Origin",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=1a525a7da306d052",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Site-Reliability-Engineer-II_R75987"
+},
+{
 "title": "Strategic Finance Analyst II - AI & Data Systems",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -4071,28 +4272,6 @@
 "country": "CA",
 "years": null,
 "apply": "https://jobs.glowinthecloud.com/sonele-inc/20261123001?l=en&source=Indeed"
-},
-{
-"title": "Technical Sales Representative",
-"company": "Smiths Group",
-"location": "Edmonton, AB, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=960b493bd4cfe15a",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://jobs.smartrecruiters.com/SmithsGroup2/744000163275728-technical-sales-representative"
-},
-{
-"title": "Technical Sales Representative",
-"company": "Smiths Group",
-"location": "Vancouver, BC, CA (remote)",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=9a753766c241ae9b",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://jobs.smartrecruiters.com/SmithsGroup2/744000163275938-technical-sales-representative"
 },
 {
 "title": "AI Enablement & Implementation Specialist",
@@ -8843,7 +9022,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619293-OTHLOC-100000755778432&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18510065-junior-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D2e250325-e77c-11f1-a70e-c30c3c91ae49%26rx_job%3D2619293-OTHLOC-100000755778432%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261124T160402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619293-OTHLOC-100000755778432"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619293-OTHLOC-100000755778432&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18510065-junior-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D2e250325-e77c-11f1-a70e-c30c3c91ae49%26rx_job%3D2619293-OTHLOC-100000755778432%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261124T180403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619293-OTHLOC-100000755778432"
 },
 {
 "title": "Software Developer",
@@ -11529,6 +11708,166 @@
 "location": "London, Ontario, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4494032000",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Application Developer – Loan Servicing & AI Enablement",
+"company": "BMO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493662791",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Developer",
+"company": "Foresters Financial",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4449860881",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": ".Net Developer",
+"company": "Hays",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493681456",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Analyst Student",
+"company": "Tundra Oil & Gas",
+"location": "Virden, Manitoba, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494012731",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP iXp Intern - Agile Developer, Business Data Cloud",
+"company": "SAP",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492635419",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Pluggable Optical Modems Test Engineer",
+"company": "Ciena",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4467114437",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel SAP eWM",
+"company": "BRP",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4244845946",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel·le POS",
+"company": "Jean Coutu",
+"location": "Varennes, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4491345275",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oracle Fusion Financials Specialist",
+"company": "Aviva Canada",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4441103737",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Manufacturing Execution Systems (MES) Co-Op - Starting in September",
+"company": "Magna International",
+"location": "Milton, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4441685804",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business and Data Analyst",
+"company": "Brillio",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493773804",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Process Improvement Business Analyst-Brooks, AB",
+"company": "JBS Food Canada",
+"location": "Brooks, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493799903",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Strategic Integration Analyst",
+"company": "Government of Alberta",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493764221",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Tamanna Technology",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492044205",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Security Analyst",
+"company": "Foresters Financial",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4433105873",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Tier 3 Security and Microsoft 365 Specialist",
+"company": "Randstad Digital",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494028743",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
