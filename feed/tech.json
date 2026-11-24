@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T21:23:15+00:00",
+"updated": "2026-11-24T21:33:14+00:00",
 "jobs": [
 {
 "title": "Machine Learning Engineer",
@@ -3845,6 +3845,392 @@
 "apply": "https://jobs.ashbyhq.com/apollo-information-systems/7d852beb-4c37-4cf9-9486-ebdf86e81cbe?utm_source=9oVmo3mrKM"
 },
 {
+"title": "Geomatics Technologist",
+"company": "CBCL Limited",
+"location": "St. John's, NL, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=44ef56666962d958",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://cbcl.bamboohr.com/careers/510?source=indeed&src=indeed&postedDate=2026-11-24"
+},
+{
+"title": "Information technology (it) system administrator",
+"company": "ProServeIT Corporation",
+"location": "Mississauga, ON, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50796532",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Software Developer",
+"company": "Trehan & Company",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=7251b37616f3aa04",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/software-developer-7251b37616f3aa04"
+},
+{
+"title": "Business Analyst",
+"company": "Markel Corporation",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=728bf00ab3778934",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Toronto-Ontario---CAN/Business-Analyst_R0023529-1"
+},
+{
+"title": "Analyste d’affaires – Programmes génériques - Business Analyst Generic Programs (contrat 18 mois)",
+"company": "McKesson",
+"location": "Saint-Laurent, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=bf5f065bf182de92",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.mckesson.com/en/job/saint-laurent/analyste-d-affaires-programmes-generiques-business-analyst-generic-programs-contrat-18-mois/733/103739176000",
+"french": true
+},
+{
+"title": "Data Engineer",
+"company": "PwC Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=4faa598190fa8bd9",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs-ca.pwc.com/ca/en/job/PWCACA773574WDEXTERNALENCA/Data-Engineer?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Machine Learning Engineer",
+"company": "Skip",
+"location": "ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=92af77e55df57dc6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://wd3.myworkdaysite.com/recruiting/takeaway/JET-ECS-R/job/Canada-ON-Remote/Data-Science-Manager_R_054030"
+},
+{
+"title": "Technical Support Representative",
+"company": "",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=237472428ee0b1af",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-support-representative-237472428ee0b1af"
+},
+{
+"title": "Technicien(ne) soutien informatique (niveau 2) - Onsite (Rive-sud de Montréal)",
+"company": "MOFCO",
+"location": "Saint-Hyacinthe, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=21a3ca8f3ec1352f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technicienne-soutien-informatique-niveau-2-onsite-rive-sud-de-montr%C3%A9al-21a3ca8f3ec1352f"
+},
+{
+"title": "Technicien·ne en informatique – support aux usagers",
+"company": "Groupe Technosub",
+"location": "Rouyn-Noranda, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=4fae5ad1e26a33c5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technicienne-en-informatique-support-aux-usagers-4fae5ad1e26a33c5",
+"french": true
+},
+{
+"title": "Technicien(ne) soutien informatique (niveau 2) - Sur la route (Rive-Nord de Montréal)",
+"company": "MOFCO",
+"location": "Laval, QC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=21cd2558924d6cd5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technicienne-soutien-informatique-niveau-2-sur-la-route-rive-nord-de-montr%C3%A9al-21cd2558924d6cd5"
+},
+{
+"title": "Junior Quality Assurance Specialist",
+"company": "Teldio",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9524f520bfc22064",
+"source": "Indeed",
+"country": "CA",
+"years": 0,
+"apply": "https://teldio.bamboohr.com/careers/57?source=indeed&src=indeed&postedDate=2026-11-24"
+},
+{
+"title": "Aquatic Scientist",
+"company": "Trinity Consultants Canada",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=3548c66741f16277",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://trinityconsultantscanada.bamboohr.com/careers/710?source=indeed&src=indeed&postedDate=2026-11-24"
+},
+{
+"title": "Water Treatment Field Service Technician",
+"company": "K&D Pratt",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9a4b52379698c538",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://kdpratt.bamboohr.com/careers/207?source=indeed&src=indeed&postedDate=2026-11-24"
+},
+{
+"title": "Field Service Technician",
+"company": "Kaeser Compresseurs Canada",
+"location": "Surrey, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=a8944ead4a6dd908",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://kaesercompresseursca.bamboohr.com/careers/107?source=indeed&src=indeed&postedDate=2026-11-24"
+},
+{
+"title": "Security Officer Casual",
+"company": "Edgewood Health Network",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=5d4cb3234f9ee893",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b6ecff94-3268-47d3-95c9-e9e32d3003cb&ccId=19000101_000001&jobId=573211&source=IN&lang=en_CA"
+},
+{
+"title": "Proposal Support Specialist",
+"company": "General Dynamics Mission Systems",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=157ff1d48ff94644",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.smartrecruiters.com/GDMSI/744000163548268-proposal-support-specialist"
+},
+{
+"title": "Développeur(euse) de produits associé(e)",
+"company": "ALDO Group",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=a400be04fcadb124",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://aldogroup.jobs.hr.cloud.sap/headoffice/job/Montreal-D%C3%A9veloppeur%28euse%29-de-produits-associ%C3%A9%28e%29-Qu%C3%A9b-H4N-2B3/608317117/"
+},
+{
+"title": "Technical Sales Representative",
+"company": "PSquare Engineering and Construction Ltd",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=5a014cf4102b81e2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/technical-sales-representative-5a014cf4102b81e2"
+},
+{
+"title": "Super Fan Sales Support & Associate",
+"company": "MySeat Media Inc.",
+"location": "Pointe-Claire, QC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=764c3fac35f983ba",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/super-fan-sales-support-associate-764c3fac35f983ba"
+},
+{
+"title": "Control Systems Engineer/Specialist",
+"company": "Shell",
+"location": "Scotford, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1e8e6a1ba6e01449",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Scotford---Complex/Control-Systems-Engineer-Specialist_R215370"
+},
+{
+"title": "Wind Services AI Product Management Leader",
+"company": "GE Vernova",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=126bd888f4cec62a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.gevernova.com/wind-services-ai-product-management-leader/job/R5058262"
+},
+{
+"title": "Remote Operations Technician (Overnight)",
+"company": "Simple Mining",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=3a2f80127008bc48",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ff5d03fa-fad9-483f-8203-b08b0a104481&ccId=19000101_000001&jobId=578568&source=IN&lang=en_US"
+},
+{
+"title": "Service Desk Analyst",
+"company": "Cincinnati Children's Hospital",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=ad0d01b0a2442474",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://jobs.cincinnatichildrens.org/us/en/job/CINCCHUSJR227112EXTERNALENUS/Service-Desk-Analyst?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "IT (information technology) consultant",
+"company": "ProServeIT Corporation",
+"location": "Mississauga, ON, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50796527",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Outside Sales Engineer - South Florida/East Coast",
+"company": "TRINOVA INC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=68660edcdb719c4f",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e38bf315-e48b-46ca-b86d-31e24a01cbb6&ccId=19000101_000001&jobId=545970&source=IN&lang=en_US"
+},
+{
+"title": "Data Conversion Engineer - Remote",
+"company": "CentralSquare Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=7f61355dace1a88b",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=612909&cid=7724&locvalue=1108"
+},
+{
+"title": "Data Analyst",
+"company": "Infoorigin Inc",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=0a6db01ef9648a75",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&ccId=19000101_000001&jobId=578569&source=IN&lang=en_US"
+},
+{
+"title": "Data Analyst",
+"company": "QHC ARM Shared Services",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=a6864f83b1cabc25",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://recruiting2.ultipro.com/QHC1000QHCS/JobBoard/c040c0a4-ac04-44d9-b2db-247ae83b77f4/OpportunityDetail?opportunityId=7e41d0b8-de76-43bb-a96a-b6a9ffb6dbee&postingId=aaae09d8-118b-4c58-91ec-beac387417a8"
+},
+{
+"title": "Proposals/Orals & Sales Support Associate, Growth Enablement Team, EDR",
+"company": "Huron Consulting Group",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=4c74a29a3ee698e4",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Proposals-Orals---Sales-Support-Associate--Growth-Enablement-Team--EDR_JR-0017324"
+},
+{
+"title": "Copy of Enterprise Data AE - Partnerships",
+"company": "Seamless",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=5e93bb46cc8345ad",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://ats.rippling.com/seamless/jobs/c1361aa8-9e42-4702-a3c2-e0cb8fe36458?jobSite=Indeed"
+},
+{
+"title": "Customer Success Associate",
+"company": "Essentra PLC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=4a28b31533c3f0d9",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/customer-success-associate-4a28b31533c3f0d9"
+},
+{
+"title": "Filter Processing VI Technician evening shift",
+"company": "Iridian Spectral Technologies",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=c0f5838cdd026934",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3c727911-9f61-4310-a439-cc399f097818&ccId=19000101_000001&jobId=573583&source=IN&lang=en_CA"
+},
+{
+"title": "Part-time Ophthalmic Technician (Ottawa Ophthalmology Eye Clinic, on-site)",
+"company": "Sentrex Health Solutions",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=0f3d43e4bf7faaa4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruiting.ultipro.ca/SEN5000SENX/JobBoard/6fb48162-c3e8-4579-93b7-29ce79199149/OpportunityDetail?opportunityId=dc29b531-383e-4802-89dd-51714cc71c81&postingId=86f273c9-1188-4c0e-bc09-16090bca8ef9",
+"part_time": true
+},
+{
+"title": "Certification Engineer",
+"company": "Orbcomm",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=5531409df24c1ec5",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b9e6f585-387b-496e-8b63-bee5bed64c3e&ccId=19000101_000001&jobId=958024&source=IN&lang=en_US"
+},
+{
 "title": "Strategic Finance Analyst II - AI & Data Systems",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -4082,7 +4468,7 @@
 "link": "https://jobs.dropbox.com/listing/8328568?gh_jid=8328568",
 "source": "Dropbox careers",
 "country": "US",
-"years": null
+"years": 5
 },
 {
 "title": "Electronics Technician",
@@ -14520,6 +14906,87 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4493916078",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business object Power BI",
+"company": "Galent",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492656112",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation QA",
+"company": "Prodigy Systems Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492640776",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Research Intern – Scientific Machine Learning for Physics and Simulation",
+"company": "Siemens",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=b7cc7681191c8597",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.siemens.com/externaljobs/JobDetail/530519?source=Indeed"
+},
+{
+"title": "Salesforce Business Analyst",
+"company": "Campus4Tech",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493925082",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System Admin Field Support Specialist",
+"company": "Platinum Technologies Inc",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494056704",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solution Sales Executive - Moveworks",
+"company": "ServiceNow",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493259173",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Performance Tester",
+"company": "Pacer Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4481473845",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Continuous Improvement Technician (Night Shift)",
+"company": "Rudolph's Bakeries Ltd.",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493913286",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
