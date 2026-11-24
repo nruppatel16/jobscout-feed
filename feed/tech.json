@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T19:54:14+00:00",
+"updated": "2026-11-24T20:04:13+00:00",
 "jobs": [
 {
 "title": "Designer, Web Presence & Platform",
@@ -3120,6 +3120,172 @@
 "apply": "https://jobs.scotiabank.com/JFL/job/Montreal-Portfolio-Administrator%2C-Scotia-Jarislowsky-Fraser-Montreal%2C-QC-QC-H3A2R7/608324117/"
 },
 {
+"title": "Business Analyst, Workday",
+"company": "Ontario Securities Commission",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9de4b55151146f27",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://osc.wd3.myworkdayjobs.com/en-US/OSCCareers/job/CA-ON-Toronto/Business-Analyst--Workday_JR101005-1"
+},
+{
+"title": "Data Scientist",
+"company": "Badger Daylighting Inc.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=2ad942f267aa179a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://ejlj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Badger/requisitions/preview/252805"
+},
+{
+"title": "Systems Engineering Developer",
+"company": "Profound Medical Inc.",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=69bf37c894bc9573",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://profoundmedical.bamboohr.com/careers/368"
+},
+{
+"title": "CONCEPTEUR(TRICE) DE SOLUTIONS (POSTES DE TRAVAIL)",
+"company": "Gravity Conseil",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=76b4853831a1a72d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gravityconseil.fr/carrieres.php?id=5kL2Fmv5R3QhZdHT3OgQ32itshmPcy7CzAQvSE5SISE",
+"french": true
+},
+{
+"title": "Management information systems consultant",
+"company": "Collabware",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50794835",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Information technology (IT) specialist",
+"company": "TriSon Farms International Inc.",
+"location": "Kingsville, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50794831",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Security Officer - Canadian Cancer Society",
+"company": "Paladin Security",
+"location": "Halifax, NS, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=c94af1cf96c6d4e9",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://call.classet.ai/job/security-officer-canadian-cancer-society-halifax-nozh5sotzwtc"
+},
+{
+"title": "Administrator, HR Services",
+"company": "Keyera Corp",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=fae744a68378cf3f",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://keyera.wd10.myworkdayjobs.com/en-US/Keyera_Careers/job/Calgary-Suncor-Building/Administrator--HR-Services_JR2979-1"
+},
+{
+"title": "IT Asset Management Tool SME",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=8f26b5ba911488b9",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.gdit.com/careers/job/129df6cac/it-asset-management-tool-sme/"
+},
+{
+"title": "Security systems technician",
+"company": "Alexander Security Inc",
+"location": "Grande Prairie, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50794833",
+"source": "Job Bank",
+"country": "CA",
+"years": 0
+},
+{
+"title": "Genomics Scientist (PhD)",
+"company": "Cobalt",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=7843c597724c3ffe",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/genomics-scientist-phd-7843c597724c3ffe",
+"part_time": true
+},
+{
+"title": "Bioinformatics Scientist (PhD)",
+"company": "Cobalt",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=b119360de86b83f9",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/bioinformatics-scientist-phd-b119360de86b83f9",
+"part_time": true
+},
+{
+"title": "Imaging Scientist (PhD)",
+"company": "Cobalt",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=d9a9488d6ec731b3",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/imaging-scientist-phd-d9a9488d6ec731b3",
+"part_time": true
+},
+{
+"title": "UiPath Robotic Process Automation Developer",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=246bc54fa57c9d31",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.gdit.com/careers/job/4b142e833/uipath-robotic-process-automation-developer/"
+},
+{
+"title": "Commissioning Engineer",
+"company": "ATCO",
+"location": "Nisku, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=dc0c9ecb72eb9d65",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.atco.com/global/en/job/AGZAGAGLOBAL21022EXTERNALENGLOBAL/Commissioning-Engineer?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
 "title": "Strategic Finance Analyst II - AI & Data Systems",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -3298,6 +3464,16 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "SAP Basis Consultant - Operate",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-11-24T00:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-SAP-Basis-Consultant-Operate-ON-M5H-0A9/1453561300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": 4
 },
 {
 "title": "Digital Solution Specialist - Dynamics 365",
@@ -9826,7 +10002,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619293-OTHLOC-100000755778432&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18510065-junior-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D2e250325-e77c-11f1-a70e-c30c3c91ae49%26rx_job%3D2619293-OTHLOC-100000755778432%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261124T180403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619293-OTHLOC-100000755778432"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619293-OTHLOC-100000755778432&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18510065-junior-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D2e250325-e77c-11f1-a70e-c30c3c91ae49%26rx_job%3D2619293-OTHLOC-100000755778432%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261124T200410Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619293-OTHLOC-100000755778432"
 },
 {
 "title": "Software Developer",
@@ -13302,6 +13478,216 @@
 "location": "Etobicoke, Ontario, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4493672949",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Tools & Automation Co-op",
+"company": "Calian in Space & Technology",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494108166",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Cloud Engineer",
+"company": "Nasdaq",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4383245892",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Royalty Systems Analyst - USA or Canada",
+"company": "Klopotek",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493783902",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Investment Operations, Data Support Analyst (18-month contract)",
+"company": "AGF Investments",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4481811553",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service & Install Technician",
+"company": "Allmar Inc.",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493689648",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Technician - Compressed Air Specialist",
+"company": "Comairco, LLC",
+"location": "Greater Sudbury, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493696782",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technician I",
+"company": "Vestas",
+"location": "Chetwynd, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493656786",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller, Solutions de gestion technologique et gestion de portefeuille",
+"company": "Amaris Consulting | Part of Mantu",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492646504",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "Global Technical Talent, an Inc. 5000 Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492637722",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "CRM Data Engineer",
+"company": "AGF Investments",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4437612626",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Workday Functional Analyst & Integration Specialist",
+"company": "Synechron",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492643623",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Administrator | Betty CA",
+"company": "Betty",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494049625",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Coordinator, TSG Support",
+"company": "Bain & Company",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493914167",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst",
+"company": "Co-operators Assurance et services financiers",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494027138",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst",
+"company": "Co-operators Assurance et services financiers",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494006934",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst",
+"company": "Co-operators",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493685025",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur automatisation de l’assurance qualité/Ingénieure automatisation de l’assurance qualité",
+"company": "Extia",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492648372",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst – OpenText TeamSite & SharePoint Migration",
+"company": "Infotek Consulting Inc.",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492651327",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Administrator",
+"company": "Doctors of BC",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494038737",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Marketing Cloud Developer",
+"company": "Pacer Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494026997",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Developer",
+"company": "Highspring",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493661253",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
