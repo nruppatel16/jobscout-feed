@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T23:23:15+00:00",
+"updated": "2026-11-24T23:33:15+00:00",
 "jobs": [
 {
 "title": "Software Engineer, DevOps",
@@ -5035,6 +5035,217 @@
 "country": "US",
 "years": null,
 "apply": "http://www.indeed.com/job/financial-services-market-developer-d8458ebcb984e7bc"
+},
+{
+"title": "Specialist - Cloud & Infra Management",
+"company": "LTM Limited",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=80a09b0c3d2a193f",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://ltm.ripplehire.com/candidate/?token=bErmGlBSTE4QO2kvLVJs&lang=en&source=INDEED&ref=INDEED#detail/job/909218"
+},
+{
+"title": "Economic Data Analyst",
+"company": "Government Of Alberta",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=cdf90ae09dce314e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobpostings.alberta.ca/job/Edmonton-Economic-Data-Analyst/608352817/"
+},
+{
+"title": "Backend Engineer - Depop Value Creation",
+"company": "eBay",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=44c7a4855a0b31a3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ebayinc.com/us/en/job/R0077245"
+},
+{
+"title": "Neurofeedback Technician",
+"company": "NUVISTA Mental Health",
+"location": "Stratford, PE, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=2aae9e55636a8065",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9265c5bd-4d86-4e9b-b099-43b904ac26b8&ccId=19000101_000001&jobId=577389&source=IN&lang=en_CA",
+"part_time": true
+},
+{
+"title": "Civil API Specialist",
+"company": "Bentley Systems",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e7f033c37615af49",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bentleysystems.wd5.myworkdayjobs.com/bentley/job/Quebec-City-Quebec-Canada/Civil-API-Specialist_R212",
+"french": true
+},
+{
+"title": "Architecte Logiciel",
+"company": "Promutuel Assurance",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=4c8f62f92615bfef",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://promutuel.wd3.myworkdayjobs.com/promutuel_carrieres/job/Qubec-Boul-Lebourgneuf/Architecte-Logiciel_R-0000001665"
+},
+{
+"title": "Instructor, Junior VEX Robotics & Junior LEGO Robotics (Okotoks)",
+"company": "Circuit Stream",
+"location": "Strathcona, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=5fb820b457f600e4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://circuitstream.humi.ca/job-board/alberta+summer+camp+staff/52644?source=Indeed"
+},
+{
+"title": "Command Centre - Operations Analyst - 12 month Short Term Assignment",
+"company": "TD",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=d98efb6214887906",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mississauga-Ontario/Command-Centre---Operations-Analyst---12-month-Short-Term-Assignment_R_1517208"
+},
+{
+"title": "Bioinformatics Business Analyst",
+"company": "Blu Omega LLC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=20f5525ef3eaa8a4",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://bluomega.com/wp-content/plugins/bullhorn-oscp/#/jobs/2552?source=Indeed"
+},
+{
+"title": "Network Engineer - SUNY Old Westbury",
+"company": "SUNY Old Westbury",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=6679337ff27c7f4a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://oldwestbury.interviewexchange.com/jobofferdetails.jsp?JOBID=207028"
+},
+{
+"title": "Data Scientist II",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f81d9f1cdb173a9f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-II_R_1523015"
+},
+{
+"title": "Analyst I, Product Technical Support",
+"company": "FIS",
+"location": "Markham, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=94e5348263e30d00",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0310978EXTERNAL/Analyst-I-Product-Technical-Support?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Programmeur Innovation GameTech - GameTech Innovation Developer",
+"company": "Gameloft",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=62d6ee4df91b6309",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.smartrecruiters.com/Gameloft/744000163559668-programmeur-innovation-gametech-gametech-innovation-developer"
+},
+{
+"title": "Consultant - Application Developer",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=056d59c07c57c5cf",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant---Application-Developer_2623662"
+},
+{
+"title": "Full Stack Developer",
+"company": "Blu Omega LLC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=871b3ce4bd10fac4",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://bluomega.com/wp-content/plugins/bullhorn-oscp/#/jobs/2553?source=Indeed"
+},
+{
+"title": "Technical Support Engineer / Technologist",
+"company": "Saltworks Technologies",
+"location": "Richmond, BC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=72f66f9e5173ed89",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://saltworkstech.applytojob.com/apply/6y9KQ7y9V9/Technical-Support-Engineer-Technologist?source=INDE&~"
+},
+{
+"title": "Assistive Technology Professional (ATP) - Florida",
+"company": "Mobius Mobility",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=042fe48609342f7e",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://mobiusmobility.applytojob.com/apply/GV6vswGWXh/Assistive-Technology-Professional-ATP-Florida?source=INDE&~"
+},
+{
+"title": "Quality Control Technician (APPAREL)",
+"company": "",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=2e8d7bfa5755abb8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/quality-control-technician-apparel-2e8d7bfa5755abb8"
+},
+{
+"title": "Transportation Engineer ($4,000 Hiring Incentive)",
+"company": "State of Arizona",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=bd5b88892d2bc5a7",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.azstatejobs.gov/jobs/transportation-engineer-4-000-hiring-incentive-phoenix-arizona-united-states-9af8a12e-c1bf-4669-bd78-d4fc12ebcf9f"
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
@@ -10566,17 +10777,6 @@
 "country": "US",
 "years": null,
 "apply": "https://careers.fisglobal.com/us/en/job/FIGLUSJR0311219EXTERNAL/Analyst-II-Production-Support-Second-Shift?utm_source=indeed&utm_medium=phenom-feeds"
-},
-{
-"title": "Specialist - Cloud & Infra Management",
-"company": "LTM Limited",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=80a09b0c3d2a193f",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://ltm.ripplehire.com/candidate/?token=bErmGlBSTE4QO2kvLVJs&lang=en&source=INDEED&ref=INDEED#detail/job/909218"
 },
 {
 "title": "Dairy Process Technologist",
@@ -16504,6 +16704,166 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4494088171",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IBM Maximo Functional Consultant",
+"company": "Epsilon Solutions Ltd.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493920902",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft Dynamics 365 F&O Functional Consultant",
+"company": "R2 Global",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492605988",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien TI",
+"company": "BPA",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493934616",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien(ne) informatique",
+"company": "MRC de Bellechasse",
+"location": "Saint-Lazare-de-Bellechasse, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493933746",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste technique /Technical Specialist - Montreal, QC",
+"company": "Cencora",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492647976",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Technical Support Specialist",
+"company": "Jonas Software",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4462732235",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Technical Service Representative (Full Time)",
+"company": "Best Buy Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492667167",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Technical Service Representative (Full Time)",
+"company": "Best Buy Canada",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492667166",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Global Technical Talent, an Inc. 5000 Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492647028",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Onboard ETCS and Systems Integration SME",
+"company": "AtkinsRéalis",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493910656",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicienne, technicien en informatique Classe principale – Équipe SMA",
+"company": "Centre de services scolaire Marguerite-Bourgeoys - CSSMB",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493953038",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Digital Customer Capabilities",
+"company": "Eli Lilly and Company",
+"location": "Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493922823",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst - Intermediate",
+"company": "Raise",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493918795",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer (Night Shift)",
+"company": "ALTEN Canada",
+"location": "Brantford, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492628232",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "KYC Analyst (Onboarding, FLOD) - Corporate Banking",
+"company": "MUFG",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492928946",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Training & Process Administrator",
+"company": "Northview Residential REIT",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494082493",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
