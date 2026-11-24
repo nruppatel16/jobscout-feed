@@ -1,12 +1,228 @@
 {
-"updated": "2026-11-24T04:26:13+00:00",
+"updated": "2026-11-24T04:36:14+00:00",
 "jobs": [
 {
-"title": "SME Product Engineer",
-"company": "Ciena",
-"location": "2 Locations, Canada",
+"title": "Security Engineer",
+"company": "Kendal Corporation",
+"location": "Remote · United States",
 "posted": "2026-11-24",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/SME-Product-Engineer_R031961-1",
+"link": "https://www.indeed.com/viewjob?jk=0b233d15436a890f",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://recruiting.ultipro.com/KEN1007KENDL/JobBoard/029aefb3-3b18-4282-9814-60f11b73dea9/OpportunityDetail?opportunityId=25bb0938-3f25-4dd8-b955-d7065613b61e&postingId=3fcb6c50-ffcd-423e-aae1-fb05d427913b"
+},
+{
+"title": "Data Analyst",
+"company": "LACOSTA Facility Support Services",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=579d958a7e33b71f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/data-analyst-579d958a7e33b71f"
+},
+{
+"title": "Software Engineer - Data Platform",
+"company": "Samsara",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=86af72fba4026196",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://grnh.se/ior747111us"
+},
+{
+"title": "Data Engineer",
+"company": "Samsara",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=cb0022b4fe0d6a1b",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://grnh.se/qk0f55og1us"
+},
+{
+"title": "Software Engineer - Data Platform",
+"company": "Samsara",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=98a48aaeeafd7c56",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://grnh.se/ior747111us"
+},
+{
+"title": "Software Engineer - Data Platform",
+"company": "Samsara",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=316512aba449970f",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://grnh.se/ior747111us"
+},
+{
+"title": "Data Engineer",
+"company": "Samsara",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1af9ee2a0536ded4",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://grnh.se/qk0f55og1us"
+},
+{
+"title": "Software Engineer - Data Platform",
+"company": "Samsara",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=44e2e525037893f4",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://grnh.se/ior747111us"
+},
+{
+"title": "Data Engineer",
+"company": "Samsara",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=ea400a5127c5dd25",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://grnh.se/qk0f55og1us"
+},
+{
+"title": "Production Technician – Laser Engraving & Custom Manufacturing",
+"company": "AD Engraving",
+"location": "Concord, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=d6bc22a0c7f57088",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/production-technician-laser-engraving-custom-manufacturing-d6bc22a0c7f57088"
+},
+{
+"title": "Technical Support & Operations Coordinator",
+"company": "Lyxfield Canada",
+"location": "Saint John, NB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=3c5ba3b513c557f7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-support-operations-coordinator-3c5ba3b513c557f7"
+},
+{
+"title": "Software Engineer II",
+"company": "Samsara",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f4577cec0dae3f4c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/mv46rk8h1us"
+},
+{
+"title": "Implementation/Onboarding Specialist-Contruction ERP",
+"company": "Explorer Software Inc.",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e51608d2c5c12f0b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/implementationonboarding-specialist-contruction-erp-e51608d2c5c12f0b"
+},
+{
+"title": "Remote Service Desk Agent - Secret Clearance Required",
+"company": "Sebastian Tech Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=e9e10b2432b5b3e0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0"
+},
+{
+"title": "Data Scientist",
+"company": "Teamified",
+"location": "CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f665af9dd90a9aa4",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://apply.workable.com/j/5359C082E3"
+},
+{
+"title": "Franchise Support Trainer & Advisor",
+"company": "angela COTE Inc.",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6324c91d5701b1f0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/franchise-support-trainer-advisor-6324c91d5701b1f0"
+},
+{
+"title": "Network Administrator - Full Time - Markham Stouffville Hospital",
+"company": "Oak Valley Health",
+"location": "Markham, Ontario",
+"posted": "2026-11-24",
+"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Network-Administrator---Full-Time---Markham-Stouffville-Hospital_JR104476",
+"source": "Oak Valley Health careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Development Engineer",
+"company": "HOOPP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Full-Stack-Development-Engineer_JR102634",
+"source": "HOOPP careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Business Analyst, Business strategies",
+"company": "Desjardins",
+"location": "Montréal",
+"posted": "2026-11-24",
+"link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Analyste-d-affaires--Solutions-de-tarification_R2614010",
+"source": "Desjardins careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Distinguished Engineer, AI Threat Defense",
+"company": "Thomson Reuters",
+"location": "Canada",
+"posted": "2026-11-24",
+"link": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Distinguished-Engineer--AI-Threat-Defense_JREQ202811-1",
+"source": "Thomson Reuters careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Global Trade Data Analyst",
+"company": "Ciena",
+"location": "Remote-Canada",
+"posted": "2026-11-24",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Global-Trade-Data-Analyst_R032155-1",
 "source": "Ciena careers",
 "country": "CA",
 "years": null
@@ -22,131 +238,14 @@
 "years": null
 },
 {
-"title": "Global Trade Data Analyst",
+"title": "SME Product Engineer",
 "company": "Ciena",
-"location": "Remote-Canada",
+"location": "2 Locations, Canada",
 "posted": "2026-11-24",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Global-Trade-Data-Analyst_R032155-1",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/SME-Product-Engineer_R031961-1",
 "source": "Ciena careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Distinguished Engineer, AI Threat Defense",
-"company": "Thomson Reuters",
-"location": "Canada",
-"posted": "2026-11-24",
-"link": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Distinguished-Engineer--AI-Threat-Defense_JREQ202811-1",
-"source": "Thomson Reuters careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst, Business strategies",
-"company": "Desjardins",
-"location": "Montréal",
-"posted": "2026-11-24",
-"link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Analyste-d-affaires--Solutions-de-tarification_R2614010",
-"source": "Desjardins careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Full-Stack Development Engineer",
-"company": "HOOPP",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-24",
-"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Full-Stack-Development-Engineer_JR102634",
-"source": "HOOPP careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Network Administrator - Full Time - Markham Stouffville Hospital",
-"company": "Oak Valley Health",
-"location": "Markham, Ontario",
-"posted": "2026-11-24",
-"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Network-Administrator---Full-Time---Markham-Stouffville-Hospital_JR104476",
-"source": "Oak Valley Health careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Franchise Support Trainer & Advisor",
-"company": "angela COTE Inc.",
-"location": "Remote, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=6324c91d5701b1f0",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/franchise-support-trainer-advisor-6324c91d5701b1f0"
-},
-{
-"title": "Data Scientist",
-"company": "Teamified",
-"location": "CA (remote)",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=f665af9dd90a9aa4",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://apply.workable.com/j/5359C082E3"
-},
-{
-"title": "Remote Service Desk Agent - Secret Clearance Required",
-"company": "Sebastian Tech Solutions",
-"location": "Remote · United States",
-"posted": "2026-11-24",
-"link": "https://www.indeed.com/viewjob?jk=e9e10b2432b5b3e0",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0"
-},
-{
-"title": "Implementation/Onboarding Specialist-Contruction ERP",
-"company": "Explorer Software Inc.",
-"location": "Remote, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=e51608d2c5c12f0b",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/implementationonboarding-specialist-contruction-erp-e51608d2c5c12f0b"
-},
-{
-"title": "Software Engineer II",
-"company": "Samsara",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=f4577cec0dae3f4c",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://grnh.se/mv46rk8h1us"
-},
-{
-"title": "Technical Support & Operations Coordinator",
-"company": "Lyxfield Canada",
-"location": "Saint John, NB, CA (remote)",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=3c5ba3b513c557f7",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/technical-support-operations-coordinator-3c5ba3b513c557f7"
-},
-{
-"title": "Production Technician – Laser Engraving & Custom Manufacturing",
-"company": "AD Engraving",
-"location": "Concord, ON, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=d6bc22a0c7f57088",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/production-technician-laser-engraving-custom-manufacturing-d6bc22a0c7f57088"
 },
 {
 "title": "Applied AI Engineer, Mid-Market Enterprise",
@@ -5086,7 +5185,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://candidateportal.ceipal.com/job-details/GsHTUAJf4VHHZVr2xHiuExMtA1_wPv8PQ5pup8jfuDM#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/kxNN2o-BjZEwo_Yn823DDJxnZqn397sNCteTz2AYEEc#.job_boards.Indeed"
 },
 {
 "title": "Test Data Quality Engineer",
@@ -6973,6 +7072,149 @@
 "country": "US",
 "years": 1,
 "apply": "https://www.usajobs.gov:443/job/893982200"
+},
+{
+"title": "Data Science & AI - Quality (Winter 2027)",
+"company": "ALSTOM",
+"location": "Saint-Bruno, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=42a338ccfde11c5e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobsearch.alstom.com/job/Saint-Bruno-Data-Science-&-AI-Quality-%28Winter-2027%29-QC/1459891033/"
+},
+{
+"title": "Job Developer-Full-Time-Kelowna BC",
+"company": "Serco",
+"location": "North Vancouver, BC, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=69171d65e70b1df0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.serco-na.com/us/en/job/36513/Job-Developer-Full-Time-Kelowna-BC"
+},
+{
+"title": "LSO 3B DPE - Area Engineer",
+"company": "BC Public Service",
+"location": "Campbell River, BC, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=2d0e639efe3f76dc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/126917"
+},
+{
+"title": "Hardware Sales Part Time - BOLTON",
+"company": "Home Depot Canada",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=785bdafd65b455c3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.homedepot.ca/job-view-id/2114119?utm_campaign=Indeed.ca",
+"part_time": true
+},
+{
+"title": "Implementation Analyst II",
+"company": "Axon",
+"location": "Victoria, BC, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f7b77eed4adc195e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://grnh.se/a7y43rzb3us"
+},
+{
+"title": "Cyber Tradecraft Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=8faa841ef66f73ef",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681619/Woven-Solutions-LLC/Cyber-Tradecraft-Engineer?source=Indeed_Feed"
+},
+{
+"title": "DevOps Engineer",
+"company": "J. J. Keller & Associates, Inc",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=d0e018fd1f482223",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.jjkeller.com/job/Neenah-DevOps-Engineer-WI-54956/1453234900/"
+},
+{
+"title": "Network Operations Center (NOC) Network Administrator",
+"company": "Applied Network Solutions Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=d061ccead62622b6",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/1840480/Applied-Network-Solutions-Inc/Network-Operations-Center-NOC-Network-Administrator?source=Indeed_Feed"
+},
+{
+"title": "Supervisory IT Specialist (Security)",
+"company": "US Defense Microelectronics Activity",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=7aba6f5de01a1a6e",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/894000800"
+},
+{
+"title": "Peoples Bank Customer Support Representative",
+"company": "Peoples Bank",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=6adaf8ddfed4108a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4688042/Peoples-Bank-WA/Peoples-Bank-Customer-Support-Representative?source=Indeed_Feed"
+},
+{
+"title": "Cybersecurity Specialist",
+"company": "CyberMaxx",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=acbd82276f145af2",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677415/CYBERMAXX-LLC/Cybersecurity-Specialist?source=Indeed_Feed"
+},
+{
+"title": "SECURITY SPECIALIST (STRATEGIC WEAPONS SECURITY SPECIALIST)",
+"company": "US STRATEGIC SYSTEMS PROGRAMS (SSP)",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=b23f32051558e16d",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893984600"
+},
+{
+"title": "FPGA Engineer",
+"company": "WaveRyde Instruments",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493589301",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "IT Auditor",
