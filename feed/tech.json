@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T20:24:13+00:00",
+"updated": "2026-11-24T20:34:14+00:00",
 "jobs": [
 {
 "title": "Designer, Web Presence & Platform",
@@ -3286,6 +3286,192 @@
 "apply": "https://careers.atco.com/global/en/job/AGZAGAGLOBAL21022EXTERNALENGLOBAL/Commissioning-Engineer?utm_source=indeed&utm_medium=phenom-feeds"
 },
 {
+"title": "Engineer, DWP Endpoint Management",
+"company": "Raymond James",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=7de1c0f1b9051361",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://raymondjames.taleo.net/careersection/1_ca/jobdetail.ftl?job=2600700&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Security alarms technician",
+"company": "Trans-United Consultants Ltd.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50795569",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Technical sales specialist",
+"company": "Leslie Emergency Vehicles Ltd.",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50795568",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Videoconference technician",
+"company": "Fibre Mauricie",
+"location": "Trois-Rivières, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50794920",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Audit Programme Transformation and Data Integration Specialist",
+"company": "United Nations Development Programme",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=d8b31b69ad4fbee4",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/38232"
+},
+{
+"title": "Développeur(euse) Front-End",
+"company": "Forair",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=48c007da3cf3c5f5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/d%C3%A9veloppeureuse-front-end-48c007da3cf3c5f5"
+},
+{
+"title": "Site Technology Specialist",
+"company": "PSI CRO",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=46c5320a83f4708c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.smartrecruiters.com/PSICRO/744000163540298-site-technology-specialist"
+},
+{
+"title": "Administrative technician",
+"company": "CHSLD Wales inc.",
+"location": "Richmond, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50794886",
+"source": "Job Bank",
+"country": "CA",
+"years": null,
+"french": true
+},
+{
+"title": "Data Analytics Engineer",
+"company": "Direct Travel",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=7c3a3cf4ff859432",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001240132006&c=2213439&d=ExternalCareerSite&rb=INDEED&idUnique=5001240132006"
+},
+{
+"title": "Software Engineer / SDET / Code Quality Specialist",
+"company": "CareerFlow",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=4b87e8f2956b8373",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.dover.com/Careerflow.ai/eb5d2877-ae73-4074-b9e5-93b5807b6538?rs=76643084"
+},
+{
+"title": "E-Commerce Associate / Adjoint au commerce en ligne",
+"company": "Leviton",
+"location": "Pointe-Claire, QC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=05c08b2b998efc5b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/e-commerce-associate-adjoint-au-commerce-en-ligne-05c08b2b998efc5b",
+"french": true
+},
+{
+"title": "Customer Relations & Brand Support Specialist",
+"company": "",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=324b144ae6db56a4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/customer-relations-brand-support-specialist-324b144ae6db56a4",
+"part_time": true
+},
+{
+"title": "Quality Assurance Specialist",
+"company": "MD Anderson Cancer Center",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=bde7ca4dc056861f",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.mdanderson.org/search/jobdetails/quality-assurance-specialist/14b0070c-3edb-467a-a1f5-ca6ce9ec38e3?utm_campaign=indeed_organic&utm_medium=organic_job_board&utm_source=indeed"
+},
+{
+"title": "Auditor Clinical Documentation Compliance - FT - Days - Remote within FL",
+"company": "Memorial Healthcare System",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=950b752eb7474c83",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://memorialhealthcare.wd1.myworkdayjobs.com/en-US/MHS_Careers/job/Memorial-Training-Center/Auditor-Clinical-Documentation-Compliance---FT---Days---Remote-within-FL_JR-25630-1"
+},
+{
+"title": "Casual Healthcare Security Officer - Nova Scotia Hospital (ANSU)",
+"company": "Paladin Security",
+"location": "Dartmouth, NS, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=d701321080a0d89b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://call.classet.ai/job/casual-healthcare-security-officer-nova-scotia-hospital-ansu-dartmouth-40kzoul7wzwo"
+},
+{
+"title": "Appian Developer (Associate)",
+"company": "Siertek Ltd",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=b0a52c0612ca05d6",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/4FA5F6A76EB2C22971D8A5EBA944D71F/jobs/396476?source=Indeed"
+},
+{
+"title": "Payroll Data Specialist",
+"company": "TeamHealth",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=76ca2b7fc1f14a19",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.teamhealthcareers.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26628&siteid=5770&PageType=JobDetails&jobid=868880"
+},
+{
 "title": "Strategic Finance Analyst II - AI & Data Systems",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -3474,6 +3660,16 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 4
+},
+{
+"title": "Learning Management System (LMS) Specialist",
+"company": "Scotiabank",
+"location": "Scarborough, ON, CA, M1L 4S2",
+"posted": "2026-11-24T00:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Scarborough-Learning-Management-System-%28LMS%29-Specialist-ON-M1L-4S2/608342817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Digital Solution Specialist - Dynamics 365",
@@ -6727,7 +6923,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351587&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351586&sbdid=936"
 },
 {
 "title": "Intermediate Administrator, Finance",
@@ -6817,7 +7013,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2092&BRID=1351604&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2092&BRID=1351590&sbdid=936"
 },
 {
 "title": "Concepteur(trice) en ingénierie de données",
@@ -7200,7 +7396,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351587&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351586&sbdid=936&lang=2"
 },
 {
 "title": "Audio/Video Technician",
@@ -10815,7 +11011,7 @@
 "years": null
 },
 {
-"title": "Analyste informatique - VB.net / C#",
+"title": "Analyste informatique - UIPATH",
 "company": "Hydro Québec",
 "location": "Québec, Quebec, Canada",
 "posted": "2026-11-23",
@@ -13688,6 +13884,168 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4493661253",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) en gouvernance et sécurité de l’intelligence artificielle",
+"company": "CGI",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=cf532802274b47ab",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2109&BRID=1351698&sbdid=936&lang=2",
+"french": true
+},
+{
+"title": "Profesionnelle ou Professionnel DevOps",
+"company": "École de technologie supérieure",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493901872",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Engineer",
+"company": "HCLTech",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494064219",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur C#/Azure (100% remote)",
+"company": "Akkodis",
+"location": "Quebec, Canada (remote)",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4406974891",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI-Enabled .NET UI/UX Software Developer - Advanced Motion Control & Visualization",
+"company": "Polaris Motion",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494046641",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Architecte de Solutions - IA",
+"company": "Astek",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4470708595",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Specialist",
+"company": "OXARO Inc.",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493655938",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Specialist",
+"company": "Envision Technology Solutions",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494016583",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Systems Adminstrator",
+"company": "Paladin Security Group Ltd",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494049761",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Linux System Administrator",
+"company": "K&K Global Talent Solutions INC.",
+"location": "Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493903137",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solution Specialist II, Infrastructure",
+"company": "BCAA",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4344627416",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Support Analyst",
+"company": "Avanciers Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492646519",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste d'Affaires - Plateforme Web",
+"company": "Fidelio by Commsoft Technologies",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492637844",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Industrial Control Systems (ICS) Cybersecurity Specialist",
+"company": "BBA Consultants",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4486192750",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Omnichannel Menu Technician (Temporary)",
+"company": "Boston Pizza International Inc",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494045363",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Engineer",
+"company": "Spruce InfoTech Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493908145",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
