@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-24T22:53:15+00:00",
+"updated": "2026-11-24T23:03:14+00:00",
 "jobs": [
+{
+"title": "Software Engineer, DevOps",
+"company": "Wave",
+"location": "Canada",
+"posted": "2026-11-24T22:53:50.680000+00:00",
+"link": "https://jobs.lever.co/waveapps/3d167795-9544-4288-99ca-077b2accd5a6",
+"source": "Wave careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "AI Enablement Specialist",
 "company": "Lightspeed",
@@ -4692,8 +4702,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50796964",
 "source": "Job Bank",
 "country": "CA",
-"years": 1,
-"french": true
+"years": 1
 },
 {
 "title": "Information technology (IT) analyst",
@@ -4703,8 +4712,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50796901",
 "source": "Job Bank",
 "country": "CA",
-"years": 1,
-"french": true
+"years": 1
 },
 {
 "title": "Information technology (IT) analyst",
@@ -4714,8 +4722,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50797081",
 "source": "Job Bank",
 "country": "CA",
-"years": 1,
-"french": true
+"years": 1
 },
 {
 "title": "Information technology (IT) analyst",
@@ -4727,6 +4734,307 @@
 "country": "CA",
 "years": null,
 "part_time": true
+},
+{
+"title": "Full Stack Developer - Digital Platform",
+"company": "Air Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=01b7fdac16cc0328",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.aircanada.com/ca/en/job/AIPACICA40287EXTERNALENCA/Full-Stack-Developer-Digital-Platform?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "PEGA Developer",
+"company": "Devengine",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6c5e7d614eeaeb6d",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://devengine.ca/jobs/527308",
+"french": true
+},
+{
+"title": "Automated Test Developer",
+"company": "AGFA",
+"location": "Waterloo, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e79c857bde73bb54",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.agfa.com/HealthCare/job/Waterloo%2C-ON-Automated-Test-Developer-ON/1460414233/"
+},
+{
+"title": "Web Developer (Front-End and Back-End) / JavaScript / UX",
+"company": "Intact",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=7ca21a46ea6535fe",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.intactfc.com/web-developer-front-end-and-back-end-javascript-ux/job/R156778",
+"french": true
+},
+{
+"title": "Network Administrator",
+"company": "Dalhousie University",
+"location": "Halifax, NS, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6b6b0d59565b1f90",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://dal.peopleadmin.ca/postings/22649"
+},
+{
+"title": "Cybersecurity Analyst",
+"company": "Lotteries and Gaming Saskatchewan",
+"location": "Regina, SK, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=ff138a7969d0a1a4",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "http://ca.indeed.com/job/cybersecurity-analyst-ff138a7969d0a1a4"
+},
+{
+"title": "Analyst, Development Analytics, Tim Hortons, Canada",
+"company": "Tim Hortons",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=91c668c37b29d5ab",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Toronto-Corporate-Office/Analyst--Development-Analytics--Tim-Hortons--Canada_R4121"
+},
+{
+"title": "Consultant, Specialist Client Success - Money Movement",
+"company": "Visa",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=5bea4d11bbd68383",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://visa.wd5.myworkdayjobs.com/Visa/job/CA---Toronto-Canada/Consultant--Specialist-Client-Success---Money-Movement_REF090614W"
+},
+{
+"title": "Scientifique de données, Assurance de personnes et Gestion de patrimoine",
+"company": "Desjardins",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=a4cc56ae28041dea",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://desjardins-workplace.relevance.studio/fr/job-detail/2-fab41e0f3c9510010e77f211ac690000-toronto-scientifique-de-donnees-assurance-de-personnes-et-gestion-de-patrimoine-toronto-ottawa?source=Indeed"
+},
+{
+"title": "Développeur d’applications par pile complete - Plateforme numérique",
+"company": "Air Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=41d0f82fcb2e83f2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.aircanada.com/ca/fr/job/AIPACICA40287EXTERNALFRCA/Développeur-d’applications-par-pile-complete-Plateforme-numérique?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Développeur web, côté client (Front-End) et côté serveur (Back-End) / JavaScript / UX",
+"company": "Intact",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6bfe1e45b94cf184",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/développeur-web-côté-client-front-end-et-côté-serveur-back-end-javascript-ux/job/R156778"
+},
+{
+"title": "Spécialiste DevOps (Intermédiaire)",
+"company": "Groupe SII",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=467c4ed5d1dfbac2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://sii-group.com/fr-FR/node/23574"
+},
+{
+"title": "OPSSUP86-2026-11-24 Clerical/Support 2-Ward Clerk",
+"company": "DEEP RIVER AND DISTRICT HOSPITAL",
+"location": "Deep River, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=40b52ac9af331854",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://www.drdh.org/join-our-team/career-opportunities/#"
+},
+{
+"title": "Technical Inside Sales- Machining + Metal fabrication estimating exp Required",
+"company": "GC Custom Metal Fabrication",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=c6e4008322fefcac",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/technical-inside-sales-machining-metal-fabrication-estimating-exp-required-c6e4008322fefcac"
+},
+{
+"title": "(CAN) Office Support Associate",
+"company": "Walmart",
+"location": "Kitchener, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=51bee010e2145f01",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://walmart.wd504.myworkdayjobs.com/fr-CA/WalmartExternal/job/Kitchener-ON/XMLNAME--CAN--Office-Support-Associate_R-2716000-1"
+},
+{
+"title": "Customer Master Data Representative",
+"company": "Airgas",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=ca7e0a94496e417e",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Edmonton-AB---Roper-Rd---Support-functions/Customer-Master-Data-Representative_R10088873-1"
+},
+{
+"title": "PEGA Developer",
+"company": "Devengine",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=52e112e1f8c1bba1",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://devengine.ca/jobs/527307"
+},
+{
+"title": "Web Developer (Front-End and Back-End) / JavaScript / UX",
+"company": "Intact",
+"location": "Laval, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=824cbeec91dfbe18",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.intactfc.com/web-developer-front-end-and-back-end-javascript-ux/job/R156778",
+"french": true
+},
+{
+"title": "PEGA Developer",
+"company": "Devengine",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=a20f70f3dce9f3df",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://devengine.ca/jobs/527309"
+},
+{
+"title": "Technical Writer",
+"company": "CACI International",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=0afbe10039eb50af",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://searchcareers.caci.com/careers/job/1443154747855"
+},
+{
+"title": "AI Software Engineer",
+"company": "CACI International",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=0793a3c4ab4e4ed9",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://searchcareers.caci.com/careers/job/1443154746577",
+"part_time": true
+},
+{
+"title": "Oracle EBS Developer",
+"company": "SAPTA SYSTEMS, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=112b4589a58737dc",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/oracle-ebs-developer-112b4589a58737dc"
+},
+{
+"title": "Data Analyst",
+"company": "Kavant Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=e71e76450e9068e9",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/data-analyst-e71e76450e9068e9"
+},
+{
+"title": "Développeur web, côté client (Front-End) et côté serveur (Back-End) / JavaScript / UX",
+"company": "Intact",
+"location": "Laval, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9000742b313edb62",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/développeur-web-côté-client-front-end-et-côté-serveur-back-end-javascript-ux/job/R156778"
+},
+{
+"title": "Bulk Fuel Administrator",
+"company": "Fuel Nexus Corp.",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=ebc0075188039618",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/bulk-fuel-administrator-ebc0075188039618"
+},
+{
+"title": "Geographic Information Systems (GIS) Field Specialist",
+"company": "Anschutz Exploration",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=672ddc1b3b42ec44",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680166/Anschutz-Exploration-Corporation/Geographic-Information-Systems-GIS-Field-Specialist?source=Indeed_Feed"
+},
+{
+"title": "Financial Services - Market Developer",
+"company": "Falcon Pacific Group",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=d8458ebcb984e7bc",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/financial-services-market-developer-d8458ebcb984e7bc"
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
@@ -15930,6 +16238,277 @@
 "years": null
 },
 {
+"title": "Cloud Platform Developer Co-op",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4483920667",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data & AI Platform Engineer",
+"company": "AGF Investments",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492627701",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Power Platform Reporting Co-op",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4483902575",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Specialist",
+"company": "iA Financial Group (Industrial Alliance)",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493925237",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Deskside Support Engineer",
+"company": "SAIC",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=0f3cf993b9311c39",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619448&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18511720-deskside-support-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D05c15670-e813-11f1-8079-97a8c59df678%26rx_job%3D2619448%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261124T220405Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619448"
+},
+{
+"title": "Product Support Specialist",
+"company": "Stripe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493928742",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Support Niveau 3 / Level 3 Support Developer",
+"company": "Flare",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493933256",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GESTIONNAIRE, IMPLÉMENTATION DE SOLUTIONS TECHNOLOGIQUES CLIENTS",
+"company": "GreenShield",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493683218",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Directeur de projets/solutions UKG",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4459416844",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IBM Maximo Functional Consultant",
+"company": "Q1 Technologies, Inc.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492644916",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Time Field Service/Install Rep",
+"company": "The Beer Store",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492809355",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur / Intégrateur ERP Kiwiplan (KMC)",
+"company": "Astek",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494021235",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer in Test - AI",
+"company": "Delos Data",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4477028300",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Quality Engineer",
+"company": "Pacer Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492620338",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en science des données",
+"company": "Loto-Québec",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4491284461",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Sales Engineer - General Industry",
+"company": "FANUC America Corporation",
+"location": "Blainville, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4491238422",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Presales Specialist",
+"company": "Survalent",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494034458",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) en solutions prévente, paie (certification PCP/CCP requise) | Payroll Pre-Sales Solutions Consultant (PCP/CCP Certified)",
+"company": "ADP",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4458097245",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur applications/Ingénieure applications",
+"company": "PROMAN Canada",
+"location": "Saint-Léonard-D'aston, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493916023",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "KPW Application Engineer",
+"company": "Komline Pure Water",
+"location": "Surrey, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4474366437",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Agronomic Solutions",
+"company": "Richardson International",
+"location": "Stirling, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4411507909",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Account Executive - Technology Sales, Remote!",
+"company": "Pellera Technologies",
+"location": "Québec, Quebec, Canada (remote)",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4410248848",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Specialist - Oakville, ON",
+"company": "Cencora",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492648827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Specialist- British Columbia",
+"company": "Cencora",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492649875",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Appian Platform Engineer",
+"company": "Epsilon Solutions Ltd.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493918960",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrateur(trice) systèmes - Windows Server, Adaptiva et surveillance de l'infrastructure",
+"company": "Domtar",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493915720",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator - Windows Server, Adaptiva & Infrastructure Monitoring",
+"company": "Domtar",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494088171",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "IT Auditor",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -17246,16 +17825,6 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4493195012",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Cloud Platform Developer Co-op",
-"company": "Teck Resources Limited",
-"location": "Greater Vancouver, British Columbia, Canada",
-"posted": "2026-11-22",
-"link": "https://www.linkedin.com/jobs/view/4483920667",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
