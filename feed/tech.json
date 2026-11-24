@@ -1,60 +1,16 @@
 {
-"updated": "2026-11-24T03:36:13+00:00",
+"updated": "2026-11-24T03:46:13+00:00",
 "jobs": [
 {
-"title": "Production Technician – Laser Engraving & Custom Manufacturing",
-"company": "AD Engraving",
-"location": "Concord, ON, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=d6bc22a0c7f57088",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/production-technician-laser-engraving-custom-manufacturing-d6bc22a0c7f57088"
-},
-{
-"title": "Technical Support & Operations Coordinator",
-"company": "Lyxfield Canada",
-"location": "Saint John, NB, CA (remote)",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=3c5ba3b513c557f7",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/technical-support-operations-coordinator-3c5ba3b513c557f7"
-},
-{
-"title": "Software Engineer II",
-"company": "Samsara",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=f4577cec0dae3f4c",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://grnh.se/mv46rk8h1us"
-},
-{
-"title": "Implementation/Onboarding Specialist-Contruction ERP",
-"company": "Explorer Software Inc.",
+"title": "Franchise Support Trainer & Advisor",
+"company": "angela COTE Inc.",
 "location": "Remote, CA",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=e51608d2c5c12f0b",
+"link": "https://ca.indeed.com/viewjob?jk=6324c91d5701b1f0",
 "source": "Indeed",
 "country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/implementationonboarding-specialist-contruction-erp-e51608d2c5c12f0b"
-},
-{
-"title": "Remote Service Desk Agent - Secret Clearance Required",
-"company": "Sebastian Tech Solutions",
-"location": "Remote · United States",
-"posted": "2026-11-24",
-"link": "https://www.indeed.com/viewjob?jk=e9e10b2432b5b3e0",
-"source": "Indeed",
-"country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0"
+"apply": "http://ca.indeed.com/job/franchise-support-trainer-advisor-6324c91d5701b1f0"
 },
 {
 "title": "Data Scientist",
@@ -68,15 +24,59 @@
 "apply": "https://apply.workable.com/j/5359C082E3"
 },
 {
-"title": "Franchise Support Trainer & Advisor",
-"company": "angela COTE Inc.",
+"title": "Remote Service Desk Agent - Secret Clearance Required",
+"company": "Sebastian Tech Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=e9e10b2432b5b3e0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0"
+},
+{
+"title": "Implementation/Onboarding Specialist-Contruction ERP",
+"company": "Explorer Software Inc.",
 "location": "Remote, CA",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=6324c91d5701b1f0",
+"link": "https://ca.indeed.com/viewjob?jk=e51608d2c5c12f0b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/implementationonboarding-specialist-contruction-erp-e51608d2c5c12f0b"
+},
+{
+"title": "Software Engineer II",
+"company": "Samsara",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f4577cec0dae3f4c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/mv46rk8h1us"
+},
+{
+"title": "Technical Support & Operations Coordinator",
+"company": "Lyxfield Canada",
+"location": "Saint John, NB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=3c5ba3b513c557f7",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/franchise-support-trainer-advisor-6324c91d5701b1f0"
+"apply": "http://ca.indeed.com/job/technical-support-operations-coordinator-3c5ba3b513c557f7"
+},
+{
+"title": "Production Technician – Laser Engraving & Custom Manufacturing",
+"company": "AD Engraving",
+"location": "Concord, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=d6bc22a0c7f57088",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/production-technician-laser-engraving-custom-manufacturing-d6bc22a0c7f57088"
 },
 {
 "title": "Applied AI Engineer, Mid-Market Enterprise",
