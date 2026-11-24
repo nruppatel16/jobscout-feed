@@ -1,17 +1,6 @@
 {
-"updated": "2026-11-24T02:16:13+00:00",
+"updated": "2026-11-24T02:26:13+00:00",
 "jobs": [
-{
-"title": "Implementation/Onboarding Specialist-Contruction ERP",
-"company": "Explorer Software Inc.",
-"location": "Remote, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=e51608d2c5c12f0b",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/implementationonboarding-specialist-contruction-erp-e51608d2c5c12f0b"
-},
 {
 "title": "Remote Service Desk Agent - Secret Clearance Required",
 "company": "Sebastian Tech Solutions",
@@ -22,6 +11,17 @@
 "country": "US",
 "years": null,
 "apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0"
+},
+{
+"title": "Implementation/Onboarding Specialist-Contruction ERP",
+"company": "Explorer Software Inc.",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e51608d2c5c12f0b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/implementationonboarding-specialist-contruction-erp-e51608d2c5c12f0b"
 },
 {
 "title": "Account Executive, AI Native",
