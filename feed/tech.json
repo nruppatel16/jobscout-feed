@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-24T17:44:14+00:00",
+"updated": "2026-11-24T17:54:14+00:00",
 "jobs": [
+{
+"title": "Designer, Web Presence & Platform",
+"company": "Stripe",
+"location": "Canada",
+"posted": "2026-11-24T12:50:29-05:00",
+"link": "https://stripe.com/jobs/search?gh_jid=8397257",
+"source": "Stripe careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Développeur(se) logiciel sénior",
 "company": "Lightspeed",
@@ -2103,6 +2113,16 @@
 "country": "US",
 "years": 4,
 "apply": "https://grnh.se/uv57ceee7us"
+},
+{
+"title": "Data Scientist, Data valorization",
+"company": "Desjardins",
+"location": "Montréal",
+"posted": "2026-11-24",
+"link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Spcialiste-en-dtection-de-la-fraude_R2614331-1",
+"source": "Desjardins careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
