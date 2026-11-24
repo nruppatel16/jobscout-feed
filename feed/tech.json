@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-24T16:24:13+00:00",
+"updated": "2026-11-24T16:34:13+00:00",
 "jobs": [
+{
+"title": "Directeur(trice) des ventes, Infonuagique et IA / Sales Executive, Cloud & AI",
+"company": "Microsoft",
+"location": "Montreal, QC, CA; Québec City, QC, CA",
+"posted": "2026-11-24T16:05:34+00:00",
+"link": "https://apply.careers.microsoft.com/careers/job/1970393557074901",
+"source": "Microsoft careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "DevOps Engineer",
 "company": "Knowledge Management, Inc.",
@@ -1114,8 +1124,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50792398",
 "source": "Job Bank",
 "country": "CA",
-"years": 3,
-"french": true
+"years": 3
 },
 {
 "title": "SaaS Growth & Retention Specialist",
@@ -1370,6 +1379,157 @@
 "country": "US",
 "years": 3,
 "apply": "https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Remote/Health-Plan-Data-Analyst-II--need-Health-Plan-MCO-and-SQL-_R13941"
+},
+{
+"title": "Applied AI & Healthcare Operations Automation Specialist (2 Days/Week)",
+"company": "MedRx",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=085b831705e33b22",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/applied-ai-healthcare-operations-automation-specialist-2-daysweek-085b831705e33b22"
+},
+{
+"title": "Field Service Technician",
+"company": "Powerland Computers Ltd",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=306fa4e998cf8750",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/field-service-technician-306fa4e998cf8750"
+},
+{
+"title": "Systems Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=75fed3c1c7d651dd",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://wvumedicine.wd1.myworkdayjobs.com/en-US/WVUH/job/Information-Technology-Center/Systems-Analyst_JR26-50706"
+},
+{
+"title": "Information Technology Specialist",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=37f4ae52db930b40",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://100hires.com/j/bZfidNN"
+},
+{
+"title": "Web Programmer/Analyst-Assoc",
+"company": "UT Health Science Center at San Antonio",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=3bc47458d2b59715",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/8545"
+},
+{
+"title": "Data input clerk",
+"company": "Estrada & Tan",
+"location": "Whitehorse, Yukon, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50792681",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Customer Success Technical Specialist / Spécialiste Technique du Succès client",
+"company": "Eaton",
+"location": "Lachine, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6c4128e0e632b668",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://career41.sapsf.com/career?company=eatoncorpo&career_ns=job_listing&career_job_req_id=71518&lang=en_US&jobPipeline=Indeed"
+},
+{
+"title": "Software Engineer AI Evaluator",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=93aa3b3f8891db6e",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/software-engineer-ai-evaluator-93aa3b3f8891db6e"
+},
+{
+"title": "Diagnostic radiological technologist",
+"company": "NL Health Services",
+"location": "Gander, Newfoundland and Labrador, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50792406",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technologist, medical radiation",
+"company": "Saskatchewan Health Authority",
+"location": "Humboldt, Saskatchewan, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50792470",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Center Sales Engineer",
+"company": "Crystal Clean LLC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=e84625bf00e8bb4b",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239873906&c=2200739&d=HeritageCrystalClean&rb=INDEED&idUnique=5001239873906"
+},
+{
+"title": "Sales Support & Customer Service Coordinator",
+"company": "Nexen Tire Corporation",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1439e0bc3a47d6c5",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/sales-support-customer-service-coordinator-1439e0bc3a47d6c5"
+},
+{
+"title": "Docketing Technician",
+"company": "US Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=7f86576b5be89715",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/894099600"
+},
+{
+"title": "Data Analyst",
+"company": "Kickstand",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=dfa42b026c3fdac4",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/data-analyst-dfa42b026c3fdac4"
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
@@ -6477,7 +6637,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://candidateportal.ceipal.com/job-details/_rp4T0QiWNLx5BZINq2puEOOx2kp-Q15YGGvXpWeKjo#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/RM-fiHgh5S68hlnVFNCcOqFbS5c7sdEOpaX2H1m1JW0#.job_boards.Indeed"
 },
 {
 "title": "Test Data Quality Engineer",
@@ -10196,6 +10356,228 @@
 "location": "Québec, Quebec, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4494009414",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
+"company": "Magnet Forensics",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4441629992",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Global Payments Technology",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4432850915",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire en développement informatique",
+"company": "Revenu Québec",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493664203",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Machine Learning Intern/Co-op (Winter 2027)",
+"company": "Cohere",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4414190535",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Specialist 2 (Fixed Term 24 months)",
+"company": "Roche",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=6de61e44bcf4b4f1",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.roche.com/de/de/job/202611-129778"
+},
+{
+"title": "Data Engineer (Observability)",
+"company": "Chenega Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=2370f5361aea17f8",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://chenega.jibeapply.com/jobs/45210/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Product Engineering (Integration Java Developer)",
+"company": "Allstate Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4441363309",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Developer (contract)",
+"company": "Capgemini",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493663409",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Automation Engineer -Canada Remote",
+"company": "RELQ TECHNOLOGIES",
+"location": "(remote)",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493657702",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Test Engineer",
+"company": "Yochana",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494019130",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer (Python + Devops)",
+"company": "Apptad",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492614526",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Support Analyst",
+"company": "Epsilon Solutions Ltd.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493657707",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur cloud",
+"company": "MAG Energy Solutions",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493663339",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste spécialisé en informatique – Télécommunications (Fortinet)",
+"company": "Santé Québec Est-de-l'Île-de-Montréal - Universitaire",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493658684",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Info Security Analyst",
+"company": "Global Technical Talent, an Inc. 5000 Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4491960032",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Offensive Security Analyst (Structured / Non-Exploit)",
+"company": "Alignerr",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493606467",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrateur système/réseau M365/Azure",
+"company": "Groupe COSIOR",
+"location": "Boucherville, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4490520158",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicienne ou technicien en informatique (spécialisation infrastructure réseau)",
+"company": "Ville de Québec",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493652966",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cisco Voice Engineer",
+"company": "LanceSoft, Inc.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492626124",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician - Mont-Laurier, QB",
+"company": "NCR Voyix",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492603330",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste en ingénierie système / System Engineering Specialist",
+"company": "EXFO",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492626417",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Transmission System Operator Trainee",
+"company": "Hydro One",
+"location": "Orillia, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493591851",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
