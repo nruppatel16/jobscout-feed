@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T01:26:13+00:00",
+"updated": "2026-11-24T01:36:14+00:00",
 "jobs": [
 {
 "title": "Implementation/Onboarding Specialist-Contruction ERP",
@@ -3695,7 +3695,7 @@
 "link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Business-Analyst_JR168191",
 "source": "Canadian Tire careers",
 "country": "CA",
-"years": null
+"years": 2
 },
 {
 "title": "Software Development Student (4 Months) - Winter 2027",
@@ -6080,6 +6080,171 @@
 "source": "Thomson Reuters careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Computer Science Student (Research & Development)- Summer 2027",
+"company": "Irving Equipment",
+"location": "Saint John, NB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d8531d256d6246cc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13506"
+},
+{
+"title": "IT Business Analyst (Tech)",
+"company": "Redpath Mining Contractors and Engineers",
+"location": "Vaughan, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=02ae6780bfb83396",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://fa-evvx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/9731"
+},
+{
+"title": "OT Threat Exposure & Vulnerability Specialist",
+"company": "CPKC",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f21bd4dd9ccccb37",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.cpr.ca/job/Calgary-OT-Threat-Exposure-&-Vulnerability-Specialist-AB-T2G-3J5/608294817/?feedId=421860&utm_source=Indeed&utm_campaign=CPKC_Indeed"
+},
+{
+"title": "Docket/ Job Setup Administrator (Contract) (Hybrid)",
+"company": "Broadridge",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=d6515be036f69175",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Markham-ON/Docket--Job-Setup-Administrator--Contract---Hybrid-_JR1087862"
+},
+{
+"title": "Proxy Coding Administrator (Contract) (Hybrid)",
+"company": "Broadridge",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=b3ff7c684359645e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/Markham-ON/Proxy-Coding-Administrator--Contract---Hybrid-_JR1087860"
+},
+{
+"title": "C++ Developer of 3D Metrology Solutions - Quebec",
+"company": "Innovmetric Software Inc.",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=a6b734fc7d0a4a61",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers-innovmetric.icims.com/jobs/1651/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "AI Engineer",
+"company": "Tru Cooperative Bank",
+"location": "Langley, BC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=410b858a2e236b2a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3959"
+},
+{
+"title": "AI Tools & Automation Co-op",
+"company": "Calian",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=7d71698015e91e81",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.calian.com/careers/sf-ai-tools-automation-co-op-2665/"
+},
+{
+"title": "Gestionnaire d'applications TI RH",
+"company": "AAA Canada",
+"location": "Mirabel, QC, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=66dd51a8ef6274ba",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://portal.dynamicsats.com/JobListing/Details/d30b1c48-6afc-457c-9685-2b93b2be838b/c8693dd9-14e5-f111-84e7-70a8a50c83ab"
+},
+{
+"title": "Contact Center Technology Analyst",
+"company": "Great Wolf Lodge",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=f3dd8697430cbdc0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://olivia.paradox.ai/co/GreatWolfLodge4/Job?job_id=P1-1004999-1&posting_type=1&source=indeed"
+},
+{
+"title": "Epic Ambulatory/Healthy Planet Application Analyst",
+"company": "St. Charles Health System",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=237869dee5968995",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://careers.stcharleshealthcare.org/us/en/job/SUKSCHUSR1023661EXTERNALENUS/Epic-Ambulatory-Healthy-Planet-Application-Analyst?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Technical Business Analyst",
+"company": "State Street",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=cde20443732d7137",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Senior-Technical-Business-Analyst_R-773155"
+},
+{
+"title": "Power Systems Engineer II – Electric Power",
+"company": "Caterpillar",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=f987e782671b8cad",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers.caterpillar.com/en/jobs/r0000406940/power-systems-engineer-ii-electric-power/"
+},
+{
+"title": "Software Engineering Intern",
+"company": "Zoll Medical Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=746705f3fbb62291",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineering-Intern_R20923"
+},
+{
+"title": "Technical Records Specialist 2/Dispatcher, Public Safety (1758)",
+"company": "Idaho State University",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=2100d3cf4c466047",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://isu.csod.com/ux/ats/careersite/5/home/requisition/2870?c=isu"
 },
 {
 "title": "IT Auditor",
@@ -9157,6 +9322,16 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-22",
 "link": "https://www.linkedin.com/jobs/view/4492359421",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagehand/Sound Technician / DJ Club Med Resorts Canada or overseas",
+"company": "Club Med",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4450056875",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
