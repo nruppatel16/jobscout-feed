@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-25T17:47:45+00:00",
+"updated": "2026-11-25T17:57:45+00:00",
 "jobs": [
+{
+"title": "Software Engineer II - AI Engineering",
+"company": "Microsoft",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25T17:27:07+00:00",
+"link": "https://apply.careers.microsoft.com/careers/job/1970393557074099",
+"source": "Microsoft careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Embedded Implementation Consultant",
 "company": "Brex",
@@ -2036,6 +2046,273 @@
 "apply": "https://apply.workable.com/j/4A118388F9"
 },
 {
+"title": "Software Engineer I",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=c5e22d982dc528a6",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1519716-1"
+},
+{
+"title": "Developer, Digital AI Solutions",
+"company": "Galleon Advisors",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=0db7a9f5a2df875e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://ats.rippling.com/galleon-advisors/jobs/d03f17df-8091-4abb-a606-7f55f2338ca8?jobSite=Indeed"
+},
+{
+"title": "SAP Operations Clerk Part Time Day",
+"company": "Loblaw",
+"location": "Guelph, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=79fa9dccbe01adf3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/sap-operations-clerk-part-time-day/job/R2000718510",
+"part_time": true
+},
+{
+"title": "Information Security Specialist (Bug Bounty Specialist / Production Threat Hunter)",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=e90e0e6bce68f079",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Bug-Bounty-Specialist---Production-Threat-Hunter-_R_1523281"
+},
+{
+"title": "Analyste, sécurité et données I – Processus de gestion des identités et des accès",
+"company": "Intact",
+"location": "Saint-Hyacinthe, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=34d07c667ab8ea21",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/analyste-sécurité-et-données-i-processus-de-gestion-des-identités-et-des-accès/job/R156800"
+},
+{
+"title": "R&D Test Specialist (Robotics)",
+"company": "Mecademic",
+"location": "CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=3f676a20352afe06",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.glowinthecloud.com/mecademic/20261125002?l=en",
+"french": true
+},
+{
+"title": "Software Developer",
+"company": "Mecademic",
+"location": "CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=0a771d5bfedc325c",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.glowinthecloud.com/mecademic/20261125001?l=en",
+"french": true
+},
+{
+"title": "Consultant Application Development- Azure Developer",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f69ead0ef0fb2410",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Senior-Application-Consultant--Azure-Developer_2624434"
+},
+{
+"title": "Process Technician",
+"company": "Wentworth Technologies",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ae44b4081a664c23",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c361a534-3a47-414d-81cb-57e7c9398e22&ccId=19000101_000001&jobId=595659&source=IN&lang=en_CA"
+},
+{
+"title": "Data Science and AI Mgr",
+"company": "DHL",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=734986e8d0a9cd19",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.jobappnetwork.com/clients/14637/posting/34BEF919-041A-4E02-8C79-193288A56FC2/en?src=Indeed_Organic_Jobs&dt=1126&utm_source=Indeed_Organic_Jobs&utm_medium=Organic&utm_campaign=Indeed_Organic_Jobs"
+},
+{
+"title": "Warranty/Service Technician",
+"company": "Cornerstone Building Brands",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=d9c4c6d9758acd8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990017093775-warranty-service-technician-"
+},
+{
+"title": "Field Tech",
+"company": "RESA Canada, Inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=dafee24149610cfa",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruiting2.ultipro.com/RES1015RPLLC/JobBoard/dc0817a6-b35b-4938-ae2a-d5d14087e134/OpportunityDetail?opportunityId=123e318c-fa9b-44e6-aae6-43204fed7d1f&postingId=a5250bb8-aa8a-4de3-b0e3-61477c7aaa60"
+},
+{
+"title": "Gate Service Technician",
+"company": "GateWorks, Inc.",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=69a978132d697149",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/gate-service-technician-69a978132d697149"
+},
+{
+"title": "Appliance Repair Technician",
+"company": "Vantage Appliance",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=cc8ca544f2b58665",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/appliance-repair-technician-cc8ca544f2b58665"
+},
+{
+"title": "Service technician, office equipment",
+"company": "Okanagan Office Systems",
+"location": "Westside, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50802498",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "IPP Administrator",
+"company": "First Canadian Financial Group",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=6ccdab547f51b03d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruiting.ultipro.ca/FIR5002FICI/JobBoard/aa9f855e-9559-4f90-a25d-66d157166156/OpportunityDetail?opportunityId=d5797f5c-9920-438f-867a-88b948743956&postingId=8e905c82-4c1f-40ef-822a-8d1e9b601e19",
+"french": true
+},
+{
+"title": "Clinical Specialist CRM - Richmond, VA",
+"company": "Medtronic",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=21e8b35009325d4f",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Richmond-Virginia-United-States-of-America/Clinical-Specialist-CRM---Richmond--VA_R82746-1"
+},
+{
+"title": "Analyste spécialisé(e) en informatique - Infrastructure Télécommunications",
+"company": "CISSS de la Montérégie-Centre",
+"location": "Longueuil, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=521dff629ea3a413",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploismc.santemonteregie.qc.ca/fr_CA/annonce/4709045-analyste-specialisee-en-informatique-infrastructure-telecommunications-j4k-2m3-longueuil?s_o=indeed&s_b=DigitalRecruiters"
+},
+{
+"title": "Analyste spécialisé(e) en informatique - Infrastructures Serveurs (Santé Québec)",
+"company": "CISSS de la Montérégie-Centre",
+"location": "Longueuil, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=9edead27b8cb87b6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploismc.santemonteregie.qc.ca/fr_CA/annonce/4708823-analyste-specialisee-en-informatique-infrastructures-serveurs-sante-quebec-j4k-2m3-longueuil?s_o=indeed&s_b=DigitalRecruiters"
+},
+{
+"title": "Analyste spécialisé(e) en informatique - Architecture TI (Santé Québec)",
+"company": "CISSS de la Montérégie-Centre",
+"location": "Longueuil, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=43706da77f8ad15f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploismc.santemonteregie.qc.ca/fr_CA/annonce/4708875-analyste-specialisee-en-informatique-architecture-ti-sante-quebec-j4k-2m3-longueuil?s_o=indeed&s_b=DigitalRecruiters"
+},
+{
+"title": "Master Data Administrator",
+"company": "Andrew Peller Limited",
+"location": "Grimsby, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=860f72bde5b776a4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/andrewpeller/CANDIDATEPORTAL/jobs/4954"
+},
+{
+"title": "Analyste, sécurité et données I – Processus de gestion des identités et des accès",
+"company": "Intact",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=b7b0f79a5c8708a2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/analyste-sécurité-et-données-i-processus-de-gestion-des-identités-et-des-accès/job/R156800"
+},
+{
+"title": "Bioinformatics Engineer",
+"company": "University of Minnesota",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=4a5afaac3831779a",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://hr.myu.umn.edu/jobs/ext/377305"
+},
+{
+"title": ".NET Developer with Cognizant TriZetto QNXT Experience Must",
+"company": "9isolutions",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=569d9391870745f3",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/net-developer-cognizant-trizetto-qnxt-experience-must-569d9391870745f3"
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -2185,6 +2462,16 @@
 "source": "EY careers",
 "country": "CA",
 "years": 1
+},
+{
+"title": "Scotia Jarislowsky Fraser Portfolio Administrator - Toronto",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M5H 4A9",
+"posted": "2026-11-25T00:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Scotia-Jarislowsky-Fraser-Portfolio-Administrator-Toronto-ON-M5H-4A9/608382317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 2
 },
 {
 "title": "Software Engineer, Space Foundations — Real-Time Systems",
@@ -12588,6 +12875,126 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4484385073",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer - Full stack",
+"company": "HazTrack Inc.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494392663",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": ".Net Full Stack Developer with Web and Mobile Application",
+"company": "Yochana",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494374772",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste TI – Développeur(euse) QA",
+"company": "Kativik llisarniliriniq",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494122430",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior IT Support Specialist",
+"company": "BYD Australia & New Zealand",
+"location": "Mulgrave, Nova Scotia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494703189",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Security Engineer",
+"company": "Alpaca",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486808004",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, GIS Support",
+"company": "City of Ottawa / Ville d’Ottawa",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494158403",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Governance Specialist",
+"company": "Mariner Innovations",
+"location": "New Brunswick, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493911337",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Audit Programme Transformation and Data Integration Specialist",
+"company": "International Civil Aviation Organization",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494189041",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) de données - Assurance qualité et automatisation (Azure)",
+"company": "Astek",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494378598",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Azure Digital Solution Area Specialist- Oil & Gas",
+"company": "Microsoft",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486889434",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Presales / Infrastructure (m/f/d) - Specifier",
+"company": "Naue Group",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494702317",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) / Analyste de données BI/ BI Data Engineer / Data Analyst",
+"company": "Synechron",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493044039",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
