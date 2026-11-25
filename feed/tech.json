@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-25T16:47:44+00:00",
+"updated": "2026-11-25T16:57:44+00:00",
 "jobs": [
+{
+"title": "Embedded Implementation Consultant",
+"company": "Brex",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25T11:53:36-05:00",
+"link": "https://www.brex.com/careers/8962401002?gh_jid=8962401002",
+"source": "Brex careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Calibration Technician",
 "company": "Héroux-Devtek Inc.",
@@ -1443,8 +1453,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50802219",
 "source": "Job Bank",
 "country": "CA",
-"years": 5,
-"french": true
+"years": 5
 },
 {
 "title": "Computer network technician",
@@ -1649,6 +1658,227 @@
 "source": "Job Bank",
 "country": "CA",
 "years": null
+},
+{
+"title": "IT Advisor",
+"company": "Ntiva",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=64e76580b4fb2889",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://recruiting.ultipro.com/NTI1000NTVA/JobBoard/d98c8254-3001-4c86-b495-aba5cf3b6868/OpportunityDetail?opportunityId=d654e620-8226-411b-8749-f60eb701406b&postingId=636dbff9-39c0-4274-88ff-7c6ae7ac6fb5"
+},
+{
+"title": "IT Support Technician",
+"company": "Nasittuq Corporation",
+"location": "North Bay, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=776a71b89cd59bee",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/it-support-technician-776a71b89cd59bee"
+},
+{
+"title": "Analyst IT",
+"company": "VIA Rail",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=fce14dde1f0b9540",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.viarail.ca/job/TORONTO-Analyst-IT-ON-M5J-1E7/608374617/"
+},
+{
+"title": "Associate, AI Engineer",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=91c5ee85df2f8a2a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Associate--AI-Engineer_R260032553"
+},
+{
+"title": "Security & Data Analyst I - Identity and Access Management",
+"company": "Intact",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=49e90c99aa3ee3eb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/security-data-analyst-i-identity-and-access-management/job/R156800"
+},
+{
+"title": "Security & Data Analyst I - Identity and Access Management",
+"company": "Intact",
+"location": "Ajax, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=259dc4a54d207512",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/security-data-analyst-i-identity-and-access-management/job/R156800"
+},
+{
+"title": "AI augmented developer II",
+"company": "LGI healtcare solutions",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ffd849bb958ecd24",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.smartrecruiters.com/LGIHealthcareSolutionsSanteInc/744000163724925-ai-augmented-developer-ii"
+},
+{
+"title": "Analyste, sécurité et données I – Processus de gestion des identités et des accès",
+"company": "Intact",
+"location": "Ajax, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=15f6da97d65d0a2b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/analyste-sécurité-et-données-i-processus-de-gestion-des-identités-et-des-accès/job/R156800"
+},
+{
+"title": "Développeur(euse) augmentée(e) IA II",
+"company": "LGI healtcare solutions",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=db177dcb156fe612",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.smartrecruiters.com/LGIHealthcareSolutionsSanteInc/744000163726718-developpeur-euse-augmentee-e-ia-ii"
+},
+{
+"title": "Site Reliability Engineer",
+"company": "H2 Cognitive Designs",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=064cdec5888100a8",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/site-reliability-engineer-064cdec5888100a8"
+},
+{
+"title": "Digital Operations Coordinator",
+"company": "Providence Classical Christian School",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=e1e9b81458f2f2d7",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://join.com/companies/pccsorg/16987477-digital-operations-coordinator?pid=a13795120131dbe48464",
+"part_time": true
+},
+{
+"title": "Analyste, sécurité et données I – Processus de gestion des identités et des accès",
+"company": "Intact",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=1b4b790d115dfffd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/analyste-sécurité-et-données-i-processus-de-gestion-des-identités-et-des-accès/job/R156800"
+},
+{
+"title": "Health Technician (Medication Technician)",
+"company": "Federal Bureau of Prisons",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=050abcc29e327d98",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.usajobs.gov:443/job/894267600"
+},
+{
+"title": "Implementation Consultant",
+"company": "MCLEOD SOFTWARE",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=31b78f9fd5bbcfb4",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://recruiting2.ultipro.com/TOM1000TMSC/JobBoard/d0aaf18c-59ff-4f8d-a2bb-7775d8467fb0/OpportunityDetail?opportunityId=f49103ce-fe19-4c79-bbfc-f63fdde7eac0&postingId=6a075b0c-b9ea-4287-89b1-973b62f7d457"
+},
+{
+"title": "Security & Data Analyst I - Identity and Access Management",
+"company": "Intact",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=49998a80e8138e87",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/security-data-analyst-i-identity-and-access-management/job/R156800"
+},
+{
+"title": "Security & Data Analyst I - Identity and Access Management",
+"company": "Intact",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f3f8f63d9c00ee70",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/security-data-analyst-i-identity-and-access-management/job/R156800"
+},
+{
+"title": "Analyste, sécurité et données I – Processus de gestion des identités et des accès",
+"company": "Intact",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=2725b17e56c55dfa",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/analyste-sécurité-et-données-i-processus-de-gestion-des-identités-et-des-accès/job/R156800"
+},
+{
+"title": "ServiceNow (CAM Module) & RMF SME",
+"company": "Everforth ECS",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=dbb295b542c2394e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://recruiting.adp.com/srccsh/public/RTI.home?r=5001239334700&c=2201039&d=ExternalCareerSite&rb=INDEED&idUnique=5001239334700"
+},
+{
+"title": "Junior Pega Application Developer",
+"company": "CACI International",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=abb563f84a914870",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://searchcareers.caci.com/careers/job/1443154765111"
+},
+{
+"title": "Biological Science Technician (Plants) (Temporary)",
+"company": "U.S. National Park Service",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=620303139654800c",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/894107100"
 },
 {
 "title": "AI Developer",
@@ -9056,7 +9286,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/HpJ8tGmRt9s1c6GkRrkfrBdR3xjvfXu5ZnXNyGR8JOQ#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/RNOqB4ik6IXJx23uzVroStndW8aMv0jo3H3dBm5FKjo#.job_boards.Indeed"
 },
 {
 "title": "Analyste-développeur, données, automatisation et intelligence artificielle",
@@ -11702,6 +11932,256 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4494152667",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer in Test",
+"company": "Akamai Technologies",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494156527",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QE Automation Developer | SDET",
+"company": "Galent",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493028414",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ETL Automation Test Engineer",
+"company": "Quantum World Technologies Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494173107",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst",
+"company": "Maplesoft Group, an SEB Company",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494156386",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technology Planning and Coordination Specialist",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4485788239",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Clinical Informatics Analyst (Future Opportunities)",
+"company": "Mariner Innovations",
+"location": "New Brunswick, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493915182",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Application Analyst",
+"company": "Bevertec",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494153273",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Support Analyst",
+"company": "smartTrade Technologies",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494173398",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service & Technical Advising Specialist",
+"company": "Wabtec Corporation",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494159578",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Support Mgr-Customer Support Representative",
+"company": "TELUS Agriculture & Consumer Goods",
+"location": "Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4458430807",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Services Representative",
+"company": "Maple Leaf Foods Inc",
+"location": "New Hamburg, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4485733349",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien du support technique/Technicienne du support technique",
+"company": "Frontmatec",
+"location": "Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494373900",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Management Technician",
+"company": "Halton Region",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494151967",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Software Engineer",
+"company": "Helcim",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494164266",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electron Software Engineer (Remote)",
+"company": "Joblet-AI",
+"location": "(remote)",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494367644",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Engineer, Canada",
+"company": "Glean",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4485792889",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste de l'informatique - Gestion de processus ITIL",
+"company": "Loto-Québec",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494151958",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP Functional Analyst - Sales and Distribution",
+"company": "Quantum Technology Recruiting Inc. (QTR)",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494156659",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst Intern",
+"company": "Presto Phoenix, Inc.",
+"location": "Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494382752",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "J2Ee Developer",
+"company": "Enterprise Solutions Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4492835541",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer, Web Frameworks",
+"company": "Amazon",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4478722257",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer",
+"company": "Nokia",
+"location": "Kanata, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493022834",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur en IA - Québec | AI Developer - Quebec",
+"company": "Marea",
+"location": "Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4374443018",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer – React, TypeScript & .NET",
+"company": "CGI",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494160999",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Engineer, Network Security, Deloitte Global Technology",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4477847640",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -15699,17 +16179,6 @@
 "apply": "https://jobs.ashbyhq.com/array-behavioral-care/25961085-3e73-4dad-87b8-18bde439eb6a?utm_source=pnYbqaJ5XA"
 },
 {
-"title": "IT Advisor",
-"company": "Ntiva",
-"location": "Remote · United States",
-"posted": "2026-11-23",
-"link": "https://www.indeed.com/viewjob?jk=64e76580b4fb2889",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://recruiting.ultipro.com/NTI1000NTVA/JobBoard/d98c8254-3001-4c86-b495-aba5cf3b6868/OpportunityDetail?opportunityId=d654e620-8226-411b-8749-f60eb701406b&postingId=636dbff9-39c0-4274-88ff-7c6ae7ac6fb5"
-},
-{
 "title": "Application Support Specialist - Weekend Days (Fri, Sat, Sun, Mon)",
 "company": "Sirona Medical",
 "location": "Remote · United States",
@@ -16840,7 +17309,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://candidateportal.ceipal.com/job-details/fP-rCuGcFv9KWHUobFtNI2mSE4WpFfhb59BG4RRqr-g#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/NN5f3GZud9mkUPspD1ezrI6M2KuyIcRsVISpaiPe6ks#.job_boards.Indeed"
 },
 {
 "title": "Test Data Quality Engineer",
@@ -24190,6 +24659,27 @@
 "country": "US",
 "years": null,
 "apply": "https://lockheedmartin.eightfold.ai/careers/job/996478129751?utm_source=indeed&domain=lockheedmartin.com"
+},
+{
+"title": "CAD Technical Support Specialist",
+"company": "CoLab Software",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=1c983ca9395c5817",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://grnh.se/k6flw3io8us"
+},
+{
+"title": "Full Stack Engineer, Link",
+"company": "Stripe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4481790006",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "IT Auditor",
