@@ -1,16 +1,38 @@
 {
-"updated": "2026-11-25T02:21:47+00:00",
+"updated": "2026-11-25T02:31:46+00:00",
 "jobs": [
 {
-"title": "Pest Control Technician",
-"company": "Progressive Pest Management",
-"location": "Winnipeg, MB, CA",
+"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
+"company": "Royal Academy",
+"location": "Pitt Meadows, BC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
+"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
+"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
+},
+{
+"title": "Software Developer – Medical Device Software",
+"company": "",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
+},
+{
+"title": "Customer Success Associate",
+"company": "iEnergizer",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
 },
 {
 "title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
@@ -24,15 +46,15 @@
 "apply": "https://apply.workable.com/j/0B031D313A"
 },
 {
-"title": "Customer Success Associate",
-"company": "iEnergizer",
-"location": "Remote · United States",
+"title": "Pest Control Technician",
+"company": "Progressive Pest Management",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
+"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
+"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
 },
 {
 "title": "Associate, Technical Support",
@@ -3633,7 +3655,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2110&BRID=1351880&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2110&BRID=1351878&sbdid=936"
 },
 {
 "title": "ETL QA Analyst",
@@ -3644,7 +3666,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1491&BRID=1351900&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1491&BRID=1351886&sbdid=936"
 },
 {
 "title": "ERP Data and Reporting Analyst (Departmental Data Analyst)",
@@ -6210,7 +6232,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNSS3Y2NVXODUJ6Q%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNT4DYUWFJRH7KBA%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -6481,6 +6503,138 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4493955958",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineering - New Grad",
+"company": "Ciena",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=0736084c40b08c0c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171"
+},
+{
+"title": "Embedded Software Engineer - New Grad",
+"company": "Ciena",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e0e8cdd881a4426e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032175"
+},
+{
+"title": "Data Engineering Specialist",
+"company": "NASDAQ",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=b4705f12043aee97",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/CA-Toronto-York-St-2425/Data-Engineering-Specialist_R0027257-1"
+},
+{
+"title": "Specialist, Quality Assurance (Investigations and QA of QC)",
+"company": "sun pharma",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=3a3c53ac97839fc3",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.sunpharma.com/job/Brampton-Specialist%2C-Quality-Assurance-%28Investigations-and-QA-of-QC%29-ON/61809644/"
+},
+{
+"title": "Commis au soutien informatique",
+"company": "Université de Sherbrooke",
+"location": "Sherbrooke, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1048250345279212",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.usherbrooke.ca/emplois/offre/no/08326"
+},
+{
+"title": "Pacemaker Technologist",
+"company": "Interior Health",
+"location": "Penticton, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=aba57bddd5081fc6",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.interiorhealth.ca/ViewJobPosting/2461689",
+"part_time": true
+},
+{
+"title": "Software Engineer - NetSuite (100% Remote)",
+"company": "ClearCaptions, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=1641a2aec1a0af48",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/clearcaptions/CANDIDATEPORTAL/jobs/10463"
+},
+{
+"title": "Analyst, Business Intelligence - Marketing and Customer Analytics",
+"company": "Petco",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=67b115c3997512ee",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://careers.petco.com/job/san-diego/analyst-business-intelligence-marketing-and-customer-analytics/47428/103750783328"
+},
+{
+"title": "(CAN) Customer Service Desk Associate",
+"company": "Walmart",
+"location": "Tsawwassen, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=a905ff2978d647a0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-BC-TSAWWASSEN-01181-WM-SUPERCENTER/XMLNAME--CAN--Customer-Service-Desk-Associate_R-2721469",
+"part_time": true
+},
+{
+"title": "SAP BTP CAPM Developer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=faeb59610a15b2b9",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=40048&hr_id=3772"
+},
+{
+"title": "Banking Conversion Programmer",
+"company": "BanQsi",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493944621",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Automation Engineer",
+"company": "WELL Health Technologies Corp. (TSX: WELL)",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494095359",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -9947,7 +10101,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351586&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351587&sbdid=936"
 },
 {
 "title": "Intermediate Administrator, Finance",
@@ -10037,7 +10191,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2092&BRID=1351590&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2092&BRID=1351604&sbdid=936"
 },
 {
 "title": "Concepteur(trice) en ingénierie de données",
@@ -10420,7 +10574,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351586&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351587&sbdid=936&lang=2"
 },
 {
 "title": "Audio/Video Technician",
@@ -13299,7 +13453,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2057&BRID=1351720&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2057&BRID=1351731&sbdid=936&lang=2"
 },
 {
 "title": "Support Services Asst I",
@@ -14054,7 +14208,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351749&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351738&sbdid=936&lang=2"
 },
 {
 "title": "Business Analyst, Portfolio Management",
@@ -17724,7 +17878,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619448&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18511720-deskside-support-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D05c15670-e813-11f1-8079-97a8c59df678%26rx_job%3D2619448%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619448"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619448&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18511720-deskside-support-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D05c15670-e813-11f1-8079-97a8c59df678%26rx_job%3D2619448%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T020404Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619448"
 },
 {
 "title": "Product Support Specialist",
@@ -18442,6 +18596,56 @@
 "location": "Dorval, Quebec, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4449689576",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Developer, TD Securities",
+"company": "TD",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493945291",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Higher Education Integration Developer – Ellucian Banner & Ethos",
+"company": "K&K Global Talent Solutions INC.",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493909230",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicienne, technicien en informatique – Équipe support et maintenance aux applications",
+"company": "Centre de services scolaire Marguerite-Bourgeoys - CSSMB",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493952222",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, AI Systems (Canada)",
+"company": "AI Fund",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493924374",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Product and Automation Tool Developer",
+"company": "Croesus",
+"location": "Laval, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4471823566",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
