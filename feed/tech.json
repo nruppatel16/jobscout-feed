@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T23:16:38+00:00",
+"updated": "2026-11-25T23:26:38+00:00",
 "jobs": [
 {
 "title": "Engineer, Ethernet Enablement",
@@ -554,7 +554,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=YlhQShwXCB5zY3QuJS5ALiReQCdTCCFKdWJEcCdfc0gjUi5%2BExdaKkUTWkYYc2NzAgkbUxZVSXgqWA%3D%3D&chk=ZVpaShw%3D&clid=73708&Page=JobDetails&Jobid=J1126-0569&BRID=464732&lang=1"
+"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=bVxaSxkXCB93YHJwNlRXCFo8eBFEcCNVdkggUyt%2FExJeKkJtXEBpcGV9BwkbUxZVSXgqWA%3D%3D&chk=ZVpaShw%3D&clid=73708&Page=JobDetails&Jobid=J1126-0569&BRID=464732&lang=1"
 },
 {
 "title": "Business Analyst",
@@ -4526,6 +4526,199 @@
 "country": "US",
 "years": 1,
 "apply": "https://radpartners.avature.net/careersmarketplace/JobDetail/IAM-Engineer/20830"
+},
+{
+"title": "Software Asset Management Analyst",
+"company": "Government Of Alberta",
+"location": "AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=4c6955887f790518",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobpostings.alberta.ca/job/Software-Asset-Management-Analyst/608400317/"
+},
+{
+"title": "Conseiller (ère), Documentation et Garanties - Immobilier",
+"company": "Laurentian Bank Financial Group",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=75231cfd2ffc0b75",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.banquelaurentienne.ca/en/job-detail/conseiller-ere-documentation-et-garanties-immobilier-montreal-1-28652?source=Indeed",
+"french": true
+},
+{
+"title": "GIS Analyst - Windsor and London",
+"company": "Dillon Consulting Limited",
+"location": "Windsor, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=d6b156a76b1b95f7",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://external-dillon.icims.com/jobs/4987/gis-analyst---windsor-and-london/job?in_iframe=1"
+},
+{
+"title": "Digital Solutions Analyst",
+"company": "Solventum",
+"location": "Remote, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=b13148e5aed277bb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://healthcare.wd1.myworkdayjobs.com/Search/job/CR-Heredia-VIRTUAL/Digital-Solutions-Analyst_R01135460"
+},
+{
+"title": "MTS 1, Software Engineer, Backend",
+"company": "eBay",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=cead7b469a1fc288",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.ebayinc.com/us/en/job/R0077566"
+},
+{
+"title": "Technicien.ne au support technique",
+"company": "Sopfim",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=8ad11e3ef9243779",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://atlas.workland.com/work/97082/technicienne-au-support-technique?source=Indeed&lang=fr",
+"french": true
+},
+{
+"title": "Développeur(euse) Full Stack",
+"company": "Twenifor",
+"location": "Mashteuiatsh, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=69ac678877d1d62a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/d%C3%A9veloppeureuse-full-stack-69ac678877d1d62a"
+},
+{
+"title": "Software developer",
+"company": "Maarut",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804231",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer (Remote)",
+"company": "FCT",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=eb362490e49b31eb",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Data-Engineer--Remote-_R059663-1"
+},
+{
+"title": "Full-Stack Developer",
+"company": "National Bank of Canada",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=afe0c3b2a7bd3c6f",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://emplois.bnc.ca/en_CA/careers/JobDetail/P5I34-DEVELOPPEUR-PRINCIPAL-FULL-STACK/36952"
+},
+{
+"title": "Customer support representative - wholesale",
+"company": "CSN Collision",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804145",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer support representative - wholesale",
+"company": "Providence Classical Christian School",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804049",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data processor",
+"company": "EBC Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804084",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) Full Stack",
+"company": "Twenifor",
+"location": "Saint-Rémi, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=4ae6f366d58b2f79",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/d%C3%A9veloppeureuse-full-stack-4ae6f366d58b2f79"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Rentokil Initial",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804187",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Vensure",
+"location": "Chibougamau, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804210",
+"source": "Job Bank",
+"country": "CA",
+"years": 5,
+"french": true
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "POWERGROUP Resources",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804055",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "EBC Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804076",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
 "title": "AI Developer",
@@ -10864,7 +11057,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNQ65UZUKCT2N4UQ%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNW4PDLYLVYGVXBQ%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -16761,6 +16954,306 @@
 "location": "",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4470718958",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Field Support",
+"company": "Connective Talent",
+"location": "Saskatchewan, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494750180",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Level 2 IT Support Technician",
+"company": "Quadbridge Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4485368211",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Platforms & Analytics Specialist - Pet Nutrition",
+"company": "Mars",
+"location": "Bolton, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494742509",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "TekStaff IT Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494418220",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist and AI Engineer Autonomous AI Agents (LLMs and Deep Learning)",
+"company": "RBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494409728",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Applied Scientist II, Performance Algorithms",
+"company": "The Trade Desk",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494741329",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Machine Learning Software Developer",
+"company": "Circle Cardiovascular Imaging",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4467444721",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Solutions Developer",
+"company": "Sandbox Mutual Insurance",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494396409",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst - Charles River",
+"company": "Viva Tech Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494436152",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst – Commodities Trading",
+"company": "Xforia Global Talent & Technology Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494732192",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Montréal [Hybrid] - IT Business Analyst FO EQD",
+"company": "QUANTEAM - North America (RAINBOW PARTNERS Group)",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493048627",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support Analyst",
+"company": "Societe Generale",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494435517",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python Developer",
+"company": "Envision Technology Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494738674",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Platform Engineer",
+"company": "TMT IT Solutions",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494039511",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer – Automotive Solutions (Embedded Linux)",
+"company": "Syntronic - A Global Design House",
+"location": "Kanata, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493068014",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) sénior – systèmes embarqués et applications",
+"company": "Jyga Technologies - GESTAL",
+"location": "Saint-Lambert-de-Lauzon, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494439393",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GPU System Software Engineer (AI)",
+"company": "AMD",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493066047",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Integration Engineer",
+"company": "Actalent",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494414996",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "C++ Technical Specialist with Macos and Security Domain",
+"company": "W3Global",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494706960",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Chef·fe de projet logiciel",
+"company": "ALTEN Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493055180",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System and Software Engineer - MBSE - Autmotive",
+"company": "CS GROUP",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494159734",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electronic Technologist for Naval and UXV testing – NETE",
+"company": "Weir",
+"location": "Dartmouth, Nova Scotia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4371985928",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "MEMS Hardware Intern/ Stagiaire en matériel MEMS",
+"company": "Stathera, Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494417491",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste du soutien technique à la clientèle – Niveau 2",
+"company": "Quadbridge Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4485370110",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Dev and Operations Engineer",
+"company": "Quectel",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494737886",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Data Developer -12-Month Contract",
+"company": "Trimac Transportation",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494737765",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Concepteur(-trice) de solutions en données",
+"company": "Wepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494753085",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Desk Analyst",
+"company": "Systematix",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494702010",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Network Engineer (36174)",
+"company": "Myticas Consulting",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494740626",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI & Cloud Infrastructure Specialist",
+"company": "Stikeman Elliott LLP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4468693238",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
