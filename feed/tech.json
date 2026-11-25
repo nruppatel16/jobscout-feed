@@ -1,17 +1,6 @@
 {
-"updated": "2026-11-25T00:43:14+00:00",
+"updated": "2026-11-25T00:53:14+00:00",
 "jobs": [
-{
-"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
-"company": "Smoking Gun Interactive",
-"location": "Quebec City, QC, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://apply.workable.com/j/0B031D313A"
-},
 {
 "title": "Customer Success Associate",
 "company": "iEnergizer",
@@ -22,6 +11,17 @@
 "country": "US",
 "years": null,
 "apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
+},
+{
+"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
+"company": "Smoking Gun Interactive",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/0B031D313A"
 },
 {
 "title": "Software Engineer, Space Foundations — Real-Time Systems",
