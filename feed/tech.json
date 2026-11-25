@@ -1,92 +1,39 @@
 {
-"updated": "2026-11-25T04:21:47+00:00",
+"updated": "2026-11-25T04:31:47+00:00",
 "jobs": [
 {
-"title": "ServiceNow ITAM / HAM Consultant (Remote)",
+"title": "Data Analyst",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=f77c56cd6cb2b6da",
+"link": "https://www.indeed.com/viewjob?jk=18d859b0b51f5808",
 "source": "Indeed",
 "country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/servicenow-itam-ham-consultant-remote-f77c56cd6cb2b6da"
-},
-{
-"title": "Information Security Operations Engineer",
-"company": "HOOPP",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-25",
-"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Information-Security-Operations-Engineer_JR102631",
-"source": "HOOPP careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Network Automation Engineer – Python & AI",
-"company": "Xideral",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=54c85c5309139449",
-"source": "Indeed",
-"country": "CA",
 "years": null,
-"apply": "https://xideral.recruiterbox.com/jobs/fk0zarp?fjb_hash=ezLpq610"
+"apply": "http://www.indeed.com/job/data-analyst-18d859b0b51f5808"
 },
 {
-"title": "Pest Control Technician",
-"company": "Progressive Pest Management",
-"location": "Winnipeg, MB, CA",
+"title": "ECAM - Commercial fixed Security account executive - Vancouver - 75k+com",
+"company": "GardaWorld",
+"location": "Vancouver, BC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
+"link": "https://ca.indeed.com/viewjob?jk=77f8edbeeb422e07",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
+"years": 4,
+"apply": "https://career4.successfactors.com/career?company=garda&career_ns=job_listing&career_job_req_id=251609&lang=en_US&jobPipeline=Indeed"
 },
 {
-"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
-"company": "Smoking Gun Interactive",
-"location": "Quebec City, QC, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://apply.workable.com/j/0B031D313A"
-},
-{
-"title": "Customer Success Associate",
-"company": "iEnergizer",
+"title": "Remote Support Engineer",
+"company": "The Exceptional Foundation",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
+"link": "https://www.indeed.com/viewjob?jk=a663877ac3742e28",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
-},
-{
-"title": "Software Developer – Medical Device Software",
-"company": "",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
-},
-{
-"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
-"company": "Royal Academy",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
+"apply": "https://join.com/companies/exceptionalfoundationorg/16984759-remote-support-engineer?pid=a13795120131dbe48464",
+"part_time": true
 },
 {
 "title": "NOC 74203 Lubrication Technician - automotive service and repair",
@@ -100,16 +47,91 @@
 "apply": "http://ca.indeed.com/job/noc-74203-lubrication-technician-automotive-service-and-repair-15a2a5e7dada8c23"
 },
 {
-"title": "Remote Support Engineer",
-"company": "The Exceptional Foundation",
+"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
+"company": "Royal Academy",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
+},
+{
+"title": "Software Developer – Medical Device Software",
+"company": "",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
+},
+{
+"title": "Customer Success Associate",
+"company": "iEnergizer",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=a663877ac3742e28",
+"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://join.com/companies/exceptionalfoundationorg/16984759-remote-support-engineer?pid=a13795120131dbe48464",
-"part_time": true
+"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
+},
+{
+"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
+"company": "Smoking Gun Interactive",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/0B031D313A"
+},
+{
+"title": "Pest Control Technician",
+"company": "Progressive Pest Management",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
+},
+{
+"title": "Network Automation Engineer – Python & AI",
+"company": "Xideral",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=54c85c5309139449",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://xideral.recruiterbox.com/jobs/fk0zarp?fjb_hash=ezLpq610"
+},
+{
+"title": "Information Security Operations Engineer",
+"company": "HOOPP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Information-Security-Operations-Engineer_JR102631",
+"source": "HOOPP careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "ServiceNow ITAM / HAM Consultant (Remote)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=f77c56cd6cb2b6da",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/servicenow-itam-ham-consultant-remote-f77c56cd6cb2b6da"
 },
 {
 "title": "Associate, Technical Support",
@@ -6277,7 +6299,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNXWI2ZMA5Z66RTQ%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNXFVHIVNP6IRJ2Q%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -7171,6 +7193,251 @@
 "country": "CA",
 "years": null,
 "apply": "https://careers.jacobs.com/en_US/careers/JobDetail/Power-Systems-Engineering-Intern-Summer-2027/48905"
+},
+{
+"title": "Solutions Engineer - Etanol",
+"company": "whitefox",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=bae735e5e2cbb2c3",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://whitefox.bamboohr.com/careers/94?source=indeed&src=indeed&postedDate=2026-11-24"
+},
+{
+"title": "Control Systems Engineer",
+"company": "ALSTOM",
+"location": "Saint-Bruno, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=ac11c45b31643b5a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobsearch.alstom.com/job/Saint-Bruno-Control-Systems-Engineer-QC/1460430133/",
+"french": true
+},
+{
+"title": "Data Products Engineer",
+"company": "Extendicare",
+"location": "Markham, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=5f05e99e8d163c7f",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://extendicare.wd10.myworkdayjobs.com/Extendicare2023/job/3000-Steeles-Avenue-East-Suite-400-Markham-Ontario/Data-Products-Engineer_R37450-1"
+},
+{
+"title": "AI Cloud Engineer",
+"company": "Extendicare",
+"location": "Markham, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6485d6c2dbf3af5e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://extendicare.wd10.myworkdayjobs.com/Extendicare2023/job/3000-Steeles-Avenue-East-Suite-400-Markham-Ontario/AI-Cloud-Engineer_R37451"
+},
+{
+"title": "Customer support representative - wholesale",
+"company": "Reimagined Parking",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50799349",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Software developer",
+"company": "Article",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50799345",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Data Scientist (Askuity division)",
+"company": "Home Depot Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=08ef0f2cea116da9",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.homedepot.ca/job-view-id/2114233?utm_campaign=Indeed.ca"
+},
+{
+"title": "Service Desk Associate : Part Time - SQUAMISH",
+"company": "Home Depot Canada",
+"location": "Squamish, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f69ac5c397b8eafd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.homedepot.ca/job-view-id/2114238?utm_campaign=Indeed.ca",
+"part_time": true
+},
+{
+"title": "Artificial intelligence (AI) analyst",
+"company": "PCL Construction",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50799357",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "System Test Specialist, CF-18 Fighter",
+"company": "CAE",
+"location": "Mirabel, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=ee02d2146fa777fb",
+"source": "Indeed",
+"country": "CA",
+"years": 0,
+"apply": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/System-Test-Specialist--CF-18-Fighter_124167"
+},
+{
+"title": "Infrastructure & AMI Systems Specialist",
+"company": "NORTHWEST TERRITORIES POWER CORPORATION",
+"location": "Hay River, NT, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=4ba9f06035e13093",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers-ntpc.icims.com/jobs/2096/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Data Engineer",
+"company": "Samsara",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493981074",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ingénieur de données, Finances",
+"company": "The Home Depot Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494310039",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Software Engineer (L5) - Machine Learning",
+"company": "Netflix",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=1beba25c1d985493",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://explore.jobs.netflix.net/careers/job/790319332434"
+},
+{
+"title": "Full Stack Engineer",
+"company": "3Y Health",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493976747",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Computer Programmer",
+"company": "SAIC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=53cccbd2974af931",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T040456Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464"
+},
+{
+"title": "Technicien informatique H/F",
+"company": "Oc Santé",
+"location": "Notre Dame, New Brunswick, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493958920",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "CB Smart Recruit",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50799346",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Field Sales Engineer - Equipment - Houston, TX",
+"company": "Atlas Copco Group",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=5624240f8fdc4c8a",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.jobs.atlascopcogroup.com/job/Field-Sales-Engineer-Equipment-Houston%2C-TX/175458-en_US"
+},
+{
+"title": "Systems Administrator",
+"company": "SAIC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=6919de277671881a",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619460&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513732-systems-administrator%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68fb98-e834-11f1-a7ec-15515de9bd7b%26rx_job%3D2619460%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T040456Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619460"
+},
+{
+"title": "Clinical Quality & Risk Application Specialist",
+"company": "Prista Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=ed1820b50ed5a239",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691436/PRISTA-CORPORATION/Clinical-Quality-Risk-Application-Specialist?source=Indeed_Feed"
+},
+{
+"title": "Global Trade Data Analyst",
+"company": "Ciena",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494097018",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste d’affaires Salesforce",
+"company": "Alithya",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4462540700",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
@@ -12276,7 +12543,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://candidateportal.ceipal.com/job-details/GaCq50e-qze5RBFNK_e8orlUvw4JkWQQsB7nt46n9Mw#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/0vnK0Iqiqa0Bj_oxBqF_3Um9KN5WdAkxCZzd-kbw9rw#.job_boards.Indeed"
 },
 {
 "title": "Test Data Quality Engineer",
@@ -19344,6 +19611,16 @@
 "years": null
 },
 {
+"title": "Industrial Automation Specilaist",
+"company": "ofi North America (Olam Food Ingredients)",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494034450",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "IT Auditor",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -22453,6 +22730,16 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Specialist, telecommunications hardware",
+"company": "PCL Construction",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-22",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50799148",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
 },
 {
 "title": "Business Systems Analyst",
