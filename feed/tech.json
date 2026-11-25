@@ -1,16 +1,16 @@
 {
-"updated": "2026-11-25T00:53:14+00:00",
+"updated": "2026-11-25T01:03:14+00:00",
 "jobs": [
 {
-"title": "Customer Success Associate",
-"company": "iEnergizer",
-"location": "Remote · United States",
+"title": "Pest Control Technician",
+"company": "Progressive Pest Management",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
+"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
+"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
 },
 {
 "title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
@@ -22,6 +22,17 @@
 "country": "CA",
 "years": 3,
 "apply": "https://apply.workable.com/j/0B031D313A"
+},
+{
+"title": "Customer Success Associate",
+"company": "iEnergizer",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
 },
 {
 "title": "Software Engineer, Space Foundations — Real-Time Systems",
@@ -5748,6 +5759,324 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4493955178",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator_Level 2",
+"company": "ProServeIT",
+"location": "Charlottetown, PE, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=0cc57d024f63f7ab",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.collage.co/jobs/proserveit/67321?origin=indeed"
+},
+{
+"title": "IT Support Analyst",
+"company": "Valiant TMS",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=aa67d993d93be8c3",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://www.valianttms.com/job/it-support-analyst/"
+},
+{
+"title": "Technology Analyst - NodeJs",
+"company": "Infosys",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=28319a9444fa40b5",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/156346BR?Codes=Indeed"
+},
+{
+"title": "Cloud Security Engineer",
+"company": "Clio",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e95a5eb13ace3bc1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Cloud-Security-Engineer_REQ-5710"
+},
+{
+"title": "AI Enablement Specialist",
+"company": "Lightspeed",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=2293ceacacdc392c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/lightspeedhq/03beedc9-13f0-4de3-95b5-66b303a162d4?utm_source=8z5q7zPjwO"
+},
+{
+"title": "Systems Administrator_Level 3",
+"company": "ProServeIT",
+"location": "Charlottetown, PE, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=75958c3b96ba807c",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.collage.co/jobs/proserveit/67324?origin=indeed"
+},
+{
+"title": "Operations Analyst (Methods Analyst I)",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=66cfe0cb62834e5a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56495&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Software Engineer II",
+"company": "Akamai",
+"location": "CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=b55d328359207610",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4595"
+},
+{
+"title": "Systems Administrator_Level 2",
+"company": "ProServeIT",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=011f235ba3443935",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.collage.co/jobs/proserveit/67319?origin=indeed"
+},
+{
+"title": "Software Analyst",
+"company": "Hitachi Energy",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f82d29fc14cbf93b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst_R0150136"
+},
+{
+"title": "Customer Onboarding Specialist",
+"company": "FacilityOS",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=8299a56a14a16abc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/facilityos/d694dc01-aaf2-4632-a882-d0ae4ffb3594?utm_source=QdBmER6W9n"
+},
+{
+"title": "Systems Administrator_Level 3",
+"company": "ProServeIT",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=bd019cf96b5a61ff",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.collage.co/jobs/proserveit/67322?origin=indeed"
+},
+{
+"title": "Data Engineer, Platform",
+"company": "Clio",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1da4cfcf88c2fd8f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Calgary/Data-Engineer--Platform_REQ-5712"
+},
+{
+"title": "Business Analyst, Enterprise Project Management Office",
+"company": "YORK REGIONAL POLICE",
+"location": "Aurora, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=7f55608b418d63cd",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.yrp.ca/job/Business-Analyst%2C-Enterprise-Project-Management-Office/2090-en_US"
+},
+{
+"title": "Gestionnaire de projets – Solutions PLM et ingénierie numérique",
+"company": "Maya HTT (FR)",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e4ab1d47403eade2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/fr/6ed6763e-c59e-43f1-851c-3a9746616e1c?utm_source=24ROJlM7jq"
+},
+{
+"title": "IT Support Specialist - Mesa 1",
+"company": "XNRGY Climate Systems",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=6438129ac7537861",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.ashbyhq.com/xnrgy-climate-systems/629d1cd8-b982-4796-b554-b657725af6fa?utm_source=zK5NJNwK3o"
+},
+{
+"title": "Geographic Information Systems Science Intern - Summer 2027",
+"company": "WSP",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=c4ae2416aac72a26",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/99829",
+"part_time": true
+},
+{
+"title": "Managing Consultant - Back End Rev Cycle",
+"company": "Guidehouse",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=aa9d6ef3b6e10cbb",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Managing-Consultant---Back-End-Rev-Cycle_46851"
+},
+{
+"title": "Student Assistant - Petroleum Data Analyst - Remote",
+"company": "University Enterprises Inc",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=1d44298a183168ff",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://secure10.saashr.com/ta/6158859.jobs?ShowJob=722134404",
+"part_time": true
+},
+{
+"title": "Digital Showroom Sales Coordinator",
+"company": "Ferguson",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=d77d1b38b8c0bc09",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://ferguson.wd1.myworkdayjobs.com/Ferguson_Experienced/job/Remote/Digital-Showroom-Sales-Coordinator_R-142384"
+},
+{
+"title": "Full Stack Web & eCommerce Engineer",
+"company": "ACI Learning Inc",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=3a884cbdb00ed35a",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://grnh.se/phbi4zi89us"
+},
+{
+"title": "Customer Support Engineer",
+"company": "Second Front Systems",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=69be47911c968c57",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.ashbyhq.com/Second-Front-Systems/0ed587e4-4842-45d1-af17-139f289cf806?utm_source=WnklNXPvdx"
+},
+{
+"title": "Cloud System Administrator 2 TS/SCI w Poly",
+"company": "Peraton",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=f44665efc83e852d",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.careers.peraton.com/jobs/cloud-system-administrator-2-ts-sci-w-poly-laurel-maryland-173401-jobs--information-technology--"
+},
+{
+"title": "Technical Support Analyst - Tier I",
+"company": "Uniguest",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=a9cc34a7037ff989",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53abd855-df3a-4397-96fc-7f8c12a795de&ccId=19000101_000001&jobId=943570&source=IN&lang=en_US"
+},
+{
+"title": "Engineering Technologist II",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=694129fc420e410f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56382&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Seeburger Developer",
+"company": "Infosys",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1602b3dd7f97a3d6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/156213BR?Codes=Indeed"
+},
+{
+"title": "After Sales and Technical Services Engineer",
+"company": "Trench Group",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493688925",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student, Mobile Device Support Analyst (Winter 2027 - Summer 2027)",
+"company": "Sunlife",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493941741",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "CRM Technical Implementation & Integration Specialist (Microsoft Dynamics 365 CRM and Bloomreach (CDP))",
+"company": "Air Canada Vacations",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494098083",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -11757,7 +12086,7 @@
 "apply": "https://jobs.ashbyhq.com/nsc-global/a9980fc2-75c6-4ae7-915a-823897fc0c5d?utm_source=6DvzoVz4jw"
 },
 {
-"title": "Systems Build Intern - Waterloo University year 4+ only tags.new",
+"title": "Systems Build Intern - Waterloo University year 4+ only New",
 "company": "Brave Software",
 "location": "CA (remote)",
 "posted": "2026-11-23",
@@ -11779,7 +12108,7 @@
 "apply": "https://grnh.se/a7y43rzb3us"
 },
 {
-"title": "Software Development Intern - Waterloo University - Web3 Core tags.new",
+"title": "Software Development Intern - Waterloo University - Web3 Core New",
 "company": "Brave Software",
 "location": "CA (remote)",
 "posted": "2026-11-23",
@@ -16991,7 +17320,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619448&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18511720-deskside-support-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D05c15670-e813-11f1-8079-97a8c59df678%26rx_job%3D2619448%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261124T220405Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619448"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619448&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18511720-deskside-support-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D05c15670-e813-11f1-8079-97a8c59df678%26rx_job%3D2619448%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619448"
 },
 {
 "title": "Product Support Specialist",
@@ -17519,6 +17848,96 @@
 "location": "",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4492651981",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Security Analyst",
+"company": "Megaport",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494080614",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity Compliance Analyst",
+"company": "Docebo",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4471198481",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst- Technology Risk and Control",
+"company": "OPTrust",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4486759773",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity Advisor",
+"company": "Aviva Canada",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4469917956",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior IT Audit Analyst",
+"company": "Crédit Agricole CIB",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493947202",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste junior.e de la cybersécurité des systèmes de contrôle industriels (SCI)",
+"company": "BBA Consultants",
+"location": "Mont-St-Hilaire, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4484371604",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Onsite Technician",
+"company": "Atlas Copco",
+"location": "Oshawa, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4477519568",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "CRM Business Systems Analyst",
+"company": "Brainhunter Systems Ltd",
+"location": "Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494074062",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Consultant - Education",
+"company": "D2L",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4480526037",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
