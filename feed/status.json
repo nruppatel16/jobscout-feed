@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-25T21:07:44+00:00",
+ "updated": "2026-11-25T21:17:45+00:00",
  "mode": "quick",
  "last_full": "2026-11-25T20:57:44+00:00",
  "searches_run": {
   "Tech company boards": 129,
-  "Employer boards": 77,
-  "Employer career sites": 54
+  "Employer career sites": 54,
+  "Employer boards": 77
  },
  "found_this_run": {
-  "Tech company boards": 82,
-  "Employer boards": 93,
-  "Employer career sites": 130
+  "Tech company boards": 79,
+  "Employer career sites": 130,
+  "Employer boards": 79
  },
  "in_feed": 2648,
  "us_remote_in_feed": 683,
@@ -28,5 +28,5 @@
   "Employer boards": 0,
   "Tech company boards": 0
  },
- "seconds": 19
+ "seconds": 20
 }
