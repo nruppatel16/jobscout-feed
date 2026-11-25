@@ -1,16 +1,16 @@
 {
-"updated": "2026-11-25T01:23:15+00:00",
+"updated": "2026-11-25T01:33:14+00:00",
 "jobs": [
 {
-"title": "Pest Control Technician",
-"company": "Progressive Pest Management",
-"location": "Winnipeg, MB, CA",
+"title": "Customer Success Associate",
+"company": "iEnergizer",
+"location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
+"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
+"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
 },
 {
 "title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
@@ -24,15 +24,15 @@
 "apply": "https://apply.workable.com/j/0B031D313A"
 },
 {
-"title": "Customer Success Associate",
-"company": "iEnergizer",
-"location": "Remote · United States",
+"title": "Pest Control Technician",
+"company": "Progressive Pest Management",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
+"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
+"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
 },
 {
 "title": "Software Engineer, Space Foundations — Real-Time Systems",
@@ -418,15 +418,15 @@
 "part_time": true
 },
 {
-"title": "Systems Analyst, Clinical Solutions, IMITS",
+"title": "Systems Analyst, Clinical Solutions, PDHIS",
 "company": "Provincial Health Services Authority (PHSA)",
-"location": "Burnaby, BC, CA",
+"location": "Burnaby, BC, CA (remote)",
 "posted": "2026-11-24",
 "link": "https://ca.indeed.com/viewjob?jk=24ff17f1d8ffcd01",
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://jobs.phsa.ca/job/systems-analyst-clinical-solutions-imits"
+"apply": "https://jobs.phsa.ca/job/systems-analyst-clinical-solutions-pdhis-0"
 },
 {
 "title": "Information Security Operations Engineer",
@@ -4363,7 +4363,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f0842674-72cd-4dbb-bccd-92df2a8d79ba&ccId=19000101_000001&jobId=567464&source=IN&lang=en_CA"
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f0842674-72cd-4dbb-bccd-92df2a8d79ba&ccId=9202134798958_4&jobId=567464&jwId=9202134798958_2&source=IN&lang=en_CA"
 },
 {
 "title": "Web Developer & Graphic Designer",
@@ -6077,6 +6077,239 @@
 "location": "",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4494098083",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Technical Consultant",
+"company": "ServiceRocket",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=ea4d2da9c30f9ec1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.lever.co/servicerocket/2a00daa6-486e-4d14-8b90-5f78d5645fd8"
+},
+{
+"title": "IT Support Technician",
+"company": "Allredi",
+"location": "Leduc, AB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=b9daa3bf1a8ff120",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://allredi.recruitee.com/l/en/o/it-support-technician-3?source=Indeed"
+},
+{
+"title": "IT Field Services Technician",
+"company": "Lifemark Health Group",
+"location": "Oshawa, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e890f6b6c318dbd6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fece8f4b-0227-4caf-9cd1-0b464217347b&ccId=19000101_000001&jobId=605428&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Operations Support Agent",
+"company": "Desjardins",
+"location": "Bécancour, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=29bc2114734e639e",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://desjardins-workplace.relevance.studio/en/job-detail/1-ee029825dd701001048668f348610002-operations-support-agent-becancour?source=Indeed",
+"french": true
+},
+{
+"title": "Quality Assurance Lab Technician",
+"company": "Mondelēz International",
+"location": "East York, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=40e03b874d1ebf35",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.mondelezinternational.com/careers/jobs/job?jobid=R-182876&jobtitle=Quality%20Assurance%20Lab%20Technician"
+},
+{
+"title": "Data and Business Intelligence Analyst, Intern",
+"company": "Hitachi Energy",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9e0666a5fc4c8d6d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Data-and-Business-Intelligence-Analyst--Intern_R0151457"
+},
+{
+"title": "Application Specialist",
+"company": "Puratos",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=589bc1afe7bff6f4",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.puratos.com/job/Application-Specialist/36388-en_GB"
+},
+{
+"title": "Intermediate Azure Software Developer",
+"company": "Quest Software",
+"location": "NS, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=c444f831e0f3f946",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers-quest.icims.com/jobs/13722/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Blue Yonder WMS Developer",
+"company": "Best Buy",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9a4d724eef8342c2",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNSS3Y2NVXODUJ6Q%3d%3d%3d%3d"
+},
+{
+"title": "Digital Experience & Web Specialist",
+"company": "Intelcom | Dragonfly",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e6691a3ec4283c81",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/Digital-Experience---Web-Specialist_JR112144"
+},
+{
+"title": "Automation Engineer – Junior or Intermediate",
+"company": "Efficient Plant",
+"location": "Pointe-Claire, QC, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=4e011b2e2d04fc71",
+"source": "Indeed",
+"country": "CA",
+"years": 0,
+"apply": "https://efficientplant.com/automation-engineer-junior-or-intermediate/",
+"french": true
+},
+{
+"title": "Engineering Technology Specialist",
+"company": "Kent Homes",
+"location": "Bouctouche, NB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=b413aa42c7241403",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13535"
+},
+{
+"title": "Junior Design Engineer",
+"company": "ARGUS MACHINE CO LTD",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=d779632a38752746",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=69b991a3-8e47-4087-896d-0d64cece2760&ccId=19000101_000001&jobId=597096&source=IN&lang=en_CA"
+},
+{
+"title": "Client Support Admin and Servicing Rep",
+"company": "CanCap Group Inc.",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=7cbbd0b3ad36cc06",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d6d433d2-a726-40aa-8c82-69d07ffce0d4&ccId=19000101_000001&jobId=641679&source=IN&lang=en_CA"
+},
+{
+"title": "Bilingual Client Support Admin and Servicing",
+"company": "CanCap Group Inc.",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=763d11938015db3f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d6d433d2-a726-40aa-8c82-69d07ffce0d4&ccId=19000101_000001&jobId=641675&source=IN&lang=en_CA"
+},
+{
+"title": "Predictive Analytics Analyst",
+"company": "Wiland",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=229d95dec2c80d00",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/6445D20E5D3BF8267EDFE88016182D2B/jobs/210490?source=Indeed"
+},
+{
+"title": "Customer Success Specialist - AppDynamics (Remote)",
+"company": "Cisco",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=49ad51fbbbf19fb4",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers.cisco.com/global/en/job/2030648"
+},
+{
+"title": "Salesforce Marketing Cloud Administrator",
+"company": "Samuel Merritt University",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=282e5f8738cc4a33",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://samuelmerritt.wd1.myworkdayjobs.com/en-US/SMUCareers/job/Hybrid---Oakland/Salesforce-Marketing-Cloud-Administrator_JR101615"
+},
+{
+"title": "Wireless Sales Representative-Stittsville/Kanata",
+"company": "The Cell Phone Centre",
+"location": "Stittsville, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1f42024acf3dde06",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://secure.collage.co/jobs/connectwireless/67337?origin=indeed"
+},
+{
+"title": "CMC-Scientist",
+"company": "Isologic Innovative Radiopharmaceuticals",
+"location": "Lachine, QC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=8c6a96a59a1edc89",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6fdcb75d-12f7-487c-b0b2-fa6ea2c6c2ea&ccId=9205249022696_77&jobId=971617&source=IN&lang=en_CA"
+},
+{
+"title": "Business Analyst - Client Experience",
+"company": "The Citco Group Limited",
+"location": "Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4492670266",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -17938,6 +18171,76 @@
 "location": "",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4480526037",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Autonomous Hardware and Radio Technician",
+"company": "IAMGOLD Corporation",
+"location": "Gogama, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492639919",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Automation Engineer",
+"company": "Grand Software Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492622574",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Analyst",
+"company": "Focus Systems Inc.",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494084316",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Designer, System test",
+"company": "Dana Incorporated",
+"location": "Boucherville, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493928454",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(se) Fullstack Python/React",
+"company": "Onepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492666273",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer(.NET)",
+"company": "Yochana",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494023521",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineer - Application Security",
+"company": "ContactMonkey",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493937180",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
