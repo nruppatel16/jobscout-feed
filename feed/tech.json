@@ -1,434 +1,332 @@
 {
-"updated": "2026-11-25T14:19:13+00:00",
+"updated": "2026-11-25T14:29:13+00:00",
 "jobs": [
 {
-"title": "Pega Developer",
-"company": "General Dynamics Information Technology",
-"location": "Remote · United States",
+"title": "Software Developer, Cloud Workflows",
+"company": "Google",
+"location": "Waterloo, ON, CA",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=b21072dae3b4c709",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "https://www.gdit.com/careers/job/80581d38b/pega-developer/"
-},
-{
-"title": "Full Stack Engineer",
-"company": "Launchstack",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=40c3c392ea5a0581",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/full-stack-engineer-40c3c392ea5a0581"
-},
-{
-"title": "Installation Technician",
-"company": "Novus Entertainment Inc",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=65a7bf8da0bdcb4e",
+"link": "https://ca.indeed.com/viewjob?jk=eaaad04cdbd97a58",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "https://www.novusnow.ca/wp-content/uploads/2026/09/Installation-Technician-Job-Posting-2026.pdf?6803ee&6803ee"
+"years": 3,
+"apply": "https://careers.google.com/jobs/results/93277651233317574-software-developer/"
 },
 {
-"title": "Product Support Coordinator",
-"company": "Toromont Cat",
-"location": "Cambridge, ON, CA",
+"title": "AI Software Engineer, Workspace",
+"company": "Google",
+"location": "Waterloo, ON, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=34274a132a810165",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://recruiting.ultipro.ca/TOR5001TIL/JobBoard/24cbbe4b-86ee-4afa-9385-92863afdf1bd/OpportunityDetail?opportunityId=904f1984-4680-46fb-b48a-160223b9bb68&postingId=82e03429-120e-41cb-b720-0c69f4d8c848"
-},
-{
-"title": "Network Specialist",
-"company": "Kwantlen Polytechnic University",
-"location": "Surrey, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=111b2ed04ec31a8b",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=JT63GS&cws=37&rid=4876"
-},
-{
-"title": "CMM Programmer/Operator",
-"company": "Marwood International Inc",
-"location": "Tillsonburg, ON, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=13ca0dfd6f6caf13",
+"link": "https://ca.indeed.com/viewjob?jk=0165298c8b5814a3",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://marwoodmetal.prevueaps.com/jobs/342135-8139.html"
+"apply": "https://careers.google.com/jobs/results/132402672996098758-ai-software-engineer/"
 },
 {
-"title": "ACT - Piping Engineer",
-"company": "Aker Solutions",
-"location": "St. John's, NL, CA",
+"title": "Quality Control (QC) Inspector – Entry Level (NOC Code 94143) - Brantford, Ontario",
+"company": "Global Citrus Group",
+"location": "Brantford, ON, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=eaaba48fa3def7c6",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://www.akersolutions.com/careers/job-search?jobPostId=22043"
-},
-{
-"title": "L3 Technical Analyst",
-"company": "Odyssey Global",
-"location": "Montréal, QC, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=220b5fb48be3a39f",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/l3-technical-analyst-220b5fb48be3a39f",
-"french": true
-},
-{
-"title": "SAP Operations Clerk Part Time Day",
-"company": "Real Canadian Superstore",
-"location": "Whitehorse, YT, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=f6666cb9c5c92999",
+"link": "https://ca.indeed.com/viewjob?jk=4c3acca38c357701",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://careers.loblaw.ca/sap-operations-clerk-part-time-day/job/R2000737427",
-"part_time": true
+"apply": "http://ca.indeed.com/job/quality-control-qc-inspector-entry-level-noc-code-94143-brantford-ontario-4c3acca38c357701"
 },
 {
-"title": "Data Engineer",
-"company": "",
-"location": "Remote · United States",
+"title": "Quality Assurance Technician - Temp 12 months",
+"company": "Cargill",
+"location": "Guelph, ON, CA",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=d1f21eccc53a4e55",
+"link": "https://ca.indeed.com/viewjob?jk=a0ea0d4f6cfea9c3",
 "source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/data-engineer-d1f21eccc53a4e55"
+"country": "CA",
+"years": 2,
+"apply": "https://careers.cargill.com/en/job/-/-/23251/103765742544"
 },
 {
-"title": "Digital Tools Developer",
-"company": "Mount Royal University",
-"location": "Calgary, AB, CA",
+"title": "Développeur(euse) IA/ML",
+"company": "CANAM",
+"location": "Saint-Georges, QC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=7ac86045a0ce738b",
+"link": "https://ca.indeed.com/viewjob?jk=2f937fd5082b17ef",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://mtroyalca.hua.hrsmart.com/pm_module/cgi-bin/click.cgi?job_id=4207&site_id=148"
+"apply": "https://jobs.smartrecruiters.com/GroupeCanam/744000163689986-developpeur-euse-ia-ml"
 },
 {
-"title": "TECHNICAL OFFICER",
-"company": "Manitoba Hydro",
-"location": "Winnipeg, MB, CA",
+"title": "Field Technician",
+"company": "Chung & Vander Doelen Engineering Ltd.",
+"location": "Kitchener, ON, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=c79f03a92e0ae72a",
+"link": "https://ca.indeed.com/viewjob?jk=e02b0d988bd12f29",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUJBODBGNjI4ODcyQ0MzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN"
-},
-{
-"title": "Data Specialist",
-"company": "Lexington Law",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=fc6d58942008d4f8",
-"source": "Indeed",
-"country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/data-specialist-fc6d58942008d4f8"
+"apply": "http://ca.indeed.com/job/field-technician-e02b0d988bd12f29"
 },
 {
-"title": "Release Train Engineer",
-"company": "General Dynamics Information Technology",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=94c9197085ea3d88",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "https://www.gdit.com/careers/job/93d508671/release-train-engineer/"
-},
-{
-"title": "CONSEILLER EN ARCHITECTURE DE SOLUTIONS (CAS)",
-"company": "Gravity Conseil",
+"title": "Développeur(euse) IA/ML",
+"company": "CANAM",
 "location": "Quebec City, QC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=309841b82bfff1a0",
+"link": "https://ca.indeed.com/viewjob?jk=0b992ef2813dfbb8",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://gravityconseil.fr/carrieres.php?id=yXueA6cNcPOIGmzu0V8nscOYd6FX3dQeHfKlw1BEbKQ",
+"apply": "https://jobs.smartrecruiters.com/GroupeCanam/744000163691709-developpeur-euse-ia-ml"
+},
+{
+"title": "Analyst, records management systems",
+"company": "CAD Railway Industries Inc.",
+"location": "Lachine, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50801494",
+"source": "Job Bank",
+"country": "CA",
+"years": 1,
 "french": true
 },
 {
-"title": "IT Support",
-"company": "BIMage Consulting Pte Ltd",
-"location": "Remote · United States",
+"title": "Security Engineer",
+"company": "Athennian",
+"location": "Remote, CA",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=a7a67f332df30e95",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://careerspage.io/bimage-consulting/it-support-bi101?src=17"
-},
-{
-"title": "Project Administrator",
-"company": "Racin Management Consulting Inc.",
-"location": "Red Deer, AB, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=1a2096d6175a5fad",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/project-administrator-1a2096d6175a5fad"
-},
-{
-"title": "Battery Abuse Testing Engineer",
-"company": "Moment Energy",
-"location": "Surrey, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=12d9de1a75018739",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://grnh.se/rhsp8q9h9us"
-},
-{
-"title": "Power Generation Engineer",
-"company": "American Jereh International Corporation",
-"location": "Calgary, AB, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=7f8f0dcf6e8cf1ec",
+"link": "https://ca.indeed.com/viewjob?jk=686c7c6aeb3d33a7",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5b74bf5a-d7fa-4261-bc0f-883ec7ebf1e2&ccId=19000101_000003&jobId=576183&jwId=SYS:JW:001&source=IN&lang=en_US"
+"apply": "https://ats.rippling.com/athennian/jobs/5a027783-4a67-4a71-9719-4f002ca01e18?jobSite=Indeed"
 },
 {
-"title": "Analyst, Data Operations",
-"company": "Loblaw",
-"location": "Brampton, ON, CA",
+"title": "Computer Systems Specialist",
+"company": "Provincial Health Services Authority (PHSA)",
+"location": "Vancouver, BC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=476bbd708289b02d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://careers.loblaw.ca/analyst-data-operations/job/R2000737081"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Edmonton, AB, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=261d701278a4f4eb",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Winnipeg, MB, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=05fd217a4258af5e",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=01a186ae5ecb0e39",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us"
-},
-{
-"title": "QA/Test Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=c68d4ff085e03393",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/wupshga63us"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Calgary, AB, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=11c214746e691105",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us"
-},
-{
-"title": "Industrial Application Developer (Rust/C#/Python)",
-"company": "TESCO AUTOMATION",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=4b900a306c11f4d9",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/industrial-application-developer-rustcpython-4b900a306c11f4d9"
-},
-{
-"title": "Process Control & Automation Engineer",
-"company": "Ionada Canada Corporation",
-"location": "Markham, ON, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=b175203dbca2edc8",
+"link": "https://ca.indeed.com/viewjob?jk=f31fe8d0c9cc75bc",
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "http://ca.indeed.com/job/process-control-automation-engineer-b175203dbca2edc8"
+"apply": "https://jobs.phsa.ca/job/computer-systems-specialist"
 },
 {
-"title": "ServiceNow ITAM / HAM Consultant (Remote)",
+"title": "Python Software Engineer",
+"company": "Alcon",
+"location": "Mulgrave, NS, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=c3dbac55ee8a659d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Mulgrave/Python-Software-Engineer_R-2026-51163-1"
+},
+{
+"title": "Sales Support Representative-THD",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=f77c56cd6cb2b6da",
+"link": "https://www.indeed.com/viewjob?jk=3b3bfd82cb2e068e",
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "http://www.indeed.com/job/servicenow-itam-ham-consultant-remote-f77c56cd6cb2b6da"
+"apply": "https://click.appcast.io/t/gcnseVgeWko6ya37dyOp_LcQLbNoTTwa50-Yz-wWUak="
 },
 {
-"title": "Network Automation Engineer – Python & AI",
-"company": "Xideral",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=54c85c5309139449",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://xideral.recruiterbox.com/jobs/fk0zarp?fjb_hash=ezLpq610"
-},
-{
-"title": "Pest Control Technician",
-"company": "Progressive Pest Management",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
-},
-{
-"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
-"company": "Smoking Gun Interactive",
-"location": "Quebec City, QC, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://apply.workable.com/j/0B031D313A"
-},
-{
-"title": "Customer Success Associate",
-"company": "iEnergizer",
+"title": "Business Analyst",
+"company": "Greystar",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
+"link": "https://www.indeed.com/viewjob?jk=d331d0d780797a34",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
+"apply": "http://www.indeed.com/job/business-analyst-d331d0d780797a34"
 },
 {
-"title": "Software Developer – Medical Device Software",
+"title": "Workday Technology Analyst",
 "company": "",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
-},
-{
-"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
-"company": "Royal Academy",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
-},
-{
-"title": "NOC 74203 Lubrication Technician - automotive service and repair",
-"company": "Admiral Immigration Solutions",
-"location": "Scotsburn, NS, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=15a2a5e7dada8c23",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/noc-74203-lubrication-technician-automotive-service-and-repair-15a2a5e7dada8c23"
-},
-{
-"title": "Remote Support Engineer",
-"company": "The Exceptional Foundation",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=a663877ac3742e28",
+"link": "https://www.indeed.com/viewjob?jk=50e07b6c186419cc",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Remote---TX/Workday-Technology-Analyst_JR-109503"
+},
+{
+"title": "LAN (local area network) administrator",
+"company": "Nova Scotia Power Inc.",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50800900",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Computer department coordinator",
+"company": "IMP Aerospace and Defence",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50800840",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP Basis Consultant",
+"company": "Inspire Software",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=6f1fb9c16f21d9d5",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://join.com/companies/exceptionalfoundationorg/16984759-remote-support-engineer?pid=a13795120131dbe48464",
+"apply": "http://www.indeed.com/job/sap-basis-consultant-6f1fb9c16f21d9d5"
+},
+{
+"title": "Armed Security",
+"company": "Secworldwide&AssocLLC",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=4d50c690ee0b2f0a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://apply.appone.com:443/job/6b063d8dee4d3f74985fdc44?utm_source=INDEED",
 "part_time": true
 },
 {
-"title": "ECAM - Commercial fixed Security account executive - Vancouver - 75k+com",
-"company": "GardaWorld",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=77f8edbeeb422e07",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://career4.successfactors.com/career?company=garda&career_ns=job_listing&career_job_req_id=251609&lang=en_US&jobPipeline=Indeed"
-},
-{
-"title": "Data Analyst",
-"company": "",
+"title": "Event Security",
+"company": "Secworldwide&AssocLLC",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=18d859b0b51f5808",
+"link": "https://www.indeed.com/viewjob?jk=696c88c3a628322f",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/data-analyst-18d859b0b51f5808"
+"apply": "https://apply.appone.com:443/job/6b063bf82128ba7026ea8ae3?utm_source=INDEED",
+"part_time": true
+},
+{
+"title": "Unarmed Event Security",
+"company": "Secworldwide&AssocLLC",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=5e6fc31aa05d90cc",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://apply.appone.com:443/job/6b063e9e2128ba7026ea8ae9?utm_source=INDEED",
+"part_time": true
+},
+{
+"title": "DoW/OneStream Financial Management and Reporting Analyst",
+"company": "RM Advisory Services, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=9cd228597972059d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://rmadvisory-openhire.silkroad.com/epostings/submit.cfm?fuseaction=app.dspjob&jobid=176&jobboardid=3338&company_id=17257&version=1"
+},
+{
+"title": "Technical Support and Success Specialist (JSON and cXML)",
+"company": "PunchOut Catalogs",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=ca18b20c908a3d4c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/technical-support-and-success-specialist-json-and-cxml-ca18b20c908a3d4c"
+},
+{
+"title": "Software Developer, Full Stack, Google Cloud Platform",
+"company": "Google",
+"location": "Waterloo, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=4847fa359c7ff2f8",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.google.com/jobs/results/118617545962857158-software-developer/"
+},
+{
+"title": "Full-Time Infant-Toddler Educator (ECE-IT)",
+"company": "Ready Montessori Daycare",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=74ce0fed2b5c6840",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/full-time-infant-toddler-educator-ece-it-74ce0fed2b5c6840"
+},
+{
+"title": "Part Time Authorized Business Representative(E-Commerce)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=75813155f010ff42",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/part-time-authorized-business-representativee-commerce-75813155f010ff42",
+"part_time": true
+},
+{
+"title": "« Scrum Master »",
+"company": "Tribunal administratif du logement",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=2ae047a33000f055",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi/poste/27748"
+},
+{
+"title": "Emploi étudiant - Analyste en cybersécurité",
+"company": "Tribunal administratif du travail",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=21fa07079d1a89c1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi/poste/27673"
+},
+{
+"title": "Salesforce Administrator",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=17fa4c73e301860e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/salesforce-administrator-17fa4c73e301860e"
+},
+{
+"title": "Business systems consultant",
+"company": "Doing Things Simply Inc.",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50800172",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
 },
 {
 "title": "Business Analyst",
 "company": "Forbes Bros Group of Companies",
-"location": "Regina, SK, CA (remote)",
+"location": "Sarnia, ON, CA (remote)",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=dc1005da2e89b28e",
+"link": "https://ca.indeed.com/viewjob?jk=6521b025b7a1a2d1",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
@@ -448,234 +346,435 @@
 {
 "title": "Business Analyst",
 "company": "Forbes Bros Group of Companies",
-"location": "Sarnia, ON, CA (remote)",
+"location": "Regina, SK, CA (remote)",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=6521b025b7a1a2d1",
+"link": "https://ca.indeed.com/viewjob?jk=dc1005da2e89b28e",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
 "apply": "https://grnh.se/eggxit279us"
 },
 {
-"title": "Business systems consultant",
-"company": "Doing Things Simply Inc.",
-"location": "North York, Ontario, Canada",
-"posted": "2026-11-25",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50800172",
-"source": "Job Bank",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Salesforce Administrator",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=17fa4c73e301860e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/salesforce-administrator-17fa4c73e301860e"
-},
-{
-"title": "Emploi étudiant - Analyste en cybersécurité",
-"company": "Tribunal administratif du travail",
-"location": "Quebec City, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=21fa07079d1a89c1",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi/poste/27673"
-},
-{
-"title": "« Scrum Master »",
-"company": "Tribunal administratif du logement",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=2ae047a33000f055",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://emplois.carrieres.gouv.qc.ca/plateforme-emploi/poste/27748"
-},
-{
-"title": "Part Time Authorized Business Representative(E-Commerce)",
+"title": "Data Analyst",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=75813155f010ff42",
+"link": "https://www.indeed.com/viewjob?jk=18d859b0b51f5808",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/part-time-authorized-business-representativee-commerce-75813155f010ff42",
+"apply": "http://www.indeed.com/job/data-analyst-18d859b0b51f5808"
+},
+{
+"title": "ECAM - Commercial fixed Security account executive - Vancouver - 75k+com",
+"company": "GardaWorld",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=77f8edbeeb422e07",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://career4.successfactors.com/career?company=garda&career_ns=job_listing&career_job_req_id=251609&lang=en_US&jobPipeline=Indeed"
+},
+{
+"title": "Remote Support Engineer",
+"company": "The Exceptional Foundation",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=a663877ac3742e28",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://join.com/companies/exceptionalfoundationorg/16984759-remote-support-engineer?pid=a13795120131dbe48464",
 "part_time": true
 },
 {
-"title": "Full-Time Infant-Toddler Educator (ECE-IT)",
-"company": "Ready Montessori Daycare",
-"location": "Richmond, BC, CA",
+"title": "NOC 74203 Lubrication Technician - automotive service and repair",
+"company": "Admiral Immigration Solutions",
+"location": "Scotsburn, NS, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=74ce0fed2b5c6840",
+"link": "https://ca.indeed.com/viewjob?jk=15a2a5e7dada8c23",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/full-time-infant-toddler-educator-ece-it-74ce0fed2b5c6840"
+"apply": "http://ca.indeed.com/job/noc-74203-lubrication-technician-automotive-service-and-repair-15a2a5e7dada8c23"
 },
 {
-"title": "Software Developer, Full Stack, Google Cloud Platform",
-"company": "Google",
-"location": "Waterloo, ON, CA",
+"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
+"company": "Royal Academy",
+"location": "Pitt Meadows, BC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=4847fa359c7ff2f8",
+"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
+},
+{
+"title": "Software Developer – Medical Device Software",
+"company": "",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://careers.google.com/jobs/results/118617545962857158-software-developer/"
+"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
 },
 {
-"title": "Technical Support and Success Specialist (JSON and cXML)",
-"company": "PunchOut Catalogs",
+"title": "Customer Success Associate",
+"company": "iEnergizer",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=ca18b20c908a3d4c",
+"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/technical-support-and-success-specialist-json-and-cxml-ca18b20c908a3d4c"
+"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
 },
 {
-"title": "DoW/OneStream Financial Management and Reporting Analyst",
-"company": "RM Advisory Services, LLC",
-"location": "Remote · United States",
+"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
+"company": "Smoking Gun Interactive",
+"location": "Quebec City, QC, CA (remote)",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=9cd228597972059d",
+"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
 "source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://rmadvisory-openhire.silkroad.com/epostings/submit.cfm?fuseaction=app.dspjob&jobid=176&jobboardid=3338&company_id=17257&version=1"
-},
-{
-"title": "Unarmed Event Security",
-"company": "Secworldwide&AssocLLC",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=5e6fc31aa05d90cc",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://apply.appone.com:443/job/6b063e9e2128ba7026ea8ae9?utm_source=INDEED",
-"part_time": true
-},
-{
-"title": "Event Security",
-"company": "Secworldwide&AssocLLC",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=696c88c3a628322f",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://apply.appone.com:443/job/6b063bf82128ba7026ea8ae3?utm_source=INDEED",
-"part_time": true
-},
-{
-"title": "Armed Security",
-"company": "Secworldwide&AssocLLC",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=4d50c690ee0b2f0a",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://apply.appone.com:443/job/6b063d8dee4d3f74985fdc44?utm_source=INDEED",
-"part_time": true
-},
-{
-"title": "SAP Basis Consultant",
-"company": "Inspire Software",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=6f1fb9c16f21d9d5",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/sap-basis-consultant-6f1fb9c16f21d9d5"
-},
-{
-"title": "Computer department coordinator",
-"company": "IMP Aerospace and Defence",
-"location": "Halifax, Nova Scotia, Canada",
-"posted": "2026-11-25",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50800840",
-"source": "Job Bank",
 "country": "CA",
-"years": null
-},
-{
-"title": "LAN (local area network) administrator",
-"company": "Nova Scotia Power Inc.",
-"location": "Halifax, Nova Scotia, Canada",
-"posted": "2026-11-25",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50800900",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Workday Technology Analyst",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=50e07b6c186419cc",
-"source": "Indeed",
-"country": "US",
 "years": 3,
-"apply": "https://sentara.wd1.myworkdayjobs.com/SCS/job/Remote---TX/Workday-Technology-Analyst_JR-109503"
+"apply": "https://apply.workable.com/j/0B031D313A"
 },
 {
-"title": "Business Analyst",
-"company": "Greystar",
-"location": "Remote · United States",
+"title": "Pest Control Technician",
+"company": "Progressive Pest Management",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=d331d0d780797a34",
+"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/business-analyst-d331d0d780797a34"
+"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
 },
 {
-"title": "Sales Support Representative-THD",
+"title": "Network Automation Engineer – Python & AI",
+"company": "Xideral",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=54c85c5309139449",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://xideral.recruiterbox.com/jobs/fk0zarp?fjb_hash=ezLpq610"
+},
+{
+"title": "ServiceNow ITAM / HAM Consultant (Remote)",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=3b3bfd82cb2e068e",
+"link": "https://www.indeed.com/viewjob?jk=f77c56cd6cb2b6da",
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://click.appcast.io/t/gcnseVgeWko6ya37dyOp_LcQLbNoTTwa50-Yz-wWUak="
+"apply": "http://www.indeed.com/job/servicenow-itam-ham-consultant-remote-f77c56cd6cb2b6da"
 },
 {
-"title": "Python Software Engineer",
-"company": "Alcon",
-"location": "Mulgrave, NS, CA",
+"title": "Process Control & Automation Engineer",
+"company": "Ionada Canada Corporation",
+"location": "Markham, ON, CA (remote)",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=c3dbac55ee8a659d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Mulgrave/Python-Software-Engineer_R-2026-51163-1"
-},
-{
-"title": "Computer Systems Specialist",
-"company": "Provincial Health Services Authority (PHSA)",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=f31fe8d0c9cc75bc",
+"link": "https://ca.indeed.com/viewjob?jk=b175203dbca2edc8",
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://jobs.phsa.ca/job/computer-systems-specialist"
+"apply": "http://ca.indeed.com/job/process-control-automation-engineer-b175203dbca2edc8"
+},
+{
+"title": "Industrial Application Developer (Rust/C#/Python)",
+"company": "TESCO AUTOMATION",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=4b900a306c11f4d9",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/industrial-application-developer-rustcpython-4b900a306c11f4d9"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=11c214746e691105",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us"
+},
+{
+"title": "QA/Test Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=c68d4ff085e03393",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/wupshga63us"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=01a186ae5ecb0e39",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=05fd217a4258af5e",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=261d701278a4f4eb",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us"
+},
+{
+"title": "Analyst, Data Operations",
+"company": "Loblaw",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=476bbd708289b02d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/analyst-data-operations/job/R2000737081"
+},
+{
+"title": "Power Generation Engineer",
+"company": "American Jereh International Corporation",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=7f8f0dcf6e8cf1ec",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5b74bf5a-d7fa-4261-bc0f-883ec7ebf1e2&ccId=19000101_000003&jobId=576183&jwId=SYS:JW:001&source=IN&lang=en_US"
+},
+{
+"title": "Battery Abuse Testing Engineer",
+"company": "Moment Energy",
+"location": "Surrey, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=12d9de1a75018739",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://grnh.se/rhsp8q9h9us"
+},
+{
+"title": "Project Administrator",
+"company": "Racin Management Consulting Inc.",
+"location": "Red Deer, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=1a2096d6175a5fad",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/project-administrator-1a2096d6175a5fad"
+},
+{
+"title": "IT Support",
+"company": "BIMage Consulting Pte Ltd",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=a7a67f332df30e95",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careerspage.io/bimage-consulting/it-support-bi101?src=17"
+},
+{
+"title": "CONSEILLER EN ARCHITECTURE DE SOLUTIONS (CAS)",
+"company": "Gravity Conseil",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=309841b82bfff1a0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gravityconseil.fr/carrieres.php?id=yXueA6cNcPOIGmzu0V8nscOYd6FX3dQeHfKlw1BEbKQ",
+"french": true
+},
+{
+"title": "Release Train Engineer",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=94c9197085ea3d88",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.gdit.com/careers/job/93d508671/release-train-engineer/"
+},
+{
+"title": "Data Specialist",
+"company": "Lexington Law",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=fc6d58942008d4f8",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/data-specialist-fc6d58942008d4f8"
+},
+{
+"title": "TECHNICAL OFFICER",
+"company": "Manitoba Hydro",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=c79f03a92e0ae72a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUJBODBGNjI4ODcyQ0MzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN"
+},
+{
+"title": "Digital Tools Developer",
+"company": "Mount Royal University",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=7ac86045a0ce738b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://mtroyalca.hua.hrsmart.com/pm_module/cgi-bin/click.cgi?job_id=4207&site_id=148"
+},
+{
+"title": "Data Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=d1f21eccc53a4e55",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/data-engineer-d1f21eccc53a4e55"
+},
+{
+"title": "SAP Operations Clerk Part Time Day",
+"company": "Real Canadian Superstore",
+"location": "Whitehorse, YT, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f6666cb9c5c92999",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/sap-operations-clerk-part-time-day/job/R2000737427",
+"part_time": true
+},
+{
+"title": "L3 Technical Analyst",
+"company": "Odyssey Global",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=220b5fb48be3a39f",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/l3-technical-analyst-220b5fb48be3a39f",
+"french": true
+},
+{
+"title": "ACT - Piping Engineer",
+"company": "Aker Solutions",
+"location": "St. John's, NL, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=eaaba48fa3def7c6",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://www.akersolutions.com/careers/job-search?jobPostId=22043"
+},
+{
+"title": "CMM Programmer/Operator",
+"company": "Marwood International Inc",
+"location": "Tillsonburg, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=13ca0dfd6f6caf13",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://marwoodmetal.prevueaps.com/jobs/342135-8139.html"
+},
+{
+"title": "Network Specialist",
+"company": "Kwantlen Polytechnic University",
+"location": "Surrey, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=111b2ed04ec31a8b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=JT63GS&cws=37&rid=4876"
+},
+{
+"title": "Product Support Coordinator",
+"company": "Toromont Cat",
+"location": "Cambridge, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=34274a132a810165",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruiting.ultipro.ca/TOR5001TIL/JobBoard/24cbbe4b-86ee-4afa-9385-92863afdf1bd/OpportunityDetail?opportunityId=904f1984-4680-46fb-b48a-160223b9bb68&postingId=82e03429-120e-41cb-b720-0c69f4d8c848"
+},
+{
+"title": "Installation Technician",
+"company": "Novus Entertainment Inc",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=65a7bf8da0bdcb4e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.novusnow.ca/wp-content/uploads/2026/09/Installation-Technician-Job-Posting-2026.pdf?6803ee&6803ee"
+},
+{
+"title": "Full Stack Engineer",
+"company": "Launchstack",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=40c3c392ea5a0581",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/full-stack-engineer-40c3c392ea5a0581"
+},
+{
+"title": "Pega Developer",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=b21072dae3b4c709",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.gdit.com/careers/job/80581d38b/pega-developer/"
 },
 {
 "title": "4th Class Stationary Engineer, Data Centre Operations",
@@ -4337,7 +4436,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2110&BRID=1351880&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2110&BRID=1351878&sbdid=936"
 },
 {
 "title": "ETL QA Analyst",
@@ -4348,7 +4447,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1491&BRID=1351900&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1491&BRID=1351886&sbdid=936"
 },
 {
 "title": "ERP Data and Reporting Analyst (Departmental Data Analyst)",
@@ -6914,7 +7013,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNUALEFQJGEG3BEA%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNTANQ6QB3QRS6UQ%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -7503,7 +7602,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2115&BRID=1351980&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2115&BRID=1351987&sbdid=936&lang=2"
 },
 {
 "title": "MV Testing Technician",
@@ -7949,7 +8048,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T120412Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T140443Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464"
 },
 {
 "title": "Technicien informatique H/F",
@@ -7991,7 +8090,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619460&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513732-systems-administrator%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68fb98-e834-11f1-a7ec-15515de9bd7b%26rx_job%3D2619460%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T120412Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619460"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619460&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513732-systems-administrator%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68fb98-e834-11f1-a7ec-15515de9bd7b%26rx_job%3D2619460%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T140443Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619460"
 },
 {
 "title": "Clinical Quality & Risk Application Specialist",
@@ -9692,6 +9791,230 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4490724695",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Facility Technician",
+"company": "Johnson Controls",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493011095",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IBM Mainframe Certified Hardware Installation Engineer",
+"company": "Highview Consulting",
+"location": "Delta, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494050245",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Employee - Medical Imaging (Field: Sudbury, ON)",
+"company": "Philips",
+"location": "Greater Sudbury, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4477299347",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Operations Business Analyst",
+"company": "SAIC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=676660fb6bf9d3d3",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T140443Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491"
+},
+{
+"title": "Level 2 Help Desk Analyst",
+"company": "Global Technical Talent, an Inc. 5000 Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493004738",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Correctional Youth Security Officer II - Mount View Youth Services Center",
+"company": "State of Colorado",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=f6915d549aef5e11",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.governmentjobs.com/careers/colorado/jobs/5560569/correctional-youth-security-officer-ii-mount-view-youth-services-center"
+},
+{
+"title": "Correctional Youth Security Officer I - Mount View Youth Services Center",
+"company": "State of Colorado",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=b683e0104fbdf46c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.governmentjobs.com/careers/colorado/jobs/5559725/correctional-youth-security-officer-i-mount-view-youth-services-center"
+},
+{
+"title": "Data Visualization Specialist",
+"company": "SAIC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=479ad019441bd127",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619485&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515506-data-visualization-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79ad77-e888-11f1-acfa-c98ebe66deee%26rx_job%3D2619485%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T140443Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619485"
+},
+{
+"title": "Application Security Analyst",
+"company": "IKO North America",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4411189841",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel SAP SuccessFactors",
+"company": "Pomerleau",
+"location": "St-Georges, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4470226278",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP SuccessFactors Functional Analyst",
+"company": "Pomerleau",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4469990215",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste TI - Administrateur(rice) système",
+"company": "Cascades",
+"location": "Kingsey Falls, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4485767414",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Operations Analyst",
+"company": "SASCU",
+"location": "Salmon Arm, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4484628129",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst (Future Opportunities) - Healthcare",
+"company": "Mariner Innovations",
+"location": "New Brunswick, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493901970",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Biomanufacturing Quality Assurance (QA) Associate",
+"company": "Future Fields",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494422750",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Control & Validation Technician",
+"company": "SYNERGX Technologies",
+"location": "Laval, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494141718",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer (Services Team)",
+"company": "StackAdapt",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494155096",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer (Services Team)",
+"company": "StackAdapt",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494157031",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "business analyst, informatics",
+"company": "IMDS Software",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494135870",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Frontend Engineer",
+"company": "Wisedocs",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494366835",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste Fonctionnel Data",
+"company": "Highspring",
+"location": "Greater Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4490368031",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Engineer",
+"company": "TechDoQuest",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4492623352",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -13158,7 +13481,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351586&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351587&sbdid=936"
 },
 {
 "title": "Intermediate Administrator, Finance",
@@ -13248,7 +13571,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2092&BRID=1351590&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2092&BRID=1351604&sbdid=936"
 },
 {
 "title": "Concepteur(trice) en ingénierie de données",
@@ -13631,7 +13954,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351586&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1711&BRID=1351587&sbdid=936&lang=2"
 },
 {
 "title": "Audio/Video Technician",
@@ -16510,7 +16833,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2057&BRID=1351720&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2057&BRID=1351731&sbdid=936&lang=2"
 },
 {
 "title": "Support Services Asst I",
@@ -17253,7 +17576,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351749&sbdid=936",
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351738&sbdid=936",
 "french": true
 },
 {
@@ -17265,7 +17588,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351749&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351738&sbdid=936&lang=2"
 },
 {
 "title": "Business Analyst, Portfolio Management",
@@ -22063,6 +22386,36 @@
 "location": "Boucherville, Quebec, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4493921593",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Technician",
+"company": "Ecolab",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493942353",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Support Technician",
+"company": "ALTEN Canada",
+"location": "Brantford, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492620743",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intégrateur web/Intégratrice web",
+"company": "GO ROCK IT",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493698769",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
