@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T21:46:39+00:00",
+"updated": "2026-11-25T21:56:39+00:00",
 "jobs": [
 {
 "title": "AI Builder Intern/Co-op, May-August 2027",
@@ -3954,6 +3954,117 @@
 "country": "US",
 "years": 3,
 "apply": "https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=INSTITUTEDA&cws=39&rid=3850"
+},
+{
+"title": "Business Analyst",
+"company": "Province of Manitoba",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=27c06d03c624356d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://jobsearch.gov.mb.ca/jow/advancedResult.action?ID=130491"
+},
+{
+"title": "QA Automation Analyst",
+"company": "Tokio Marine Canada Ltd",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=07b47fce86cf3c99",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=78ee7926-30f3-4a63-b5f2-4e5a3021f8ff&ccId=9200428922381_2&jobId=619682&source=IN&lang=en_CA"
+},
+{
+"title": "Customer Success Coordinator",
+"company": "Smile Innovations Group",
+"location": "Mount Pearl, NL, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=6a4a32468ed18a56",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://smileinnovationsgroup.bamboohr.com/careers/230?source=indeed&src=indeed&postedDate=2026-11-25"
+},
+{
+"title": "Support Coach, Tier I",
+"company": "Unbounce",
+"location": "Remote, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=a79b759ed1adc7e6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://grnh.se/hxqzug8b8us"
+},
+{
+"title": "Data Science Analyst",
+"company": "WPP Media",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=085cc243874bdf11",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://grnh.se/d05cloit8us"
+},
+{
+"title": "Product Engineer II – ArcGIS Enterprise Patch",
+"company": "Esri",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=9773c2398b39a743",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://grnh.se/nfe2eqsw7us"
+},
+{
+"title": "Branch Operations Automation and AI Specialist",
+"company": "Libro Credit Union",
+"location": "London, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=821cc69197d74c06",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.libro.ca/default.aspx?REQ_ID=03737"
+},
+{
+"title": "Safety Systems Coordinator",
+"company": "Jazz Aviation LP",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=79f7f09ebf88a427",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://aviationcareers.ca/careersection/jobdetail.ftl?lang=en&job=TBD-2026-7200-012436",
+"french": true
+},
+{
+"title": "Machine Learning Engineer",
+"company": "Wawanesa Insurance",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=26076c545f0e4592",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.wawanesa.com/job/Toronto%2C-ON-%28Hybrid%29-Machine-Learning-Engineer-ON/608395317/"
+},
+{
+"title": "IACUC Analyst, Office of Research Support and Compliance",
+"company": "University of Texas at Austin",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=480297bfd2560719",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/IACUC-Analyst--Office-of-Research-Support-and-Compliance_R_00050177"
 },
 {
 "title": "AI Developer",
@@ -15719,6 +15830,156 @@
 "location": "Richmond, British Columbia, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4493040496",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Security Specialist - Cyber Incident Management",
+"company": "Sobeys",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494415261",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Security Specialist - Cyber Incident Management",
+"company": "Sobeys",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494407699",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System Administrator",
+"company": "Terra Dygital",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494722550",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IAM Analyst at Halifax, NS (Hybrid)",
+"company": "Zodiac Solutions, Inc",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493044620",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Platform Engineer",
+"company": "mthree",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493043646",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste DevOps",
+"company": "TMX Group",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486409177",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Engineering Designer",
+"company": "Raytheon",
+"location": "Midland, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4436949070",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Jr. AI Native Experience Designer",
+"company": "Valtech",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486454155",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Designer (UX/UI) - 6 months FTC",
+"company": "DEPT®",
+"location": "Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486407831",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Designer (UX/UI) - 6 months FTC",
+"company": "DEPT®",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486418314",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrateur système infonuagique - DevOps",
+"company": "Micrologic",
+"location": "Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494186672",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Developer (Front-End and Back-End) / JavaScript / UX",
+"company": "Intact",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494732010",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System Administrator",
+"company": "Terra Dygital",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494721613",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Software Developer",
+"company": "Engineered Intelligence",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4452620078",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Applications Developer, Workday",
+"company": "Robinhood",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4484608214",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
