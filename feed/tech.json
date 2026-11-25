@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T20:47:44+00:00",
+"updated": "2026-11-25T20:57:44+00:00",
 "jobs": [
 {
 "title": "Solutions Consultant, Commercial",
@@ -1066,7 +1066,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jobs.smartrecruiters.com/Averna1/744000163697043-test-equipment-planner-english-version-",
+"apply": "https://jobs.smartrecruiters.com/Averna1/744000163761248-test-equipment-planner-english-version-",
 "french": true
 },
 {
@@ -3430,6 +3430,277 @@
 "country": "US",
 "years": 2,
 "apply": "https://searchcareers.caci.com/careers/job/1443154765115"
+},
+{
+"title": "Restoration PMA / Administrator",
+"company": "Axicon Group Inc",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=151694a84483c01b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/restoration-pma-administrator-151694a84483c01b"
+},
+{
+"title": "IT Service Desk Technician",
+"company": "Chandos Construction",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f3d1b8d2b18840b4",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.smartrecruiters.com/Chandos/744000163759688-it-service-desk-technician"
+},
+{
+"title": "Client Support Specialist",
+"company": "Western University",
+"location": "London, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=80684b69ab2f899b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=45198&SiteId=1&PostingSeq=1"
+},
+{
+"title": "IT Intern",
+"company": "Gerdau",
+"location": "Whitby, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=753d0889f738dd95",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.gerdau.com/job/it-intern-whitby-l1n-5t1-67833?utm_source=direct&utm_medium=none&utm_campaign=careers-site"
+},
+{
+"title": "Intermediate Software Developer - Backend (Mobile Platform)",
+"company": "MEDFAR Solutions Cliniques",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=00657660fc027149",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.smartrecruiters.com/Medfar/744000163759408-intermediate-software-developer-backend-mobile-platform-",
+"french": true
+},
+{
+"title": "Full Stack Engineer",
+"company": "University of British Columbia",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=b6dff2938d46cf72",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Full-Stack-Engineer_JR26740",
+"part_time": true
+},
+{
+"title": "Firmware Design Developer",
+"company": "Fortinet",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=8b8d9612a9b66c20",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/25075"
+},
+{
+"title": "Business Analyst - Testing Focus",
+"company": "Vantix Systems Inc",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=371d624105f972a2",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.vantixsystems.com/2760/bh-286668-business-analyst-testing-focus/"
+},
+{
+"title": "Software Intern - Winter 2027",
+"company": "ABB",
+"location": "Dorval, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=d5f797e9044e828a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://abb.wd3.myworkdayjobs.com/en-CA/External_Career_Page/job/Dorval-Quebec-Canada/Software-Intern---Winter-2027_JR00053791?source=Indeed",
+"french": true
+},
+{
+"title": "Specialist, Security Operations Centre",
+"company": "Cogeco",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=cf9aa9b275494644",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://cogeco.wd3.myworkdayjobs.com/en-US/Cogeco_Careers/job/Montral-QC/Specialist--Security-Operations-Centre_JR10061",
+"french": true
+},
+{
+"title": "Security Platform Specialist",
+"company": "Sunlife",
+"location": "North York, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=d7390b0fce6b2681",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://sunlife.wd3.myworkdayjobs.com/fr-CA/Experienced-Jobs/job/North-York-Ontario/Security-Platform-Specialist_JR00130081"
+},
+{
+"title": "QA/Test Engineer — Governance Validation",
+"company": "",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=e7ebffc16ef31198",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/qatest-engineer-governance-validation-e7ebffc16ef31198",
+"part_time": true
+},
+{
+"title": "Technicienne ou technicien en informatique",
+"company": "Commission Scolaire de Portneuf",
+"location": "Donnacona, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=21efb49f03a067ad",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://cssportneuf.gouv.qc.ca/carrieres/technicienne-ou-technicien-en-informatique-2"
+},
+{
+"title": "Software Operations Specialist",
+"company": "CDW",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=75de980ad637f0e1",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://www.cdwjobs.com/en/jobs/18518015-software-operations-specialist?tm_job=R26%255F00003504&tm_event=view&tm_company=2376"
+},
+{
+"title": "Client Success Specialist",
+"company": "Ticketure LLC",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=ab6c051693a854ad",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.ashbyhq.com/ticketure/40a39de5-030f-4d79-b0bb-f3db52523f49?utm_source=gpZP6oMXNG"
+},
+{
+"title": "Help Desk Support Specialist | Network Solutions",
+"company": "CBIZ",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=b51488ba9d6383f7",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/6708"
+},
+{
+"title": "Quality Assurance Inspector",
+"company": "Manterra Technologies Inc.",
+"location": "Delta, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f962d0b7629d9ac0",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/quality-assurance-inspector-f962d0b7629d9ac0"
+},
+{
+"title": "Data Analyst II - Dept. of Surgery MGH",
+"company": "Massachusetts General Hospital",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=b60fe5ab8bf56073",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/60-Blossom-Street-Boston-Wellman-Thier-Building/Data-Analyst-II---Dept-of-Surgery-MGH_RQ4087593",
+"part_time": true
+},
+{
+"title": "Hospital Chargemaster Data Analyst (FT/REMOTE) (Perm. Work Status Req'd)",
+"company": "CorroHealth",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=4e683a0de1244b16",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://corrohealth.wd1.myworkdayjobs.com/Corro/job/US---Remote/Hospital-Chargemaster-Data-Analyst--FT-REMOTE---Perm-Work-Status-Req-d-_JR106581"
+},
+{
+"title": "Leak QA Analyst",
+"company": "DarkOwl",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=8663992a690c1597",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.gusto.com/postings/darkowl-leak-qa-analyst-97c408a3-1dac-452e-84a4-5e2502245a5c"
+},
+{
+"title": "Software Developer – ColdFusion and Database Development - Digital Inspections",
+"company": "Management & Engineering Services, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=ad7b33e5de054e69",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-developer-coldfusion-and-database-development-digital-inspections-ad7b33e5de054e69"
+},
+{
+"title": "ServiceNow FSM UX/UI Consultant",
+"company": "Cognizant",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=b8c976ce0e6cef56",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071274501/servicenow-fsm-uxui-consultant/"
+},
+{
+"title": "Solutions Consultant",
+"company": "Ontic",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=3c4d5a15e3192cae",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://jobs.ashbyhq.com/Ontic/f5826b30-cb22-484e-8f80-1a25a114126e?utm_source=6GRKn8V7nv"
+},
+{
+"title": "Développeur",
+"company": "Pharmascience",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=02dbe80012ffb679",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruiting.ultipro.ca/PHA5000/JobBoard/a8577a20-7714-da6f-8984-8fbc8d1138f7/OpportunityDetail?opportunityId=27089907-fcb8-4cd1-9f53-84c5f7c990bc&postingId=600d1eaf-9e9c-4271-9094-59171d671d28",
+"french": true
 },
 {
 "title": "AI Developer",
@@ -14965,6 +15236,106 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4469988233",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Analyst (Supply Chain)",
+"company": "Tecsys Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494379480",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Entry Level QA (Bilingual in french)",
+"company": "KTek Resourcing",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494412143",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Associate / Entry level (QA)",
+"company": "VDart",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494713091",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "French IT Support Analyst",
+"company": "Insight Global",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494721313",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Growth and CRM Analyst",
+"company": "AppLovin",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4488825271",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Database Engineer(Stored Procedures and Spark)",
+"company": "Wissen Technology",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494188152",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "REMOTE Sales Data Engineer/ Analyst (Canada)",
+"company": "Insight Global",
+"location": "(remote)",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494382310",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps",
+"company": "OPAL-RT TECHNOLOGIES",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493234635",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Full Stack Developer",
+"company": "Capgemini",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494719500",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Developer",
+"company": "Themesoft Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494418187",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
