@@ -1,71 +1,17 @@
 {
-"updated": "2026-11-25T03:41:47+00:00",
+"updated": "2026-11-25T03:51:47+00:00",
 "jobs": [
 {
-"title": "Network Automation Engineer – Python & AI",
-"company": "Xideral",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=54c85c5309139449",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://xideral.recruiterbox.com/jobs/fk0zarp?fjb_hash=ezLpq610"
-},
-{
-"title": "Pest Control Technician",
-"company": "Progressive Pest Management",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
-},
-{
-"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
-"company": "Smoking Gun Interactive",
-"location": "Quebec City, QC, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://apply.workable.com/j/0B031D313A"
-},
-{
-"title": "Customer Success Associate",
-"company": "iEnergizer",
+"title": "Remote Support Engineer",
+"company": "The Exceptional Foundation",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
+"link": "https://www.indeed.com/viewjob?jk=a663877ac3742e28",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
-},
-{
-"title": "Software Developer – Medical Device Software",
-"company": "",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
-},
-{
-"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
-"company": "Royal Academy",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
+"apply": "https://join.com/companies/exceptionalfoundationorg/16984759-remote-support-engineer?pid=a13795120131dbe48464",
+"part_time": true
 },
 {
 "title": "NOC 74203 Lubrication Technician - automotive service and repair",
@@ -79,16 +25,70 @@
 "apply": "http://ca.indeed.com/job/noc-74203-lubrication-technician-automotive-service-and-repair-15a2a5e7dada8c23"
 },
 {
-"title": "Remote Support Engineer",
-"company": "The Exceptional Foundation",
+"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
+"company": "Royal Academy",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
+},
+{
+"title": "Software Developer – Medical Device Software",
+"company": "",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
+},
+{
+"title": "Customer Success Associate",
+"company": "iEnergizer",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=a663877ac3742e28",
+"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://join.com/companies/exceptionalfoundationorg/16984759-remote-support-engineer?pid=a13795120131dbe48464",
-"part_time": true
+"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
+},
+{
+"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
+"company": "Smoking Gun Interactive",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/0B031D313A"
+},
+{
+"title": "Pest Control Technician",
+"company": "Progressive Pest Management",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
+},
+{
+"title": "Network Automation Engineer – Python & AI",
+"company": "Xideral",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=54c85c5309139449",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://xideral.recruiterbox.com/jobs/fk0zarp?fjb_hash=ezLpq610"
 },
 {
 "title": "Associate, Technical Support",
