@@ -1,27 +1,103 @@
 {
-"updated": "2026-11-25T04:31:47+00:00",
+"updated": "2026-11-25T04:41:46+00:00",
 "jobs": [
 {
-"title": "Data Analyst",
+"title": "ServiceNow ITAM / HAM Consultant (Remote)",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=18d859b0b51f5808",
+"link": "https://www.indeed.com/viewjob?jk=f77c56cd6cb2b6da",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/servicenow-itam-ham-consultant-remote-f77c56cd6cb2b6da"
+},
+{
+"title": "Information Security Operations Engineer",
+"company": "HOOPP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Information-Security-Operations-Engineer_JR102631",
+"source": "HOOPP careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Network Automation Engineer – Python & AI",
+"company": "Xideral",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=54c85c5309139449",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://xideral.recruiterbox.com/jobs/fk0zarp?fjb_hash=ezLpq610"
+},
+{
+"title": "Pest Control Technician",
+"company": "Progressive Pest Management",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
+},
+{
+"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
+"company": "Smoking Gun Interactive",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/0B031D313A"
+},
+{
+"title": "Customer Success Associate",
+"company": "iEnergizer",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/data-analyst-18d859b0b51f5808"
+"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
 },
 {
-"title": "ECAM - Commercial fixed Security account executive - Vancouver - 75k+com",
-"company": "GardaWorld",
-"location": "Vancouver, BC, CA",
+"title": "Software Developer – Medical Device Software",
+"company": "",
+"location": "Montréal, QC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=77f8edbeeb422e07",
+"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
 "source": "Indeed",
 "country": "CA",
-"years": 4,
-"apply": "https://career4.successfactors.com/career?company=garda&career_ns=job_listing&career_job_req_id=251609&lang=en_US&jobPipeline=Indeed"
+"years": 2,
+"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
+},
+{
+"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
+"company": "Royal Academy",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
+},
+{
+"title": "NOC 74203 Lubrication Technician - automotive service and repair",
+"company": "Admiral Immigration Solutions",
+"location": "Scotsburn, NS, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=15a2a5e7dada8c23",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/noc-74203-lubrication-technician-automotive-service-and-repair-15a2a5e7dada8c23"
 },
 {
 "title": "Remote Support Engineer",
@@ -36,102 +112,26 @@
 "part_time": true
 },
 {
-"title": "NOC 74203 Lubrication Technician - automotive service and repair",
-"company": "Admiral Immigration Solutions",
-"location": "Scotsburn, NS, CA",
+"title": "ECAM - Commercial fixed Security account executive - Vancouver - 75k+com",
+"company": "GardaWorld",
+"location": "Vancouver, BC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=15a2a5e7dada8c23",
+"link": "https://ca.indeed.com/viewjob?jk=77f8edbeeb422e07",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/noc-74203-lubrication-technician-automotive-service-and-repair-15a2a5e7dada8c23"
+"years": 4,
+"apply": "https://career4.successfactors.com/career?company=garda&career_ns=job_listing&career_job_req_id=251609&lang=en_US&jobPipeline=Indeed"
 },
 {
-"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
-"company": "Royal Academy",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d"
-},
-{
-"title": "Software Developer – Medical Device Software",
-"company": "",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=2427549997fa963b",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/software-developer-medical-device-software-2427549997fa963b"
-},
-{
-"title": "Customer Success Associate",
-"company": "iEnergizer",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=8f06553ec3ff658b",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/customer-success-associate-8f06553ec3ff658b"
-},
-{
-"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
-"company": "Smoking Gun Interactive",
-"location": "Quebec City, QC, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ffaffa9a4a94900a",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://apply.workable.com/j/0B031D313A"
-},
-{
-"title": "Pest Control Technician",
-"company": "Progressive Pest Management",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=ac9c22f58e434ab4",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/pest-control-technician-ac9c22f58e434ab4"
-},
-{
-"title": "Network Automation Engineer – Python & AI",
-"company": "Xideral",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=54c85c5309139449",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://xideral.recruiterbox.com/jobs/fk0zarp?fjb_hash=ezLpq610"
-},
-{
-"title": "Information Security Operations Engineer",
-"company": "HOOPP",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-25",
-"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Information-Security-Operations-Engineer_JR102631",
-"source": "HOOPP careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "ServiceNow ITAM / HAM Consultant (Remote)",
+"title": "Data Analyst",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=f77c56cd6cb2b6da",
+"link": "https://www.indeed.com/viewjob?jk=18d859b0b51f5808",
 "source": "Indeed",
 "country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/servicenow-itam-ham-consultant-remote-f77c56cd6cb2b6da"
+"years": null,
+"apply": "http://www.indeed.com/job/data-analyst-18d859b0b51f5808"
 },
 {
 "title": "Associate, Technical Support",
