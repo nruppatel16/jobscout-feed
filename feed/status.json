@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-25T12:39:12+00:00",
+ "updated": "2026-11-25T12:49:12+00:00",
  "mode": "quick",
  "last_full": "2026-11-25T12:29:12+00:00",
  "searches_run": {
   "Tech company boards": 129,
-  "Employer boards": 77,
-  "Employer career sites": 54
+  "Employer career sites": 54,
+  "Employer boards": 77
  },
  "found_this_run": {
   "Tech company boards": 93,
-  "Employer boards": 83,
-  "Employer career sites": 128
+  "Employer career sites": 129,
+  "Employer boards": 80
  },
- "in_feed": 2317,
+ "in_feed": 2318,
  "us_remote_in_feed": 616,
  "quebec_in_feed": 411,
  "french_in_feed": 60,
  "part_time_in_feed": 62,
- "with_years": 879,
+ "with_years": 880,
  "jobbank_postings_opened": 0,
  "alerts_sent": 0,
  "zero_streak": {
@@ -28,5 +28,5 @@
   "Employer boards": 0,
   "Tech company boards": 0
  },
- "seconds": 17
+ "seconds": 16
 }
