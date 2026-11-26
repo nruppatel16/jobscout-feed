@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T02:35:49+00:00",
+"updated": "2026-11-26T02:45:49+00:00",
 "jobs": [
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
-},
-{
-"title": "Security and Compliance Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
-"posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/h9g2gw651us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Smart Home AV Programmer",
@@ -35,15 +24,26 @@
 "apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
 },
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Security and Compliance Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
+"apply": "https://grnh.se/h9g2gw651us"
+},
+{
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -31510,16 +31510,6 @@
 "posted": "2026-11-23T08:00:00+00:00",
 "link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Directeur-ou-directrice%2C-Oracle-Field-Service-ON-M5H-0A9/1414244700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Deloitte careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Cloud Applications Consultant",
-"company": "OpenText",
-"location": "Waterloo, Ontario, CAN",
-"posted": "2026-11-23T02:37:06+00:00",
-"link": "https://careers.opentext.com/us/en/job/OPJOPEUS54319EXTERNALENUS",
-"source": "OpenText careers",
 "country": "CA",
 "years": null
 }
