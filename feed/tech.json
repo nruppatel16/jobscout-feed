@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T03:15:50+00:00",
+"updated": "2026-11-26T03:25:49+00:00",
 "jobs": [
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
-},
-{
-"title": "Security and Compliance Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
-"posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/h9g2gw651us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Smart Home AV Programmer",
@@ -35,15 +24,26 @@
 "apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
 },
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Security and Compliance Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
+"apply": "https://grnh.se/h9g2gw651us"
+},
+{
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -5730,6 +5730,47 @@
 "country": "CA",
 "years": 3,
 "apply": "https://leggett.com/careers/search?posting=36744"
+},
+{
+"title": "ECE IT/SN",
+"company": "",
+"location": "Dawson Creek, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=c632ac6ea6eb1881",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ece-itsn-c632ac6ea6eb1881"
+},
+{
+"title": "Coordonnateur de livraison TI",
+"company": "COFOMO",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494439922",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Clinical Informatics Analyst II",
+"company": "Interior Health Authority",
+"location": "Kelowna, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494465301",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Developer",
+"company": "Brunel",
+"location": "Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4483633994",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "AI Developer",
@@ -12068,7 +12109,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNUAG76Y4BUM6NKA%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNUE32ZGXUC7KQUA%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -18898,6 +18939,16 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4493052325",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer",
+"company": "Apex Systems",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494189279",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
