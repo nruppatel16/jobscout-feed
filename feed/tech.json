@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T01:16:38+00:00",
+"updated": "2026-11-26T01:26:38+00:00",
 "jobs": [
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
-},
-{
-"title": "Security and Compliance Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
-"posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/h9g2gw651us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Smart Home AV Programmer",
@@ -35,15 +24,26 @@
 "apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
 },
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Security and Compliance Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
+"apply": "https://grnh.se/h9g2gw651us"
+},
+{
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Engineer, Ethernet Enablement",
@@ -358,15 +358,15 @@
 "apply": "https://ats.rippling.com/athennian/jobs/5a027783-4a67-4a71-9719-4f002ca01e18?jobSite=Indeed"
 },
 {
-"title": "Computer Systems Specialist",
+"title": "Computer Systems Specialist - Genome Sciences Centre - Vancouver",
 "company": "Provincial Health Services Authority (PHSA)",
-"location": "Vancouver, BC, CA",
+"location": "Vancouver, BC, CA (remote)",
 "posted": "2026-11-25",
 "link": "https://ca.indeed.com/viewjob?jk=f31fe8d0c9cc75bc",
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://jobs.phsa.ca/job/computer-systems-specialist"
+"apply": "https://jobs.phsa.ca/job/computer-systems-specialist-genome-sciences-centre-vancouver"
 },
 {
 "title": "Python Software Engineer",
@@ -5404,6 +5404,141 @@
 "location": "Saint John, New Brunswick, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494451716",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Facilities Engineer",
+"company": "Canadian Natural",
+"location": "Lac La Biche, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=d96d2e4020d1e644",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://ehaa.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2424361"
+},
+{
+"title": "Analyste, sécurité et données I – Processus de gestion des identités et des accès",
+"company": "Intact",
+"location": "Sherbrooke, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=3a3d8935e4671a16",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/analyste-sécurité-et-données-i-processus-de-gestion-des-identités-et-des-accès/job/R156800"
+},
+{
+"title": "QA Engineer, Quality Ambassador",
+"company": "QUO",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=d0fa00a47734fc02",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.ashbyhq.com/quo/7cc76968-16f1-4aca-836e-ec1681440fe9"
+},
+{
+"title": "Cybersecurity Engineer",
+"company": "Middlesex Savings",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=511f4d702fa2f93b",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs-middlesexsavings.icims.com/jobs/5890/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Information System Security Engineer (ISSE)",
+"company": "Trinzic",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=fbf9d956ea852427",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.trinzic.com/us/en/job/R3001854"
+},
+{
+"title": "Spécialiste DevOps (Intermédiaire)",
+"company": "Groupe SII",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494455223",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI LLM Analyst",
+"company": "Accenture",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4481166520",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Cyber Security Specialist - Vulnerability Management Operations",
+"company": "Sonova Group",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494449310",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Consultant II",
+"company": "TELUS",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494763445",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Database Administrator",
+"company": "SteerBridge",
+"location": "Cherry Point, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494464206",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst (HCM Platform)",
+"company": "Matrix USA",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494442873",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Engineer REQ_195",
+"company": "3Pillar",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494449389",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network and Infrastructure Security Specialist",
+"company": "Maplesoft Group, an SEB Company",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494451640",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -11745,7 +11880,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNQLYEG4HHN3T5WA%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNQVATV7GNJFQZWQ%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -18285,6 +18420,126 @@
 "location": "New Brunswick, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4486059762",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer FCC",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4354094258",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Founding Full-Stack Engineer",
+"company": "Alori",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494154049",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(se) DevSecOps",
+"company": "Wepoint",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494742506",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Operations Engineer – Azure AKS Terraform (36170)",
+"company": "Myticas Consulting",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494740630",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineering I",
+"company": "Loblaw Companies Limited",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494445276",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Adobe Site Reliability Engineer",
+"company": "Apptoza Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493063204",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Directeur Cybersécurité",
+"company": "Agropur",
+"location": "St-Hubert, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4433101103",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "BI Engineer",
+"company": "OPENLANE",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486762976",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cube Developer – Power BI",
+"company": "Precision Technologies",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494726648",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Workday Developer",
+"company": "Telesat",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486466508",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Associate / Entry level (QA)",
+"company": "W3Global",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494714484",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494745293",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
