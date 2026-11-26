@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T18:41:56+00:00",
+"updated": "2026-11-26T18:51:55+00:00",
 "jobs": [
 {
 "title": "Business Operations Analyst, Facilities Management Division",
@@ -12,6 +12,26 @@
 "years": 5,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
 "french": true
+},
+{
+"title": "Product Engineer - Ads Bidding",
+"company": "Faire",
+"location": "Toronto, ON",
+"posted": "2026-11-26T13:50:50-05:00",
+"link": "https://boards.greenhouse.io/faire/jobs/8963694002?gh_jid=8963694002",
+"source": "Faire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineer",
+"company": "KPMG",
+"location": "Vaughan, Canada",
+"posted": "2026-11-26T18:50:00+00:00",
+"link": "https://careers.kpmg.ca/jobs/38743?lang=en-us",
+"source": "KPMG careers",
+"country": "CA",
+"years": 3
 },
 {
 "title": "Technical Solutions Consultant - 12 Month Term",
@@ -1472,6 +1492,138 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/technicien-erp-3147372311eb4c1c"
+},
+{
+"title": "Clerical Assistant, Pacific Institute for the Mathematical Sciences Site Administrator",
+"company": "University of Saskatchewan",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=9c1ccc9101a9bbea",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://usask.csod.com/ux/ats/careersite/14/home/requisition/15813?c=usask"
+},
+{
+"title": "Founding Developer",
+"company": "",
+"location": "Charlottetown, PE, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=58c2694cf6405515",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/founding-developer-58c2694cf6405515"
+},
+{
+"title": "Software Engineer II, Backend (Test Infra)",
+"company": "Affirm",
+"location": "Remote, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=a240d54f9be1adc1",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/1e7fre6w3us"
+},
+{
+"title": "Platform Consultant",
+"company": "Ataccama",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=03b026955458ad35",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.lever.co/ataccama/74860d33-c6a4-4018-8123-87d4636de1e9?lever-source=Indeed"
+},
+{
+"title": "Reporting & Data Analyst",
+"company": "Strike Group",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=898b6e17f222fde1",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://www.strikegroup.ca/careers/job-description?gnk=job&gni=8a7887a8a1f5f44e01a21847b36e5e42&gns=Indeed+Free"
+},
+{
+"title": "Sales Operations Analyst",
+"company": "Metergy Solutions",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=1accf0e4b4475082",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.lever.co/metergysolutions/4afdd3e6-47bd-4592-81f9-40e17c9ded2b?lever-source=Indeed"
+},
+{
+"title": "Software engineer",
+"company": "Tech Forge",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50809011",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Providence Classical Christian School",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=29428741efc4f648",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://join.com/companies/pccsorg/16991119-business-analyst?pid=a13795120131dbe48464",
+"part_time": true
+},
+{
+"title": "Field Service Engineer",
+"company": "NCR Atleos",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=11f3684195481bf9",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/INDIA-VIRTUAL-IND/Field-Service-Engineer_R1155494"
+},
+{
+"title": "Auditor, QA (Contract Role)",
+"company": "Apotex",
+"location": "Brantford, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=c0d86cd1b153ae13",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.apotex.com/job/Brantford-Auditor%2C-QA-%28Contract-Role%29-ON-N3T-6B8/608421317/"
+},
+{
+"title": "Service Labour-Technician",
+"company": "Forum Energy Technologies",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=16e580d44152a73d",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruiting.ultipro.com/FOR1013FET/JobBoard/ef7c2aa4-79a3-4d81-8101-e9c85075c8e5/OpportunityDetail?opportunityId=8d118b91-56c4-4356-898c-c9368a136e7a&postingId=40ca6d87-0c5e-4fda-9a45-b85bc0e79783"
+},
+{
+"title": "Mobile Financial Service Representative",
+"company": "CIBC",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=ac9b6c1b26f6e2b7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Burnaby-BC/Mobile-Financial-Service-Representative_2624715"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -11136,6 +11288,256 @@
 "years": null
 },
 {
+"title": "Analyste, sécurité et données I – Processus de gestion des identités et des accès",
+"company": "Intact",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494956191",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Onbase Developer (Canada)",
+"company": "XChange Software Inc",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494914852",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien·ne, analyse et exploitation des données",
+"company": "Jean Coutu",
+"location": "Varennes, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4491938724",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Engineer",
+"company": "DART Aerospace",
+"location": "Kirkland, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4484570297",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Representative / Agronomic Technical Consultant",
+"company": "Timac Agro Canada",
+"location": "Niagara, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494635877",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst FCC",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4485529078",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical System Analyst with Asset and Wealth management",
+"company": "Zodiac Solutions, Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493444756",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Business Systems Analyst",
+"company": "JD Power",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494685425",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Business Analyst",
+"company": "BMO",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4479096768",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Database Administrator",
+"company": "Sunwing",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493447212",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SQL Database Administrator",
+"company": "CloudVital",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494941651",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oracle Database Administrator",
+"company": "Yochana",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494943199",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate, AI Engineer",
+"company": "BMO Capital Markets",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494654967",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Founding AI Research Engineer",
+"company": "Jobverse.io",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494634615",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java, Angular Engineer REQ_181",
+"company": "3Pillar",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494687110",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Business Analyst",
+"company": "Zodiac Solutions, Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493444752",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant - CRM Financial Services",
+"company": "Deloitte",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4470648987",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Support Specialist",
+"company": "Modern Niagara",
+"location": "Leduc, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494678424",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Systems Analyst (12 month contract)",
+"company": "Ontario Teachers' Pension Plan",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4461071462",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste des solutions de données",
+"company": "Ovivo",
+"location": "Sherbrooke, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4479511716",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant - Data Analytics",
+"company": "Turner & Townsend",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494934965",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur I - BI Databricks",
+"company": "Hydro Québec",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493597962",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Insights & Analytics Associate – Global Markets",
+"company": "AXIS (AXIS Capital)",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494928704",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste en infrastructure réseau",
+"company": "Canam",
+"location": "Boucherville, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494915732",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Systems & Network Technician (Level 2)",
+"company": "VUE IT INC",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494926741",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -15169,7 +15571,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Physician-Coder-CQA-Ambulatory_R4451814"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3417&rx_jobId=R4451814&rx_url=https%3A%2F%2Fbannerhealth.wd108.myworkdayjobs.com%2FCareers%2Fjob%2FRemote-Arizona%2FPhysician-Coder-CQA-Ambulatory_R4451814%3Frx_cid%3D3417%26rx_id%3D54dae5ee-be09-11f1-8f7f-63b9c7dcd93b%26rx_job%3DR4451814%26rx_source%3Dindeed"
 },
 {
 "title": "Ingénieur d’applications NX CAD",
@@ -24967,6 +25369,16 @@
 "years": null
 },
 {
+"title": "PeopleSoft Administrator",
+"company": "Pacer Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493037815",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Strategic Finance Analyst II - AI & Data Systems",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -25256,16 +25668,6 @@
 "link": "https://job-boards.greenhouse.io/tenstorrent/jobs/5293993007",
 "source": "Tenstorrent careers",
 "country": "CA",
-"years": null
-},
-{
-"title": "Software Engineer II, Consumer",
-"company": "Toast",
-"location": "Remote · United States",
-"posted": "2026-11-23T13:54:42-05:00",
-"link": "https://careers.toasttab.com/jobs?gh_jid=8164283",
-"source": "Toast careers",
-"country": "US",
 "years": null
 }
 ]
