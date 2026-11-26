@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T02:16:38+00:00",
+"updated": "2026-11-26T02:26:38+00:00",
 "jobs": [
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
-},
-{
-"title": "Security and Compliance Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
-"posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/h9g2gw651us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Smart Home AV Programmer",
@@ -35,15 +24,26 @@
 "apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
 },
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Security and Compliance Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
+"apply": "https://grnh.se/h9g2gw651us"
+},
+{
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -5680,6 +5680,47 @@
 "years": null
 },
 {
+"title": "Scrum Master",
+"company": "Euna Solutions",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494455197",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Traffic Signals Engineer in Training (EIT)",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=e0a823a86001889a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56412&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Analyste informatique - UIPATH",
+"company": "Hydro Québec",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494717664",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste-développeur, données, automatisation et intelligence artificielle",
+"company": "Pulsar - Opérations et maintenance du REM",
+"location": "Brossard, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494465148",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -9449,7 +9490,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2110&BRID=1351880&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2110&BRID=1351878&sbdid=936"
 },
 {
 "title": "ETL QA Analyst",
@@ -9460,7 +9501,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1491&BRID=1351900&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1491&BRID=1351886&sbdid=936"
 },
 {
 "title": "ERP Data and Reporting Analyst (Departmental Data Analyst)",
@@ -12016,7 +12057,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNQVATV7GNJFQZWQ%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNUAG76Y4BUM6NKA%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -12605,7 +12646,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2115&BRID=1351980&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2115&BRID=1351987&sbdid=936&lang=2"
 },
 {
 "title": "MV Testing Technician",
@@ -13947,7 +13988,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01888867&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01888867%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3D0512a165-e835-11f1-aaf0-f1137f2b134e%26rx_job%3D01888867%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T220416Z%26rx_vp%3Dcpc"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01888867&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01888867%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3D0512a165-e835-11f1-aaf0-f1137f2b134e%26rx_job%3D01888867%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T020414Z%26rx_vp%3Dcpc"
 },
 {
 "title": "Cloud Engineer Intern",
@@ -14826,7 +14867,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T000403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T020402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491"
 },
 {
 "title": "Level 2 Help Desk Analyst",
@@ -18766,6 +18807,76 @@
 "location": "Greater Toronto Area, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4494402866",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scrum Master",
+"company": "Hays",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494423068",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Agile Coach",
+"company": "CIBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494184526",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation and Monitoring Developer",
+"company": "UST",
+"location": "Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493058248",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst (AI and Automation)",
+"company": "Hypertec Group",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494413378",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Analyst",
+"company": "Quarry Consulting",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494431144",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Founding Engineer",
+"company": "3Y Health",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493973767",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "FinOps Specialist – Multi-Vendor Data & Cost Analytics",
+"company": "Akkodis",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4483644754",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -26348,7 +26459,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351749&sbdid=936",
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351738&sbdid=936",
 "french": true
 },
 {
@@ -26360,7 +26471,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351749&sbdid=936&lang=2"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2088&BRID=1351738&sbdid=936&lang=2"
 },
 {
 "title": "Business Analyst, Portfolio Management",
