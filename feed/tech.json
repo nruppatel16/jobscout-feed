@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T04:45:50+00:00",
+"updated": "2026-11-26T04:55:49+00:00",
 "jobs": [
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
-},
-{
-"title": "Smart Home AV Programmer",
-"company": "FM Audio Video",
-"location": "Brantford, ON, CA (remote)",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Security and Compliance Internship - Summer 2027",
@@ -35,15 +24,26 @@
 "apply": "https://grnh.se/h9g2gw651us"
 },
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "Smart Home AV Programmer",
+"company": "FM Audio Video",
+"location": "Brantford, ON, CA (remote)",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+},
+{
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"source": "Indeed",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -4464,7 +4464,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/uBstbOd8plnxyWLbgwwHZXzr6bhDi1ni3hth7iAyBWU#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/G-UX3SOoZgLDtUmJ0MORIZIVPd0NuEEwQSRhB01a9yY#.job_boards.Indeed"
 },
 {
 "title": "SAS Data Valorization Analyst",
@@ -4509,7 +4509,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/wv-NzTfnBrlGk8asi3hntIw8m1LcUEtp4w3zAY-2UZY#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/e7q6dUXP0jQnAzsis77MFuVGq1CNk0Z5kEXs8CVWzeI#.job_boards.Indeed"
 },
 {
 "title": "Information Management System Admin Support Specialist (SDx/SPF)",
@@ -5871,8 +5871,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50805531",
 "source": "Job Bank",
 "country": "CA",
-"years": 3,
-"part_time": true
+"years": 3
 },
 {
 "title": "Production Technician - Packaging",
@@ -5891,6 +5890,26 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494477395",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "UX Designer | Concepteur(-trice) de l’expérience utilisateur",
+"company": "Smoking Gun Interactive Inc.",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494448563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Analyst - Intermediate",
+"company": "Joblinxsapp",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494941235",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -13341,7 +13360,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/31pBUs7MEDOS_TPa18tVpO5qB9DkgPfmdnJeDHnx2S4#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/HBcoXdqMGm0UBUr08DwM9M4ZfigL2GKYxP3CPDjZGpU#.job_boards.Indeed"
 },
 {
 "title": "Analyste-développeur, données, automatisation et intelligence artificielle",
@@ -15750,7 +15769,7 @@
 },
 {
 "title": "Data Engineering Intern",
-"company": "e-STORAGE",
+"company": "Canadian Solar Inc.",
 "location": "Kitchener, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4491616881",
