@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T21:41:56+00:00",
+"updated": "2026-11-26T21:51:55+00:00",
 "jobs": [
 {
 "title": "Business Operations Analyst, Facilities Management Division",
@@ -2371,6 +2371,129 @@
 "country": "US",
 "years": 1,
 "apply": "https://www.usajobs.gov:443/job/894294700"
+},
+{
+"title": "GIS Analyst",
+"company": "Aurora Geosciences Ltd.",
+"location": "Yellowknife, NT, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=ed2cea4ecdfdc461",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.aurorageosciences.com/careers/104002-aurorageosciencescom/jobs/16876700-GIS-Analyst/?ref=Indeed"
+},
+{
+"title": "Courseware Developer",
+"company": "University of Niagara Falls Canada",
+"location": "Niagara Falls, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=dc1a0b4f3ac2d370",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3b66c1f0-8cf2-4998-bb48-8075d65af718&ccId=19000101_000001&jobId=578029&source=IN&lang=en_CA"
+},
+{
+"title": "Field Technician",
+"company": "Katch Kan",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=f39411a116fce602",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://katchkan.bamboohr.com/careers/220?source=indeed&src=indeed&postedDate=2026-11-26"
+},
+{
+"title": "Manufacturing Systems Developer",
+"company": "Air Wise Sales Inc.",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=a520dd831920de7f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://airwisesales.bamboohr.com/careers/60?source=indeed&src=indeed&postedDate=2026-11-26"
+},
+{
+"title": "IT Specialist L3",
+"company": "MSP Corp.",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=72c93078d138ed21",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3575258e-29a5-432c-b26d-7e54e6801bc7&ccId=19000101_000001&jobId=1012520&source=IN&lang=en_CA"
+},
+{
+"title": "Développeur C# (Applications Desktop)",
+"company": "EASi Engineering",
+"location": "Brossard, QC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=22f5a8295ff24495",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/d%C3%A9veloppeur-c-applications-desktop-22f5a8295ff24495",
+"french": true
+},
+{
+"title": "Spécialiste, Relations avec la communauté de développement / /DevRel Specialist",
+"company": "MILA - Institut québécois d'intelligence artificielle",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=c0a6679554465d34",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.workable.com/j/064A1B893A"
+},
+{
+"title": "GIS Data Technician",
+"company": "Encepta",
+"location": "Burnaby, BC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=d275263adc2597b5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://encepta.bamboohr.com/careers/181?source=indeed&src=indeed&postedDate=2026-11-26"
+},
+{
+"title": "Quality Assurance Technician - SK",
+"company": "Infra Pipe Solutions Ltd",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=f05175776c12e0f1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://infra-pipe-solutions.breezy.hr/p/69a9b4f61570-quality-assurance-technician-sk"
+},
+{
+"title": "Front End Clerk - Part Time",
+"company": "Metro",
+"location": "Guelph, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=b5e9cb4bccc7767f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://api17.sapsf.com/career?company=metro&career_ns=job_listing&career_job_req_id=50746&lang=en_GB&jobPipeline=Indeed",
+"part_time": true
+},
+{
+"title": "Analyste valorisation données",
+"company": "Dempton Groupe Conseil",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=3fd617bdee1da12d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://dempton.com/poste/analyste-valorisation-donnees-254107/"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -5447,7 +5570,7 @@
 "apply": "http://ca.indeed.com/job/intermediate-engineer-f24c69dd61e70ec0"
 },
 {
-"title": "Robotics Generalist Designer and Fabricator",
+"title": "Robotics Generalist",
 "company": "CSR - Confined Space Robotics",
 "location": "Nisku, AB, CA",
 "posted": "2026-11-25",
@@ -5455,7 +5578,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "http://ca.indeed.com/job/robotics-generalist-designer-and-fabricator-6c4555255aa89135"
+"apply": "http://ca.indeed.com/job/robotics-generalist-6c4555255aa89135"
 },
 {
 "title": "CSV Systems Specialist",
@@ -13513,6 +13636,46 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494957346",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Infrastructure Systems Administrator",
+"company": "MEDFAR",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4490806497",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technology Management",
+"company": "Axelon Services Corporation",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494933389",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Fullstack AI Python / React | Full Stack AI Python / React Developer",
+"company": "Astek",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494949736",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Service & Support Engineer",
+"company": "ICT Services",
+"location": "Engineer, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494689871",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -24229,16 +24392,6 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4493044039",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Infrastructure Systems Administrator",
-"company": "MEDFAR",
-"location": "Montreal, Quebec, Canada",
-"posted": "2026-11-24",
-"link": "https://www.linkedin.com/jobs/view/4490806497",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
