@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T01:46:39+00:00",
+"updated": "2026-11-26T01:56:38+00:00",
 "jobs": [
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
-},
-{
-"title": "Smart Home AV Programmer",
-"company": "FM Audio Video",
-"location": "Brantford, ON, CA (remote)",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Security and Compliance Internship - Summer 2027",
@@ -35,15 +24,26 @@
 "apply": "https://grnh.se/h9g2gw651us"
 },
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "Smart Home AV Programmer",
+"company": "FM Audio Video",
+"location": "Brantford, ON, CA (remote)",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+},
+{
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"source": "Indeed",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Engineer, Ethernet Enablement",
@@ -3320,8 +3320,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://www.guichetemplois.gc.ca/jobsearch/offredemploi/50802219",
-"french": true
+"apply": "https://www.guichetemplois.gc.ca/jobsearch/offredemploi/50802219"
 },
 {
 "title": "Financial Planning and Performance Support Consultant",
@@ -5539,6 +5538,81 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494451640",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Account, Engineer (Permanent)",
+"company": "Bombardier",
+"location": "Dorval, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f8fa5be081939545",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.bombardier.com/job/Dorval-Customer-Account%2C-Engineer-%28Permanent%29-Qu%C3%A9b-H4S-1Y9/1441624633/?feedId=383233&utm_source=Indeed",
+"french": true
+},
+{
+"title": "Analyste du support applicatif",
+"company": "Societe Generale",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493062493",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Sales support (Winter 2027)",
+"company": "Bombardier",
+"location": "Dorval, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=6f3a41da5e68365f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Sales-support-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1441597733/?feedId=383233&utm_source=Indeed"
+},
+{
+"title": "Infrastructure & AMI Systems Specialist",
+"company": "NTPC – Northwest Territories Power Corporation",
+"location": "Hay River, Northwest Territories, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494763623",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Specialist I (Engineering) - Fracturing Services",
+"company": "STEP Energy Services",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=109ba35f807f159e",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruiting.ultipro.ca/STE5005SEEP/JobBoard/36169e92-ed1b-40fd-afd8-17e31780054c/OpportunityDetail?opportunityId=0495db45-e9e4-4b80-97a3-ff57ef1adc5a&postingId=14bb07d8-6e38-4978-8dee-1a6206f9ac9d"
+},
+{
+"title": "Security Service Technician 2",
+"company": "Convergint",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=1ae185a1f8186687",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://convergint.wd501.myworkdayjobs.com/Gbl/job/US-MN-Blaine/Security-Service-Technician-2_R-1019"
+},
+{
+"title": "Integration Analyst Intern (Co-op)",
+"company": "TAG Software Group",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494464093",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18545,6 +18619,96 @@
 "years": null
 },
 {
+"title": "Architecte ServiceNow (ITOM / ITAM)",
+"company": "Systematix",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494384236",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Gestionnaire, sécurité GRC",
+"company": "nesto",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486483094",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern Bachelors Field Service Technician (Ottowa, ON)",
+"company": "Honeywell Technologies",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494405869",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Consultant",
+"company": "IBM",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493051742",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Security Engineer",
+"company": "Clio",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494396077",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Relations Administrator",
+"company": "Canada Life",
+"location": "Charlottetown, Prince Edward Island, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494744482",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technology Risk Analyst",
+"company": "Brainhunter Systems Ltd",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494719804",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Writer Intern",
+"company": "e-STORAGE",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4491618825",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Sales Engineer",
+"company": "WORLD STAR TECH",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494402866",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Strategic Finance Analyst II - AI & Data Systems",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -18613,6 +18777,28 @@
 "source": "ClickHouse careers",
 "country": "US",
 "years": 1
+},
+{
+"title": "Analyst, Quality Assurance Coordinator",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Quality-Assurance-Coordinator-Qu%C3%A9b-H4S-1Y9/1390539933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5,
+"french": true
+},
+{
+"title": "Analyste, Coordonnateur assurance qualité",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste%2C-Coordonnateur-assurance-qualit%C3%A9-Qu%C3%A9b-H4S-1Y9/1390539833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null,
+"french": true
 },
 {
 "title": "Visual Merchant, Hardware",
@@ -31161,119 +31347,6 @@
 "posted": "2026-11-23T02:37:06+00:00",
 "link": "https://careers.opentext.com/us/en/job/OPJOPEUS54319EXTERNALENUS",
 "source": "OpenText careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst, Data Science & AI developper",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Data-Science-&-AI-developper-Qu%C3%A9b-H4S-1Y9/1420955833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Technical Writer",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Technical-Writer-Qu%C3%A9b-H4S-1Y9/1420885633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Intern, Sales support (Winter 2027)",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Sales-support-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1441597733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Customer Account, Engineer (Permanent)",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Customer-Account%2C-Engineer-%28Permanent%29-Qu%C3%A9b-H4S-1Y9/1441624633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 3,
-"french": true
-},
-{
-"title": "Documentation Agent",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4R 1K2",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Documentation-Agent-Qu%C3%A9b-H4R-1K2/1016612901/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Analyst, Quality Assurance Coordinator",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Quality-Assurance-Coordinator-Qu%C3%A9b-H4S-1Y9/1390068933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 5,
-"french": true
-},
-{
-"title": "Analyste, coordonnateur assurance qualité",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Analyste%2C-coordonnateur-assurance-qualit%C3%A9-Qu%C3%A9b-H4S-1Y9/1390069033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null,
-"french": true
-},
-{
-"title": "Commis à la documentation",
-"company": "Bombardier",
-"location": "St-Laurent, Québec, CA, H4R 1K2",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/St-Laurent-Commis-%C3%A0-la-documentation-Qu%C3%A9b-H4R-1K2/1016612801/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Professional Engineering - Electrical Systems Integration - Pool Posting",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Professional-Engineering-Electrical-Systems-Integration-Pool-Posting-Qu%C3%A9b-H4S-1Y9/1390082133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Analyst, Data Science & AI",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Data-Science-&-AI-Qu%C3%A9b-H4S-1Y9/1420904733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Analyste, Sciences des données et IA",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Analyste%2C-Sciences-des-donn%C3%A9es-et-IA-Qu%C3%A9b-H4S-1Y9/1420904833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
 "country": "CA",
 "years": null
 }
