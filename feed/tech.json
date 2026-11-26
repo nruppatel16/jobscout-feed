@@ -1,16 +1,27 @@
 {
-"updated": "2026-11-26T00:46:38+00:00",
+"updated": "2026-11-26T00:56:38+00:00",
 "jobs": [
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
+"apply": "https://grnh.se/se17uqyw1us"
+},
+{
+"title": "Security and Compliance Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/h9g2gw651us"
 },
 {
 "title": "Smart Home AV Programmer",
@@ -22,6 +33,17 @@
 "country": "CA",
 "years": 3,
 "apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+},
+{
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Engineer, Ethernet Enablement",
@@ -5151,6 +5173,242 @@
 "years": null
 },
 {
+"title": "Site Reliability Engineer I",
+"company": "Kaseya",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=24fd5bbcfa128f67",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/ci6ifg104us"
+},
+{
+"title": "Project Coordinator, Telecom",
+"company": "Stantec",
+"location": "Markham, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=49c2e711be5fc648",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://rr.jobsyn.org/DE336ABB723346E49AD35C406521EDA51554"
+},
+{
+"title": "Spécialiste en cybersécurité",
+"company": "COFOMO",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494455271",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Support Specialist",
+"company": "Talent Edge",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4445210411",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Low-Voltage Installation Technician",
+"company": "Onni Group",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=8aaf76ee949be135",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://onni.wd10.myworkdayjobs.com/Onni_External_Careers/job/Vancouver/Low-Voltage-Installation-Technician_R-102993"
+},
+{
+"title": "Professional Services Engineer",
+"company": "Onni Group",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=280ac33481e6af77",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://onni.wd10.myworkdayjobs.com/Onni_External_Careers/job/Vancouver/Professional-Services-Engineer_R-102913-1"
+},
+{
+"title": "Data Scientist, Data valorization",
+"company": "Desjardins",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493059545",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist, Data valorization",
+"company": "Desjardins",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493057629",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Support Specialist",
+"company": "Prinova Group",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=4c7c1d59fcb8dc77",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.prinovaglobal.com/us/en/about/careers/job-listings?gnk=job&gni=8a7887aca1f5f45001a214108d9178be&gns=Indeed+Free"
+},
+{
+"title": "Machine Controls & Data Integration System Engineer, Additive Manufacturing",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=b7d2539512710331",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/hadrian-automation/8903200e-c730-4b0c-b1ce-2e6ba6be5191?utm_source=6ErGOvWZOA"
+},
+{
+"title": "Design Engineer",
+"company": "CB&I",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=715f6e331c1e0318",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.cbi.com/jobs/4796/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Technical Writer",
+"company": "Technatomy Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=217222d3c9b79cce",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://phe.tbe.taleo.net/phe02/ats/careers/v2/viewRequisition?org=TECHNATOMY&cws=44&rid=2843"
+},
+{
+"title": "Implementation Specialist",
+"company": "Revin",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=3ea7c7e00cd8203a",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.ashbyhq.com/revin/5cc47fa4-e305-4ae6-8ff8-06b6b93e4fe3?utm_source=J3ZGb4rWxP"
+},
+{
+"title": "Embedded Hardware Engineer",
+"company": "Superwake Ltd.",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=5a0a10d99785e805",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://secure.collage.co/jobs/superwake-careers/67361?origin=indeed"
+},
+{
+"title": "Signals Engineer",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=1991f0000f52f499",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56411&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Product Operations & Support Associate",
+"company": "LATENT",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=3c37a4bf8f2faa56",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.ashbyhq.com/latent/cb474c7f-2197-474b-8c8c-53dc5f328cc9?utm_source=0WB6Ly2yvR"
+},
+{
+"title": "Refinish Technician, General",
+"company": "Birchwood Collision Pointe West",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=e4332c75d4c7afe2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://birchwood.hr4.ca/careers/view/1793?source=indeed"
+},
+{
+"title": "Biomedical Engineering Technologist P1",
+"company": "Providence Health Care",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=8371efb691c827bf",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers-phc.icims.com/jobs/68058/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "IT Client Services Specialist I or II - Temporary",
+"company": "Idaho Power Company",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=163ffa482e1b0c8c",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://idahopowercompany.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID/IT-Client-Services-Specialist-I-or-II---Temporary_R0005096"
+},
+{
+"title": "Software Engineering Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=803ba0e9e08ec28a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/aolrj3e41us"
+},
+{
+"title": "Residential Field Technician - Durham Region",
+"company": "Intek Communications Inc.",
+"location": "Durham, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494439999",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Equipment Service Technician",
+"company": "STERIS",
+"location": "Saint John, New Brunswick, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494451716",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -6159,7 +6417,7 @@
 },
 {
 "title": "Engineer Project Associate",
-"company": "",
+"company": "UL Solutions",
 "location": "Toronto, ON, CA",
 "posted": "2026-11-24",
 "link": "https://ca.indeed.com/viewjob?jk=e323c54659cae44d",
@@ -7358,7 +7616,7 @@
 },
 {
 "title": "Design Engineer",
-"company": "",
+"company": "Multimatic Inc",
 "location": "Markham, ON, CA",
 "posted": "2026-11-24",
 "link": "https://ca.indeed.com/viewjob?jk=bf909bb6331a09ea",
@@ -12343,7 +12601,7 @@
 },
 {
 "title": "Power Systems Engineering Intern - Summer 2027",
-"company": "",
+"company": "Jacobs",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-24",
 "link": "https://ca.indeed.com/viewjob?jk=f477b640a771e435",
@@ -18007,6 +18265,26 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4494742062",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Front end Developer(content management system)",
+"company": "Newpage Solutions",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494190156",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer in Test– Analytics Data Platform (Data Reliability)",
+"company": "Genesys",
+"location": "New Brunswick, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486059762",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
