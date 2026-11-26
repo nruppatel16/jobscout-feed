@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T02:06:38+00:00",
+"updated": "2026-11-26T02:16:38+00:00",
 "jobs": [
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
-},
-{
-"title": "Smart Home AV Programmer",
-"company": "FM Audio Video",
-"location": "Brantford, ON, CA (remote)",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Security and Compliance Internship - Summer 2027",
@@ -35,15 +24,88 @@
 "apply": "https://grnh.se/h9g2gw651us"
 },
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "Smart Home AV Programmer",
+"company": "FM Audio Video",
+"location": "Brantford, ON, CA (remote)",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+},
+{
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"source": "Indeed",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
+},
+{
+"title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
+"company": "EY",
+"location": "Toronto, ON, CA, M5H 0B3",
+"posted": "2026-11-26T02:01:00+00:00",
+"link": "https://careers.ey.com/ey/job/Toronto-Consultant%2C-Deal-Technology-%28Toronto%2C-Calgary%2C-Vancouver%29-ON-M5H-0B3/1452306733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "EY careers",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Professional Engineering - Air Systems/Pneumatics",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-26T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional-Engineering-Air-SystemsPneumatics-Qu%C3%A9b-H4S-1Y9/1391517133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5,
+"french": true
+},
+{
+"title": "Analyst, Quality Assurance",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-11-26T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Analyst%2C-Quality-Assurance-Qu%C3%A9b-H4R-1K2/1432088933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Technologiste Assurance Qualité",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-26T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Technologiste-Assurance-Qualit%C3%A9-Qu%C3%A9b-H4S-1Y9/1432034433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste Assurance Qualité",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-11-26T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Analyste-Assurance-Qualit%C3%A9-Qu%C3%A9b-H4R-1K2/1432088833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null,
+"french": true
+},
+{
+"title": "Technologist, Quality Assurance",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-11-26T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Technologist%2C-Quality-Assurance-Qu%C3%A9b-H4S-1Y9/1432034533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Engineer, Ethernet Enablement",
