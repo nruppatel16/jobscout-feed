@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T23:10:49+00:00",
+"updated": "2026-11-26T23:20:49+00:00",
 "jobs": [
 {
 "title": "Business Operations Analyst, Facilities Management Division",
@@ -12,6 +12,16 @@
 "years": 5,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
 "french": true
+},
+{
+"title": "Enterprise Applications Engineer, Zendesk",
+"company": "GitLab",
+"location": "Remote · United States",
+"posted": "2026-11-26T18:18:03-05:00",
+"link": "https://job-boards.greenhouse.io/gitlab/jobs/8961167002",
+"source": "GitLab careers",
+"country": "US",
+"years": null
 },
 {
 "title": "Product Engineer - Ads Bidding",
@@ -2568,8 +2578,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50810144",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Analyste d'affaires / Fonctionnel SAP MM/SD",
@@ -2671,8 +2680,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50810220",
 "source": "Job Bank",
 "country": "CA",
-"years": 2,
-"french": true
+"years": 2
 },
 {
 "title": "Service Technician - Apprentices",
@@ -2784,6 +2792,72 @@
 "years": null,
 "apply": "http://ca.indeed.com/job/producegrocery-support-clerks-2427a6c993ac6659",
 "part_time": true
+},
+{
+"title": "Indigenous Software Tester Training",
+"company": "Plato",
+"location": "Gatineau, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=d84c59b7ea649742",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.platotech.com/jobs/8802651-indigenous-software-tester-training"
+},
+{
+"title": "Specialist, Regulatory Reporting",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=aaaa9a4e5b9b7b52",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Specialist--Regulatory-Reporting_R260032439-2"
+},
+{
+"title": "CSR, Business Support",
+"company": "SaskPower",
+"location": "Regina, SK, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=12f2182f73c095a9",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.saskpower.com/job/REGINA-CSR%2C-Business-Support-SK/608440017/"
+},
+{
+"title": "DevOps Engineer T4",
+"company": "AiGeniusGov",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=f06320d8ce806a68",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/devops-engineer-t4-f06320d8ce806a68"
+},
+{
+"title": "Cloud Systems Engineer - US Based",
+"company": "OpenNebula Systems",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=81f856a8918d6353",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.opennebula.io/jobs/8801569-cloud-systems-engineer-us-based"
+},
+{
+"title": "Product Specialist Life Sciences",
+"company": "Avantor",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=8e5a870169b1d3c7",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.avantorsciences.com/product-specialist-life-sciences/job/R-175961"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -2936,6 +3010,16 @@
 "source": "Halton Region careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "Consultant, Digitization & Automation",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M5H 1H1",
+"posted": "2026-11-26T00:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Consultant%2C-Digitization-&-Automation-ON-M5H-1H1/608442717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Engineer, Ethernet Enablement",
@@ -3490,7 +3574,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=YllcSxMXCGguJS5ALiReZXEHQ1MiCCFIAWxEcCQodUgjIVEOE2BfUEJuKkRpcWEGcwkbUxZVSXgqWA%3D%3D&chk=ZVpaShw%3D&clid=73708&Page=JobDetails&Jobid=J1126-0569&BRID=464732&lang=1"
+"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=bVtZQxoXCBh0awd0NyNVCCZKeRJEcCBbB0hZVyp6E2YpKkAeX0FqchYBAgkbUxZVSXgqWA%3D%3D&chk=ZVpaShw%3D&clid=73708&Page=JobDetails&Jobid=J1126-0569&BRID=464732&lang=1"
 },
 {
 "title": "Business Analyst",
@@ -4589,8 +4673,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50802130",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Customer support representative - wholesale",
@@ -4600,8 +4683,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50801815",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Directeur(trice) adjoint(e) - Gestion des données TI",
@@ -11297,8 +11379,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50801823",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Technical /Research Support I",
@@ -14276,6 +14357,126 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4495219312",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Support Coach, Tier I",
+"company": "Unbounce",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495206729",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consumer Activation & Tech Specialist",
+"company": "Rogers Communications",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494950900",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Database Reliability Engineer - Cassandra",
+"company": "Epsilon Solutions Ltd.",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495200437",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ETL Developer",
+"company": "Extend Information Systems Inc.",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494678921",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Analyst",
+"company": "Canada Cartage",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493454740",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GCP Admin",
+"company": "Epsilon Solutions Ltd.",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494694640",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft 365 & Azure Cloud Specialist",
+"company": "Team Power Solutions",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494958575",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist",
+"company": "SoTalent",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493451787",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Escalation Engineer (Python)",
+"company": "Varonis",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4479531746",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Business Systems Administrator",
+"company": "Focus on the Family Canada",
+"location": "Langley, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494957792",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire en logiciel – Hiver 2027",
+"company": "ABB",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495206748",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Computer Science Student (Research & Development)- Summer 2027",
+"company": "Irving Equipment Ltd.",
+"location": "Saint John, New Brunswick, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493929975",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -19072,8 +19273,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50797071",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"french": true
+"years": null
 },
 {
 "title": "Customer support representative - wholesale",
@@ -19232,8 +19432,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50796690",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Full Stack Developer - Digital Platform",
@@ -20617,7 +20816,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNXNWACBIIM7FOYQ%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNSGT4KUBDRWA3AA%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
