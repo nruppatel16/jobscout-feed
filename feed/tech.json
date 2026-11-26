@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T17:13:09+00:00",
+"updated": "2026-11-26T17:23:09+00:00",
 "jobs": [
 {
 "title": "Business Operations Analyst, Facilities Management Division",
@@ -1212,6 +1212,82 @@
 "french": true
 },
 {
+"title": "Technicien(ne) en informatique | C26-11-96872",
+"company": "Cégep du Vieux Montréal",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=a1815d9afaa81595",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://atlas.workland.com/work/96872/technicienne-en-informatique-c26-11-96872?source=Indeed&lang=fr"
+},
+{
+"title": "QA Analyst - Toronto",
+"company": "Sokin",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=831e26dbc797f394",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.sokin.com/jobs/8799915-qa-analyst-toronto"
+},
+{
+"title": "Big data analyst",
+"company": "RxFood",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50808616",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Engineer-in-Training",
+"company": "Halifax Regional Municipality",
+"location": "Halifax, NS, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=345fb3ff661ee4bb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25749&siteid=5764&PageType=JobDetails&jobid=772348"
+},
+{
+"title": "Opérateur(trice) en informatique classe I - Service des ressources informatiques - Bassin Thérèse-Martin 06",
+"company": "Centre de services scolaire des Samares",
+"location": "Joliette, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=4d87d13f837f4ea4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://atlas.workland.com/work/97114/operateurtrice-en-informatique-classe-i-service-des-ressources-informatiques-bassin-therese-martin-06?source=Indeed&lang=fr"
+},
+{
+"title": "Network cable tech",
+"company": "PREETEL COMMUNICATIONS INC.",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=78175d9e4f19fbc1",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/network-cable-tech-78175d9e4f19fbc1"
+},
+{
+"title": "AI Engineer",
+"company": "Eau Claire Partners Inc.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=9fbf85cb22e63e27",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ai-engineer-9fbf85cb22e63e27"
+},
+{
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
 "company": "EY",
 "location": "Toronto, ON, CA, M5H 0B3",
@@ -1876,7 +1952,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=Z1xfSx0XCGp7F3NzRlZcCFZABBBEcFZZBEhZWy4FExYrUDBuXkEbBRR1dQkbUxZVSXgqWA%3D%3D&chk=ZVpaShw%3D&clid=73708&Page=JobDetails&Jobid=J1126-0569&BRID=464732&lang=1"
+"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=YllcSxMXCGguJS5ALiReZXEHQ1MiCCFIAWxEcCQodUgjIVEOE2BfUEJuKkRpcWEGcwkbUxZVSXgqWA%3D%3D&chk=ZVpaShw%3D&clid=73708&Page=JobDetails&Jobid=J1126-0569&BRID=464732&lang=1"
 },
 {
 "title": "Business Analyst",
@@ -10311,6 +10387,156 @@
 "years": null
 },
 {
+"title": "Desktop Support Technician",
+"company": "CGI",
+"location": "Southport, Manitoba, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4487007239",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Specialist",
+"company": "Worximity Technology Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494927945",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Services Support Analyst",
+"company": "Hamilton Family Health Team",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494663647",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Reporting Analyst",
+"company": "Pollard Banknote Limited",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4486087026",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Marketing - Strategy and Business Intelligence",
+"company": "Reliance Home Comfort",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4484869827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern - Developer",
+"company": "Tecsys Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494939401",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Engineer /SRE",
+"company": "BMO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493208870",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Production Support Analyst",
+"company": "BMO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494676209",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Linux Security Engineer",
+"company": "Zodiac Solutions, Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493438203",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scientifique des données·Data Scientist",
+"company": "ALTEN Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493445190",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) IA/ML",
+"company": "Canam",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494918443",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) IA/ML",
+"company": "Canam",
+"location": "St-Georges, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494911728",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Consultant",
+"company": "Palo Alto Networks",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4467626009",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer, Sovereign AI",
+"company": "Cohere",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4383939143",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Architecte de solutions Power Platform et Microsoft 365",
+"company": "Astek",
+"location": "Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494929249",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -16647,7 +16873,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNTVTP4AKYEQHSCA%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNRII2OZ23J7QUVA%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -24089,6 +24315,27 @@
 "country": "US",
 "years": 5,
 "apply": "https://grnh.se/ap229tff4us"
+},
+{
+"title": "A/AI Machine Learning Engineering (junior career)",
+"company": "Lockheed Martin",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=ff62cb9744bb0835",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://lockheedmartin.eightfold.ai/careers/job/996478143379?utm_source=indeed&domain=lockheedmartin.com"
+},
+{
+"title": "Engineer, Test Development-Manufacturing Electronics",
+"company": "Celestica",
+"location": "Newmarket, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494735621",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
