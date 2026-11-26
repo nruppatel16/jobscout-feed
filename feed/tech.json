@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T23:20:49+00:00",
+"updated": "2026-11-26T23:31:24+00:00",
 "jobs": [
 {
 "title": "Business Operations Analyst, Facilities Management Division",
@@ -12,6 +12,16 @@
 "years": 5,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
 "french": true
+},
+{
+"title": "Technical Consultant",
+"company": "KPMG",
+"location": "Calgary, Canada",
+"posted": "2026-11-26T23:22:00+00:00",
+"link": "https://careers.kpmg.ca/jobs/38978?lang=en-us",
+"source": "KPMG careers",
+"country": "CA",
+"years": 2
 },
 {
 "title": "Enterprise Applications Engineer, Zendesk",
