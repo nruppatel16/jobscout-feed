@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T03:45:50+00:00",
+"updated": "2026-11-26T03:55:49+00:00",
 "jobs": [
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
-},
-{
-"title": "Smart Home AV Programmer",
-"company": "FM Audio Video",
-"location": "Brantford, ON, CA (remote)",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Security and Compliance Internship - Summer 2027",
@@ -35,15 +24,26 @@
 "apply": "https://grnh.se/h9g2gw651us"
 },
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "Smart Home AV Programmer",
+"company": "FM Audio Video",
+"location": "Brantford, ON, CA (remote)",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+},
+{
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"source": "Indeed",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -5768,6 +5768,57 @@
 "location": "Quebec, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4483633994",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant, Full Stack Developer",
+"company": "CIBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494452204",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Writer II/Rédacteur ou rédactrice technique II",
+"company": "Bluberi",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494748921",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Java",
+"company": "IDA conseil informatique Inc.",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494754998",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Specialist I (Engineering) - Coiled Tubing",
+"company": "STEP Energy Services",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=644a93fc963d1c13",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruiting.ultipro.ca/STE5005SEEP/JobBoard/36169e92-ed1b-40fd-afd8-17e31780054c/OpportunityDetail?opportunityId=e19bd2af-dcb8-459f-8c87-ca61470910e2&postingId=3165284d-1939-4384-b6ef-a91951f49dc5"
+},
+{
+"title": "Programmeur moteur sénior, Verse Framework",
+"company": "Epic Games",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494477044",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18949,6 +19000,26 @@
 "location": "Mississauga, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4494189279",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales and Revenue Operations Analyst (Remote | $40–$85/hr)",
+"company": "Synthires",
+"location": "(remote)",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493009313",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Power Platform Consultant (Future Opportunities)",
+"company": "Mariner Innovations",
+"location": "New Brunswick, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493908485",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
