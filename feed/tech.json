@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T19:11:56+00:00",
+"updated": "2026-11-26T19:21:55+00:00",
 "jobs": [
 {
 "title": "Business Operations Analyst, Facilities Management Division",
@@ -1624,6 +1624,92 @@
 "country": "CA",
 "years": null,
 "apply": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Burnaby-BC/Mobile-Financial-Service-Representative_2624715"
+},
+{
+"title": "AI Engineer",
+"company": "QMC Metering Solutions",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=ceca5e33e1e43d98",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/ai-engineer-ceca5e33e1e43d98"
+},
+{
+"title": "Software Developer - Surgical Computer Vision",
+"company": "",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=005bf83866ac6ab0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/software-developer-surgical-computer-vision-005bf83866ac6ab0"
+},
+{
+"title": "Analyste systèmes d’information – ERP",
+"company": "Premier Tech",
+"location": "Rivière-du-Loup, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=5bb7490d37419e59",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://premiertech.simplicant.com/careers/french/jobs/63115-analyste-syst-mes-d-information-erp/detail?utm_campaign=job-board&utm_medium=web&utm_source=indeed"
+},
+{
+"title": "Développeuse ou développeur Power Platform | Dynamics 365",
+"company": "",
+"location": "Laval, QC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=9a8f4c0b6f469fce",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/d%C3%A9veloppeuse-ou-d%C3%A9veloppeur-power-platform-dynamics-365-9a8f4c0b6f469fce"
+},
+{
+"title": "Programmer / Estimator",
+"company": "CNC Profiles Inc.",
+"location": "Port Perry, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=cd690158855b98fc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/programmer-estimator-cd690158855b98fc"
+},
+{
+"title": "Videoconference technician",
+"company": "Distribution Le Perco",
+"location": "Henryville, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50809076",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "HR & Operations Administrator",
+"company": "Providius",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=0354ca4d47527620",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/88B1A11A61"
+},
+{
+"title": "Systems analyst",
+"company": "City of North Vancouver",
+"location": "North Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50809063",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -11538,6 +11624,286 @@
 "years": null
 },
 {
+"title": "Lean Implementation Intern (Winter 2027)",
+"company": "Volvo Trucks",
+"location": "Milton, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4479204827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Analyst - French speaking",
+"company": "Acturis Limited",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4477728169",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Services Specialist",
+"company": "Global Relay",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494684502",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GCP DevOps Engineer",
+"company": "TechDoQuest",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493437145",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer",
+"company": "Broadridge",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4443003971",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II",
+"company": "Mastercard",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4485008304",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer - Micro-Integration Platform",
+"company": "Solace",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4490005877",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Programmeur.euse analyste Java",
+"company": "Optimum IT Solutions",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4479706015",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java, Angular Engineer REQ_181",
+"company": "3Pillar",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494680389",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicienne ou technicien en informatique (serveurs et infrastructures) - T2627-38",
+"company": "Université TÉLUQ",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494927543",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Time(CAN) Front End Checkout Team Associate",
+"company": "Walmart Canada",
+"location": "Charlottetown, Prince Edward Island, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494686197",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operator I, Customer Support Center",
+"company": "NRT Technology Corp.",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494940814",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Implementation Consultant",
+"company": "Precoro | B Corp Certified",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493410740",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Software Developer - DoctorCare",
+"company": "WELLSTAR Technologies",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494693286",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quantitative Equity Developer",
+"company": "Connor, Clark & Lunn Investment Management (CC&L)",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4406604823",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Programmeur-analyste Microsoft Access / VB/VBA",
+"company": "Astek",
+"location": "Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494914899",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Appian Developer with AI",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494942698",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Development Consultant (Software Developer)",
+"company": "Jobgether",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494927145",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "WFS Integration Consultant / Consultant en intégration WFS",
+"company": "ADP",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4485064332",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineer / Ingénieur(e) en fiabilité de site (SRE)",
+"company": "Aduna Global",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494676930",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stage en gestion de projet, Secteur TI, Hiver 2027-FR",
+"company": "Desjardins",
+"location": "Montréal-Ouest, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4460247850",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intégrateur.trice système nacelle / Nacelle System Integrator",
+"company": "Airbus Aircraft",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4485058700",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intégrateur.trice système nacelle / Nacelle System Integrator",
+"company": "Airbus",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4486888836",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Connected Vehicle Project Engineer",
+"company": "BRP",
+"location": "Valcourt, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493427844",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Onboarding Coach - NORAM",
+"company": "Cloudbeds",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494690371",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Onboarding Coach - NORAM",
+"company": "Cloudbeds",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494680721",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste Assurance Qualité",
+"company": "Bombardier",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4461530043",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Playwright Automation",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494941840",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -17874,7 +18240,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNRII2OZ23J7QUVA%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNQEEXAO62DKFJMQ%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -18898,7 +19264,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T160403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T180403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464"
 },
 {
 "title": "Technicien informatique H/F",
@@ -25374,6 +25740,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4493037815",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Gestionnaire Infrastructure Cloud & DevOps (Gouvernance & Conformité)",
+"company": "Micrologic",
+"location": "Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494407572",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
