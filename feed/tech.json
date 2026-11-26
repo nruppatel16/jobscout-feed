@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T23:46:38+00:00",
+"updated": "2026-11-25T23:56:38+00:00",
 "jobs": [
 {
 "title": "Engineer, Ethernet Enablement",
@@ -4697,8 +4697,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804210",
 "source": "Job Bank",
 "country": "CA",
-"years": 5,
-"french": true
+"years": 5
 },
 {
 "title": "Information technology (IT) analyst",
@@ -4717,6 +4716,237 @@
 "posted": "2026-11-25",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50804076",
 "source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst Specialist",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=c35a51360b4e4fba",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-Specialist_R_1523020"
+},
+{
+"title": "Tax Technology Analyst",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f3d105fcd01b13b5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Tax-Technology-Analyst_2623176"
+},
+{
+"title": "Cloud Engineer, Azure, Deloitte Global Technology",
+"company": "Deloitte",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=c1bf0c0b7c971fd2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.deloitte.ca/job/Cloud-Engineer%2C-Azure%2C-Deloitte-Global-Technology/136037-en_US"
+},
+{
+"title": "Consultant, Third Party Risk - Cyber, Strategy & Transformation",
+"company": "Deloitte",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=3e556cf83c6558f1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.deloitte.ca/job/Consultant%2C-Third-Party-Risk-Cyber%2C-Strategy-&-Transformation/135905-en_US"
+},
+{
+"title": "Consultant, Contracts & Technology Transformation",
+"company": "Deloitte",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=d8e60dcafc799ccc",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.deloitte.ca/job/Consultant%2C-Contracts-&-Technology-Transformation/136000-en_US"
+},
+{
+"title": "Consultant, Back End Developer- Scala",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=e27ebdbec1e60100",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--Back-End-Developer--Scala_2624034"
+},
+{
+"title": "Junior Software Developer",
+"company": "Wellstar Health System",
+"location": "Remote, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=1ba02a9683176cad",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer?source=INDE&~"
+},
+{
+"title": "Design Engineer",
+"company": "Ontario Power Generation",
+"location": "Oshawa, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=848495cd55b380b6",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.opg.com/job/Oshawa-Design-Engineer-ON-L1H-8W8/605804817/?feedId=247217&utm_source=Indeed&utm_campaign=OPG_Indeed"
+},
+{
+"title": "Reservoir Engineer",
+"company": "AGAT Laboratories",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=e3d59bf6778f5e6d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://agatlaboratories.applytojob.com/apply/vk5oiGSchc/Reservoir-Engineer?source=INDE&~"
+},
+{
+"title": "Junior Sales Representative (Software) - New Graduate",
+"company": "CardGio Inc",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=612296a8c3086db0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-sales-representative-software-new-graduate-612296a8c3086db0"
+},
+{
+"title": "Junior Project Manager, PLM Digital Transformation",
+"company": "Grizzlytrek Group",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=5c1d9e79e6c52011",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://grizzlytrek.applytojob.com/apply/myipCRXwfJ/Junior-Project-Manager-PLM-Digital-Transformation?source=INDE&~"
+},
+{
+"title": "Merchant Solutions Business Development Specialist",
+"company": "TD",
+"location": "Halifax, NS, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=6055a3e9f47d8aa0",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Halifax-Nova-Scotia/Merchant-Solutions-Business-Development-Specialist_R_1523416"
+},
+{
+"title": "Systems Applications Programmer II - Police Department",
+"company": "San Jose Police Department",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=d98b8182446b6be7",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.governmentjobs.com/careers/sanjoseca/jobs/5557781/systems-applications-programmer-ii-police-department"
+},
+{
+"title": "Business Analyst Specialist",
+"company": "Tyson & Mendes",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=2d64245fe53fb3fb",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/4rycd95e8us"
+},
+{
+"title": "Systems Analyst, Supply Chain (Starlink)",
+"company": "SpaceX",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=539da21272cc2745",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://grnh.se/dt9s09qt2us"
+},
+{
+"title": "Front End Clerk Part Time Day",
+"company": "Your Independent Grocer",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=88e9e3fd7e557fd1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/front-end-clerk-part-time-day/job/R2000737628",
+"part_time": true
+},
+{
+"title": "Substation Studies Engineer",
+"company": "Powertech Labs Inc.",
+"location": "Surrey, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=09051db6359e4334",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://powertechlabs.applytojob.com/apply/pFkdcx0R9R/Substation-Studies-Engineer?source=INDE&~"
+},
+{
+"title": "Junior Data Analytics Engineer",
+"company": "DC PUBLIC CHARTER SCHOOL BOARD",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=2f4258f31de4bb82",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://dcpcsb.applytojob.com/apply/J2k3jg1BvI/Junior-Data-Analytics-Engineer?source=INDE&~"
+},
+{
+"title": "Technician, Accounts Payable Travel & Expense",
+"company": "Domtar",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=6c1079a2f7869233",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jobs.domtar.com/job/Montreal-Technician%2C-Accounts-Payable-Travel-&-Expense-Queb-H3A-1L6/1291797047/",
+"french": true
+},
+{
+"title": "Forward Deployed Technical Consultant-Snowflake: AI&Data Advanced Technology Centers",
+"company": "Accenture",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4480738364",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Software Quality Engineer",
+"company": "Strategio",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494447426",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
@@ -17254,6 +17484,169 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4468693238",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Security Analyst II",
+"company": "Bell",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e4ed4065a5878999",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.bell.ca/ca/en/job/BECACA431775EXTERNALENCA/Information-Security-Analyst-II",
+"french": true
+},
+{
+"title": "Quality Assurance Technician",
+"company": "Gwillimdale Farms Ltd",
+"location": "Bradford West Gwillimbury, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=917f4f84c55f1657",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2d63ed7c-ef0a-45fe-93e2-b6add586929f&ccId=19000101_000001&jobId=553254&source=IN&lang=en_CA"
+},
+{
+"title": "Full-Stack Developer (Co-op)",
+"company": "Tetra Tech",
+"location": "Pickering, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4490379119",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineering Intern",
+"company": "Super.com",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494435563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst Co-op, Data Platform",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4483913954",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "C++ Software Developer",
+"company": "Kongsberg Geospatial",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4477395644",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Specialist - Kubernetes (35700)",
+"company": "Myticas Consulting",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494743460",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste DevOps (Intermédiaire)",
+"company": "SII Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494412708",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Full-Stack Developer",
+"company": "Method CRM",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4488254043",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Designer",
+"company": "EXFO",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494456061",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Architecte solutions",
+"company": "ALTEN Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493026742",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) – Transition ERP moderne | Advisor Cutover Modern ERP",
+"company": "Rio Tinto",
+"location": "Sept-Îles, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493953984",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Business Analyst",
+"company": "Bevertec",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494427505",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineering Intern",
+"company": "Super.com",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494434841",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Services Technician",
+"company": "AGAT Laboratories",
+"location": "Fort St John, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4491655544",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Vendor Programs Administrator",
+"company": "Hypertec Group",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494413379",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -29816,6 +30209,28 @@
 "years": null
 },
 {
+"title": "Portfolio Administrator - Toronto",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=f6258ec2240c391d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.scotiabank.com/job/Toronto-Portfolio-Administrator-Toronto-ON-M5H-1H1/608297217/"
+},
+{
+"title": "Consultant, Logistics & Distribution, Supply Chain & Network Operation",
+"company": "Deloitte",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=abe5c59308a67d7d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.deloitte.ca/job/Toronto%2C-ON-Consultant%2C-Logistics-&-Distribution%2C-Supply-Chain-&-Network-Operation-ON-M5H-0A9/1453250600/?feedId=140200&utm_source=Indeed&utm_campaign=Deloitte_Indeed"
+},
+{
 "title": "IT Auditor",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -29957,119 +30372,6 @@
 "source": "Bombardier careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Cloud Engineer, Azure, Deloitte Global Technology",
-"company": "Deloitte",
-"location": "Toronto, ON, CA, M5H 0A9",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Cloud-Engineer%2C-Azure%2C-Deloitte-Global-Technology-ON-M5H-0A9/1452925200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Technical Analyst",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M1L 4S2",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Technical-Analyst-ON-M1L-4S2/608261017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null,
-"french": true
-},
-{
-"title": "Intern, Product Development, Air Systems Engineering, Global Business Jets (Summer 2027)",
-"company": "Bombardier",
-"location": "Mississauga, ON, CA, L5S 1W1",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Mississauga-Intern%2C-Product-Development%2C-Air-Systems-Engineering%2C-Global-Business-Jets-%28Summer-2027%29-ON-L5S-1W1/1459777933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Technical Analyst - Tandem (HPE NonStop) Infrastructure",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M1L 4S2",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Technical-Analyst-Tandem-%28HPE-NonStop%29-Infrastructure-ON-M1L-4S2/608261017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null,
-"french": true
-},
-{
-"title": "Service Support Officer",
-"company": "Scotiabank",
-"location": "Vancouver, BC, CA, V6B 4N7",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Vancouver-Service-Support-Officer-BC-V6B-4N7/608272017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Consultant, Third Party Risk - Cyber, Strategy & Transformation",
-"company": "Deloitte",
-"location": "Toronto, ON, CA, M5H 0A9",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Consultant%2C-Third-Party-Risk-Cyber%2C-Strategy-&-Transformation-ON-M5H-0A9/1453052100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": 1
-},
-{
-"title": "Information Security Analyst II",
-"company": "Bell",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Mississauga-Information-Security-Analyst-II-ON/1453136000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers",
-"country": "CA",
-"years": 5,
-"french": true
-},
-{
-"title": "Consultant, Contracts & Technology Transformation",
-"company": "Deloitte",
-"location": "Toronto, ON, CA, M5H 0A9",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Consultant%2C-Contracts-&-Technology-Transformation-ON-M5H-0A9/1453157400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": 1
-},
-{
-"title": "Portfolio Administrator - Toronto",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M5H 1H1",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Portfolio-Administrator-Toronto-ON-M5H-1H1/608297217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Sessional Lecturer - MUZA/B/C66/67H3S Small Ensemble (Amplified & Digital)",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-MUZABC6667H3S-Small-Ensemble-%28Amplified-&-Digital%29-ON/608302217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Consultant, Logistics & Distribution, Supply Chain & Network Operation",
-"company": "Deloitte",
-"location": "Toronto, ON, CA, M5H 0A9",
-"posted": "2026-11-23T00:00:00+00:00",
-"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Consultant%2C-Logistics-&-Distribution%2C-Supply-Chain-&-Network-Operation-ON-M5H-0A9/1453250600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Deloitte careers",
-"country": "CA",
-"years": 2
 }
 ]
 }
