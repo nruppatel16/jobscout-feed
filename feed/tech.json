@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T17:41:56+00:00",
+"updated": "2026-11-26T17:51:55+00:00",
 "jobs": [
 {
 "title": "Business Operations Analyst, Facilities Management Division",
@@ -1288,6 +1288,83 @@
 "apply": "http://ca.indeed.com/job/ai-engineer-9fbf85cb22e63e27"
 },
 {
+"title": "Temporary Analyst - PC Support, Information Technology - JWS (35hrs)",
+"company": "HALTON DISTRICT SCHOOL BOARD",
+"location": "Burlington, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=ca82bee0801ea76b",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://hdsb.simplication.com/Applicant/jobposting/jobdetails.aspx?JOB_POSTING_ID=6031b7f0-a233-4553-ba66-0c3fc44cf9a9&PAGE=1&locale=en&maf=0&sReferer=ATEINDEEDFEEDSIMP"
+},
+{
+"title": "Machine Learning Engineer I",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=b304e45e1e963d48",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1524380"
+},
+{
+"title": "Technicien(ne) en soutien informatique",
+"company": "Techo-Bloc",
+"location": "Saint-Hubert, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=cf28978db68cc54a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.smartrecruiters.com/techo-bloc/744000163911408-technicien-ne-en-soutien-informatique"
+},
+{
+"title": "IT Support Technician",
+"company": "Techo-Bloc",
+"location": "Saint-Hubert, QC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=57fbc28a323df7ef",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.smartrecruiters.com/techo-bloc/744000163909961-it-support-technician"
+},
+{
+"title": "Aseptic Process Technician",
+"company": "Prollenium Medical Technologies Inc.",
+"location": "Aurora, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=d1e7ea5b591d3a36",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/aseptic-process-technician-d1e7ea5b591d3a36"
+},
+{
+"title": "Quality Assurance Technician",
+"company": "Jacobs & Thompson Inc",
+"location": "Barrie, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=df99a13248cbae37",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jacobsandthompson.applytojob.com/apply/b9CXa3qEhz/Quality-Assurance-Technician?source=INDE&~"
+},
+{
+"title": "Power Platform Developer - Clearance Required",
+"company": "LMI",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=2941a7b99e117c32",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://careers-lmi.icims.com/jobs/15183/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
 "company": "EY",
 "location": "Toronto, ON, CA, M5H 0B3",
@@ -1398,6 +1475,16 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "Consultant, Logistics & Distribution, Supply Chain & Network Operation",
+"company": "Deloitte",
+"location": "Montreal, QC, CA, H3B 4T9",
+"posted": "2026-11-26T00:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Montreal%2C-QC-Consultant%2C-Logistics-&-Distribution%2C-Supply-Chain-&-Network-Operation-QC-H3B-4T9/1454044900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Engineer, Ethernet Enablement",
@@ -10532,6 +10619,208 @@
 "location": "Quebec, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494929249",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GIS Specialist (2-Year Contract)",
+"company": "Prince Rupert Port Authority",
+"location": "British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4486067550",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, Software Engineering (MW-Azure)",
+"company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4487009708",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer",
+"company": "G-FORCE IT SERVICES INC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493439537",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineer | Quantitative Trading Firm | Montreal",
+"company": "Hunter Bond",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493435924",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Software Developer - PatientSERV",
+"company": "WELLSTAR Technologies",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494674168",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(se) logiciel - Software Developer",
+"company": "Mecademic Industrial Robotics",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494934598",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrateur(trice) d'infrastructures et sécurité TI",
+"company": "PASQAL",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=2287e38305a2b8e6",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.pasqal.com/jobs/8796863-administrateur-trice-d-infrastructures-et-securite-ti",
+"french": true
+},
+{
+"title": "Spécialiste des outils digitaux - Publications Techniques / Digital Tools Business Specialist - Technical Publications",
+"company": "Airbus Aircraft",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4485070019",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Partenaire - Applications d'entreprise - Maintenance Air Canada",
+"company": "Air Canada",
+"location": "Dorval, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4491962695",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Front End Developer Analyst (remote)",
+"company": "TELUS Health",
+"location": "Toronto, Ontario, Canada (remote)",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4487217642",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Customer Success Engineer (Canada)",
+"company": "Insycle",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494942108",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) - CRM, Services financiers",
+"company": "Deloitte",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4469093644",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst",
+"company": "Bevertec",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494661110",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel Mainframe / .NET (8 ans minimum)",
+"company": "Astek",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494916670",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Associate",
+"company": "AX Pharmaceutical Corp",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494929342",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business System Analyst",
+"company": "Themesoft Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494646599",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire en développement logiciel - Software developer Intern/Co-op",
+"company": "Ciena",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4486316397",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Internship, IT sector, Fall 2026",
+"company": "Desjardins",
+"location": "Montréal-Ouest, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4459285185",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student Intern, AI Agent Developer and Sales Enablement",
+"company": "Celestica",
+"location": "LaSalle, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494936520",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Factory Test Specialist",
+"company": "Ecolab",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4469972833",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -24333,6 +24622,26 @@
 "location": "Newmarket, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4494735621",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Specialist",
+"company": "Teva Pharmaceuticals",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494406876",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Specialist - 24 month contract",
+"company": "Teva Pharmaceuticals",
+"location": "Whitchurch-Stouffville, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494421357",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
