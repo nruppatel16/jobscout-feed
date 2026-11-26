@@ -1,150 +1,27 @@
 {
-"updated": "2026-11-26T06:45:49+00:00",
+"updated": "2026-11-26T06:55:49+00:00",
 "jobs": [
 {
-"title": "CONTROLS AUTOMATION ENGINEER",
-"company": "ASAMAKA INDUSTRIES LTD",
-"location": "North York, ON, CA",
+"title": "Intermediate SharePoint Developer",
+"company": "Pilotfish Networks",
+"location": "Vancouver, BC, CA (remote)",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=93f40e642908d07b",
+"link": "https://ca.indeed.com/viewjob?jk=4a377117fd8089b3",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/controls-automation-engineer-93f40e642908d07b",
-"french": true
+"years": 4,
+"apply": "http://ca.indeed.com/job/intermediate-sharepoint-developer-4a377117fd8089b3"
 },
 {
-"title": "Culinary Coordinator and Recipe Tester",
-"company": "Fresh Prep",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=e152c16267f73ba0",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b9e0fa4e-f2f2-46b4-b31f-3d2628413887&ccId=19000101_000001&jobId=590738&source=IN&lang=en_CA"
-},
-{
-"title": "AI Applications Specialist – Real Estate Development",
-"company": "",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=9ccced21ca374077",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ai-applications-specialist-real-estate-development-9ccced21ca374077"
-},
-{
-"title": "CONTROLS AUTOMATION ENGINEER",
-"company": "ASAMAKA INDUSTRIES LTD",
-"location": "London, ON, CA",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=67dfd96e0844c8b7",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/controls-automation-engineer-67dfd96e0844c8b7",
-"french": true
-},
-{
-"title": "Salesforce Developer",
-"company": "Kefaru Technologies Pvt. Ltd",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=cf6428d03c8d24dc",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/salesforce-developer-cf6428d03c8d24dc"
-},
-{
-"title": "Salesforce Marketing Cloud Developer",
-"company": "Kefaru Technologies Pvt. Ltd",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=2832d58de4b0516b",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/salesforce-marketing-cloud-developer-2832d58de4b0516b"
-},
-{
-"title": "Industrial Automation Specialist",
-"company": "Nexans",
-"location": "Trenton, ON, CA",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=20c84de938634530",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://career.nexans.com/job/Industrial-Automation-Specialist/81325-en_US"
-},
-{
-"title": "AI Enablement Specialist",
-"company": "Chandos Construction",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=a3cb99abbd57426e",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://jobs.smartrecruiters.com/Chandos/744000163785983-ai-enablement-specialist"
-},
-{
-"title": "Software Developer",
-"company": "Aceit Digital Inc.",
-"location": "Calgary, AB, CA (remote)",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=81c1beb02219e007",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/software-developer-81c1beb02219e007"
-},
-{
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
-},
-{
-"title": "Smart Home AV Programmer",
-"company": "FM Audio Video",
-"location": "Brantford, ON, CA (remote)",
-"posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
-},
-{
-"title": "Security and Compliance Internship - Summer 2027",
-"company": "OpenSesame",
+"title": "Fleet Support Engineer - Software Tooling",
+"company": "ALTEN",
 "location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
+"link": "https://www.indeed.com/viewjob?jk=521632e557d32c8f",
 "source": "Indeed",
 "country": "US",
-"years": null,
-"apply": "https://grnh.se/h9g2gw651us"
-},
-{
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
-"posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/se17uqyw1us"
+"years": 4,
+"apply": "https://grnh.se/7mj9vjg47us"
 },
 {
 "title": "Analyst Engineer",
@@ -159,15 +36,149 @@
 "french": true
 },
 {
-"title": "Fleet Support Engineer - Software Tooling",
-"company": "ALTEN",
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
 "location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=521632e557d32c8f",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://grnh.se/7mj9vjg47us"
+"years": null,
+"apply": "https://grnh.se/se17uqyw1us"
+},
+{
+"title": "Security and Compliance Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/h9g2gw651us"
+},
+{
+"title": "Smart Home AV Programmer",
+"company": "FM Audio Video",
+"location": "Brantford, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=15b0cc81f031c8f2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
+},
+{
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
+},
+{
+"title": "Software Developer",
+"company": "Aceit Digital Inc.",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=81c1beb02219e007",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/software-developer-81c1beb02219e007"
+},
+{
+"title": "AI Enablement Specialist",
+"company": "Chandos Construction",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=a3cb99abbd57426e",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.smartrecruiters.com/Chandos/744000163785983-ai-enablement-specialist"
+},
+{
+"title": "Industrial Automation Specialist",
+"company": "Nexans",
+"location": "Trenton, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=20c84de938634530",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career.nexans.com/job/Industrial-Automation-Specialist/81325-en_US"
+},
+{
+"title": "Salesforce Marketing Cloud Developer",
+"company": "Kefaru Technologies Pvt. Ltd",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=2832d58de4b0516b",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/salesforce-marketing-cloud-developer-2832d58de4b0516b"
+},
+{
+"title": "Salesforce Developer",
+"company": "Kefaru Technologies Pvt. Ltd",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=cf6428d03c8d24dc",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/salesforce-developer-cf6428d03c8d24dc"
+},
+{
+"title": "CONTROLS AUTOMATION ENGINEER",
+"company": "ASAMAKA INDUSTRIES LTD",
+"location": "London, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=67dfd96e0844c8b7",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/controls-automation-engineer-67dfd96e0844c8b7",
+"french": true
+},
+{
+"title": "AI Applications Specialist – Real Estate Development",
+"company": "",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=9ccced21ca374077",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ai-applications-specialist-real-estate-development-9ccced21ca374077"
+},
+{
+"title": "Culinary Coordinator and Recipe Tester",
+"company": "Fresh Prep",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=e152c16267f73ba0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b9e0fa4e-f2f2-46b4-b31f-3d2628413887&ccId=19000101_000001&jobId=590738&source=IN&lang=en_CA"
+},
+{
+"title": "CONTROLS AUTOMATION ENGINEER",
+"company": "ASAMAKA INDUSTRIES LTD",
+"location": "North York, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=93f40e642908d07b",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/controls-automation-engineer-93f40e642908d07b",
+"french": true
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -6838,6 +6849,103 @@
 "location": "Halifax, Nova Scotia, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4493098177",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Specialist - Oakville, ON",
+"company": "Cencora",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4492648827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Program Data & Systems Analyst",
+"company": "SAIC",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=4163293b094074b4",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T060413Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508"
+},
+{
+"title": "Service Desk Technician",
+"company": "Columbus Regional Airport Authority",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=021514c9ef6bd219",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://columbusairports.wd1.myworkdayjobs.com/en-US/Columbus_Airports1/job/Columbus-Ohio/Service-Desk-Technician_JR100540"
+},
+{
+"title": "Contingent Web Design and Content Developer",
+"company": "TECHTRANS INTERNATIONAL",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=c49dbb2ea8055eaf",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7883aca1f5f44e01a214d3b15b4044&source=Indeed+Free"
+},
+{
+"title": "Remote Customer Success Specialist",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=50e806fe91142209",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://careerspage.io/tesenergyservices/remote-customer-success-specialist-te101?src=17"
+},
+{
+"title": "Clinical Psychologist (Forensics Unit Psychologist)",
+"company": "Federal Bureau of Prisons",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=ecf415454ad8a46f",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/894375300"
+},
+{
+"title": "Contingent Course Testing and QA Specialist",
+"company": "TECHTRANS INTERNATIONAL",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=3c0616834aa455b2",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7883aca1f5f44e01a214decc4f423a&source=Indeed+Free"
+},
+{
+"title": "Contingent Technical Writer, Editor and QA Specialist",
+"company": "TECHTRANS INTERNATIONAL",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=8b5d989e6a24528c",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7883aca1f5f44e01a214c1d0623c82&source=Indeed+Free"
+},
+{
+"title": "Salesforce Developer",
+"company": "Harbor",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494485877",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -20279,6 +20387,37 @@
 "years": null
 },
 {
+"title": "Technology Learning Consultant (14-Month Contract)",
+"company": "Torys LLP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494727349",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Engineer",
+"company": "Limble",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=e53a55940b7a9e08",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://ats.rippling.com/limble-solutions/jobs/13e3b481-62fe-403c-b6d2-eefeaa9bcefb?jobSite=Indeed"
+},
+{
+"title": "Coordinator, Compliance and Planning - Process Innovation and Technology Transfer (12 month Contract)",
+"company": "DECIEM | THE ABNORMAL BEAUTY COMPANY",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493053312",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Strategic Finance Analyst II - AI & Data Systems",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -31636,16 +31775,6 @@
 "location": "Québec, Quebec, Canada (remote)",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4410248848",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Technical Specialist - Oakville, ON",
-"company": "Cencora",
-"location": "Oakville, Ontario, Canada",
-"posted": "2026-11-23",
-"link": "https://www.linkedin.com/jobs/view/4492648827",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
