@@ -1,27 +1,16 @@
 {
-"updated": "2026-11-26T03:55:49+00:00",
+"updated": "2026-11-26T04:05:49+00:00",
 "jobs": [
 {
-"title": "Customer Success Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
+"title": "QA Technician",
+"company": "Crop Circle Cannabis",
+"location": "Sherwood Park, AB, CA",
 "posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "https://grnh.se/se17uqyw1us"
-},
-{
-"title": "Security and Compliance Internship - Summer 2027",
-"company": "OpenSesame",
-"location": "Remote · United States",
-"posted": "2026-11-26",
-"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/h9g2gw651us"
+"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
 },
 {
 "title": "Smart Home AV Programmer",
@@ -35,15 +24,26 @@
 "apply": "http://ca.indeed.com/job/smart-home-av-programmer-15b0cc81f031c8f2"
 },
 {
-"title": "QA Technician",
-"company": "Crop Circle Cannabis",
-"location": "Sherwood Park, AB, CA",
+"title": "Security and Compliance Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
 "posted": "2026-11-26",
-"link": "https://ca.indeed.com/viewjob?jk=36df52aa7999bb94",
+"link": "https://www.indeed.com/viewjob?jk=a8a48c3c4ad29865",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/qa-technician-36df52aa7999bb94"
+"apply": "https://grnh.se/h9g2gw651us"
+},
+{
+"title": "Customer Success Internship - Summer 2027",
+"company": "OpenSesame",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=cee9062723d2b0ad",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/se17uqyw1us"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -5824,6 +5824,16 @@
 "years": null
 },
 {
+"title": "Information Security Operations Engineer",
+"company": "HOOPP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Information-Security-Operations-Engineer_JR102631",
+"source": "HOOPP careers",
+"country": "CA",
+"years": 5
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -6143,16 +6153,6 @@
 "source": "Microsoft careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Information Security Operations Engineer",
-"company": "HOOPP",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-24",
-"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Information-Security-Operations-Engineer_JR102631",
-"source": "HOOPP careers",
-"country": "CA",
-"years": 5
 },
 {
 "title": "DevOps Engineer",
@@ -19025,6 +19025,36 @@
 "years": null
 },
 {
+"title": "Network Administrator - Full Time - Markham Stouffville Hospital",
+"company": "Oak Valley Health",
+"location": "Markham, Ontario",
+"posted": "2026-11-24",
+"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Network-Administrator---Full-Time---Markham-Stouffville-Hospital_JR104476",
+"source": "Oak Valley Health careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Development Engineer",
+"company": "HOOPP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Full-Stack-Development-Engineer_JR102634",
+"source": "HOOPP careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Business Analyst, Business strategies",
+"company": "Desjardins",
+"location": "Montréal",
+"posted": "2026-11-24",
+"link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Analyste-d-affaires--Solutions-de-tarification_R2614010",
+"source": "Desjardins careers",
+"country": "CA",
+"years": null
+},
+{
 "title": "Strategic Finance Analyst II - AI & Data Systems",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -19353,36 +19383,6 @@
 "posted": "2026-11-23",
 "link": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Distinguished-Engineer--AI-Threat-Defense_JREQ202811-1",
 "source": "Thomson Reuters careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Network Administrator - Full Time - Markham Stouffville Hospital",
-"company": "Oak Valley Health",
-"location": "Markham, Ontario",
-"posted": "2026-11-23",
-"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Network-Administrator---Full-Time---Markham-Stouffville-Hospital_JR104476",
-"source": "Oak Valley Health careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Full-Stack Development Engineer",
-"company": "HOOPP",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-23",
-"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Full-Stack-Development-Engineer_JR102634",
-"source": "HOOPP careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Business Analyst, Business strategies",
-"company": "Desjardins",
-"location": "Montréal",
-"posted": "2026-11-23",
-"link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Analyste-d-affaires--Solutions-de-tarification_R2614010",
-"source": "Desjardins careers",
 "country": "CA",
 "years": null
 },
