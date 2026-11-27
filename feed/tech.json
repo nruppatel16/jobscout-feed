@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T22:43:38+00:00",
+"updated": "2026-11-27T22:53:38+00:00",
 "jobs": [
 {
 "title": "SAP Consultant",
@@ -3569,6 +3569,173 @@
 "source": "Job Bank",
 "country": "CA",
 "years": 4
+},
+{
+"title": "Help Desk Technician",
+"company": "Channel Zero Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9aa489de88d2359a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gethired.com/job/help-desk-technician-57?rcid=inply"
+},
+{
+"title": "Technicien(ne) informatique",
+"company": "RL Inc.",
+"location": "Brossard, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=1817d63fcb0bbb75",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technicienne-informatique-1817d63fcb0bbb75"
+},
+{
+"title": "Advisor, Business development and sales support",
+"company": "Desjardins",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=6931da1b7610cf48",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://desjardins-workplace.relevance.studio/en/job-detail/1-276331aa3b581001ecb551523b680000-ottawa-advisor-business-development-and-sales-support-ottawa?source=Indeed",
+"french": true
+},
+{
+"title": "Software Developer, Platform and Security",
+"company": "Variablegrid Adaptive Power Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=aa254bd3fdef65d4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/software-developer-platform-and-security-aa254bd3fdef65d4"
+},
+{
+"title": "Data Analyst II",
+"company": "Intact",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=6961f584fa0621b3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/data-analyst-ii/job/R156894"
+},
+{
+"title": "Professional, Engineering - Engineering Digital Transformation Specialist",
+"company": "Bombardier",
+"location": "Dorval, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=380229fffd7588c7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Engineering-Engineering-Digital-Transformation-Specialist-Qu%C3%A9b-H4S-1Y9/1380077633/?feedId=383233&utm_source=Indeed",
+"french": true
+},
+{
+"title": "Intermediate Technical & Cyber Analyst",
+"company": "Saskatchewan Polytechnic",
+"location": "Regina, SK, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=f4e72319d4c14348",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.saskpolytech.ca/postings/66770"
+},
+{
+"title": "Systems and Information Coordinator (Term-Certain)",
+"company": "Red Deer Polytechnic",
+"location": "Red Deer, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=fcc9ca88953ae0c6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.glowinthecloud.com/rd-polytech/20261127001?l=en"
+},
+{
+"title": "Spécialiste, Contrôles financiers TI",
+"company": "Intact",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=324116d1715386f1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.intactfc.com/fr-ca/spécialiste-contrôles-financiers-ti/job/R156891"
+},
+{
+"title": "Specialist, IT Financial Controls",
+"company": "Intact",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=77ece420be9cc6d3",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.intactfc.com/specialist-it-financial-controls/job/R156891"
+},
+{
+"title": "Sales Administrator",
+"company": "Advantage Farm Equipment",
+"location": "Wyoming, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=37162fee55c1b973",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/sales-administrator-37162fee55c1b973"
+},
+{
+"title": "Specialist, IT Financial Controls",
+"company": "Intact",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=5167416b23c13f2e",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.intactfc.com/specialist-it-financial-controls/job/R156891"
+},
+{
+"title": "ML Engineer",
+"company": "Freelancing",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=05b6b209d9a60ed6",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/ml-engineer-05b6b209d9a60ed6"
+},
+{
+"title": "Software Engineer Backend",
+"company": "Freelancing",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=851b3657a7da0382",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-engineer-backend-851b3657a7da0382"
+},
+{
+"title": "Scale Service Technician",
+"company": "Ancoma Scales",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=c04c41e25835b448",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/scale-service-technician-c04c41e25835b448"
 },
 {
 "title": "Cloud Security Specialist",
@@ -11374,6 +11541,106 @@
 "years": null
 },
 {
+"title": "Développeur(euse) C# / C# Developer",
+"company": "Axis Lighting",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4484896951",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer",
+"company": "Constellation Payments",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4470497252",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "POS- Business Sales Consultant",
+"company": "Rogers Communications",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4488657188",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Frontend Developer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495050140",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Analyst",
+"company": "Halton Region",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495551452",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Engineer",
+"company": "5C",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495052486",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Marketing Cloud Analyst",
+"company": "Havas CX Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495541903",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Data Analyst",
+"company": "Polar Performance Materials",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495513339",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Developer",
+"company": "National Bank of Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493845488",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SOC Analyst",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495062070",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Research Engineer",
 "company": "Deloitte",
 "location": "Toronto, ON, CA, M5H 0A9",
@@ -17473,7 +17740,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://candidateportal.ceipal.com/job-details/CcwZO2hUl4gLguB_jHyaZNRAG_2AAkToZC-ll3Njss0#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/jMC23wHB-pAuyxpRjEPH0PzuNl_Ca5Dy8jv8D325oQE#.job_boards.Indeed",
 "french": true
 },
 {
@@ -24600,6 +24867,26 @@
 "years": null
 },
 {
+"title": "Commis au soutien informatique",
+"company": "Université de Sherbrooke",
+"location": "Sherbrooke, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493065099",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Rogers Business Sales Administrator",
+"company": "Kinetic Wireless - Rogers Authorized Dealer",
+"location": "Langley, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495219325",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -24818,16 +25105,6 @@
 "link": "https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
 "source": "OpenAI careers",
 "country": "US",
-"years": null
-},
-{
-"title": "Software Engineer, DevOps",
-"company": "Wave",
-"location": "Canada",
-"posted": "2026-11-24T22:53:50.680000+00:00",
-"link": "https://jobs.lever.co/waveapps/3d167795-9544-4288-99ca-077b2accd5a6",
-"source": "Wave careers",
-"country": "CA",
 "years": null
 }
 ]
