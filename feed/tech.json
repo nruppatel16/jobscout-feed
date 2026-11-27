@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-27T21:03:15+00:00",
+"updated": "2026-11-27T21:13:15+00:00",
 "jobs": [
+{
+"title": "Customer Onboarding Specialist",
+"company": "Jobber",
+"location": "Vancouver; Edmonton; Canada",
+"posted": "2026-11-27T21:04:28.052+00:00",
+"link": "https://jobs.ashbyhq.com/jobber/320245aa-78b1-45df-bbd8-3367797bae12",
+"source": "Jobber careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "QA Analyst",
 "company": "PolicyMe",
@@ -23798,16 +23808,6 @@
 "link": "https://apply.careers.microsoft.com/careers/job/1970393557053525",
 "source": "Microsoft careers",
 "country": "CA",
-"years": null
-},
-{
-"title": "Machine Learning Engineer",
-"company": "Nubank",
-"location": "Remote · United States",
-"posted": "2026-11-24T21:12:30.392+00:00",
-"link": "https://jobs.ashbyhq.com/nubank/03eb3439-68a5-44fb-b42d-a12e44f6357c",
-"source": "Nubank careers",
-"country": "US",
 "years": null
 }
 ]
