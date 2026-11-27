@@ -1,16 +1,49 @@
 {
-"updated": "2026-11-27T02:42:17+00:00",
+"updated": "2026-11-27T02:52:16+00:00",
 "jobs": [
 {
-"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
-"company": "Fusion Alarms",
-"location": "Montréal, QC, CA",
+"title": "E-commerce Customer Experience Specialist",
+"company": "Alberta Boot Company",
+"location": "Calgary, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
+"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
+"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
+},
+{
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
+},
+{
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
 "french": true
 },
 {
@@ -26,38 +59,16 @@
 "french": true
 },
 {
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
+"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
+"company": "Fusion Alarms",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
 "french": true
-},
-{
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
-},
-{
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
 },
 {
 "title": "Student Intern, Aerospace and Defense, Material Pricing and Product Data",
@@ -2715,8 +2726,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50810144",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Analyste d'affaires / Fonctionnel SAP MM/SD",
@@ -3185,7 +3195,7 @@
 "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-Layout-Engineer_R032196",
 "source": "Ciena careers",
 "country": "CA",
-"years": null
+"years": 3
 },
 {
 "title": "Research Scientist Engineer",
@@ -3755,6 +3765,82 @@
 "country": "CA",
 "years": null,
 "apply": "https://jobs.dayforcehcm.com/fr-CA/lgs/CANDIDATEPORTAL/jobs/3673"
+},
+{
+"title": "S/4 HANA Data Migration Analyst",
+"company": "Vantix Systems Inc",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=524c793096bb89c3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.vantixsystems.com/2762/bh-286679-s-4-hana-data-migration-analyst/"
+},
+{
+"title": "Data Scientist",
+"company": "Cogeco",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=5bc37690ccf15db6",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://cogeco.wd3.myworkdayjobs.com/en-US/Cogeco_Careers/job/Burlington-ON/Data-Scientist_JR10068",
+"french": true
+},
+{
+"title": "Research Technologist",
+"company": "Western University",
+"location": "London, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=ca1f2be42bb5c617",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=45222&SiteId=1&PostingSeq=1"
+},
+{
+"title": "Clinical Informatics Specialist",
+"company": "Quinte Health",
+"location": "Belleville, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=1ec5c5486cd8fdba",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://indeed.njoyn.com/cl4/xweb/XWeb.asp?page=jobdetails&clid=76411&JobID=J1126-0602&BRID=465057&sbdid=936"
+},
+{
+"title": "Internal Technical Support Engineer",
+"company": "Real Estate Works",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=c2265bd67ab9a606",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.rew.works/open/internal-technical-support"
+},
+{
+"title": "Machine Learning Resident - Client: Publicus (12 month term)",
+"company": "Amii (Alberta Machine Intelligence Institute)",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4491487489",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Testing (QA) Intern - Unpaid (Winter'27 Co-Op) | Mississauga, ON",
+"company": "Bookmyhelp",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4494702157",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -5570,8 +5656,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50802130",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Customer support representative - wholesale",
@@ -5581,8 +5666,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50801815",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Directeur(trice) adjoint(e) - Gestion des données TI",
@@ -12277,8 +12361,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50801823",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Technical /Research Support I",
@@ -16116,6 +16199,86 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4493448745",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network System Engineer",
+"company": "Adecco",
+"location": "Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4480737444",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ACT - Telecoms Engineer",
+"company": "Aker Solutions",
+"location": "St John’s, Newfoundland and Labrador, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493434976",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "2iSolutions Inc.",
+"location": "St. Catharines, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495220435",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate – Front Office Quant Engineer",
+"company": "TD",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494675483",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Endpoint Specialist",
+"company": "Swim Recruiting",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494981048",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Windows Endpoint Development Engineer - Advanced / L3",
+"company": "Raas Infotek",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494691242",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Gestionnaire d'équipe ti (développement logiciel)",
+"company": "Ville de Sherbrooke",
+"location": "Sherbrooke, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495219496",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Gestionnaire de Projets TI Sénior",
+"company": "Akkodis",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494958600",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -20912,8 +21075,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50797071",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"french": true
+"years": null
 },
 {
 "title": "Customer support representative - wholesale",
@@ -21072,8 +21234,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50796690",
 "source": "Job Bank",
 "country": "CA",
-"years": null,
-"part_time": true
+"years": null
 },
 {
 "title": "Full Stack Developer - Digital Platform",
