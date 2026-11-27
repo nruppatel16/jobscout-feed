@@ -1,16 +1,17 @@
 {
-"updated": "2026-11-27T01:52:16+00:00",
+"updated": "2026-11-27T02:02:17+00:00",
 "jobs": [
 {
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
+"location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
+"french": true
 },
 {
 "title": "Business Analyst",
@@ -24,16 +25,35 @@
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
 },
 {
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
-"location": "Montréal, QC, CA",
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
-"french": true
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+},
+{
+"title": "Design Engineer",
+"company": "OPG",
+"location": "Oshawa, ON, CA, L1H 8W8",
+"posted": "2026-11-27T02:00:00+00:00",
+"link": "https://jobs.opg.com/job/Oshawa-Design-Engineer-ON-L1H-8W8/605804817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "OPG careers",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Trust Officer, Indigenous Wealth Solutions",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, T2P1N2",
+"posted": "2026-11-27T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Trust-Officer%2C-Indigenous-Wealth-Solutions-ON-T2P1N2/605688417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Security Sales Specialist",
