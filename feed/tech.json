@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T19:12:59+00:00",
+"updated": "2026-11-27T19:22:58+00:00",
 "jobs": [
 {
 "title": "Customer Support Technical Representative",
@@ -2122,6 +2122,149 @@
 "source": "Job Bank",
 "country": "CA",
 "years": 2
+},
+{
+"title": "User Support Technician",
+"company": "Hy-Tek Computers",
+"location": "Rocky Mountain House, AB, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=fd00492340f35ca7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/user-support-technician-fd00492340f35ca7",
+"french": true
+},
+{
+"title": "Finance Analytics Specialist (Hybrid)",
+"company": "Tru Cooperative Bank",
+"location": "Langley, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=933b9475daf067bb",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3971"
+},
+{
+"title": "Data Research Analyst for PreConstruction Homes",
+"company": "Dream House Real estate",
+"location": "Scarborough, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=2dd66c0333a8248a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/data-research-analyst-preconstruction-homes-2dd66c0333a8248a"
+},
+{
+"title": "Department Business Analyst",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=be5487959f39892d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56507&tz=GMT-06%3A00&tzname=America%2FChicago"
+},
+{
+"title": "Community Relations Coordinator / Job Developer",
+"company": "CBI HEALTH",
+"location": "Fort McMurray, AB, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=6f97e9c0f8943fdb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruiting.ultipro.ca/CBI5000CBHIG/JobBoard/5ed9b0b5-33c5-df47-591e-ac6551779695/OpportunityDetail?opportunityId=a098a08a-9d8b-43cd-a706-bf950fc0229a&postingId=c76718a0-78f6-4522-b822-a66063965f78"
+},
+{
+"title": "Payment Solutions Consultant",
+"company": "IT infrastructure",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=f74d0fd7eb90b5d9",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/payment-solutions-consultant-f74d0fd7eb90b5d9"
+},
+{
+"title": "Payment Solutions Consultant",
+"company": "Ahex Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=2282f80f93f5b5a8",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/payment-solutions-consultant-2282f80f93f5b5a8"
+},
+{
+"title": "Advisor, Commercial Business Applications",
+"company": "Enbridge",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=97ed90ca42e347d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://enbridge.wd3.myworkdayjobs.com/en-US/enbridge_careers/job/Calgary-AB-CAN/Advisor--Commercial-Business-Applications_73967-1"
+},
+{
+"title": "IT Service Management Specialist (Remote - Eastern Time Zone)",
+"company": "Zoll Medical Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=b12eb817bbb95533",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/IT-Service-Management-Specialist--Remote---Eastern-Time-Zone-_R20901"
+},
+{
+"title": "Manufacturing Technologist",
+"company": "ANDLIGHT",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=40811beff8b64535",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/manufacturing-technologist-40811beff8b64535"
+},
+{
+"title": "Data Engineer",
+"company": "BL CONSULTANTS",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=ae8509631599d3b8",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "http://www.indeed.com/job/data-engineer-ae8509631599d3b8"
+},
+{
+"title": "Web developer",
+"company": "ELYAS SADEQI ABDULLAH",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50815401",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Web integrator",
+"company": "Microcom developpements inc.",
+"location": "Montréal, Quebec, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50815271",
+"source": "Job Bank",
+"country": "CA",
+"years": null,
+"french": true
 },
 {
 "title": "Cloud Security Specialist",
@@ -9071,6 +9214,186 @@
 "location": "North York, Ontario, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4495041490",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Salesforce",
+"company": "National Bank of Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493836769",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien, Support informatique",
+"company": "Renaud-Bray",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493852113",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual One Port User Support Analyst",
+"company": "KPMG Canada",
+"location": "Langley, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4452145520",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual One Port User Support Analyst",
+"company": "KPMG Canada",
+"location": "Quesnel, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4452141519",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cheffe / Chef d’équipe, opérations TI",
+"company": "Coveo",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495504896",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst",
+"company": "Co-operators Assurance et services financiers",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495032708",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Engineer",
+"company": "Calian Group",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495042654",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Mission Systems Engineer",
+"company": "Dominion Dynamics",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495034972",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Technician - AfterMarket Services Grande Prairie",
+"company": "Stream-Flo Industries",
+"location": "Grande Prairie, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495543115",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Technician - AfterMarket Services Edmonton",
+"company": "Stream-Flo Industries",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495524815",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Technician Field",
+"company": "Epiroc",
+"location": "Balmertown, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4469070398",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AGT Controls Field Service Representative",
+"company": "Siemens Energy",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4442920121",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Application Support Specialist",
+"company": "GHD",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495048086",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Architecte TI, Infrastructure – Intégration TI/TO",
+"company": "Saputo Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4476485971",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Operations Specialist",
+"company": "Nasdaq",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4479560153",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "Docebo",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4429549671",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Architecte de solutions (ServiceNow)",
+"company": "CGI",
+"location": "Sherbrooke, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4434772040",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ServiceNow Developer (ITSM Module) At Client Site in Ottawa",
+"company": "DXC Technology",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4469047985",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
