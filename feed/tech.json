@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T17:12:34+00:00",
+"updated": "2026-11-27T17:22:34+00:00",
 "jobs": [
 {
 "title": "Scrum Master, Project management",
@@ -1383,8 +1383,7 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50814070",
 "source": "Job Bank",
 "country": "CA",
-"years": 1,
-"french": true
+"years": 1
 },
 {
 "title": "Cyber Security Analyst",
@@ -1571,6 +1570,139 @@
 "source": "Job Bank",
 "country": "CA",
 "years": 5
+},
+{
+"title": "Analyste technique - Zero Trust Network Access (ZTNA)",
+"company": "Kyndryl",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=aeb0fc14151d08b5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://apply.jobadder.com/ca1/1175/527367/k755odjwpasenheyoir4ivvwly?show=details"
+},
+{
+"title": "IT-01 : Technicien(ne) de la TI, Solutions Logicielles, Anciens Combattants Canada",
+"company": "Veterans Affairs Canada",
+"location": "Charlottetown, PE, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=b2e96d523d8f6f63",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page1800?poster=2487134&toggleLanguage=fr"
+},
+{
+"title": "Technicien en informatique, infrastructures et cybersécurité (H/F)",
+"company": "",
+"location": "Howick, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=f1e73ba19b76206a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technicien-en-informatique-infrastructures-et-cybers%C3%A9curit%C3%A9-hf-f1e73ba19b76206a",
+"french": true
+},
+{
+"title": "Industrial Equipment – Quality Control & Validation Technician",
+"company": "SynergX",
+"location": "Laval, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=727a07b804ece19d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/industrial-equipment-quality-control-validation-technician-727a07b804ece19d"
+},
+{
+"title": "Quality Assurance Technician",
+"company": "Canada's Island Garden",
+"location": "Charlottetown, PE, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=71d4040166d5099e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gethired.com/job/quality-assurance-technician-69?rcid=inply"
+},
+{
+"title": "Junior - Mid Web Developer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=0e1660cfbce19cac",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/junior-mid-web-developer-0e1660cfbce19cac",
+"part_time": true
+},
+{
+"title": "IT Support Professional",
+"company": "Lynker",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=2c5da09c5537ef85",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers-lynker.icims.com/jobs/1861/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Financial Solutions Consultant",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=3a3fcc9072617f6a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/financial-solutions-consultant-3a3fcc9072617f6a"
+},
+{
+"title": "Cloud Infrastructure Engineer",
+"company": "",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=8de248036b0a9678",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.medicyservices.com/jobs"
+},
+{
+"title": "Geological survey technician",
+"company": "GROUPE CONSEIL UDA INC.",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50814195",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Data Controller - Inventory Audits",
+"company": "Air Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=81e1590ce1f1dc8a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.aircanada.com/ca/en/job/AIPACICA40594EXTERNALENCA/Technical-Data-Controller-Inventory-Audits?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Software Developer",
+"company": "",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=c74b97e9dbaf8863",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.medicyservices.com/jobs"
 },
 {
 "title": "Cloud Security Specialist",
@@ -7860,6 +7992,156 @@
 "location": "St John’s, Newfoundland and Labrador, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4487591950",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst IT",
+"company": "VIA Rail Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495516534",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business System Analyst",
+"company": "HCLTech",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495035625",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI-DLC / Spec-Driven Development Engineer",
+"company": "Quantum World Technologies Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495519557",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI-DLC / Spec-Driven Development Engineer",
+"company": "J&M Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495517831",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien(ne) en informatique | C26-11-96872",
+"company": "Cegep du Vieux Montreal",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493845119",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Support Informatique",
+"company": "Robert Half",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495033186",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP Basis Consultant",
+"company": "Jobgether",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495014926",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Architecte TI – Fabrication (OT)",
+"company": "Saputo Inc.",
+"location": "Georgetown, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4468183261",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Architecte TI – Fabrication (OT)",
+"company": "Saputo Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4468173905",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Hunting",
+"location": "Nisku, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495046290",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician - Victoria BC",
+"company": "Arjo",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4477307724",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automatic Door Technician – Glazing – Sudbury",
+"company": "Flynn Group of Companies",
+"location": "Greater Sudbury, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4486710201",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Voice Network Engineer",
+"company": "Tata Consultancy Services",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495039062",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer",
+"company": "Caylent",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4486540710",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Engineer - Ads",
+"company": "Faire",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4469070081",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -20963,6 +21245,26 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494686037",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Services Technician - Fort McMurray",
+"company": "AGAT Laboratories",
+"location": "Fort McMurray, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4491951228",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Pacer Group",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494700035",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
