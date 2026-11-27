@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T21:43:38+00:00",
+"updated": "2026-11-27T21:53:38+00:00",
 "jobs": [
 {
 "title": "SAP Consultant",
@@ -3089,6 +3089,149 @@
 "years": 5
 },
 {
+"title": "IT Coordinator (Temporary Position)",
+"company": "Spring Living",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=2b48b1bc4454b614",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-coordinator-temporary-position-2b48b1bc4454b614"
+},
+{
+"title": "IT Support Co-op",
+"company": "Stubbe's",
+"location": "Harley, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=13ec41703c5cc0be",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c5888a93-a827-474b-8756-033248eea33b&ccId=19000101_000001&jobId=590743&source=IN&lang=en_CA"
+},
+{
+"title": "Security Analyst MDR tier 2",
+"company": "GoSecure",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=bb5294985b06117c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5d5085c5-5799-40cd-ae96-c7e0621cd1bc&ccId=19000101_000001&jobId=587987&source=IN&lang=en_CA"
+},
+{
+"title": "Automation Specialist",
+"company": "Datarealm",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=27fbc6e929b215e4",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/automation-specialist-27fbc6e929b215e4"
+},
+{
+"title": "Corporate GIS Specialist",
+"company": "Hudbay Minerals",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=4bb2e4dc21d30afc",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://career4.successfactors.com/career?career%5fns=job%5flisting&company=hudbay&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=6685&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=G%2bOSYk1VA9M9olbfhClqeNr1mkmOeF60Rr%2fdae603r0%3d"
+},
+{
+"title": "Fiber Optic Splicer/Technician",
+"company": "Rohl Global",
+"location": "Acheson, AB, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=f645f3bfb3d6caab",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3e37d579-ac53-474f-8136-3f5a66fb1811&ccId=9201410214006_2&jobId=571362&source=IN&lang=en_CA"
+},
+{
+"title": "Programmer Technician (SMT)",
+"company": "Vexos",
+"location": "Markham, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=539b8c6b0c2703fc",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/programmer-technician-smt-539b8c6b0c2703fc"
+},
+{
+"title": "Front Desk & Daycare Associate (Grooming Support)Position",
+"company": "CJSP Kinetic",
+"location": "Saanich, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=88a58603e1631960",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-daycare-associate-grooming-supportposition-88a58603e1631960"
+},
+{
+"title": "Security Analyst MDR tier 2",
+"company": "GoSecure",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=a063cacc6a6bec47",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5d5085c5-5799-40cd-ae96-c7e0621cd1bc&ccId=19000101_000001&jobId=587987&source=IN&lang=en_CA"
+},
+{
+"title": "Security Analyst MDR tier 2",
+"company": "GoSecure",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=a66681aa8198f544",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5d5085c5-5799-40cd-ae96-c7e0621cd1bc&ccId=19000101_000001&jobId=587987&source=IN&lang=en_US"
+},
+{
+"title": "Security Analyst MDR tier 2",
+"company": "GoSecure",
+"location": "Quebec City, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=ab180a55eeb1d586",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5d5085c5-5799-40cd-ae96-c7e0621cd1bc&ccId=19000101_000001&jobId=587987&source=IN&lang=en_US"
+},
+{
+"title": "Quality Assurance Engineer",
+"company": "American Chase LLP",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=3d531acc1dace15b",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "http://www.indeed.com/job/quality-assurance-engineer-3d531acc1dace15b"
+},
+{
+"title": "Professional Fee Coder I",
+"company": "Cleveland Clinic",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=6edb0e85c3d109ef",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.clevelandclinic.org/job/24260147/professional-fee-coder-i-cleveland-oh/"
+},
+{
 "title": "Cloud Security Specialist",
 "company": "Ubisoft",
 "location": "Montreal, QC, Canada",
@@ -3198,6 +3341,16 @@
 "source": "University of Toronto careers",
 "country": "CA",
 "years": 2
+},
+{
+"title": "Network Systems Administrator",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Network-Systems-Administrator-ON/608490017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers",
+"country": "CA",
+"years": 4
 },
 {
 "title": "Security Sales Specialist",
@@ -10651,6 +10804,146 @@
 "years": null
 },
 {
+"title": "Cybersecurity Compliance Analyst",
+"company": "Docebo",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4471198481",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity Governance, Risk and Compliance Specialist-EN",
+"company": "CAE",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4477021163",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste, gouvernance, risque et conformité en cybersécurité",
+"company": "CAE",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4479565922",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ERP Data Specialist",
+"company": "Furlani Foods",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493839878",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste des données",
+"company": "Extia",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493846473",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scrum Master",
+"company": "Fujitsu",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4476903266",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scrum Master, Coach d'équipe",
+"company": "BRP",
+"location": "Sherbrooke, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487504463",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scrum Master",
+"company": "Les Services Conseils ABna Inc.",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495535275",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scrum Master, Team Coach",
+"company": "BRP",
+"location": "Sherbrooke, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4485546135",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Gestionnaire de projet - développement logiciel",
+"company": "Alithya",
+"location": "Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4485539531",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Engineer (Not IT)",
+"company": "Zoomlion Heavy Industry NA, Inc.",
+"location": "Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495546555",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer",
+"company": "Saltworks Technologies: Industrial Water + Lithium",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493828981",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Java Developer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495036850",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer (Internal Tools & Systems)",
+"company": "Helcim",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4418686539",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Research Engineer",
 "company": "Deloitte",
 "location": "Toronto, ON, CA, M5H 0A9",
@@ -17190,7 +17483,7 @@
 "link": "https://www.indeed.com/viewjob?jk=ef6ea841db30db5d",
 "source": "Indeed",
 "country": "US",
-"years": null,
+"years": 5,
 "apply": "https://roboticstechno.com/view_job?mode=apply&id=40175&hr_id=3524"
 },
 {
