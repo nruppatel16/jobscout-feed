@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T17:42:34+00:00",
+"updated": "2026-11-27T17:52:34+00:00",
 "jobs": [
 {
 "title": "Scrum Master, Project management",
@@ -1703,6 +1703,62 @@
 "country": "CA",
 "years": null,
 "apply": "https://www.medicyservices.com/jobs"
+},
+{
+"title": "Consultant, Application Support",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=ba855258427396ce",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--Application-Support_2623747-1"
+},
+{
+"title": "Technicien de support informatique bilingue",
+"company": "AGAT Laboratories",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=f5afc8c952048045",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://agatlaboratories.applytojob.com/apply/uFJEiD601k/Technicien-De-Support-Informatique-Bilingue?source=INDE&~",
+"french": true
+},
+{
+"title": "Business Analyst Supply Chain",
+"company": "Avianor",
+"location": "Mirabel, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=cc489752ad8ea037",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.glowinthecloud.com/avianor/20261126017?l=en&source=Indeed",
+"french": true
+},
+{
+"title": "Systems technical support analyst",
+"company": "Central 1 Credit Union",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50814661",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Payment Solutions Consultant",
+"company": "BS Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=581dd308c12cd7ab",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/payment-solutions-consultant-581dd308c12cd7ab"
 },
 {
 "title": "Cloud Security Specialist",
@@ -8142,6 +8198,156 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4469070081",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "L2 SOC Analyst - Calgary",
+"company": "Integrity360",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495026890",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Application Support Specialist",
+"company": "GHD",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495048088",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Application Specialist - SQILLS",
+"company": "Siemens",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4469486189",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Engineer",
+"company": "Weir Minerals",
+"location": "Fort McMurray, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4476612116",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Directeur, Support Technique et Garanties",
+"company": "Demers Ambulances",
+"location": "Mont-St-Hilaire, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495017807",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Production Engineer, New Graduate Opportunity, (12-month contract)",
+"company": "Siemens",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4486567829",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Quality Assurance",
+"company": "Bombardier",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4461509991",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technicien(ne) assurance qualité",
+"company": "Nova Bus",
+"location": "Saint-Eustache, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487524109",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur d’assurance qualité/Ingénieure d’assurance qualité",
+"company": "Astek",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4471525410",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Payment Operations Analyst",
+"company": "Global Technical Talent, an Inc. 5000 Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493835162",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) Solutions numériques pour cabinets comptables",
+"company": "Acolyte Conseils",
+"location": "Longueuil, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495020925",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "C-GSS-157 Business Intelligence and Applied AI Intern - Sustainable Procurement-EN",
+"company": "CAE",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493824998",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Analyst, Information Security",
+"company": "First National Financial LP",
+"location": "East York, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495029687",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity Controls Testing Analyst, Deloitte Global Technology",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4470949409",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning",
+"company": "Microsoft",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4479814908",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -21270,6 +21476,16 @@
 "years": null
 },
 {
+"title": "Oracle Cloud ERP - Order-to-Cash (O2C) Consultant",
+"company": "Deloitte",
+"location": "Saint John, New Brunswick, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4487212204",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -21558,16 +21774,6 @@
 "link": "https://jobs.ashbyhq.com/nubank/03eb3439-68a5-44fb-b42d-a12e44f6357c",
 "source": "Nubank careers",
 "country": "US",
-"years": null
-},
-{
-"title": "Designer, Web Presence & Platform",
-"company": "Stripe",
-"location": "Canada",
-"posted": "2026-11-24T12:50:29-05:00",
-"link": "https://stripe.com/jobs/search?gh_jid=8397257",
-"source": "Stripe careers",
-"country": "CA",
 "years": null
 }
 ]
