@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:02:35+00:00",
+ "updated": "2026-11-27T17:12:34+00:00",
  "mode": "quick",
  "last_full": "2026-11-27T16:52:35+00:00",
  "searches_run": {
@@ -12,9 +12,9 @@
   "Employer boards": 74,
   "Employer career sites": 133
  },
- "in_feed": 2019,
+ "in_feed": 2018,
  "us_remote_in_feed": 284,
- "quebec_in_feed": 447,
+ "quebec_in_feed": 446,
  "french_in_feed": 70,
  "part_time_in_feed": 46,
  "with_years": 625,
@@ -28,5 +28,5 @@
   "Employer boards": 0,
   "Tech company boards": 0
  },
- "seconds": 24
+ "seconds": 21
 }
