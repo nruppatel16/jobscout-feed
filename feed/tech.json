@@ -1,17 +1,16 @@
 {
-"updated": "2026-11-27T01:42:16+00:00",
+"updated": "2026-11-27T01:52:16+00:00",
 "jobs": [
 {
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
-"location": "Montréal, QC, CA",
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
-"french": true
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
 },
 {
 "title": "Business Analyst",
@@ -25,15 +24,16 @@
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
 },
 {
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
+"location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
+"french": true
 },
 {
 "title": "Security Sales Specialist",
@@ -3521,6 +3521,92 @@
 "years": null
 },
 {
+"title": "Embedded DevOps Co-op Student",
+"company": "Schneider Electric",
+"location": "Victoria, BC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=f4cc0b8dd2ca8f1c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.se.com/jobs/148032/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Design & Sales Engineer (Gas Lift)",
+"company": "TEEMA Group",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=8cd3633bf000b3f7",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://app.workwolf.com/pipelineLink/BAFVBMET?utm_source=indeed"
+},
+{
+"title": "Full Stack .net Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=1de8a1278f809d0e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=40355&hr_id=3897"
+},
+{
+"title": "Software Development Engineer",
+"company": "Amazon",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495233383",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Software Developer",
+"company": "Fortinet",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495233319",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associé(e), Assurance Qualité - Nutrition (Montréal) - Temporaire",
+"company": "Abbott",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=1995ab030ed11b7b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://www.jobs.abbott/us/en/job/ABLAUS31168594ENUSEXTERNAL/Associé-e-Assurance-Qualité-Nutrition-Montréal-Temporaire?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Front End Checkout Team Associate (PT)",
+"company": "Walmart",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=fd7b3f6fa5e50752",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/CAN-AB-EDMONTON-03027-WM-SUPERCENTER/Front-End-Checkout-Team-Associate--PT-_R-2722581",
+"part_time": true
+},
+{
+"title": "Developer – Capital Markets Investment Analytics (1904)",
+"company": "Direct IT Recruiting Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4494986039",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
 "company": "EY",
 "location": "Toronto, ON, CA, M5H 0B3",
@@ -6957,8 +7043,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://www.guichetemplois.gc.ca/jobsearch/offredemploi/50802219",
-"french": true
+"apply": "https://www.guichetemplois.gc.ca/jobsearch/offredemploi/50802219"
 },
 {
 "title": "Financial Planning and Performance Support Consultant",
@@ -15711,6 +15796,96 @@
 "location": "Greater Toronto Area, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494978146",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Full Stack Developer – RevOps",
+"company": "FABSTATION",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495221131",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Learning Technology Specialist-EN",
+"company": "CAE",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4485009163",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst with Charles River",
+"company": "Apptoza Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493452901",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Enterprise Implementation Consultant",
+"company": "Brex",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4405888192",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Conseiller(ère) fonctionnel(le) manufacturier, Business Central/NAV | Business Central/NAV Manufacturing Functional Consultant",
+"company": "Talan",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4461789420",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant(e) bilingue, Solutions logicielles en planification financière- FR",
+"company": "RBC Dominion Securities",
+"location": "Montréal-Ouest, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494949771",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Montréal [Hybrid] - Data Engineer",
+"company": "QUANTEAM - North America (RAINBOW PARTNERS Group)",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493441382",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Architecte TI – Analytique (applications d’entreprise)",
+"company": "Saputo Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4468188155",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Automation – Python ETL SQL (1903) 75-80/hr",
+"company": "Direct IT Recruiting Inc.",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494796007",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -29696,38 +29871,6 @@
 "source": "ClickHouse careers",
 "country": "US",
 "years": 1
-},
-{
-"title": "Analyst, Quality Assurance Coordinator",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Quality-Assurance-Coordinator-Qu%C3%A9b-H4S-1Y9/1390539933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 5,
-"french": true
-},
-{
-"title": "Analyste, Coordonnateur assurance qualité",
-"company": "Bombardier",
-"location": "Dorval, Québec, CA, H4S 1Y9",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Dorval-Analyste%2C-Coordonnateur-assurance-qualit%C3%A9-Qu%C3%A9b-H4S-1Y9/1390539833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null,
-"french": true
-},
-{
-"title": "Visual Merchant, Hardware",
-"company": "OpenAI",
-"location": "Remote · United States",
-"posted": "2026-11-24T01:57:44.565+00:00",
-"link": "https://jobs.ashbyhq.com/openai/d7a54e99-137c-4608-af98-5ff88df54685",
-"source": "OpenAI careers",
-"country": "US",
-"years": null
 }
 ]
 }
