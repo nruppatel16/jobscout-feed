@@ -1,16 +1,17 @@
 {
-"updated": "2026-11-27T01:12:16+00:00",
+"updated": "2026-11-27T01:22:16+00:00",
 "jobs": [
 {
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
+"location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
+"french": true
 },
 {
 "title": "Business Analyst",
@@ -24,16 +25,15 @@
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
 },
 {
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
-"location": "Montréal, QC, CA",
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
-"french": true
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
 },
 {
 "title": "Security Sales Specialist",
@@ -756,7 +756,7 @@
 {
 "title": "Support Analyst Clinical Application",
 "company": "Provincial Health Services Authority (PHSA)",
-"location": "Vancouver, BC, CA",
+"location": "Vancouver, BC, CA (remote)",
 "posted": "2026-11-26",
 "link": "https://ca.indeed.com/viewjob?jk=2eea42cf0880a58e",
 "source": "Indeed",
@@ -3375,6 +3375,147 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4493720014",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Systems and Project Analyst (15 month Contract)",
+"company": "Conexus Nuclear Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=c5cffd03532730ba",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a21c65e-7149-4013-b283-a770a77d7661&ccId=9200970729477_3&jobId=590707&jwId=9200970729477_1&source=IN&lang=en_CA"
+},
+{
+"title": "IT Network and Security Administrator",
+"company": "YMCA of Greater Vancouver",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=d3235d2360af5c99",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2b4cd153-66c2-4524-9a1c-714e9e1780df&ccId=19000101_000001&jobId=609402&source=IN&lang=en_CA"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Saskatoon, SK, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=718a633d78f62611",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us"
+},
+{
+"title": "Software Developer – SQL & Application Support (Global)",
+"company": "Inizio Engage",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=668534fc65f061dd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://inizio.wd3.myworkdayjobs.com/Ashfield_Canada/job/Montreal/Software-Developer---SQL---Application-Support--Global-_JR37110"
+},
+{
+"title": "Technicieen(ne) de service en chantier (sous terre)/Field Service Technician (Underground)",
+"company": "Sandvik",
+"location": "Timmins, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=bc4ef060f379fe3d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://sandvik.wd3.myworkdayjobs.com/en-US/sandvik-jobs/job/Canada-ON-Timmins/Technicieen-ne--de-service-en-chantier--sous-terre--Field-Service-Technician--Underground-_R0099979-1"
+},
+{
+"title": "Technicien de production Albumin Purification Manufacturing Technician (Quart de soir/Evening Shift)",
+"company": "Grifols",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=3e953ff662a72dca",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobsearch.grifols.com/job/Montreal-Technicien-de-production-Albumin-Purification-Manufacturing-Technician-%28Quart-de-soirEvening-Shift%29-QC/1461178233/?feedId=361701",
+"french": true
+},
+{
+"title": "Support Analyst Clinical Application",
+"company": "Sanya’k̓ula",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495028863",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer – SQL & Application Support (Global)",
+"company": "Inizio Engage",
+"location": "Pointe-Claire, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=a39b07b8e38628bb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://inizio.wd3.myworkdayjobs.com/Ashfield_Canada/job/Montreal/Software-Developer---SQL---Application-Support--Global-_JR37110"
+},
+{
+"title": "Co-op Student - Test Department",
+"company": "CPKC",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=9bc5d1e976ba8cd4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.cpr.ca/job/Winnipeg-Co-op-Student-Test-Department-MB-R3B-0X3/608432717/?feedId=421860&utm_source=Indeed&utm_campaign=CPKC_Indeed"
+},
+{
+"title": "Commercial Support Specialist",
+"company": "Bank of America",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=3106fa5ace954abd",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.bankofamerica.com/en-us/job-detail/26040578/commercial-support-specialist-multiple-locations",
+"french": true
+},
+{
+"title": "Reporting & Data Analyst",
+"company": "Strike Group",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495519554",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist, Azure AI Foundry",
+"company": "Experis",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4494969815",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4400874414",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -15490,6 +15631,86 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4484491732",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant SAP PP",
+"company": "CGI",
+"location": "Drummondville, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4487207616",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Technician",
+"company": "Petro Service Limited",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493466438",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Linde",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494692925",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Support Specialist",
+"company": "HGC Noise Vibration Acoustics",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494681184",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Systems Technician",
+"company": "Convergint",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4374152162",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Refrigeration Technician",
+"company": "Berg Industrial Service Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4397312076",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste spécialisé en informatique – Télécommunications (Fortinet)",
+"company": "Santé Québec Est-de-l'Île-de-Montréal - Universitaire",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495215713",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Specialist",
+"company": "Kyndryl",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494978146",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
