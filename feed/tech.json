@@ -1,71 +1,26 @@
 {
-"updated": "2026-11-27T05:11:35+00:00",
+"updated": "2026-11-27T05:21:35+00:00",
 "jobs": [
 {
-"title": "Développeur ARP / RPA Developer",
-"company": "ADP",
-"location": "Etobicoke, ON, CA",
+"title": "Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=5653305b1f605d37",
-"source": "Indeed",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
 "country": "CA",
-"years": null,
-"apply": "https://click.appcast.io/t/OS9V_cdnt8f9AItElJZz5BakpPTiP_6nct25h7AffvI="
+"years": null
 },
 {
-"title": "Développeur ARP / RPA Developer",
-"company": "ADP",
+"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
+"company": "Fusion Alarms",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=47f3fc83d4ff5212",
+"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://click.appcast.io/t/u8B6IKHNpB9oCqTgHyzoaFaYKaB8bbPnGk5LXX4T1_E="
-},
-{
-"title": "E-commerce Customer Experience Specialist",
-"company": "Alberta Boot Company",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
-},
-{
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
-},
-{
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
-},
-{
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
+"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
 "french": true
 },
 {
@@ -81,26 +36,71 @@
 "french": true
 },
 {
-"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
-"company": "Fusion Alarms",
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
 "french": true
 },
 {
-"title": "Network Provisioning Engineer",
-"company": "Mastercard",
-"location": "Waterloo, Belgium",
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
 "posted": "2026-11-27",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
-"source": "Mastercard careers",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
 "country": "CA",
-"years": null
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
+},
+{
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+},
+{
+"title": "E-commerce Customer Experience Specialist",
+"company": "Alberta Boot Company",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
+},
+{
+"title": "Développeur ARP / RPA Developer",
+"company": "ADP",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=47f3fc83d4ff5212",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://click.appcast.io/t/u8B6IKHNpB9oCqTgHyzoaFaYKaB8bbPnGk5LXX4T1_E="
+},
+{
+"title": "Développeur ARP / RPA Developer",
+"company": "ADP",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=5653305b1f605d37",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://click.appcast.io/t/OS9V_cdnt8f9AItElJZz5BakpPTiP_6nct25h7AffvI="
 },
 {
 "title": "Student Intern, Aerospace and Defense, Material Pricing and Product Data",
@@ -4073,6 +4073,37 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4495224920",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate DevOps Engineer",
+"company": "Robert Half",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4494959281",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Access and Security Coordinator",
+"company": "Government of the Northwest Territories",
+"location": "Yellowknife, NT, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=9eadc96db683ff01",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://www.gov.nt.ca/careers/en/job/28640"
+},
+{
+"title": "GPU Programming Software Engineer - Remote",
+"company": "YO HR Consultancy",
+"location": "(remote)",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493489535",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -16712,6 +16743,37 @@
 "country": "US",
 "years": 1,
 "apply": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/44424"
+},
+{
+"title": "Integrated Manufacturing Systems (IMS) Specialist",
+"company": "Sanofi",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=fa5847dd1bdd7ebf",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.sanofi.com/job/-/-/2649/47241293760"
+},
+{
+"title": "HR Systems and Process Specialist",
+"company": "EY",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494939910",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Technology Application Analyst",
+"company": "Canada Cartage",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4473160337",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "AI Developer",
@@ -30644,6 +30706,16 @@
 "source": "Thomson Reuters careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Applications analyst - computer systems",
+"company": "City of Calgary",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50811494",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
