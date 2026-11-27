@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T00:11:56+00:00",
+"updated": "2026-11-27T00:21:56+00:00",
 "jobs": [
 {
 "title": "Business Operations Analyst, Facilities Management Division",
@@ -384,7 +384,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193576&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193576%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ff230d8-e930-11f1-adcd-11d686cc62e9%26rx_job%3DR-0000193576%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193576&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193576%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ff230d8-e930-11f1-adcd-11d686cc62e9%26rx_job%3DR-0000193576%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T000441Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Junior GRC Sales",
@@ -3088,6 +3088,113 @@
 "source": "Ciena careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Supply Chain Application Analyst",
+"company": "West Fraser",
+"location": "Quesnel, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495217721",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "MarkiTech.AI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495542917",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Support Analyst",
+"company": "CSA Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=a17d8384b19ccc27",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://csagroup.wd3.myworkdayjobs.com/en-US/csagroup/job/Toronto/Operations-Support-Analyst_R005107",
+"french": true
+},
+{
+"title": "CAD/CAM Trainer and Clinical Support (Bilingual)",
+"company": "Medline Industries",
+"location": "Quebec City, QC, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=3c815397d9ceb84a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Remote-Quebec/CAD-CAM-Trainer---Clinical-Support---Bilingual-_R2601362",
+"french": true
+},
+{
+"title": "Data Analyst",
+"company": "University of Alberta",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=16794fa077085465",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://iaejup.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/4683"
+},
+{
+"title": "Data Science Intern",
+"company": "Wyvern",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493473336",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Security Analyst - Elite FinTech - $100,000-$140,000 CAD",
+"company": "Hunter Bond",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493467627",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Analyst",
+"company": "MarkiTech.AI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495553283",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Engineer",
+"company": "Athennian",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495229233",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "BILINGUAL MERCHANT SUPPORT REPRESENTATIVE - ENGLISH AND SPANISH",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=7495fb7f82805af5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://millennium-markets-llc.careerplug.com/j/037sg1g",
+"french": true
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -8272,7 +8379,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://career8.successfactors.com/career?career%5fns=job%5flisting&company=indianaoff&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=487449&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=XDCXSvCf5pJfPZlRFFGBFhNPFcrm7%2b4SQrFJbrzmm%2bk%3d"
+"apply": "https://career8.successfactors.com/career?career%5fns=job%5flisting&company=indianaoff&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=487449&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=1qDwY1DbKlQq0x0%2b4Y2AhDwubKTmQrot6M2%2fCEuVqLc%3d"
 },
 {
 "title": "Solutions Consultant - FP&A (Product Implementation) Remote — Full Time Europe",
@@ -9122,7 +9229,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000174067&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000174067%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ea5823b-6107-11f1-bd94-2de51fc588ac%26rx_job%3DR-0000174067%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000174067&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000174067%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ea5823b-6107-11f1-bd94-2de51fc588ac%26rx_job%3DR-0000174067%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T000441Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -9870,7 +9977,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T000414Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508"
 },
 {
 "title": "Service Desk Technician",
@@ -10294,7 +10401,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18520132-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dda597e23-e940-11f1-a230-313ef2dc2adf%26rx_job%3D2619519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619519"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18520132-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dda597e23-e940-11f1-a230-313ef2dc2adf%26rx_job%3D2619519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T000414Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619519"
 },
 {
 "title": "Data Engineer",
@@ -11609,7 +11716,8 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50801823",
 "source": "Job Bank",
 "country": "CA",
-"years": null
+"years": null,
+"part_time": true
 },
 {
 "title": "Technical /Research Support I",
@@ -14927,6 +15035,156 @@
 "location": "Regina, Saskatchewan, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4487218024",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technology Analyst II",
+"company": "Columbia Sportswear Company",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494973075",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Business Analyst",
+"company": "Metrolinx",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494960860",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "UI/UX Designer",
+"company": "BIS Safety Software",
+"location": "Sherwood Park, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4488890196",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Designer",
+"company": "BIS Safety Software",
+"location": "Sherwood Park, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494420209",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Designer graphique et spécialiste du contenu numérique/Graphic Designer & Digital Content Specialist",
+"company": "DEX CLOTHING",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494941396",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Analyst MDR tier 2 - DAY SHIFT (6AM to 2PM)",
+"company": "GoSecure",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493476036",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, Security Operations Centre",
+"company": "Cogeco Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493474069",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer",
+"company": "SoTalent",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493461246",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineer - AI Security",
+"company": "Huawei Canada",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495217595",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Sales Representative- Windsor",
+"company": "Atlas Copco",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4485782576",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Platform Engineer - Reliability - Elite FinTech - $120,000-$250,000 CAD + Bonus",
+"company": "Hunter Bond",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493475020",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "HR Systems and Process Specialist",
+"company": "EY",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494939908",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IAM Advisor",
+"company": "Raise",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495207514",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) / Architecte en cybersécurité (FTA)",
+"company": "SIA Innovations Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495205175",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft 365 & Azure Cloud Specialist",
+"company": "Team Power Solutions",
+"location": "Saskatchewan, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494965244",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -19723,7 +19981,8 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50797071",
 "source": "Job Bank",
 "country": "CA",
-"years": null
+"years": null,
+"french": true
 },
 {
 "title": "Customer support representative - wholesale",
@@ -21267,7 +21526,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNSGT4KUBDRWA3AA%3d%3d%3d%3d"
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNUPQDKJP2HOY3UQ%3d%3d%3d%3d"
 },
 {
 "title": "Digital Experience & Web Specialist",
@@ -22291,7 +22550,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T000414Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464"
 },
 {
 "title": "Technicien informatique H/F",
@@ -24066,7 +24325,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T000414Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491"
 },
 {
 "title": "Level 2 Help Desk Analyst",
@@ -28790,7 +29049,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3658&rx_jobId=R10262127&rx_url=https%3A%2F%2Fjobs.northropgrumman.com%2Fcareers%2Fjob%2F1340075550820%3Fcode%3DJB-17946%26domain%3Dngc.com%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D288254%26rx_id%3D0723d181-e995-11f1-b468-2941f9330596%26rx_job%3DR10262127%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220429Z%26rx_vp%3Dcpc%26source%3DJB-17946%26utm_audience%3Dprospectivetalentemployees%26utm_campaign%3Dta-general%26utm_content%3Djobfeed%26utm_format%3Dcpl%26utm_medium%3Djobboard%26utm_source%3Dindeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3658&rx_jobId=R10262127&rx_url=https%3A%2F%2Fjobs.northropgrumman.com%2Fcareers%2Fjob%2F1340075550820%3Fcode%3DJB-17946%26domain%3Dngc.com%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D288254%26rx_id%3D0723d181-e995-11f1-b468-2941f9330596%26rx_job%3DR10262127%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T000516Z%26rx_vp%3Dcpc%26source%3DJB-17946%26utm_audience%3Dprospectivetalentemployees%26utm_campaign%3Dta-general%26utm_content%3Djobfeed%26utm_format%3Dcpl%26utm_medium%3Djobboard%26utm_source%3Dindeed"
 },
 {
 "title": "Customer Master Data Representative",
