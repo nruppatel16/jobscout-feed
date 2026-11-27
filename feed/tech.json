@@ -1,17 +1,16 @@
 {
-"updated": "2026-11-27T02:02:17+00:00",
+"updated": "2026-11-27T02:12:16+00:00",
 "jobs": [
 {
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
-"location": "Montréal, QC, CA",
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
-"french": true
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
 },
 {
 "title": "Business Analyst",
@@ -25,15 +24,36 @@
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
 },
 {
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
+"location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Student Intern, Aerospace and Defense, Material Pricing and Product Data",
+"company": "Celestica",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27T02:02:00+00:00",
+"link": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Aerospace-and-Defense%2C-Material-Pricing-and-Product-Data-ON/1452685833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Celestica careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student Intern, Process and Applications (SCM)",
+"company": "Celestica",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27T02:02:00+00:00",
+"link": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Process-and-Applications-%28SCM%29-ON/1452625733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Celestica careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Design Engineer",
@@ -54,6 +74,17 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Business Analyst II (Learning Specialist)",
+"company": "TELUS",
+"location": "Montréal, QC, CA, H3B 1S6",
+"posted": "2026-11-27T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Business-Analyst-II-%28Learning-Specialist%29-QC-H3B-1S6/607490217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers",
+"country": "CA",
+"years": null,
+"french": true
 },
 {
 "title": "Security Sales Specialist",
@@ -29881,16 +29912,6 @@
 "source": "OpenAI careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Account Executive, AI Native",
-"company": "ClickHouse",
-"location": "Remote · United States",
-"posted": "2026-11-24T02:08:58.238+00:00",
-"link": "https://jobs.ashbyhq.com/clickhouse/d2d57fe8-0fe1-4436-b646-d361493e3b9b",
-"source": "ClickHouse careers",
-"country": "US",
-"years": 1
 }
 ]
 }
