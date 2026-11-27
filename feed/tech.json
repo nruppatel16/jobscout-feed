@@ -1,16 +1,49 @@
 {
-"updated": "2026-11-27T03:41:35+00:00",
+"updated": "2026-11-27T03:51:35+00:00",
 "jobs": [
 {
-"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
-"company": "Fusion Alarms",
-"location": "Montréal, QC, CA",
+"title": "E-commerce Customer Experience Specialist",
+"company": "Alberta Boot Company",
+"location": "Calgary, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
+"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
+"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
+},
+{
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
+},
+{
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
 "french": true
 },
 {
@@ -26,49 +59,16 @@
 "french": true
 },
 {
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
+"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
+"company": "Fusion Alarms",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
-"french": true
-},
-{
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
-},
-{
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
-},
-{
-"title": "E-commerce Customer Experience Specialist",
-"company": "Alberta Boot Company",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
+"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
+"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
+"french": true
 },
 {
 "title": "Student Intern, Aerospace and Defense, Material Pricing and Product Data",
@@ -3886,6 +3886,60 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Integrations Developer",
+"company": "StackAdapt",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4451550205",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Specialist (Computer Services Officer 3)",
+"company": "Province of Nova Scotia",
+"location": "Halifax, NS, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=e4037c7bbb5e5d25",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.novascotia.ca/job/HALIFAX-Technical-Specialist-%28Computer-Services-Officer-3%29-NS-B3K-2A6/608443017/"
+},
+{
+"title": "Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-26",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Service Representative Support",
+"company": "BMO Financial Group",
+"location": "Sault Ste. Marie, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=5cf4ed62b32be49f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Sault-Ste-Marie-ON-CAN/Customer-Service-Representative-Support_R260032259",
+"part_time": true
+},
+{
+"title": "Technical Support Specialist",
+"company": "Applied Biological Materials Inc.",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=e9d6525f7c3e6305",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://abmgood.bamboohr.com/careers/160?source=indeed&src=indeed&postedDate=2026-11-26"
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -16397,6 +16451,96 @@
 "location": "Oshawa, Ontario, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4414694317",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consumer Activation & Tech Specialist",
+"company": "Rogers Communications",
+"location": "Nanaimo, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494969257",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste-Programmeur",
+"company": "NOVIPRO",
+"location": "St-Hyacinthe, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494979151",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrateur ServiceNow",
+"company": "Pomerleau",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4470220744",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "HR Systems and Process Specialist",
+"company": "EY",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494939907",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Government of Manitoba",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495226044",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Threat and Vulnerability Management Analyst",
+"company": "nesto",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495218658",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "PwC Canada",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494965167",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Specialist",
+"company": "Global Technical Talent, an Inc. 5000 Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493469029",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Specialist",
+"company": "Dexian",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494966389",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -29182,16 +29326,6 @@
 "years": null
 },
 {
-"title": "Integrations Developer",
-"company": "StackAdapt",
-"location": "",
-"posted": "2026-11-24",
-"link": "https://www.linkedin.com/jobs/view/4451550205",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
 "title": "Développeur(se) Apache NiFi – Plateforme de données",
 "company": "Onepoint",
 "location": "Montreal, Quebec, Canada",
@@ -30361,16 +30495,6 @@
 "link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Directeur%28trice%29%2C-Solutions-li%C3%A9es-%C3%A0-la-plateforme-technologique-d'entreprise-et-%C3%A0-l'IA-agentique-SAP-ON-M5H-0A9/1396648100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Deloitte careers",
 "country": "CA",
-"years": null
-},
-{
-"title": "Applied AI Engineer, Mid-Market Enterprise",
-"company": "OpenAI",
-"location": "Remote · United States",
-"posted": "2026-11-24T03:59:07.806+00:00",
-"link": "https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4",
-"source": "OpenAI careers",
-"country": "US",
 "years": null
 }
 ]
