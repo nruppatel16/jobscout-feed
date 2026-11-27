@@ -1,6 +1,28 @@
 {
-"updated": "2026-11-27T00:42:16+00:00",
+"updated": "2026-11-27T00:52:16+00:00",
 "jobs": [
+{
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
+},
 {
 "title": "Business Operations Analyst, Facilities Management Division",
 "company": "Strathmore Facilities Management Inc",
@@ -2598,7 +2620,8 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50810144",
 "source": "Job Bank",
 "country": "CA",
-"years": null
+"years": null,
+"part_time": true
 },
 {
 "title": "Analyste d'affaires / Fonctionnel SAP MM/SD",
@@ -3195,6 +3218,166 @@
 "years": null,
 "apply": "https://millennium-markets-llc.careerplug.com/j/037sg1g",
 "french": true
+},
+{
+"title": "Quality Control Technician",
+"company": "Decibel Cannabis Company",
+"location": "Chatham-Kent, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=38444168447141f1",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=de43ca32-c600-4cca-b40a-3be4d86c42f3&ccId=19000101_000001&jobId=923664&source=IN&lang=en_CA"
+},
+{
+"title": "Intermediate Specialist, IT Operations",
+"company": "Aecon Group Inc.",
+"location": "Cambridge, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=65e30d3c25d72966",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.aecon.com/job/Cambridge-Intermediate-Specialist%2C-IT-Operations-ON/608441117/"
+},
+{
+"title": "Business Intelligence Analyst II - Contract",
+"company": "TP",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=774b0b8e6a95deb7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://onetp.wd1.myworkdayjobs.com/Teleperformance/job/TPCA-Toronto/Business-Intelligence-Analyst-II---Contract_REQ-2026-62791"
+},
+{
+"title": "Cyber Security Analyst Contract 10 Months",
+"company": "Woodbine Entertainment",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=df510a232d671fd2",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://woodbineentertainment.wd10.myworkdayjobs.com/EXT/job/Etobicoke-Ontario/Cyber-Security-Analyst-Contract-10-Months_JR1374"
+},
+{
+"title": "Technical Support Agent",
+"company": "AutoDS",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=28e1473e05d2624b",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://job-boards.greenhouse.io/autods/jobs/5495187008"
+},
+{
+"title": "Oracle Technical Analyst",
+"company": "Stantec",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=ec3acdd186b08d1a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://rr.jobsyn.org/14F6F61C96084E179C51819119C299821554"
+},
+{
+"title": "Intégrateur Microsoft Dynamics 365",
+"company": "COFOMO",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495231201",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Agent - Orders Team",
+"company": "AutoDS",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=7236d77ea89113c0",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://job-boards.greenhouse.io/autods/jobs/5495191008"
+},
+{
+"title": "Customer Support Agent - Billing Team",
+"company": "AutoDS",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=eb2db96e928acd49",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://job-boards.greenhouse.io/autods/jobs/5495210008"
+},
+{
+"title": "Intermediate Field Service Technician – Industrial Automation & Controls",
+"company": "SIC Automation INC",
+"location": "Guelph, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=32bae147b0956997",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://secure.collage.co/jobs/sicautomation/67404?origin=indeed"
+},
+{
+"title": "AI Product Designer",
+"company": "DURABLE",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=987e1b0966c9a545",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.collage.co/jobs/durable/67403?origin=indeed"
+},
+{
+"title": "GIS Analyst - Windsor and London",
+"company": "Dillon Consulting Limited",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495236149",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Support Technician",
+"company": "Fix Network World",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493471435",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Specialist",
+"company": "ScalePad",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4494979406",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste informatique",
+"company": "Hydro Québec",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493720014",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -5010,7 +5193,8 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50802130",
 "source": "Job Bank",
 "country": "CA",
-"years": null
+"years": null,
+"part_time": true
 },
 {
 "title": "Customer support representative - wholesale",
@@ -5020,7 +5204,8 @@
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50801815",
 "source": "Job Bank",
 "country": "CA",
-"years": null
+"years": null,
+"part_time": true
 },
 {
 "title": "Directeur(trice) adjoint(e) - Gestion des données TI",
@@ -15185,6 +15370,126 @@
 "location": "Saskatchewan, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494965244",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(se) Java",
+"company": "Arobas Personnel",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494977065",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Quality Analyst",
+"company": "IT Connex",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494974213",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Go-to-Market Engineer (AI & Sales Automation)",
+"company": "OneRiver Software",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494952346",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP BTP Integration Suite Consultant (Healthcare)",
+"company": "Alteris Consulting",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494914788",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur sénior – ABAP",
+"company": "Astek",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494924944",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Artificial Intelligence Engineer",
+"company": "TMC Canada",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493449882",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI/ML & Data Platform Specialist- Snowflake/ Databricks",
+"company": "Accenture",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4481175161",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Machine Learning and Quantum Information Systems Specialist",
+"company": "TRIUMF",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4414940137",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Engineer",
+"company": "Valtech",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495205335",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Technology Specialist( .Net/ AWS /Banking)",
+"company": "BMO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4481275385",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consumer Activation & Tech Specialist",
+"company": "Rogers Communications",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494957695",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Specialist, Clerky",
+"company": "Stripe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4484491732",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -29201,16 +29506,6 @@
 "link": "https://jobs.ashbyhq.com/openai/d7a54e99-137c-4608-af98-5ff88df54685",
 "source": "OpenAI careers",
 "country": "US",
-"years": null
-},
-{
-"title": "Software Engineer II",
-"company": "Samsara",
-"location": "Remote - Canada",
-"posted": "2026-11-23T19:47:17-05:00",
-"link": "https://www.samsara.com/company/careers/roles/8412814?gh_jid=8412814",
-"source": "Samsara careers",
-"country": "CA",
 "years": null
 }
 ]
