@@ -1,56 +1,135 @@
 {
-"updated": "2026-11-27T06:11:35+00:00",
+"updated": "2026-11-27T06:21:35+00:00",
 "jobs": [
 {
-"title": "Spécialiste des applications infonuagiques",
+"title": "SAP Basis Consultant - Operate",
+"company": "Deloitte",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=88b94460363bec38",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://careers.deloitte.ca/job/SAP-Basis-Consultant-Operate/136047-en_US"
+},
+{
+"title": "Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-27",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
+"company": "Fusion Alarms",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
+"french": true
+},
+{
+"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
+"company": "Fusion Alarms",
+"location": "Gatineau, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=42241790c3b8d419",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-42241790c3b8d419",
+"french": true
+},
+{
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
+"french": true
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
+},
+{
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+},
+{
+"title": "E-commerce Customer Experience Specialist",
+"company": "Alberta Boot Company",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
+},
+{
+"title": "Développeur ARP / RPA Developer",
+"company": "ADP",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=47f3fc83d4ff5212",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://click.appcast.io/t/u8B6IKHNpB9oCqTgHyzoaFaYKaB8bbPnGk5LXX4T1_E="
+},
+{
+"title": "Développeur ARP / RPA Developer",
+"company": "ADP",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=5653305b1f605d37",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://click.appcast.io/t/OS9V_cdnt8f9AItElJZz5BakpPTiP_6nct25h7AffvI="
+},
+{
+"title": "Information Security Analyst",
+"company": "DLA Piper",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=7892981cdc7cadd7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=553357&source=IN&lang=en_CA"
+},
+{
+"title": "Information Security Analyst",
 "company": "DLA Piper",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=a0c432a63b080a45",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=fr_CA"
-},
-{
-"title": "Spécialiste des applications infonuagiques",
-"company": "DLA Piper",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=ee6cfa2191799cf3",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=fr_CA"
-},
-{
-"title": "Spécialiste des applications infonuagiques",
-"company": "DLA Piper",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=aa29715c79e113c9",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=fr_CA"
-},
-{
-"title": "Cloud Applications Specialist",
-"company": "DLA Piper",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=ee65040bbb72707d",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA"
-},
-{
-"title": "Information Security Analyst",
-"company": "DLA Piper",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=27ed46df81d19804",
+"link": "https://ca.indeed.com/viewjob?jk=7c038243f3cf1dd2",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
@@ -59,31 +138,54 @@
 {
 "title": "Cloud Applications Specialist",
 "company": "DLA Piper",
-"location": "Calgary, AB, CA",
+"location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=af0066c6aa992e93",
+"link": "https://ca.indeed.com/viewjob?jk=e213fb3eb210d1e0",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA"
 },
 {
-"title": "Information Security Analyst",
+"title": "Spécialiste des applications infonuagiques",
 "company": "DLA Piper",
 "location": "Calgary, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=52adb8866999d568",
+"link": "https://ca.indeed.com/viewjob?jk=5997d212b84f8e19",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=fr_CA"
+},
+{
+"title": "Information Security Analyst",
+"company": "DLA Piper",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=dfd8ac79651c1f96",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=553357&source=IN&lang=en_CA"
 },
 {
+"title": "Geomatics Plan Technician",
+"company": "Ministry Of Transportation Ontario",
+"location": "North Bay, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=e7d25ee445168836",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&JobID=251313",
+"french": true
+},
+{
 "title": "Cloud Applications Specialist",
 "company": "DLA Piper",
-"location": "Edmonton, AB, CA",
+"location": "Vancouver, BC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=0ab1ded0c11183af",
+"link": "https://ca.indeed.com/viewjob?jk=f657f05299ca1ccd",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
@@ -103,181 +205,90 @@
 {
 "title": "Cloud Applications Specialist",
 "company": "DLA Piper",
-"location": "Vancouver, BC, CA",
+"location": "Edmonton, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=f657f05299ca1ccd",
+"link": "https://ca.indeed.com/viewjob?jk=0ab1ded0c11183af",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA"
 },
 {
-"title": "Geomatics Plan Technician",
-"company": "Ministry Of Transportation Ontario",
-"location": "North Bay, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=e7d25ee445168836",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://www.gojobs.gov.on.ca/Preview.aspx?Language=English&JobID=251313",
-"french": true
-},
-{
 "title": "Information Security Analyst",
 "company": "DLA Piper",
-"location": "Vancouver, BC, CA",
+"location": "Calgary, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=dfd8ac79651c1f96",
+"link": "https://ca.indeed.com/viewjob?jk=52adb8866999d568",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=553357&source=IN&lang=en_CA"
 },
 {
-"title": "Spécialiste des applications infonuagiques",
+"title": "Cloud Applications Specialist",
 "company": "DLA Piper",
 "location": "Calgary, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=5997d212b84f8e19",
+"link": "https://ca.indeed.com/viewjob?jk=af0066c6aa992e93",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA"
+},
+{
+"title": "Information Security Analyst",
+"company": "DLA Piper",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=27ed46df81d19804",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=553357&source=IN&lang=en_CA"
+},
+{
+"title": "Cloud Applications Specialist",
+"company": "DLA Piper",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=ee65040bbb72707d",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA"
+},
+{
+"title": "Spécialiste des applications infonuagiques",
+"company": "DLA Piper",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=aa29715c79e113c9",
 "source": "Indeed",
 "country": "CA",
 "years": null,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=fr_CA"
 },
 {
-"title": "Cloud Applications Specialist",
-"company": "DLA Piper",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=e213fb3eb210d1e0",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA"
-},
-{
-"title": "Information Security Analyst",
-"company": "DLA Piper",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=7c038243f3cf1dd2",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=553357&source=IN&lang=en_CA"
-},
-{
-"title": "Information Security Analyst",
+"title": "Spécialiste des applications infonuagiques",
 "company": "DLA Piper",
 "location": "Edmonton, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=7892981cdc7cadd7",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=553357&source=IN&lang=en_CA"
-},
-{
-"title": "Développeur ARP / RPA Developer",
-"company": "ADP",
-"location": "Etobicoke, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=5653305b1f605d37",
+"link": "https://ca.indeed.com/viewjob?jk=ee6cfa2191799cf3",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://click.appcast.io/t/OS9V_cdnt8f9AItElJZz5BakpPTiP_6nct25h7AffvI="
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=fr_CA"
 },
 {
-"title": "Développeur ARP / RPA Developer",
-"company": "ADP",
+"title": "Spécialiste des applications infonuagiques",
+"company": "DLA Piper",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=47f3fc83d4ff5212",
+"link": "https://ca.indeed.com/viewjob?jk=a0c432a63b080a45",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://click.appcast.io/t/u8B6IKHNpB9oCqTgHyzoaFaYKaB8bbPnGk5LXX4T1_E="
-},
-{
-"title": "E-commerce Customer Experience Specialist",
-"company": "Alberta Boot Company",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
-},
-{
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
-},
-{
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
-},
-{
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
-"french": true
-},
-{
-"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
-"company": "Fusion Alarms",
-"location": "Gatineau, QC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=42241790c3b8d419",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-42241790c3b8d419",
-"french": true
-},
-{
-"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
-"company": "Fusion Alarms",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
-"french": true
-},
-{
-"title": "Network Provisioning Engineer",
-"company": "Mastercard",
-"location": "Waterloo, Belgium",
-"posted": "2026-11-27",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
-"source": "Mastercard careers",
-"country": "CA",
-"years": null
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=fr_CA"
 },
 {
 "title": "Student Intern, Aerospace and Defense, Material Pricing and Product Data",
@@ -721,7 +732,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193576&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193576%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ff230d8-e930-11f1-adcd-11d686cc62e9%26rx_job%3DR-0000193576%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T040406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193576&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193576%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ff230d8-e930-11f1-adcd-11d686cc62e9%26rx_job%3DR-0000193576%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T060410Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Junior GRC Sales",
@@ -4199,7 +4210,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192568&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192568%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Daabdc183-e9d7-11f1-8115-25a6b7ead886%26rx_job%3DR-0000192568%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T040406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192568&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192568%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Daabdc183-e9d7-11f1-8115-25a6b7ead886%26rx_job%3DR-0000192568%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T060410Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Web developer",
@@ -4347,6 +4358,67 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Security Readiness & Assurance Coordinator (Full Time, Permanent) Remote within Manitoba",
+"company": "Access Credit Union",
+"location": "CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=433640452ac36fd9",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://accesscu.wd3.myworkdayjobs.com/en-US/Access_Careers/job/Corporate-Office-Manitoba/Security-Readiness---Assurance-Coordinator--Full-Time--Permanent--Remote-within-Manitoba_JR100873"
+},
+{
+"title": "Internship – AI Developer (5 positions) (IMS/ADB)",
+"company": "International Civil Aviation Organization",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4491700527",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "L'ingénieur en apprentissage automatique",
+"company": "Wawanesa Insurance",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495226279",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Vulnerability Management Operations Analyst",
+"company": "Astek",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493480833",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Research Engineer",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-11-26T08:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-AI-Research-Engineer-ON-M5H-0A9/1319229600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Salesforce Developer - Digital Customer : Future Opportunities",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-11-26T08:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Salesforce-Developer-Digital-Customer-Future-Opportunities-ON-M5H-0A9/1434982700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": 3
 },
 {
 "title": "Consultant, Deal Technology (Toronto, Calgary, Vancouver)",
@@ -9522,7 +9594,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://career8.successfactors.com/career?career%5fns=job%5flisting&company=indianaoff&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=487449&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=1qDwY1DbKlQq0x0%2b4Y2AhDwubKTmQrot6M2%2fCEuVqLc%3d"
+"apply": "https://career8.successfactors.com/career?career%5fns=job%5flisting&company=indianaoff&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=487449&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=oR0a9Jpps2Wxi6ia%2brcd4f2%2bEYBCzz1fAL72Q5LDGNE%3d"
 },
 {
 "title": "Solutions Consultant - FP&A (Product Implementation) Remote — Full Time Europe",
@@ -10372,7 +10444,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000174067&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000174067%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ea5823b-6107-11f1-bd94-2de51fc588ac%26rx_job%3DR-0000174067%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T040406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000174067&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000174067%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ea5823b-6107-11f1-bd94-2de51fc588ac%26rx_job%3DR-0000174067%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T060410Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -11120,7 +11192,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T040402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T060402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508"
 },
 {
 "title": "Service Desk Technician",
@@ -11533,7 +11605,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01888142&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01888142%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Df775bbbd-e940-11f1-8843-313ef2dc2adf%26rx_job%3D01888142%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T020455Z%26rx_vp%3Dcpc"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01888142&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01888142%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Df775bbbd-e940-11f1-8843-313ef2dc2adf%26rx_job%3D01888142%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T060408Z%26rx_vp%3Dcpc"
 },
 {
 "title": "Cybersecurity Specialist",
@@ -11544,7 +11616,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18520132-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dda597e23-e940-11f1-a230-313ef2dc2adf%26rx_job%3D2619519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T040402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619519"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18520132-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dda597e23-e940-11f1-a230-313ef2dc2adf%26rx_job%3D2619519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T060402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619519"
 },
 {
 "title": "Data Engineer",
@@ -17031,6 +17103,37 @@
 "location": "Sainte-Anne-de-Bellevue, Quebec, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494964713",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Revenue Support Coordinator",
+"company": "McDougall Energy",
+"location": "Sault Ste. Marie, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=27513ac24ba0f399",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bd2deb3f-294a-4859-80d0-5dda8eda7e4d&ccId=273902401276_4270&jobId=601033&source=IN&lang=en_CA"
+},
+{
+"title": "Technical Specialist - Active Medical Devices",
+"company": "BSI",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4427214580",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Dynamics/Power platform engineer",
+"company": "Epsilon Solutions Ltd.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494689745",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -26161,7 +26264,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T040402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T060402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491"
 },
 {
 "title": "Level 2 Help Desk Analyst",
@@ -30875,7 +30978,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3658&rx_jobId=R10262127&rx_url=https%3A%2F%2Fjobs.northropgrumman.com%2Fcareers%2Fjob%2F1340075550820%3Fcode%3DJB-17946%26domain%3Dngc.com%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D288254%26rx_id%3D0723d181-e995-11f1-b468-2941f9330596%26rx_job%3DR10262127%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T040417Z%26rx_vp%3Dcpc%26source%3DJB-17946%26utm_audience%3Dprospectivetalentemployees%26utm_campaign%3Dta-general%26utm_content%3Djobfeed%26utm_format%3Dcpl%26utm_medium%3Djobboard%26utm_source%3Dindeed"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3658&rx_jobId=R10262127&rx_url=https%3A%2F%2Fjobs.northropgrumman.com%2Fcareers%2Fjob%2F1340075550820%3Fcode%3DJB-17946%26domain%3Dngc.com%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D288254%26rx_id%3D0723d181-e995-11f1-b468-2941f9330596%26rx_job%3DR10262127%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T060416Z%26rx_vp%3Dcpc%26source%3DJB-17946%26utm_audience%3Dprospectivetalentemployees%26utm_campaign%3Dta-general%26utm_content%3Djobfeed%26utm_format%3Dcpl%26utm_medium%3Djobboard%26utm_source%3Dindeed"
 },
 {
 "title": "Customer Master Data Representative",
