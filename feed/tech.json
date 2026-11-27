@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T16:42:34+00:00",
+"updated": "2026-11-27T16:52:35+00:00",
 "jobs": [
 {
 "title": "Scrum Master, Project management",
@@ -1308,6 +1308,269 @@
 "source": "Job Bank",
 "country": "CA",
 "years": null
+},
+{
+"title": "Technicien(ne) en informatique (2 positions)",
+"company": "Kativik School Board",
+"location": "Nunavik, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=f1d81c34018d4626",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.kativik.qc.ca/job-posting/technicienne-en-informatique-2-positions/"
+},
+{
+"title": "Technicien(ne) informatique (niveau 2)",
+"company": "i2p Informatique d'Entreprise",
+"location": "Terrebonne, QC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=7601728e0500bdf3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technicienne-informatique-niveau-2-7601728e0500bdf3"
+},
+{
+"title": "Analyst, Data Science & AI developper",
+"company": "Bombardier",
+"location": "Dorval, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=4a39ebfa84117c5b",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Data-Science-&-AI-developper-Qu%C3%A9b-H4S-1Y9/1420955833/?feedId=383233&utm_source=Indeed"
+},
+{
+"title": "Analyst, Data Science & AI",
+"company": "Bombardier",
+"location": "Dorval, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=84bcb01dfd5739ea",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Data-Science-&-AI-Qu%C3%A9b-H4S-1Y9/1420904733/?feedId=383233&utm_source=Indeed"
+},
+{
+"title": "Arts & Sciences Instructor(s) - Computer Sciences 101 (26:191)",
+"company": "Northern Lights College",
+"location": "Fort St. John, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=fa021eb8317122f0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://nlcbc.prevueaps.ca/jobs/32057-10116.html"
+},
+{
+"title": "Computer Technician (2 positions)",
+"company": "Kativik School Board",
+"location": "Nunavik, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=c07034c8a3e11e3a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.kativik.qc.ca/en/job-posting/computer-technician-2-positions/"
+},
+{
+"title": "Technician, telecommunications",
+"company": "S.S.P. TÉLÉCOM",
+"location": "Trois-Rivières, Quebec, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50814070",
+"source": "Job Bank",
+"country": "CA",
+"years": 1,
+"french": true
+},
+{
+"title": "Cyber Security Analyst",
+"company": "",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=670a03f0a28cc7aa",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/cyber-security-analyst-670a03f0a28cc7aa"
+},
+{
+"title": "Technical Writer",
+"company": "Bombardier",
+"location": "Dorval, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=eb066480d9153fb7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.bombardier.com/job/Dorval-Technical-Writer-Qu%C3%A9b-H4S-1Y9/1420885633/?feedId=383233&utm_source=Indeed"
+},
+{
+"title": "Technical & Tools Consultant – Epicor Kinetic (Application Studio, BAQ, BPM & Integrations) – 100% Remote",
+"company": "Teccweb Solutions",
+"location": "Lévis, QC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=2269607260529463",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://grnh.se/hylxme6e1us"
+},
+{
+"title": "Inventory - Field Data Collector",
+"company": "Acosta Group",
+"location": "Saint John, NB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=e659abd4311088dd",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://eczy.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/45350",
+"part_time": true
+},
+{
+"title": "Electronic commerce (e-commerce) Web site developer",
+"company": "Drops of Jupiter",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50814062",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Python/Ai Developer",
+"company": "Capgemini",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=aa3437344ebf454d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://www.capgemini.com/jobs/604282-en_US_SAPBTP/"
+},
+{
+"title": "Functional Consultant – Epicor Kinetic (Operations & Supply Chain) – 100% Remote",
+"company": "Teccweb Solutions",
+"location": "Saint-Georges, QC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f17c25406643644",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://grnh.se/2buz3cg01us"
+},
+{
+"title": "Scrum Master",
+"company": "Desjardins",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=3d8b1b62357cd6c8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://desjardins-workplace.relevance.studio/fr/job-detail/2-4128afede6601001ec8de608332b0000-scrum-master-montreal?source=Indeed"
+},
+{
+"title": "Functional Consultant – Epicor Kinetic (Operations & Supply Chain) – 100% Remote",
+"company": "Teccweb Solutions",
+"location": "Longueuil, QC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d998eadf5de88db9",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://grnh.se/2buz3cg01us"
+},
+{
+"title": "Mainframe Modernization Engineer",
+"company": "NextAmp LLC",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=2aa04593dc53f014",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/mainframe-modernization-engineer-2aa04593dc53f014"
+},
+{
+"title": "Technical Data Controller - Stock - Inventory Audits",
+"company": "Air Canada",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=1c021b75e7ee4d95",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.aircanada.com/ca/en/job/AIPACICA40602EXTERNALENCA/Technical-Data-Controller-Stock-Inventory-Audits?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Technical & Tools Consultant – Epicor Kinetic (Application Studio, BAQ, BPM & Integrations) – 100% Remote",
+"company": "Teccweb Solutions",
+"location": "Boucherville, QC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d22b1b535e66648b",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://grnh.se/hylxme6e1us"
+},
+{
+"title": "Functional Consultant – Epicor Kinetic (Finance & Operations Costing) – 100% Remote",
+"company": "Teccweb Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=e4628609bb82d473",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/6wz9idl01us"
+},
+{
+"title": "Technical & Tools Consultant – Epicor Kinetic (Application Studio, BAQ, BPM & Integrations) – 100% Remote",
+"company": "Teccweb Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=2a22e7a217186b5a",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/hylxme6e1us"
+},
+{
+"title": "Production Support",
+"company": "The Record Jacket Corporation",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=ab22ece77fcbb1b8",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://gethired.com/job/production-support-11?rcid=inply"
+},
+{
+"title": "Technical Data Controller - Inventory Audits",
+"company": "Air Canada",
+"location": "Dorval, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=c6842f2248c6c0c3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.aircanada.com/ca/en/job/AIPACICA40629EXTERNALENCA/Technical-Data-Controller-Inventory-Audits?utm_source=indeed&utm_medium=phenom-feeds"
+},
+{
+"title": "Artificial intelligence (AI) designer",
+"company": "Aplicata Technologies Inc.",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50814077",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Cloud Security Specialist",
@@ -7351,6 +7614,257 @@
 "years": null
 },
 {
+"title": "Analyste en infrastructure réseau",
+"company": "Canam",
+"location": "St-Georges, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4494918606",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste fonctionnel BI – Données & Intelligence d’affaires",
+"company": "CGI",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4479758154",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SERVICE BOILER TECH (Top Performer Role)",
+"company": "Triple G Mechanical Ltd",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=15c501d63ce0aab1",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/service-boiler-tech-top-performer-role-15c501d63ce0aab1"
+},
+{
+"title": "Spécialiste, plateforme Azure et intégration",
+"company": "KPMG Canada",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487589864",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Montreal [Hybrid] Python and React FullStack Developer",
+"company": "QUANTEAM - North America (RAINBOW PARTNERS Group)",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493826544",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur·euse sénior de logiciels I",
+"company": "Aylo",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495519149",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python Developer",
+"company": "LanceSoft, Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4256558730",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python Scala Developer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495035138",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python & Talend ETL Developer – Banking",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495025544",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Engineer",
+"company": "Magnet Forensics",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487537886",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Engineer",
+"company": "Magnet Forensics",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487549407",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual One Port User Support Analyst",
+"company": "KPMG Canada",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4452141516",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft 365 administrator",
+"company": "Apptoza Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493838220",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "End User Services Specialist",
+"company": "CI Financial",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495507967",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Support Specialist",
+"company": "Western University",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495507572",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Engineer",
+"company": "RBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495516414",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, S3 Discovery",
+"company": "Amazon Web Services (AWS)",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4470658050",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste, plateforme Azure et intégration",
+"company": "KPMG Canada",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487700338",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Analyst",
+"company": "Co-operators Assurance et services financiers",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495027835",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Business Analyst",
+"company": "Collabera",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493844180",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual One Port User Support Analyst",
+"company": "KPMG Canada",
+"location": "Sault Ste. Marie, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4452148448",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Software Engineer",
+"company": "Steadman Brown",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493822834",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant - CRM Financial Services",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4470665301",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Azure Platform & Integration Specialist",
+"company": "KPMG Canada",
+"location": "North Bay, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487701300",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Spécialiste, plateforme Azure et intégration",
+"company": "KPMG Canada",
+"location": "St John’s, Newfoundland and Labrador, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487591950",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "AI Research Engineer",
 "company": "Deloitte",
 "location": "Toronto, ON, CA, M5H 0A9",
@@ -11890,7 +12404,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/iF4FckljSjvOwHy9MsUTUg1HUmogcVKkkpllEKSkp4o#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/sW5xnr7DlebXlZy-9LTqEswQODj4Qi6CVgg_7Oqb568#.job_boards.Indeed"
 },
 {
 "title": "SAS Data Valorization Analyst",
@@ -11935,7 +12449,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/uPwQoDONYG4f0J3i4jgQtRg-dKUsHYX1XDALcoxydWI#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/E5rtG-kYQjta0m-ZOerXl08K3tAnFEKfkkp_ss5meso#.job_boards.Indeed"
 },
 {
 "title": "Information Management System Admin Support Specialist (SDx/SPF)",
@@ -13450,7 +13964,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://candidateportal.ceipal.com/job-details/zhrlL5ozQUTnNusOsp-ycmbNygUTM2Q0IeLafhWKUn0#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/CcwZO2hUl4gLguB_jHyaZNRAG_2AAkToZC-ll3Njss0#.job_boards.Indeed",
 "french": true
 },
 {
@@ -15719,16 +16233,6 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4486318251",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyste en infrastructure réseau",
-"company": "Canam",
-"location": "St-Georges, Quebec, Canada",
-"posted": "2026-11-25",
-"link": "https://www.linkedin.com/jobs/view/4494918606",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18333,7 +18837,7 @@
 "link": "https://www.linkedin.com/jobs/view/4494928079",
 "source": "LinkedIn",
 "country": "CA",
-"years": null
+"years": 2
 },
 {
 "title": "ITSM Developer (SNOW)",
