@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T20:43:15+00:00",
+"updated": "2026-11-27T20:53:14+00:00",
 "jobs": [
 {
 "title": "QA Analyst",
@@ -2672,6 +2672,148 @@
 "apply": "https://career4.successfactors.com/career?company=hatchassocP&career_ns=job_listing&career_job_req_id=103273&lang=en_US&jobPipeline=Indeed"
 },
 {
+"title": "IT Service Desk, Coordinator",
+"company": "Interac Corp",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=a0b45a08bea3fcea",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/IT-Service-Desk--Coordinator_REQ-2437"
+},
+{
+"title": "Student, HMMS - Supply Chain Technology",
+"company": "St. Joseph's Health Care London",
+"location": "London, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=b1007f29ddceb237",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ats.sjhc.london.on.ca/viewPosting.php?posting=57451"
+},
+{
+"title": "PowerPlatform Developer",
+"company": "CGI",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=3f1d286c3f273d63",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2629&BRID=1353656&sbdid=936"
+},
+{
+"title": "QA Analyst II",
+"company": "Seaspan ULC",
+"location": "North Vancouver, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=3cc8e27a40255e9a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://hckz.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/9187"
+},
+{
+"title": "IT Administrative Assistant",
+"company": "",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=df39ea3c719528fb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-administrative-assistant-df39ea3c719528fb"
+},
+{
+"title": "Technicien(ne) informatique N2",
+"company": "Racines Humaines Inc.",
+"location": "Saint-Jérôme, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=2c41b314a457a9cc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technicienne-informatique-n2-2c41b314a457a9cc"
+},
+{
+"title": "Webber - 310T Truck and Coach Mechanic - Infrastructure Management",
+"company": "Webber",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=a632ed9877f16988",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ferrovial.wd3.myworkdayjobs.com/en-US/Ferrovial_Career_Site/job/Etobicoke-ON/Webber---310T-Truck-and-Coach-Mechanic---Infrastructure-Management_JR20618"
+},
+{
+"title": "Technical Specialist",
+"company": "Western University",
+"location": "London, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=250f0d900ed9e8c0",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=45226&SiteId=1&PostingSeq=1"
+},
+{
+"title": "Software Engineer - Server",
+"company": "Airlock Digital",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=0698476df8c21c53",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://grnh.se/gv7k3dye9us"
+},
+{
+"title": "Security/Scale Operator",
+"company": "IKO Industries",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=5e10af57e3625938",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://iko.wd3.myworkdayjobs.com/en-US/IKO_Careers/job/Calgary-AB/Security-Scale-Operator_REQ-14266"
+},
+{
+"title": "ServiceNow Trainer",
+"company": "CGI",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=2cce262384a0c855",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2627&BRID=1353653&sbdid=936"
+},
+{
+"title": "Customer Service Device Repair Technician",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=dcd85f3446b9f975",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.applicantpro.com/openings/foothillsbatteries/jobs/4288854-1010949"
+},
+{
+"title": "Network operator",
+"company": "Elections Manitoba",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50816358",
+"source": "Job Bank",
+"country": "CA",
+"years": 0
+},
+{
 "title": "Cloud Security Specialist",
 "company": "Ubisoft",
 "location": "Montreal, QC, Canada",
@@ -4935,7 +5077,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2405&BRID=1352773&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2405&BRID=1352783&sbdid=936"
 },
 {
 "title": "Homeless Individuals and Families Information System (HIFIS) Community Coordinator",
@@ -6356,12 +6498,12 @@
 {
 "title": "IT Operations & Support Analyst",
 "company": "Central 1 Credit Union",
-"location": "Vancouver, BC, CA",
+"location": "Vancouver, BC, CA (remote)",
 "posted": "2026-11-26",
 "link": "https://ca.indeed.com/viewjob?jk=43142c8eb1b8e857",
 "source": "Indeed",
 "country": "CA",
-"years": null,
+"years": 5,
 "apply": "https://central1resources.wd10.myworkdayjobs.com/en-US/Central1/job/Vancouver/IT-Operations---Support-Analyst_R1774"
 },
 {
@@ -10119,6 +10261,66 @@
 "location": "",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4449880200",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Azure Platform & Integration Specialist",
+"company": "KPMG Canada",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4487589935",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Applied AI Research Scientist – Data Scientist / Scientifique en IA Appliquée – Scientifique de Données",
+"company": "Thales",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4441017457",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "Brother Canada",
+"location": "Dollard-des-Ormeaux, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4470482545",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DCN Project Controls System Analyst",
+"company": "SLB",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4485827216",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Premium Support Advisor (Portuguese Speaking)",
+"company": "Docebo",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4488456578",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GradCorps - Forest Management Technician",
+"company": "Government of Yukon",
+"location": "Whitehorse, Yukon Territory, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495289170",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
