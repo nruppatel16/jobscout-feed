@@ -1,26 +1,71 @@
 {
-"updated": "2026-11-27T04:41:36+00:00",
+"updated": "2026-11-27T04:51:35+00:00",
 "jobs": [
 {
-"title": "Network Provisioning Engineer",
-"company": "Mastercard",
-"location": "Waterloo, Belgium",
+"title": "Développeur ARP / RPA Developer",
+"company": "ADP",
+"location": "Etobicoke, ON, CA",
 "posted": "2026-11-27",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
-"source": "Mastercard careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
-"company": "Fusion Alarms",
-"location": "Montréal, QC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
+"link": "https://ca.indeed.com/viewjob?jk=5653305b1f605d37",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
+"apply": "https://click.appcast.io/t/OS9V_cdnt8f9AItElJZz5BakpPTiP_6nct25h7AffvI="
+},
+{
+"title": "Développeur ARP / RPA Developer",
+"company": "ADP",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=47f3fc83d4ff5212",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://click.appcast.io/t/u8B6IKHNpB9oCqTgHyzoaFaYKaB8bbPnGk5LXX4T1_E="
+},
+{
+"title": "E-commerce Customer Experience Specialist",
+"company": "Alberta Boot Company",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
+},
+{
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
+},
+{
+"title": "Business Operations Analyst, Facilities Management Division",
+"company": "Strathmore Facilities Management Inc",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
 "french": true
 },
 {
@@ -36,49 +81,26 @@
 "french": true
 },
 {
-"title": "Business Operations Analyst, Facilities Management Division",
-"company": "Strathmore Facilities Management Inc",
+"title": "Fibre & Smart Home Alarm Technician – TELUS – Quebec (Bilingual)",
+"company": "Fusion Alarms",
 "location": "Montréal, QC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=d7be2d45d302a1cf",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e6cc8038-8e63-4af3-af60-97ea91f1747c&ccId=19000101_000001&jobId=602480&source=IN&lang=en_CA",
-"french": true
-},
-{
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721"
-},
-{
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=8c35baebac8bac72",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-8c35baebac8bac72"
-},
-{
-"title": "E-commerce Customer Experience Specialist",
-"company": "Alberta Boot Company",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=69a91ce45b87c745",
+"link": "https://ca.indeed.com/viewjob?jk=41ed2d1bfc4fe7c2",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/e-commerce-customer-experience-specialist-69a91ce45b87c745"
+"apply": "http://ca.indeed.com/job/fibre-smart-home-alarm-technician-telus-quebec-bilingual-41ed2d1bfc4fe7c2",
+"french": true
+},
+{
+"title": "Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-27",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Student Intern, Aerospace and Defense, Material Pricing and Product Data",
@@ -4029,6 +4051,28 @@
 "location": "British Columbia, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4493474931",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Services Documentation Engineer",
+"company": "ALSTOM",
+"location": "Saint-Bruno, QC, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=a78704297ec0fb75",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobsearch.alstom.com/job/Saint-Bruno-Services-Documentation-Engineer-QC/1461172333/",
+"french": true
+},
+{
+"title": "Software Development Engineer, Amazon Tax Engine",
+"company": "Amazon",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495224920",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -8542,7 +8586,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/nZOMXP-q4AgncnPkP9W_wzwXe12SnEfkpjUtvfIp3Jo#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/C-bKX6bjXEE-0wVgbjoVIxMJwCCt5dQuh-iZyykLgXY#.job_boards.Indeed"
 },
 {
 "title": "SAS Data Valorization Analyst",
@@ -8587,7 +8631,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/M5XeVNlHOs2IQ84ZSUV81k9wTU59YP11Ab-F5vtlvz4#.job_boards.Indeed"
+"apply": "https://candidateportal.ceipal.com/job-details/gU1RKihKt1mXe02GM83rurG4uk0r_NZgsx0ssFQrMjY#.job_boards.Indeed"
 },
 {
 "title": "Information Management System Admin Support Specialist (SDx/SPF)",
@@ -10102,7 +10146,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://candidateportal.ceipal.com/job-details/KgoBGbbq0zjSME3ALWEGM-qCXLGw-2R9ei5xAiIr9hM#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/d4TkVnywFG4HRh4nzGH5Wx_1_-2pQ_hQJlexW34b0I0#.job_boards.Indeed",
 "french": true
 },
 {
@@ -16636,6 +16680,38 @@
 "source": "HOOPP careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "Member Support Representative- French",
+"company": "Dynata",
+"location": "Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4481958526",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Help Desk Agent Tier 1",
+"company": "Cherokee Federal",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=4d1c635c9896df02",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/44408"
+},
+{
+"title": "Help Desk Agent Tier 1 - Bilingual",
+"company": "Cherokee Federal",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=5f606a8ff89c520e",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/44424"
 },
 {
 "title": "AI Developer",
