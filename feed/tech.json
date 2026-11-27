@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T23:13:39+00:00",
+"updated": "2026-11-27T23:23:38+00:00",
 "jobs": [
 {
 "title": "SAP Consultant",
@@ -3736,6 +3736,105 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/scale-service-technician-c04c41e25835b448"
+},
+{
+"title": "Student Records Business Analyst",
+"company": "Government Of Alberta",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=dc63f14852c8d2a1",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobpostings.alberta.ca/job/Edmonton-Student-Records-Business-Analyst/608490717/"
+},
+{
+"title": "Data Scientist",
+"company": "Amaris Consulting",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=91f9f448e0972402",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://careers.amaris.com/jobs/45945"
+},
+{
+"title": "Technicienne - Technicien en Informatique | FE-2627-97306",
+"company": "Conseil scolaire Viamonde",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=59b83df9b63e286d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://atlas.workland.com/work/97306/technicienne-technicien-en-informatique-fe-2627-97306?source=Indeed&lang=fr"
+},
+{
+"title": "Field Support Technologist",
+"company": "Government Of Alberta",
+"location": "Olds, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=856329989dba42fc",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobpostings.alberta.ca/job/Olds-Field-Support-Technologist/608484417/"
+},
+{
+"title": "Technical Support Engineer - Calgary",
+"company": "Neilson Financial Services",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=aec7ba46e69be308",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.neilsonfs.com/jobs/8809322-technical-support-engineer-calgary"
+},
+{
+"title": "QA Analyst",
+"company": "PolicyMe",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=38354ae86cef0f32",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jobs.lever.co/policyme/e7b671c5-24b3-4a8b-8798-b4203e413b85"
+},
+{
+"title": "Executive Assistant- AI & Business Operations",
+"company": "blue sparks corporation",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9d49d73667ba6f64",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/executive-assistant-ai-business-operations-9d49d73667ba6f64"
+},
+{
+"title": "Global Regulatory Affairs - Devices: Diagnostics & Digital Health Regulatory Scientist",
+"company": "Eli Lilly",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=b64dc1909f5c6faa",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers.lilly.com/us/en/job/R-116086"
+},
+{
+"title": "Business Development Representative (HCM Software)",
+"company": "HR1Systems, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=63ab0f83746fde00",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://secure7.saashr.com/ta/6209351.careers?ShowJob=654805701"
 },
 {
 "title": "Cloud Security Specialist",
@@ -11636,6 +11735,127 @@
 "location": "",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4495062070",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineer",
+"company": "Trackunit",
+"location": "London, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=eb039008590ef191",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.trackunit.com/jobs/8802577-site-reliability-engineer"
+},
+{
+"title": "Business Analyst",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495047857",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495064052",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ServiceNow Developer (ID#5616)",
+"company": "New Value Solutions",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495050510",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur Oracle/Développeuse Oracle",
+"company": "Optisigma Inc.",
+"location": "Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495546336",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Engineer / Automation",
+"company": "Astek",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495060027",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer in Test (SDET), AI",
+"company": "Vancity",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495547297",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Manufacturing Test Engineer",
+"company": "Vecima Networks Inc.",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495057086",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Responsable - assurance qualité",
+"company": "Boralex Inc.",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495041930",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyste, soutien informatique et service à la clientèle (bilingue anglais-français) Montreal",
+"company": "Foodtastic",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495051454",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, GIS Support",
+"company": "City of Ottawa / Ville d’Ottawa",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4494158403",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineer (SRE)",
+"company": "Samsung Electronics",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4485865916",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
