@@ -1,6 +1,17 @@
 {
-"updated": "2026-11-27T21:13:15+00:00",
+"updated": "2026-11-27T21:23:14+00:00",
 "jobs": [
+{
+"title": "SAP Consultant",
+"company": "KPMG",
+"location": "Toronto, Canada; Vancouver, Canada; Calgary, Canada; Montreal, Canada",
+"posted": "2026-11-27T21:14:00+00:00",
+"link": "https://careers.kpmg.ca/jobs/39241?lang=en-us",
+"source": "KPMG careers",
+"country": "CA",
+"years": 0,
+"french": true
+},
 {
 "title": "Customer Onboarding Specialist",
 "company": "Jobber",
@@ -2822,6 +2833,260 @@
 "source": "Job Bank",
 "country": "CA",
 "years": 0
+},
+{
+"title": "Database Administrator",
+"company": "Jones Healthcare Group",
+"location": "London, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=c52efaa882239d8d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://joneshealthcaregroup.hiringplatform.ca/processes/1950ac03-d9f6-4a68-93e1-3b74a06c24bb?locale=en&source=indeed"
+},
+{
+"title": "Software Environment, Developer",
+"company": "iA Groupe financier",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=c00e5ee855359277",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ia.ca/en/carrieres/job/JR10028573",
+"french": true
+},
+{
+"title": "Sales Support Administrator",
+"company": "",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=14fa62b7d95b7d9b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://msitools.betterteam.com/sales-support-administrator?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic"
+},
+{
+"title": "Junior Cybersecurity Specialist, Incident Response (Contract)",
+"company": "Questrade Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=1b5fb2b7320e17a1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://grnh.se/g1gp2oet9us"
+},
+{
+"title": "Cyber Threat Intelligence Specialist",
+"company": "Questrade Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d685ace4729577d6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/mbik8py49us"
+},
+{
+"title": "Technical Support Engineer",
+"company": "Magnet Forensics",
+"location": "Waterloo, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=7b8526b6a855297f",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.lever.co/magnetforensics/12b14267-06c2-4f35-916a-7684426c31c9"
+},
+{
+"title": "IT Support & Network Analyst",
+"company": "Export Packers",
+"location": "Brampton, ON, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=a9d7f0fff3ba0585",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://exportpackers.bamboohr.com/careers/138?source=indeed&src=indeed&postedDate=2026-11-27"
+},
+{
+"title": "Web Developer",
+"company": "Y5 Creative",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=19c5b87716130f13",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/web-developer-19c5b87716130f13"
+},
+{
+"title": "Inside Sales Administrator",
+"company": "Wilsons Heating",
+"location": "Lower Sackville, NS, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=43193d4674b72fbb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/inside-sales-administrator-43193d4674b72fbb"
+},
+{
+"title": "Développeur I - JAVA",
+"company": "Hydro Québec",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=bd0c0841dcf6e829",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploi.hydroquebec.com/job/D%C3%A9veloppeur-I-JAVA/189967-fr_FR"
+},
+{
+"title": "Développeur(euse), Environnement Logiciel",
+"company": "iA Groupe financier",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=c7cd23ffa714a161",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ia.ca/fr/carrieres/job/JR10028573",
+"french": true
+},
+{
+"title": "Développeur I - BI Databricks",
+"company": "Hydro Québec",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=71b21ae2125b1fca",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploi.hydroquebec.com/job/D%C3%A9veloppeur-I-BI-Databricks/190166-fr_FR"
+},
+{
+"title": "Développeur I (euse) - Assurance Qualité (QA) | Solutions embarquées / IoT Hilo",
+"company": "Hydro Québec",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=b18fed6334636c02",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploi.hydroquebec.com/job/D%C3%A9veloppeur-I-%28euse%29-Assurance-Qualit%C3%A9-%28QA%29-Solutions-embarqu%C3%A9es-IoT-Hilo/189694-fr_FR"
+},
+{
+"title": "Conseiller(ère) Support aux ventes",
+"company": "Doyon Després",
+"location": "Brossard, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=4e29a880a033956c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.glowinthecloud.com/doyon-despres/20261127002?l=fr&source=Indeed"
+},
+{
+"title": "Analyste fonctionnel web",
+"company": "Hydro Québec",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=802fd79f9ce69efc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploi.hydroquebec.com/job/Analyste-fonctionnel-web/188881-fr_FR"
+},
+{
+"title": "Chargé(e) de projets TI II",
+"company": "Hydro Québec",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=af3e0d49446fbae7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploi.hydroquebec.com/job/Charg%C3%A9%28e%29-de-projets-TI-II/189136-fr_FR"
+},
+{
+"title": "Conseiller(ère) Cybersécurité - Réseau et sécurité I",
+"company": "Hydro Québec",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=64d40ca06a7bf08b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploi.hydroquebec.com/job/Conseiller%28%C3%A8re%29-Cybers%C3%A9curit%C3%A9-R%C3%A9seau-et-s%C3%A9curit%C3%A9-I/187862-fr_FR"
+},
+{
+"title": "Test Technician",
+"company": "Magna International",
+"location": "Newmarket, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=7d8ad81c603e082f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Test-Technician_R00252707"
+},
+{
+"title": "Client Support Specialist - Digital Asset & Derivatives (Crypto)",
+"company": "Questrade Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=680e349bf3fba855",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://grnh.se/uct3d5d29us"
+},
+{
+"title": "Cloud Engineer",
+"company": "ITility, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=c56b9a455bfb188a",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=de7bbbb7-7aef-4b13-8a4f-b1e960f4da74&ccId=19000101_000003&jobId=581192&jwId=SYS:JW:001&source=IN&lang=en_US"
+},
+{
+"title": "Direct Support Professionals (DSP) Full-time and Part-time positions",
+"company": "DreamLife Destiny LLC",
+"location": "Remote · United States",
+"posted": "2026-11-27",
+"link": "https://www.indeed.com/viewjob?jk=60d24dcade9a26cb",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/direct-support-professionals-dsp-full-time-and-part-time-positions-60d24dcade9a26cb"
+},
+{
+"title": "Développeur(euse) II - Service Now",
+"company": "Hydro Québec",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=65a98f01e9544994",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploi.hydroquebec.com/job/D%C3%A9veloppeur%28euse%29-II-Service-Now/189131-fr_FR"
+},
+{
+"title": "Devops engineer",
+"company": "LabsCubed",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50816514",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Cloud Security Specialist",
@@ -10331,6 +10596,56 @@
 "location": "Whitehorse, Yukon Territory, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4495289170",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer - Mobile App (Expo/React Native)",
+"company": "TopHat HR",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495046651",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer",
+"company": "AGFA HealthCare",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495552225",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Représentant de Service - Edmonton - Field service Representative - Edmonton",
+"company": "Christie Innomed",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495038513",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Scientifique de données",
+"company": "COFOMO",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495530597",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist - Analytics Solutions & Reporting",
+"company": "Labatt Breweries of Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4433891397",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -23528,6 +23843,38 @@
 "country": "US",
 "years": 1,
 "apply": "https://click.appcast.io/t/iE1lBuYC3aQj5Yv4f6VHI6rbWTLrlLzSP3kiN0eRyBM="
+},
+{
+"title": "Site Reliability Engineer - SRE Remote — Full Time United States",
+"company": "Drivetrain AI",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=269fbd4f357016d5",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.lever.co/drivetrain/66195a65-cbef-4f2e-b893-1bb58c001d23"
+},
+{
+"title": "Product Support Tech II",
+"company": "Scientific Games",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=5d1fcf74e7d522f8",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://sglottery.wd5.myworkdayjobs.com/en-US/ScientificGamesExternalCareers/job/Ohio-US/Product-Support-Tech-II_R505549-1"
+},
+{
+"title": "Associate, Resuscitation Support Centre (Bilingual) - 12-Month Contract",
+"company": "Heart & Stroke",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495216090",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "AI Developer",
