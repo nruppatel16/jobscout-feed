@@ -1,49 +1,16 @@
 {
-"updated": "2026-11-28T02:42:15+00:00",
+"updated": "2026-11-28T02:52:15+00:00",
 "jobs": [
 {
-"title": "Technical Support Specialist (3-Month Contract)",
-"company": "Saje Natural Wellness",
-"location": "Vancouver, BC, CA (remote)",
+"title": "Resource Administrator",
+"company": "CBI Home Health",
+"location": "Mississauga, ON, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
+"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
-},
-{
-"title": "Office and Project Administrator",
-"company": "Applied Electronics",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
+"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
 },
 {
 "title": "Business Administrator Assistant",
@@ -57,15 +24,48 @@
 "apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
 },
 {
-"title": "Resource Administrator",
-"company": "CBI Home Health",
-"location": "Mississauga, ON, CA",
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Edmonton, AB, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
+"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
+},
+{
+"title": "Office and Project Administrator",
+"company": "Applied Electronics",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
+},
+{
+"title": "Technical Support Specialist (3-Month Contract)",
+"company": "Saje Natural Wellness",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
+"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
 },
 {
 "title": "Intern, HR Business Partner Support and Data Analytics (Winter 2027)",
@@ -4658,6 +4658,113 @@
 "country": "CA",
 "years": null,
 "apply": "https://jobs.dayforcehcm.com/fr-CA/lgs/CANDIDATEPORTAL/jobs/3688"
+},
+{
+"title": "Business & Configuration Analyst",
+"company": "University of British Columbia",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d376df09f15e5208",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Business---Configuration-Analyst_JR26815"
+},
+{
+"title": "IT Systems Administrator / Support Technician | Servers, Hardware & Networking",
+"company": "DBNC Group",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=5ac1d7882862b0e3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruiterflow.com/db_3467f81b1918a767701dcbae4e9a299d/jobs/96?source=indeed&utm_channel=recruiterflow-posting&location=5"
+},
+{
+"title": "AI Platform Engineer (18-Month Contract)",
+"company": "Centennial College",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=4d322268e695c058",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://indeed.njoyn.com/cl3/xweb/XWeb.asp?page=jobdetails&clid=56827&JobID=J1126-1167&BRID=369152&sbdid=936"
+},
+{
+"title": "Technical /Research Support I FRAMES Studio",
+"company": "Western University",
+"location": "London, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=47d8a68a638cd648",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=45217&SiteId=1&PostingSeq=1"
+},
+{
+"title": "Systems Integration Specialist - New Grad",
+"company": "Ciena",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=74aa11f62662d9bd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Systems-Integration-Specialist---New-Grad_R032209"
+},
+{
+"title": "Full Stack AI Engineer",
+"company": "Straive",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4495557964",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur full stack",
+"company": "Axxo Application",
+"location": "Trois-Rivières, Quebec, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4495053178",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Coordinator, Digital",
+"company": "Dentsu",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f15cc66108d773b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/Toronto/Coordinator--Digital_R1138103"
+},
+{
+"title": "Architecte de solution cloud",
+"company": "CGI",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=5ba385d4d959b9e1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2637&BRID=1353739&sbdid=936&lang=2"
+},
+{
+"title": "Quality Engineer- Data and Migration- Snowflake",
+"company": "PLATO",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4494730321",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Cloud Security Specialist",
@@ -13231,6 +13338,16 @@
 "location": "Brampton, Ontario, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4491176690",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual One Port User Support Analyst",
+"company": "KPMG Canada",
+"location": "Kelowna, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4452131669",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
