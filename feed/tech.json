@@ -1,104 +1,16 @@
 {
-"updated": "2026-11-28T08:41:14+00:00",
+"updated": "2026-11-28T08:51:13+00:00",
 "jobs": [
 {
-"title": "Work From Home Technician Dispatcher - Home Repair Industry - $12/hr",
-"company": "Kaminskiy Care and Repair",
-"location": "Remote · United States",
-"posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=be4c1662248829a1",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/work-home-technician-dispatcher-home-repair-industry-12hr-be4c1662248829a1"
-},
-{
-"title": "Technical Support Specialist (3-Month Contract)",
-"company": "Saje Natural Wellness",
-"location": "Vancouver, BC, CA (remote)",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
-},
-{
-"title": "Office and Project Administrator",
-"company": "Applied Electronics",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
+"title": "Onboarding Specialist",
+"company": "AG&P Canada Inc",
 "location": "Calgary, AB, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
-},
-{
-"title": "Business Administrator Assistant",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=f3fdfe2117eb712c",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
-},
-{
-"title": "Resource Administrator",
-"company": "CBI Home Health",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
-},
-{
-"title": "Security Systems Technician (Access Control & Video)",
-"company": "Superior Communication Services",
-"location": "Remote · United States",
-"posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=520cd89e63a80ed8",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://apply.workable.com/j/A25CC9036E"
-},
-{
-"title": "Web Developer Intern",
-"company": "CREM Canada",
-"location": "Hamilton, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=07307aede658b2f2",
+"link": "https://ca.indeed.com/viewjob?jk=873015cce0918b71",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/web-developer-intern-07307aede658b2f2"
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3ba09f1f-5c20-4f7a-847b-34e1cbef166d&ccId=19000101_000001&jobId=576277&source=IN&lang=en_CA"
 },
 {
 "title": "Data Analyst",
@@ -112,15 +24,103 @@
 "apply": "http://ca.indeed.com/job/data-analyst-486e43095a3979fe"
 },
 {
-"title": "Onboarding Specialist",
-"company": "AG&P Canada Inc",
-"location": "Calgary, AB, CA",
+"title": "Web Developer Intern",
+"company": "CREM Canada",
+"location": "Hamilton, ON, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=873015cce0918b71",
+"link": "https://ca.indeed.com/viewjob?jk=07307aede658b2f2",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3ba09f1f-5c20-4f7a-847b-34e1cbef166d&ccId=19000101_000001&jobId=576277&source=IN&lang=en_CA"
+"apply": "http://ca.indeed.com/job/web-developer-intern-07307aede658b2f2"
+},
+{
+"title": "Security Systems Technician (Access Control & Video)",
+"company": "Superior Communication Services",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=520cd89e63a80ed8",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://apply.workable.com/j/A25CC9036E"
+},
+{
+"title": "Resource Administrator",
+"company": "CBI Home Health",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
+},
+{
+"title": "Business Administrator Assistant",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=f3fdfe2117eb712c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
+},
+{
+"title": "Office and Project Administrator",
+"company": "Applied Electronics",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
+},
+{
+"title": "Technical Support Specialist (3-Month Contract)",
+"company": "Saje Natural Wellness",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
+},
+{
+"title": "Work From Home Technician Dispatcher - Home Repair Industry - $12/hr",
+"company": "Kaminskiy Care and Repair",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=be4c1662248829a1",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/work-home-technician-dispatcher-home-repair-industry-12hr-be4c1662248829a1"
 },
 {
 "title": "POS- Business Sales Consultant",
@@ -2984,7 +2984,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2629&BRID=1353694&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2629&BRID=1353656&sbdid=936"
 },
 {
 "title": "QA Analyst II",
@@ -5490,6 +5490,49 @@
 "years": null
 },
 {
+"title": "Microstrategy Developer",
+"company": "Adastra Corporation",
+"location": "Markham, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=e090547ca11d43d9",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers-adastragrp.icims.com/jobs/6044/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Security Operations Analyst",
+"company": "CDW",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d904d1e7a0f8ce0b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://www.cdwjobs.com/en/jobs/18523327-security-operations-analyst?tm_job=R26%255F00003489&tm_event=view&tm_company=2376"
+},
+{
+"title": "Business Administrator, Calgary Centre for Clinical Research",
+"company": "University of Calgary",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=d4ab6ea60c25627c",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.ucalgary.ca/jobs/18523458-business-administrator-calgary-centre-for-clinical-research?tm_job=39256-1A&tm_event=view&tm_company=1828"
+},
+{
+"title": "Security Operations Analyst",
+"company": "Alignerr",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4495560967",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Cloud Security Specialist",
 "company": "Ubisoft",
 "location": "Montreal, QC, Canada",
@@ -7763,7 +7806,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2405&BRID=1352783&sbdid=936"
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-2405&BRID=1352773&sbdid=936"
 },
 {
 "title": "Homeless Individuals and Families Information System (HIFIS) Community Coordinator",
@@ -14261,6 +14304,26 @@
 "location": "Brampton, Ontario, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4461573044",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineer – Edge & Digital Experience Platform (AEM / CDN)- Bilingual – English and French",
+"company": "Apptoza Inc.",
+"location": "Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493839251",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer II, Early Career",
+"company": "Google",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4486566175",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
