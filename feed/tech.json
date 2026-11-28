@@ -1,49 +1,16 @@
 {
-"updated": "2026-11-28T03:12:14+00:00",
+"updated": "2026-11-28T03:22:14+00:00",
 "jobs": [
 {
-"title": "Resource Administrator",
-"company": "CBI Home Health",
-"location": "Mississauga, ON, CA",
+"title": "Technical Support Specialist (3-Month Contract)",
+"company": "Saje Natural Wellness",
+"location": "Vancouver, BC, CA (remote)",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
+"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
-},
-{
-"title": "Business Administrator Assistant",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=f3fdfe2117eb712c",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
+"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
 },
 {
 "title": "Office and Project Administrator",
@@ -57,15 +24,48 @@
 "apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
 },
 {
-"title": "Technical Support Specialist (3-Month Contract)",
-"company": "Saje Natural Wellness",
-"location": "Vancouver, BC, CA (remote)",
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Calgary, AB, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
+"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
+},
+{
+"title": "Business Administrator Assistant",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=f3fdfe2117eb712c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
+},
+{
+"title": "Resource Administrator",
+"company": "CBI Home Health",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
+"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
 },
 {
 "title": "Intern, HR Business Partner Support and Data Analytics (Winter 2027)",
@@ -4765,6 +4765,82 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Android Developer",
+"company": "MMIST Inc.",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=bd137cc705ffc72b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://mmist.bamboohr.com/careers/199?source=indeed&src=indeed&postedDate=2026-11-27"
+},
+{
+"title": "SharePoint Digital Workplace Specialist",
+"company": "SysGen Solutions Group Ltd.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=76e2ceb0df886711",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://sysgen.bamboohr.com/careers/174?source=indeed&src=indeed&postedDate=2026-11-27"
+},
+{
+"title": "Intermediate Test Engineer, E-commerce - Temporary (9 months)",
+"company": "ARC'TERYX",
+"location": "North Vancouver, BC, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=4f26f15d83716e2d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.lever.co/arcteryx.com/49f7bfcf-493c-4b00-a5ef-0f6a9c52de89"
+},
+{
+"title": "Security Consultant - Commercial",
+"company": "Security ONE Alarm Systems",
+"location": "London, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=904a4db275908189",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9d01bd4e-26ee-4069-84d7-7121abae4e75&ccId=19000101_000001&jobId=923699&source=IN&lang=en_CA"
+},
+{
+"title": "Cyber Security Analyst Contract 10 Months",
+"company": "Woodbine Entertainment",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4495561621",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Service Representative - Personal Lines",
+"company": "Collectivfide Insurance Brokers Inc.",
+"location": "Kitchener, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=4cc04a325bf32f39",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://collectivfide.bamboohr.com/careers/176?source=indeed&src=indeed&postedDate=2026-11-27"
+},
+{
+"title": "Robot Application Specialist",
+"company": "Proax Technologies",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=fe6bcdfbb892cb47",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://proax.bamboohr.com/careers/237?source=indeed&src=indeed&postedDate=2026-11-27"
 },
 {
 "title": "Cloud Security Specialist",
