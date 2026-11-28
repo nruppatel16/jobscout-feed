@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-28T00:12:14+00:00",
+"updated": "2026-11-28T00:22:14+00:00",
 "jobs": [
 {
 "title": "SAP Consultant",
@@ -4002,6 +4002,40 @@
 "apply": "https://aplinmartin.applytojob.com/apply/vClS1nsqtH/Intermediate-Infrastructure-Planning-EngineerinTraining?source=INDE&~"
 },
 {
+"title": "ANALYSTE, CENTRE DE SOLUTIONS AUX ENTREPRISES",
+"company": "BDC",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=8250bc5cc99c0e50",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bdc.wd10.myworkdayjobs.com/fr-CA/BDC_Careers/job/Montral/BILINGUAL-ANALYST--BUSINESS-SOLUTIONS-CENTRE_R-8548",
+"french": true
+},
+{
+"title": "BILINGUAL ANALYST, BUSINESS SOLUTIONS CENTRE",
+"company": "BDC",
+"location": "Montréal, QC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=2eaf83bd11f028e1",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/BILINGUAL-ANALYST--BUSINESS-SOLUTIONS-CENTRE_R-8548",
+"french": true
+},
+{
+"title": "Software Developer (.NETCore and React)",
+"company": "Veriforce",
+"location": "Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4495067023",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Cloud Security Specialist",
 "company": "Ubisoft",
 "location": "Montreal, QC, Canada",
@@ -4523,7 +4557,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193576&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193576%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ff230d8-e930-11f1-adcd-11d686cc62e9%26rx_job%3DR-0000193576%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T220425Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000193576&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000193576%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ff230d8-e930-11f1-adcd-11d686cc62e9%26rx_job%3DR-0000193576%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T000407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Junior GRC Sales",
@@ -7961,7 +7995,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192568&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192568%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Daabdc183-e9d7-11f1-8115-25a6b7ead886%26rx_job%3DR-0000192568%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T220425Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192568&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192568%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Daabdc183-e9d7-11f1-8115-25a6b7ead886%26rx_job%3DR-0000192568%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T000407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Web developer",
@@ -12141,6 +12175,136 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4495547554",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Support Analyst",
+"company": "Bilingual Source",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495549496",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Project Controls Analyst / Reporting Analyst",
+"company": "Accenture Construct",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495520491",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer (Angular)",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495056371",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sharepoint Developer",
+"company": "Apptoza Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493824720",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur intermédiaire de logiciels embarqué / Intermediate Embedded Software Developer",
+"company": "Syntronic - A Global Design House",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493852382",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur en conception de micrologiciel - Firmware Design Engineer",
+"company": "Cadence",
+"location": "Mont-Royal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4451199597",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) sénior – systèmes embarqués et applications",
+"company": "Jyga Technologies - GESTAL",
+"location": "Saint-Lambert-de-Lauzon, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495519971",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur(e) Logiciel embarqué - Magog, Canada",
+"company": "Arjo",
+"location": "Magog, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4471210007",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Scale Out",
+"company": "Tenstorrent",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4424594643",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Train Control Engineer",
+"company": "Alstom",
+"location": "Saint-Bruno, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493840855",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Programmeur(euse) service après-ventes (PLC Robot)",
+"company": "NūMove Robotics & Vision",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495567147",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Reporting Analyst (Temporary Full Time, Ending April 2027)",
+"company": "Canada Life",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495046835",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Dotnet Developer",
+"company": "GeorgiaTEK Systems Inc.",
+"location": "Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493827296",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18200,7 +18364,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000174067&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000174067%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ea5823b-6107-11f1-bd94-2de51fc588ac%26rx_job%3DR-0000174067%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T220425Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000174067&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000174067%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D2ea5823b-6107-11f1-bd94-2de51fc588ac%26rx_job%3DR-0000174067%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T000407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -18948,7 +19112,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508"
 },
 {
 "title": "Service Desk Technician",
@@ -19372,7 +19536,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18520132-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dda597e23-e940-11f1-a230-313ef2dc2adf%26rx_job%3D2619519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261127T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619519"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18520132-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dda597e23-e940-11f1-a230-313ef2dc2adf%26rx_job%3D2619519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619519"
 },
 {
 "title": "Data Engineer",
