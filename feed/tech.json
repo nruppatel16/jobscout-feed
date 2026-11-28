@@ -1,81 +1,16 @@
 {
-"updated": "2026-11-28T05:01:14+00:00",
+"updated": "2026-11-28T05:11:14+00:00",
 "jobs": [
 {
-"title": "Scrum Master, Project management",
-"company": "Desjardins",
-"location": "Montréal",
+"title": "Web Developer Intern",
+"company": "CREM Canada",
+"location": "Hamilton, ON, CA",
 "posted": "2026-11-28",
-"link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scrum-Master_R2614326-1",
-"source": "Desjardins careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Technical Support Specialist (3-Month Contract)",
-"company": "Saje Natural Wellness",
-"location": "Vancouver, BC, CA (remote)",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
+"link": "https://ca.indeed.com/viewjob?jk=07307aede658b2f2",
 "source": "Indeed",
 "country": "CA",
-"years": 1,
-"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
-},
-{
-"title": "Office and Project Administrator",
-"company": "Applied Electronics",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
-},
-{
-"title": "Business Administrator Assistant",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=f3fdfe2117eb712c",
-"source": "Indeed",
-"country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
-},
-{
-"title": "Resource Administrator",
-"company": "CBI Home Health",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
+"apply": "http://ca.indeed.com/job/web-developer-intern-07307aede658b2f2"
 },
 {
 "title": "Security Systems Technician (Access Control & Video)",
@@ -89,15 +24,80 @@
 "apply": "https://apply.workable.com/j/A25CC9036E"
 },
 {
-"title": "Web Developer Intern",
-"company": "CREM Canada",
-"location": "Hamilton, ON, CA",
+"title": "Resource Administrator",
+"company": "CBI Home Health",
+"location": "Mississauga, ON, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=07307aede658b2f2",
+"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
 "source": "Indeed",
 "country": "CA",
+"years": 1,
+"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
+},
+{
+"title": "Business Administrator Assistant",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=f3fdfe2117eb712c",
+"source": "Indeed",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/web-developer-intern-07307aede658b2f2"
+"apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
+},
+{
+"title": "Office and Project Administrator",
+"company": "Applied Electronics",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
+},
+{
+"title": "Technical Support Specialist (3-Month Contract)",
+"company": "Saje Natural Wellness",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
+},
+{
+"title": "Scrum Master, Project management",
+"company": "Desjardins",
+"location": "Montréal",
+"posted": "2026-11-28",
+"link": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scrum-Master_R2614326-1",
+"source": "Desjardins careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Intern, HR Business Partner Support and Data Analytics (Winter 2027)",
