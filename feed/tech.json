@@ -1,126 +1,16 @@
 {
-"updated": "2026-11-28T10:10:34+00:00",
+"updated": "2026-11-28T10:20:34+00:00",
 "jobs": [
 {
-"title": "Polymer Scientist",
-"company": "Shell",
-"location": "Remote · United States",
+"title": "Engineer - Machine Learning SW Verification",
+"company": "Qualcomm",
+"location": "Markham, ON, CA",
 "posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=0bd3de6e61dff810",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Pennsylvania---Monaca-Chemical-Plant/Polymer-Scientist_R212560"
-},
-{
-"title": "Onboarding Specialist",
-"company": "AG&P Canada Inc",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=873015cce0918b71",
+"link": "https://ca.indeed.com/viewjob?jk=ed49eb9f8c6b2ce8",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3ba09f1f-5c20-4f7a-847b-34e1cbef166d&ccId=19000101_000001&jobId=576277&source=IN&lang=en_CA"
-},
-{
-"title": "Data Analyst",
-"company": "",
-"location": "Montréal, QC, CA (remote)",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=486e43095a3979fe",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/data-analyst-486e43095a3979fe"
-},
-{
-"title": "Web Developer Intern",
-"company": "CREM Canada",
-"location": "Hamilton, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=07307aede658b2f2",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/web-developer-intern-07307aede658b2f2"
-},
-{
-"title": "Security Systems Technician (Access Control & Video)",
-"company": "Superior Communication Services",
-"location": "Remote · United States",
-"posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=520cd89e63a80ed8",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://apply.workable.com/j/A25CC9036E"
-},
-{
-"title": "Resource Administrator",
-"company": "CBI Home Health",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
-},
-{
-"title": "Business Administrator Assistant",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=f3fdfe2117eb712c",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
-},
-{
-"title": "Office and Project Administrator",
-"company": "Applied Electronics",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
-},
-{
-"title": "Technical Support Specialist (3-Month Contract)",
-"company": "Saje Natural Wellness",
-"location": "Vancouver, BC, CA (remote)",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
+"apply": "https://app.eightfold.ai/careers/job/446722197728?domain=qualcomm.com"
 },
 {
 "title": "Work From Home Technician Dispatcher - Home Repair Industry - $12/hr",
@@ -134,15 +24,125 @@
 "apply": "http://www.indeed.com/job/work-home-technician-dispatcher-home-repair-industry-12hr-be4c1662248829a1"
 },
 {
-"title": "Engineer - Machine Learning SW Verification",
-"company": "Qualcomm",
-"location": "Markham, ON, CA",
+"title": "Technical Support Specialist (3-Month Contract)",
+"company": "Saje Natural Wellness",
+"location": "Vancouver, BC, CA (remote)",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=ed49eb9f8c6b2ce8",
+"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610"
+},
+{
+"title": "Office and Project Administrator",
+"company": "Applied Electronics",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
+},
+{
+"title": "Business Administrator Assistant",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=f3fdfe2117eb712c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
+},
+{
+"title": "Resource Administrator",
+"company": "CBI Home Health",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
+},
+{
+"title": "Security Systems Technician (Access Control & Video)",
+"company": "Superior Communication Services",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=520cd89e63a80ed8",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://apply.workable.com/j/A25CC9036E"
+},
+{
+"title": "Web Developer Intern",
+"company": "CREM Canada",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=07307aede658b2f2",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://app.eightfold.ai/careers/job/446722197728?domain=qualcomm.com"
+"apply": "http://ca.indeed.com/job/web-developer-intern-07307aede658b2f2"
+},
+{
+"title": "Data Analyst",
+"company": "",
+"location": "Montréal, QC, CA (remote)",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=486e43095a3979fe",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/data-analyst-486e43095a3979fe"
+},
+{
+"title": "Onboarding Specialist",
+"company": "AG&P Canada Inc",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=873015cce0918b71",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3ba09f1f-5c20-4f7a-847b-34e1cbef166d&ccId=19000101_000001&jobId=576277&source=IN&lang=en_CA"
+},
+{
+"title": "Polymer Scientist",
+"company": "Shell",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=0bd3de6e61dff810",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Pennsylvania---Monaca-Chemical-Plant/Polymer-Scientist_R212560"
 },
 {
 "title": "POS- Business Sales Consultant",
@@ -5034,7 +5034,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192442&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192442%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3De8720f93-eaa0-11f1-a79c-edc3a3b3ca05%26rx_job%3DR-0000192442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T080404Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192442&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192442%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3De8720f93-eaa0-11f1-a79c-edc3a3b3ca05%26rx_job%3DR-0000192442%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T100407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "french": true
 },
 {
@@ -5683,6 +5683,106 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-27",
 "link": "https://www.linkedin.com/jobs/view/4490468930",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Intelligence Developer",
+"company": "Take-Two Interactive",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4461338507",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479304214",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479308073",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479307088",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479305218",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479194877",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479199430",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "Oshawa, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479300416",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Fullstack (Search)",
+"company": "Affirm",
+"location": "Queens, Prince Edward Island, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479194878",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Migration Tester (Remote)",
+"company": "LTM",
+"location": "Toronto, Ontario, Canada (remote)",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4495590744",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -8359,7 +8459,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://osmh.njoyn.com/cl4/xweb/xweb.asp?tbtoken=ZVhaRR5fDVB0FH1zTVBcEk9OdWcsaVUuBFZMWyt9D3lcLEESXzEfcGZwckQYGhJRQHZjF3U%3D&chk=ZVpaShM%3D&clid=73967&Page=JobDetails&Jobid=J1126-0662&BRID=465034&lang=1"
+"apply": "https://osmh.njoyn.com/cl4/xweb/xweb.asp?tbtoken=ZltaSxkXCBIuJS5ALiReYQZ0NlEgCCBAAmNEcFhfdkhYU1kPE2BQKDFoKkoddREHcwkbUxZbT3cqWA%3D%3D&chk=ZVpaShw%3D&clid=73967&Page=JobDetails&Jobid=J1126-0662&BRID=465034&lang=1"
 },
 {
 "title": "C-GSS-157 Business Intelligence and Applied AI Intern - Sustainable Procurement",
@@ -9646,7 +9746,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192568&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192568%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Daabdc183-e9d7-11f1-8115-25a6b7ead886%26rx_job%3DR-0000192568%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T080404Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192568&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192568%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Daabdc183-e9d7-11f1-8115-25a6b7ead886%26rx_job%3DR-0000192568%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261128T100407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic"
 },
 {
 "title": "Web developer",
@@ -14550,6 +14650,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4495532434",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "HRSD Functional Consultant",
+"company": "Quality IT Resourcing",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495523489",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
