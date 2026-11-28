@@ -1,16 +1,38 @@
 {
-"updated": "2026-11-28T01:12:14+00:00",
+"updated": "2026-11-28T01:22:14+00:00",
 "jobs": [
 {
-"title": "Resource Administrator",
-"company": "CBI Home Health",
-"location": "Mississauga, ON, CA",
+"title": "Office and Project Administrator",
+"company": "Applied Electronics",
+"location": "Ottawa, ON, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
+"link": "https://ca.indeed.com/viewjob?jk=ac472243c23d3433",
 "source": "Indeed",
 "country": "CA",
-"years": 1,
-"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
+"years": 3,
+"apply": "http://ca.indeed.com/job/office-and-project-administrator-ac472243c23d3433"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst"
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst"
 },
 {
 "title": "Business Administrator Assistant",
@@ -22,6 +44,17 @@
 "country": "US",
 "years": null,
 "apply": "http://www.indeed.com/job/business-administrator-assistant-f3fdfe2117eb712c"
+},
+{
+"title": "Resource Administrator",
+"company": "CBI Home Health",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=8614dfd4fb14cb82",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruiting.ultipro.ca/CBI5100CBIH/JobBoard/2283e39b-0f5a-4099-9ae1-d73296c1c782/OpportunityDetail?opportunityId=8c96a386-793a-42f9-8a72-c17134777b8f&postingId=bf8ead68-63fa-4365-a4bd-b2c5b8bbbca6"
 },
 {
 "title": "SAP Consultant",
@@ -4190,6 +4223,102 @@
 "location": "Québec, Quebec, Canada",
 "posted": "2026-11-27",
 "link": "https://www.linkedin.com/jobs/view/4495569194",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Support Desk Analyst",
+"company": "Fountain Tire",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=7abc22119d28e20f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://corporate-fountaintire.icims.com/jobs/32605/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
+},
+{
+"title": "Systems Analyst 1 (Telephony)",
+"company": "Surrey Police Service",
+"location": "Headquarters, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=6795653ae3a72c3d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.surreypolice.ca/?_4x1F8B08000000000000FF75CF4B0E83201485E1DD38341710818183D647E30218131FD860150C685277DFA4D151EDFCCB9F73BA669AB4DF36D36788F3847200AC508A981009574C220508A7108597DE1FDA16BBFD71000A497AB8FFA5532CDE753A847AD573B638BF36533CBA76716135F6198F0843E45DD3DB6D6EB5BF4EE12365AC59A5AC8B6B959CD3DF5DE686417BD37F6F64242734279CA4B4140C98B8097AE7027294574545ABF203FAB98AAD14010000&offerid=562"
+},
+{
+"title": "Network Analyst 3",
+"company": "Surrey Police Service",
+"location": "Headquarters, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=5357ad240efaef19",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://careers.surreypolice.ca/?_4x1F8B08000000000000FF75CF4B0E83201485E1DD38341710818183D647E30218131FD860150C685277DFA4D151EDFCCB9F73BA669AB4DF36D36788F3847200AC508A981009574C220508A7108597DE1FDA16BBFD71000A497AB8FFA5532CDE753A847AD573B638BF36533CBA76716135F6198F0843E45DD3DB6D6EB5BF4EE12365AC59A5AC8B6B959CD3DF5DE686417BD37F6F64242734279CA4B4140C98B8097AE7027294574545ABF203FAB98AAD14010000&offerid=561"
+},
+{
+"title": "E2E Commissioning Process Specialist/Engineer",
+"company": "Food Process Solutions",
+"location": "Charlottetown, PE, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=aca024ef0f3c3d08",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://fpscorp.applicantstack.com/x/detail/a2zpxmpndveu/aaac"
+},
+{
+"title": "Computer network technician",
+"company": "Key-West Asphalt (333) Ltd.",
+"location": "Abbotsford, British Columbia, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50818985",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Information Systems Administrator",
+"company": "Kenora Association for Community Living",
+"location": "Kenora, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=cbcc144fee07fa66",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.lever.co/kacl/1886d1df-1701-400d-bb27-8e13a505a616?lever-source=Indeed"
+},
+{
+"title": "Systems Analyst 3",
+"company": "Surrey Police Service",
+"location": "CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=7d6848f714ab276c",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://careers.surreypolice.ca/?_4x1F8B08000000000000FF75CF4B0E83201485E1DD38341710818183D647E30218131FD860150C685277DFA4D151EDFCCB9F73BA669AB4DF36D36788F3847200AC508A981009574C220508A7108597DE1FDA16BBFD71000A497AB8FFA5532CDE753A847AD573B638BF36533CBA76716135F6198F0843E45DD3DB6D6EB5BF4EE12365AC59A5AC8B6B959CD3DF5DE686417BD37F6F64242734279CA4B4140C98B8097AE7027294574545ABF203FAB98AAD14010000&offerid=563"
+},
+{
+"title": "Développeur(se) IA",
+"company": "Intact",
+"location": "Montreal, Quebec, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4495052764",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ingénieur de tests optiques - Optical Components Test Engineer",
+"company": "Ciena",
+"location": "Quebec, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4474238564",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -12524,6 +12653,136 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4492868850",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer",
+"company": "University Health Network",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493224314",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "UI/UX Designer",
+"company": "247 Labs",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4493805747",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Visual Designer (Studio + Tech client)",
+"company": "Creative Circle",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4469324990",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Développeur(euse) Frontend/Full Stack",
+"company": "Zilia",
+"location": "Québec, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495052279",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Directeur(trice) Données SAP et transformation par l'IA",
+"company": "Deloitte",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4486543464",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Generative AI Developer (ID#5617)",
+"company": "New Value Solutions",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495063043",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "MCP/AI Developer",
+"company": "Autodesk",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4473345869",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analog Agentic AI Design Engineer",
+"company": "Inpho",
+"location": "Kanata, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495554251",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Operations Specialist",
+"company": "OceanMD, a WELLSTAR Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495550219",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Compliance Operations Analyst",
+"company": "Remitly",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4480815241",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Kroll Workflow Support Trainer",
+"company": "Pattison Food Group",
+"location": "Langley, British Columbia, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4484773423",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Support Representative - Canada",
+"company": "Skydio",
+"location": "",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495243564",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stage en gestion de projet, Secteur TI, Hiver 2027-FR",
+"company": "Desjardins",
+"location": "Lévis, Quebec, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4460252722",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -21554,16 +21813,6 @@
 "location": "Montreal, Quebec, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4486085682",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Developer",
-"company": "University Health Network",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-25",
-"link": "https://www.linkedin.com/jobs/view/4493224314",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
